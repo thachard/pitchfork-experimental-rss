@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-"""
-Pitchfork Experimental Reviews RSS Feed Generator
----------------------------------------------------
-Scrapes https://pitchfork.com/genre/experimental/review/
-and generates a valid RSS 2.0 feed as feed.xml.
-
-Usage:
-    pip install requests beautifulsoup4
-    python pitchfork_rss.py
-
-To automate, add to cron (e.g. every hour):
-    0 * * * * /usr/bin/python3 /path/to/pitchfork_rss.py
-"""
-
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
