@@ -1,0 +1,32 @@
+name: Generate Pitchfork RSS Feed
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # runs every hour
+  workflow_dispatch:       # allows manual runs from the GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python pitchfork_rss.py
+
+      - name: Commit and push feed.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "Update feed.xml"
+          git push
