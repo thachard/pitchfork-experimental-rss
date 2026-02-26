@@ -2,8 +2,8 @@
 """
 Pitchfork Experimental Reviews – RSS Feed Generator
 -----------------------------------------------------
-Uses Playwright to render the JavaScript-heavy Pitchfork page, then
-extracts album review links and writes feed.xml.
+Uses Playwright with stealth settings to render Pitchfork's JS-heavy page,
+extracts review links and writes feed.xml.
 
 Usage:
     pip install playwright beautifulsoup4
@@ -18,6 +18,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 import xml.dom.minidom
 import json
 import sys
+import time
 
 BASE_URL = "https://pitchfork.com"
 FEED_URL = f"{BASE_URL}/genre/experimental/review/"
@@ -31,19 +32,45 @@ def fetch_reviews():
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page(
+
+        # Use a realistic context to avoid bot detection
+        context = browser.new_context(
             user_agent=(
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/120.0.0.0 Safari/537.36"
-            )
+            ),
+            viewport={"width": 1280, "height": 800},
+            locale="en-US",
+            timezone_id="America/New_York",
+            extra_http_headers={
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept-Encoding": "gzip, deflate, br",
+                "DNT": "1",
+                "Upgrade-Insecure-Requests": "1",
+            }
         )
-        page.goto(FEED_URL, wait_until="networkidle", timeout=30000)
 
-        # Try to extract from __NEXT_DATA__ JSON blob first
+        page = context.new_page()
+
+        # Hide webdriver property to avoid bot detection
+        page.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+        """)
+
+        # Use domcontentloaded instead of networkidle — faster and less likely to timeout
+        page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
+
+        # Give JS a moment to populate the page
+        time.sleep(3)
+
         html = page.content()
         soup = BeautifulSoup(html, "html.parser")
 
+        # Try __NEXT_DATA__ JSON blob first
         next_data_tag = soup.find("script", id="__NEXT_DATA__")
         if next_data_tag:
             try:
@@ -83,12 +110,10 @@ def fetch_reviews():
                 href = a_tag["href"]
                 full_url = BASE_URL + href if href.startswith("/") else href
 
-                # Filter to only album review URLs
                 if "reviews/albums" not in full_url or full_url in seen:
                     continue
                 seen.add(full_url)
 
-                # Walk up DOM for metadata
                 card = a_tag.find_parent(
                     lambda t: t.name in ("div", "article", "li")
                     and any(
