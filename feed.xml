@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Pitchfork – Experimental Album Reviews</title>
-    <link>https://pitchfork.com/genre/experimental/</link>
-    <description>Latest experimental album reviews from Pitchfork.</description>
+    <title>Pitchfork – Experimental Reviews</title>
+    <link>https://pitchfork.com/genre/experimental/review/</link>
+    <description>Latest experimental music reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 03:17:35 +0000</lastBuildDate>
-    <atom:link href="https://pitchfork.com/genre/experimental/" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 26 Feb 2026 02:12:44 +0000</lastBuildDate>
+    <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Reviews</title>
       <link>https://pitchfork.com/reviews/albums/</link>
@@ -97,6 +97,90 @@
       <description/>
       <author>Pitchfork</author>
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mandy-indiana-urgh/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/tashi-dorji-low-clouds-hang-this-land-is-on-fire/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tashi-dorji-low-clouds-hang-this-land-is-on-fire/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/scattered-purgatory-post-purgatory/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/scattered-purgatory-post-purgatory/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/the-necessaries-completely-necessary/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-necessaries-completely-necessary/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/railings-railings-26/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/railings-railings-26/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/dialect-full-serpent-ep/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dialect-full-serpent-ep/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/dj-ramon-sucesso-sexta-dos-crias-2/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dj-ramon-sucesso-sexta-dos-crias-2/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/daniel-blumberg-the-testament-of-ann-lee-original-soundtrack/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/daniel-blumberg-the-testament-of-ann-lee-original-soundtrack/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/sister-irene-oconnor-fire-of-gods-love/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sister-irene-oconnor-fire-of-gods-love/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/julianna-barwick-mary-lattimore-tragic-magic/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/julianna-barwick-mary-lattimore-tragic-magic/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/ue-other-girl/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ue-other-girl/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/ulver-neverland/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ulver-neverland/</guid>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://pitchfork.com/reviews/albums/babau-the-sludge-of-the-land/</link>
+      <description/>
+      <author>Pitchfork</author>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/babau-the-sludge-of-the-land/</guid>
     </item>
   </channel>
 </rss>
