@@ -19,7 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install playwright beautifulsoup4
+        run: pip install playwright beautifulsoup4 requests
 
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
@@ -30,10 +30,13 @@ jobs:
       - name: Run folk reviews scraper
         run: python pitchfork_folk_rss.py
 
+      - name: Run Quietus album of the week scraper
+        run: python quietus_rss.py
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml folk_feed.xml
+          git add -A
           git diff --cached --quiet || git commit -m "Update feeds"
           git push
