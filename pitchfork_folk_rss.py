@@ -20,7 +20,7 @@ import time
 
 BASE_URL = "https://pitchfork.com"
 FEED_URL = f"{BASE_URL}/genre/folk/review/"
-OUTPUT_FILE = "feed.xml"
+OUTPUT_FILE = "folk_feed.xml"
 
 
 def fetch_reviews():
