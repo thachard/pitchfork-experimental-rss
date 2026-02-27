@@ -100,14 +100,22 @@ def fetch_reviews():
 
 
 def format_date(pub):
-    """Convert ISO date string to RFC 2822 for RSS."""
+    """Convert a date string to RFC 2822 format required by RSS."""
     if not pub:
         return ""
+    # Try ISO format first (e.g. 2026-02-26T00:00:00Z)
     try:
         dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
         return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
     except ValueError:
-        return pub
+        pass
+    # Try human-readable format as used by Pitchfork (e.g. "February 26, 2026")
+    try:
+        dt = datetime.strptime(pub.strip(), "%B %d, %Y")
+        return dt.strftime("%a, %d %b %Y 00:00:00 +0000")
+    except ValueError:
+        pass
+    return ""
 
 
 def escape_xml(text):
