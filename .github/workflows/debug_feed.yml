@@ -1,0 +1,36 @@
+name: Debug Pitchfork Page Structure
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install playwright beautifulsoup4
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run debug script
+        run: python pitchfork_debug.py
+
+      - name: Upload debug files
+        uses: actions/upload-artifact@v4
+        with:
+          name: pitchfork-debug
+          path: |
+            debug_page.html
+            debug_next_data.json
