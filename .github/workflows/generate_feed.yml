@@ -1,4 +1,4 @@
-name: Generate Pitchfork RSS Feed
+name: Generate RSS Feeds
 
 on:
   workflow_dispatch:
@@ -32,6 +32,17 @@ jobs:
 
       - name: Run Quietus album of the week scraper
         run: python quietus_rss.py
+
+      - name: Debug FT page
+        run: python ft_debug.py
+
+      - name: Upload FT debug files
+        uses: actions/upload-artifact@v4
+        with:
+          name: ft-debug
+          path: |
+            debug_ft_page.html
+            debug_ft_data.json
 
       - name: Commit and push feeds
         run: |
