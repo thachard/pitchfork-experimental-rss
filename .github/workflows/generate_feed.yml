@@ -43,7 +43,10 @@ jobs:
           path: |
             debug_ft_page.html
             debug_ft_data.json
-
+            
+      - name: Run FT fiction scraper
+        run: python ft_fiction_rss.py
+        
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
