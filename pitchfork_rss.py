@@ -14,8 +14,6 @@ Usage:
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
-from xml.etree.ElementTree import Element, SubElement, tostring
-import xml.dom.minidom
 import json
 import sys
 import time
@@ -60,8 +58,6 @@ def fetch_reviews():
         browser.close()
 
     soup = BeautifulSoup(html, "html.parser")
-
-    # Each review card has a data-item attribute with the link
     cards = soup.find_all("div", attrs={"data-item": True})
     print(f"  Found {len(cards)} review cards.")
 
@@ -72,30 +68,20 @@ def fetch_reviews():
             continue
 
         link = data.get("hotelLink", "")
-        if not link:
-            continue
-
-        # Only include album reviews
-        if "reviews/albums" not in link:
+        if not link or "reviews/albums" not in link:
             continue
 
         full_url = BASE_URL + link if link.startswith("/") else link
 
-        # Title: inside h3.summary-item__hed
         title_tag = card.select_one("h3.summary-item__hed")
-        title = title_tag.get_text(strip=True) if title_tag else data.get("dangerousHed", "Untitled")
-        # Strip any HTML tags that may be in dangerousHed fallback
-        title = BeautifulSoup(title, "html.parser").get_text(strip=True)
+        title = title_tag.get_text(strip=True) if title_tag else BeautifulSoup(data.get("dangerousHed", "Untitled"), "html.parser").get_text(strip=True)
 
-        # Artist: inside div.summary-item__sub-hed
         artist_tag = card.select_one("div.summary-item__sub-hed")
         artist = artist_tag.get_text(strip=True) if artist_tag else ""
 
-        # Date: inside time.summary-item__publish-date
         date_tag = card.select_one("time.summary-item__publish-date")
         pub_date = date_tag.get("datetime", date_tag.get_text(strip=True)) if date_tag else ""
 
-        # Author: inside span.byline__name
         author_tag = card.select_one("span.byline__name")
         author = author_tag.get_text(strip=True).lstrip("By").strip() if author_tag else "Pitchfork"
 
@@ -113,55 +99,62 @@ def fetch_reviews():
     return reviews
 
 
-def build_rss(reviews):
-    rss = Element("rss", version="2.0")
-    rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
+def format_date(pub):
+    """Convert ISO date string to RFC 2822 for RSS."""
+    if not pub:
+        return ""
+    try:
+        dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
+        return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    except ValueError:
+        return pub
 
-    channel = SubElement(rss, "channel")
-    SubElement(channel, "title").text = "Pitchfork – Experimental Reviews"
-    SubElement(channel, "link").text = FEED_URL
-    SubElement(channel, "description").text = "Latest experimental album reviews from Pitchfork."
-    SubElement(channel, "language").text = "en-us"
-    SubElement(channel, "lastBuildDate").text = (
-        datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+def escape_xml(text):
+    """Escape special XML characters."""
+    return (
+        text.replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&apos;")
     )
 
-    atom_link = SubElement(channel, "atom:link")
-    atom_link.set("href", FEED_URL)
-    atom_link.set("rel", "self")
-    atom_link.set("type", "application/rss+xml")
+
+def write_feed(reviews, output_path=OUTPUT_FILE):
+    """Write RSS feed as a plain string to avoid ElementTree CDATA issues."""
+    now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+        '  <channel>',
+        f'    <title>Pitchfork – Experimental Reviews</title>',
+        f'    <link>{FEED_URL}</link>',
+        f'    <description>Latest experimental album reviews from Pitchfork.</description>',
+        f'    <language>en-us</language>',
+        f'    <lastBuildDate>{now}</lastBuildDate>',
+        f'    <atom:link href="{FEED_URL}" rel="self" type="application/rss+xml"/>',
+    ]
 
     for review in reviews:
-        item = SubElement(channel, "item")
-        SubElement(item, "title").text = review.get("title", "")
-        SubElement(item, "link").text = review.get("link", "")
-        SubElement(item, "description").text = review.get("description", "")
-        SubElement(item, "author").text = review.get("author", "Pitchfork")
-        SubElement(item, "guid", isPermaLink="true").text = review.get("link", "")
-
-        pub = review.get("pubDate", "")
+        pub = format_date(review.get("pubDate", ""))
+        lines += [
+            '    <item>',
+            f'      <title>{escape_xml(review.get("title", ""))}</title>',
+            f'      <link>{escape_xml(review.get("link", ""))}</link>',
+            f'      <guid isPermaLink="true">{escape_xml(review.get("link", ""))}</guid>',
+            f'      <description>{escape_xml(review.get("description", ""))}</description>',
+            f'      <author>{escape_xml(review.get("author", "Pitchfork"))}</author>',
+        ]
         if pub:
-            try:
-                dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
-                pub = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
-            except ValueError:
-                pass
-            SubElement(item, "pubDate").text = pub
+            lines.append(f'      <pubDate>{pub}</pubDate>')
+        lines.append('    </item>')
 
-    return rss
+    lines += ['  </channel>', '</rss>']
 
-
-def write_feed(rss_element, output_path=OUTPUT_FILE):
-    raw = tostring(rss_element, encoding="unicode", xml_declaration=False)
-    pretty = xml.dom.minidom.parseString(
-        '<?xml version="1.0" encoding="UTF-8"?>' + raw
-    ).toprettyxml(indent="  ", encoding=None)
-    lines = pretty.split("\n")
-    if lines[0].startswith("<?xml"):
-        lines = lines[1:]
-    final = '<?xml version="1.0" encoding="UTF-8"?>\n' + "\n".join(lines)
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write(final)
+        f.write("\n".join(lines))
     print(f"RSS feed written to: {output_path}")
 
 
@@ -170,5 +163,4 @@ if __name__ == "__main__":
     if not reviews:
         print("No reviews found. The page structure may have changed.", file=sys.stderr)
         sys.exit(1)
-    rss = build_rss(reviews)
-    write_feed(rss)
+    write_feed(reviews)
