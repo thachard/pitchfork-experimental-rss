@@ -2,8 +2,8 @@
 """
 Pitchfork Experimental Reviews – RSS Feed Generator
 -----------------------------------------------------
-Uses Playwright with stealth settings to render Pitchfork's JS-heavy page,
-extracts review links and writes feed.xml.
+Uses Playwright to render the page, then extracts review cards
+using the exact CSS selectors found in Pitchfork's HTML.
 
 Usage:
     pip install playwright beautifulsoup4
@@ -26,14 +26,11 @@ OUTPUT_FILE = "feed.xml"
 
 
 def fetch_reviews():
-    """Use a headless browser to render the page and extract reviews."""
     print(f"Fetching {FEED_URL} ...")
     reviews = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-
-        # Use a realistic context to avoid bot detection
         context = browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -46,174 +43,84 @@ def fetch_reviews():
             extra_http_headers={
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
                 "Accept-Language": "en-US,en;q=0.9",
-                "Accept-Encoding": "gzip, deflate, br",
-                "DNT": "1",
-                "Upgrade-Insecure-Requests": "1",
             }
         )
 
         page = context.new_page()
-
-        # Hide webdriver property to avoid bot detection
         page.add_init_script("""
             Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
             Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
             Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
         """)
 
-        # Use domcontentloaded instead of networkidle — faster and less likely to timeout
         page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
-
-        # Give JS a moment to populate the page
         time.sleep(3)
 
         html = page.content()
-        soup = BeautifulSoup(html, "html.parser")
-
-        # Try __NEXT_DATA__ JSON blob first
-        next_data_tag = soup.find("script", id="__NEXT_DATA__")
-        if next_data_tag:
-            try:
-                data = json.loads(next_data_tag.string)
-                results = (
-                    data.get("props", {})
-                        .get("pageProps", {})
-                        .get("urqlState", {})
-                )
-                for key, val in results.items():
-                    if not isinstance(val, dict):
-                        continue
-                    content = val.get("data", {})
-                    if not isinstance(content, dict):
-                        continue
-                    for field in ("albumreviews", "reviews", "items"):
-                        items = content.get(field, {})
-                        if isinstance(items, dict):
-                            items = items.get("items", [])
-                        if isinstance(items, list) and items:
-                            for item in items:
-                                review = parse_review_item(item)
-                                if review:
-                                    reviews.append(review)
-                            if reviews:
-                                break
-                    if reviews:
-                        break
-            except (json.JSONDecodeError, AttributeError) as e:
-                print(f"  JSON parse warning: {e}", file=sys.stderr)
-
-        # Fallback: scan all <a> tags for review links
-        if not reviews:
-            print("  Falling back to link scraping...")
-            seen = set()
-            for a_tag in soup.find_all("a", href=True):
-                href = a_tag["href"]
-                full_url = BASE_URL + href if href.startswith("/") else href
-
-                if "reviews/albums" not in full_url or full_url in seen:
-                    continue
-                seen.add(full_url)
-
-                card = a_tag.find_parent(
-                    lambda t: t.name in ("div", "article", "li")
-                    and any(
-                        c in " ".join(t.get("class", []))
-                        for c in ("review", "Review", "card", "Card", "item", "Item")
-                    )
-                ) or a_tag.parent
-
-                title_tag = card.select_one("h2, h3, h4, [class*='title'], [class*='Title']")
-                artist_tag = card.select_one("[class*='artist'], [class*='Artist']")
-                score_tag = card.select_one("[class*='rating'], [class*='Rating'], [class*='score']")
-                date_tag = card.select_one("time")
-
-                title = title_tag.get_text(strip=True) if title_tag else a_tag.get_text(strip=True) or "Untitled"
-                artist = artist_tag.get_text(strip=True) if artist_tag else ""
-                score = score_tag.get_text(strip=True) if score_tag else ""
-                pub_date = date_tag.get("datetime", "") if date_tag else ""
-
-                reviews.append({
-                    "title": f"{artist} – {title}" if artist else title,
-                    "link": full_url,
-                    "description": f"Score: {score}" if score else "",
-                    "pubDate": pub_date,
-                    "author": "Pitchfork",
-                })
-
         browser.close()
 
-    print(f"  Found {len(reviews)} reviews.")
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Each review card has a data-item attribute with the link
+    cards = soup.find_all("div", attrs={"data-item": True})
+    print(f"  Found {len(cards)} review cards.")
+
+    for card in cards:
+        try:
+            data = json.loads(card["data-item"])
+        except (json.JSONDecodeError, KeyError):
+            continue
+
+        link = data.get("hotelLink", "")
+        if not link:
+            continue
+
+        # Only include album reviews
+        if "reviews/albums" not in link:
+            continue
+
+        full_url = BASE_URL + link if link.startswith("/") else link
+
+        # Title: inside h3.summary-item__hed
+        title_tag = card.select_one("h3.summary-item__hed")
+        title = title_tag.get_text(strip=True) if title_tag else data.get("dangerousHed", "Untitled")
+        # Strip any HTML tags that may be in dangerousHed fallback
+        title = BeautifulSoup(title, "html.parser").get_text(strip=True)
+
+        # Artist: inside div.summary-item__sub-hed
+        artist_tag = card.select_one("div.summary-item__sub-hed")
+        artist = artist_tag.get_text(strip=True) if artist_tag else ""
+
+        # Date: inside time.summary-item__publish-date
+        date_tag = card.select_one("time.summary-item__publish-date")
+        pub_date = date_tag.get("datetime", date_tag.get_text(strip=True)) if date_tag else ""
+
+        # Author: inside span.byline__name
+        author_tag = card.select_one("span.byline__name")
+        author = author_tag.get_text(strip=True).lstrip("By").strip() if author_tag else "Pitchfork"
+
+        full_title = f"{artist} – {title}" if artist else title
+
+        reviews.append({
+            "title": full_title,
+            "link": full_url,
+            "description": f"A review by {author}" if author else "",
+            "pubDate": pub_date,
+            "author": author,
+        })
+
+    print(f"  Parsed {len(reviews)} album reviews.")
     return reviews
 
 
-def parse_review_item(item):
-    """Extract fields from a Pitchfork GraphQL review item dict."""
-    if not isinstance(item, dict):
-        return None
-
-    title = item.get("seoTitle") or item.get("title") or ""
-
-    artists = item.get("artists") or item.get("artistNames") or []
-    if isinstance(artists, list):
-        artist_str = ", ".join(
-            a.get("displayName", a.get("name", "")) if isinstance(a, dict) else str(a)
-            for a in artists
-        )
-    else:
-        artist_str = str(artists)
-
-    full_title = f"{artist_str} – {title}" if artist_str else title
-
-    url = item.get("url") or item.get("slug") or ""
-    if url and not url.startswith("http"):
-        url = BASE_URL + url
-
-    rating = item.get("rating") or {}
-    score = rating.get("rating") if isinstance(rating, dict) else ""
-    descriptor = rating.get("ratingDescriptor", "") if isinstance(rating, dict) else ""
-
-    pub_date = item.get("publishDate") or item.get("pubDate") or ""
-
-    authors = item.get("authors") or item.get("contributors") or []
-    if isinstance(authors, list):
-        author_str = ", ".join(
-            a.get("name", "") if isinstance(a, dict) else str(a)
-            for a in authors
-        )
-    else:
-        author_str = ""
-
-    description_parts = []
-    if score:
-        description_parts.append(f"Score: {score}/10")
-    if descriptor:
-        description_parts.append(descriptor)
-    dek = item.get("dek") or item.get("subhed") or ""
-    if dek:
-        description_parts.append(dek)
-    description = " | ".join(description_parts)
-
-    if not url:
-        return None
-
-    return {
-        "title": full_title or "Untitled Review",
-        "link": url,
-        "description": description,
-        "pubDate": pub_date,
-        "author": author_str or "Pitchfork",
-    }
-
-
 def build_rss(reviews):
-    """Build an RSS 2.0 XML tree from the list of review dicts."""
     rss = Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 
     channel = SubElement(rss, "channel")
     SubElement(channel, "title").text = "Pitchfork – Experimental Reviews"
     SubElement(channel, "link").text = FEED_URL
-    SubElement(channel, "description").text = "Latest experimental music reviews from Pitchfork."
+    SubElement(channel, "description").text = "Latest experimental album reviews from Pitchfork."
     SubElement(channel, "language").text = "en-us"
     SubElement(channel, "lastBuildDate").text = (
         datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
@@ -245,7 +152,6 @@ def build_rss(reviews):
 
 
 def write_feed(rss_element, output_path=OUTPUT_FILE):
-    """Serialize the RSS element to a pretty-printed XML file."""
     raw = tostring(rss_element, encoding="unicode", xml_declaration=False)
     pretty = xml.dom.minidom.parseString(
         '<?xml version="1.0" encoding="UTF-8"?>' + raw
