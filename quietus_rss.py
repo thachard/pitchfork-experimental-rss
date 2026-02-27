@@ -3,7 +3,7 @@
 The Quietus – Album of the Week RSS Feed Generator
 ----------------------------------------------------
 Scrapes https://thequietus.com/columns/quietus-reviews/album-of-the-week/
-and fetches each article page for its publish date, then writes feed.xml.
+and fetches each article page for its publish date, then writes quietus_feed.xml.
 
 Usage:
     pip install requests beautifulsoup4
@@ -13,6 +13,8 @@ Usage:
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+import json
+import re
 import sys
 import time
 
@@ -40,10 +42,8 @@ def fetch_listing():
     articles = []
     seen = set()
 
-    # Each article link contains an <h3> title and description text
     for a_tag in soup.find_all("a", href=True):
         href = a_tag["href"]
-        # Only article links (not category nav links)
         if "quietus-reviews/album-of-the-week/" not in href:
             continue
         if href in seen:
@@ -57,7 +57,6 @@ def fetch_listing():
         full_url = href if href.startswith("http") else BASE_URL + href
         title = h3.get_text(strip=True)
 
-        # Description is the remaining text in the link after the h3
         h3.extract()
         description = a_tag.get_text(separator=" ", strip=True)
 
@@ -72,56 +71,107 @@ def fetch_listing():
 
 
 def fetch_article_date(url):
-    """Fetch an individual article page and return its publish date string."""
+    """Fetch an individual article page and extract its publish date."""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # WordPress typically uses <time datetime="..."> 
+        # 1. Best source: Open Graph article:published_time meta tag (WordPress standard)
+        for prop in ["article:published_time", "article:published", "og:published_time"]:
+            meta = soup.find("meta", {"property": prop})
+            if meta and meta.get("content"):
+                return meta["content"]
+
+        # 2. JSON-LD structured data (also common in WordPress)
+        for script in soup.find_all("script", type="application/ld+json"):
+            try:
+                data = json.loads(script.string or "")
+                # Handle both single object and list
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    for field in ("datePublished", "dateCreated", "dateModified"):
+                        if field in item:
+                            return item[field]
+            except (json.JSONDecodeError, AttributeError):
+                pass
+
+        # 3. <time> tag with datetime attribute
+        time_tag = soup.find("time", {"datetime": True})
+        if time_tag:
+            return time_tag["datetime"]
+
+        # 4. <time> tag with text content only (no datetime attr)
         time_tag = soup.find("time")
         if time_tag:
-            # Prefer machine-readable datetime attribute
-            dt_attr = time_tag.get("datetime", "")
-            if dt_attr:
-                return dt_attr
-            # Fall back to text content
             return time_tag.get_text(strip=True)
 
-        # Fallback: look for a date in a meta tag
-        meta = soup.find("meta", {"property": "article:published_time"})
-        if meta:
-            return meta.get("content", "")
+        # 5. Last resort: scan visible text for a date pattern
+        text = soup.get_text(" ")
+        # Match patterns like "26 February 2026" or "February 26, 2026" or "26th February 2026"
+        match = re.search(
+            r"\b(\d{1,2})(?:st|nd|rd|th)?\s+(January|February|March|April|May|June|"
+            r"July|August|September|October|November|December)\s+(\d{4})\b",
+            text
+        )
+        if match:
+            return f"{match.group(1)} {match.group(2)} {match.group(3)}"
+        match = re.search(
+            r"\b(January|February|March|April|May|June|July|August|September|"
+            r"October|November|December)\s+(\d{1,2}),?\s+(\d{4})\b",
+            text
+        )
+        if match:
+            return f"{match.group(1)} {match.group(2)}, {match.group(3)}"
 
     except Exception as e:
         print(f"  Warning: could not fetch date for {url}: {e}", file=sys.stderr)
+
     return ""
 
 
 def format_date(pub):
-    """Convert a date string to RFC 2822 format required by RSS."""
+    """Convert any date string to RFC 2822 format required by RSS."""
     if not pub:
         return ""
-    # Try ISO format (e.g. 2026-02-26T10:00:00+00:00 or 2026-02-26)
-    for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S", "%Y-%m-%d"):
+
+    pub = pub.strip()
+
+    # ISO 8601 formats (e.g. 2026-02-26T10:00:00+00:00 or 2026-02-26)
+    try:
+        dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
+        return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    except ValueError:
+        pass
+
+    # Try a wide range of human-readable formats
+    formats = [
+        "%d %B %Y",        # 26 February 2026
+        "%B %d, %Y",       # February 26, 2026
+        "%B %d %Y",        # February 26 2026
+        "%d/%m/%Y",        # 26/02/2026
+        "%Y/%m/%d",        # 2026/02/26
+        "%d-%m-%Y",        # 26-02-2026
+        "%b %d, %Y",       # Feb 26, 2026
+        "%d %b %Y",        # 26 Feb 2026
+    ]
+    for fmt in formats:
         try:
-            pub_clean = pub.replace("Z", "+00:00")
-            dt = datetime.fromisoformat(pub_clean)
-            return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
-        except ValueError:
-            pass
-    # Try human-readable (e.g. "26 February 2026" or "February 26, 2026")
-    for fmt in ("%d %B %Y", "%B %d, %Y"):
-        try:
-            dt = datetime.strptime(pub.strip(), fmt)
+            dt = datetime.strptime(pub, fmt)
             return dt.strftime("%a, %d %b %Y 00:00:00 +0000")
         except ValueError:
             pass
+
+    # Strip ordinal suffixes (1st, 2nd, 3rd, 4th...) and retry
+    cleaned = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", pub)
+    if cleaned != pub:
+        return format_date(cleaned)
+
+    print(f"  Warning: could not parse date: {repr(pub)}", file=sys.stderr)
     return ""
 
 
 def escape_xml(text):
-    """Escape special XML characters."""
     return (
         text.replace("&", "&amp;")
             .replace("<", "&lt;")
@@ -132,7 +182,6 @@ def escape_xml(text):
 
 
 def write_feed(reviews, output_path=OUTPUT_FILE):
-    """Write RSS feed as a plain string."""
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
     lines = [
@@ -173,14 +222,12 @@ if __name__ == "__main__":
         print("No articles found. The page structure may have changed.", file=sys.stderr)
         sys.exit(1)
 
-    # Fetch publish date from each individual article page
-    # Only process the most recent 15 to keep things fast
     articles = articles[:15]
     print(f"Fetching publish dates for {len(articles)} articles...")
     for i, article in enumerate(articles):
         date = fetch_article_date(article["link"])
         article["pubDate"] = date
-        print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} → {date or 'no date found'}")
-        time.sleep(0.5)  # Be polite, don't hammer the server
+        print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} → {repr(date) if date else 'NO DATE FOUND'}")
+        time.sleep(0.5)
 
     write_feed(articles)
