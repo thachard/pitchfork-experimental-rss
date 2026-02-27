@@ -32,13 +32,21 @@ jobs:
 
       - name: Run Quietus album of the week scraper
         run: python quietus_rss.py
-
-      - name: Debug FT page
-        run: python ft_debug.py
             
       - name: Run FT fiction scraper
         run: python ft_fiction_rss.py
-        
+
+      - name: Debug WSJ page
+        run: python wsj_debug.py
+
+      - name: Upload WSJ debug files
+        uses: actions/upload-artifact@v4
+        with:
+          name: wsj-debug
+          path: |
+            debug_wsj_page.html
+            debug_wsj_data.json
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
