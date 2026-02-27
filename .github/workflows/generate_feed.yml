@@ -1,9 +1,7 @@
 name: Generate Pitchfork RSS Feed
 
 on:
-  schedule:
-    - cron: "0 * * * *"  # runs every hour
-  workflow_dispatch:       # allows manual runs from the GitHub UI
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -26,13 +24,16 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
 
-      - name: Run scraper
+      - name: Run experimental reviews scraper
         run: python pitchfork_rss.py
 
-      - name: Commit and push feed.xml
+      - name: Run folk reviews scraper
+        run: python pitchfork_folk_rss.py
+
+      - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
-          git diff --cached --quiet || git commit -m "Update feed.xml"
+          git add feed.xml folk_feed.xml
+          git diff --cached --quiet || git commit -m "Update feeds"
           git push
