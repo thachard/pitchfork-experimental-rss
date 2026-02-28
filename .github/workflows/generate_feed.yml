@@ -39,8 +39,11 @@ jobs:
       - name: Run Toronto Star City Hall scraper
         run: python star_cityhall_rss.py
 
-      - name: RunTV Queen's Park scraper
+      - name: Run CTV Queen's Park scraper
         run: python ctv_queenspark_rss.py
+
+      - name: Run CTV Toronto City Hall Scraper
+        run: python ctv_cityhall_rss.py
 
       - name: Commit and push feeds
         run: |
