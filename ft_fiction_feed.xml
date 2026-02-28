@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Feb 2026 02:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:29:11 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Goldman Sachs to royal couture and saving liberal democracy — plus Francis Spufford’s wartime fantasy and Lionel Shriver’s anti-immigration novel</description>
+      <pubDate>Fri, 27 Feb 2026 13:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banshee — Irish myths get timely makeover</title>
+      <link>https://www.ft.com/content/2a9b861a-4dc9-4e2e-b116-5264ab7eb95e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/2a9b861a-4dc9-4e2e-b116-5264ab7eb95e</guid>
+      <description>A new collection of traditional tales reimagined by contemporary writers makes women ‘the fulcrums, not the levers’ of their stories</description>
+      <pubDate>Fri, 27 Feb 2026 05:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Nonesuch by Francis Spufford — angels in the Blitz</title>
       <link>https://www.ft.com/content/80bfd81a-fffd-4d34-a1a5-1ff9976cc234</link>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/97583a89-b81d-4dd1-a6c8-827025b0d500</guid>
       <description>Hallucinatory episodes and grim reality sit side by side in the story of a daughter out to avenge her mother’s murder</description>
       <pubDate>Mon, 23 Feb 2026 17:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From ultra-processed food to Japan’s population crisis and a wartime hotel in Paris — plus Gisèle Pelicot’s memoir and fictional tales of family from Lauren Groff and Vigdis Hjorth</description>
-      <pubDate>Fri, 20 Feb 2026 12:14:29 +0000</pubDate>
     </item>
     <item>
       <title>Repetition: A Novel — Vigdis Hjorth’s story of teenage sexual awakening</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/dd4a0ac6-7b2c-4321-b4e8-bdb082e5ab35</guid>
       <description>In a companion piece to 2024’s ‘Gliff’, the novelist touches on the horrors of war, AI, siblings and childhood memories</description>
       <pubDate>Thu, 22 Jan 2026 12:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Helen of Nowhere — the call of the weird</title>
-      <link>https://www.ft.com/content/0b4f1eef-396d-4d76-b318-041b4fe17d2e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0b4f1eef-396d-4d76-b318-041b4fe17d2e</guid>
-      <description>Makenna Goodman repurposes campus novel tropes in surreal fashion, as a disgraced professor seeks rural salvation</description>
-      <pubDate>Tue, 20 Jan 2026 15:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

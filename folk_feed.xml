@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Feb 2026 02:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:28:47 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Buck Meek – The Mirror</title>
+      <link>https://pitchfork.com/reviews/albums/buck-meek-the-mirror/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/buck-meek-the-mirror/</guid>
+      <description>A review by Dean Van Nguyen</description>
+      <author>Dean Van Nguyen</author>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Megan Moroney – Cloud 9</title>
       <link>https://pitchfork.com/reviews/albums/megan-moroney-cloud-9/</link>
@@ -190,14 +198,6 @@
       <description>A review by en Cardew</description>
       <author>en Cardew</author>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joan Shelley – Real Warmth</title>
-      <link>https://pitchfork.com/reviews/albums/joan-shelley-real-warmth/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/joan-shelley-real-warmth/</guid>
-      <description>A review by Stephen M. Deusner</description>
-      <author>Stephen M. Deusner</author>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

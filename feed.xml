@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Feb 2026 02:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:28:41 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kevin Richard Martin – Sub Zero</title>
+      <link>https://pitchfork.com/reviews/albums/kevin-richard-martin-sub-zero/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kevin-richard-martin-sub-zero/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ben Vince – Street Druid</title>
       <link>https://pitchfork.com/reviews/albums/ben-vince-street-druid/</link>
@@ -190,14 +198,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ulver – Neverland</title>
-      <link>https://pitchfork.com/reviews/albums/ulver-neverland/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ulver-neverland/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
