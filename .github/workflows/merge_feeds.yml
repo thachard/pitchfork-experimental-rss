@@ -1,0 +1,44 @@
+name: Merge RSS Feeds
+
+on:
+  # Run automatically after the scraper workflow completes successfully
+  workflow_run:
+    workflows: ["Generate RSS Feeds"]
+    types:
+      - completed
+  # Also allow manual runs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    # Only run if the triggering workflow succeeded (ignored for manual runs)
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pull latest changes (feed files from scraper workflow)
+        run: git pull
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 feedparser
+
+      - name: Run meta feed merger
+        run: python merge_feeds.py
+
+      - name: Commit and push merged feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update merged feeds"
+          git push
