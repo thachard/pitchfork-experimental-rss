@@ -33,8 +33,8 @@ FEED_GROUPS = [
         "output": "Canada_feed.xml", # Output filename
         "feeds": [
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/",
-            "https://www.thestar.com/news/ontario.rss",
-            "https://www.thestar.com/politics.rss",
+            "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/star_ontario_feed.xml",
+            "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/star_federal_feed.xml",
             "https://globalnews.ca/politics/feed/",
             "https://www.cbc.ca/webfeed/rss/rss-politics",
             "https://thelogic.co/tag/national/feed",
@@ -79,7 +79,7 @@ FEED_GROUPS = [
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/",
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/economy/",
             "https://thelogic.co/tag/business/feed",
-            "https://adamtooze.substack.com/feed",
+            "https://adamtooze.substack.com/feed/",
             "https://thelogic.co/tag/tech/feed"
         ],
     },
