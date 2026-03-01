@@ -78,7 +78,7 @@ FEED_GROUPS = [
             "https://www.ft.com/climate-capital?format=rss",
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/",
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/economy/",
-            "https://thelogic.co/tag/business/feed".
+            "https://thelogic.co/tag/business/feed",
             "https://adamtooze.substack.com/feed",
             "https://thelogic.co/tag/tech/feed"
         ],
