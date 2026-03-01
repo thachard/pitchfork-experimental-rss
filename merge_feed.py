@@ -29,12 +29,19 @@ LOOKBACK_DAYS = 5  # Only include articles published within this many days
 
 FEED_GROUPS = [
     {
-        "name": "Group 1",           # Human-readable name for this group
-        "output": "meta_feed_1.xml", # Output filename
+        "name": "Canada",           # Human-readable name for this group
+        "output": "Canada_feed.xml", # Output filename
         "feeds": [
-            # Paste your RSS feed URLs here, one per line, e.g.:
-            # "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/feed.xml",
-            # "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/folk_feed.xml",
+            https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/
+            https://www.thestar.com/search/?f=rss&t=article&c=politics/provincial&l=20&s=start_time&sd=desc
+            https://www.thestar.com/search/?f=rss&t=article&c=politics/federal&l=20&s=start_time&sd=desc
+            https://globalnews.ca/politics/feed/
+            https://www.cbc.ca/webfeed/rss/rss-politics
+            https://thelogic.co/tag/national/feed
+            https://paulwells.substack.com/feed
+            https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/star_cityhall_feed.xml
+            https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_queenspark_feed.xml
+            https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_cityhall_feed.xml
         ],
     },
     {
