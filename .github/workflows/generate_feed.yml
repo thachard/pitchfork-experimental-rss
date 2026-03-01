@@ -51,17 +51,6 @@ jobs:
       - name: Run CTV Toronto City Hall Scraper
         run: python ctv_cityhall_rss.py
 
-      - name: Debug Star politics pages
-        run: python star_politics_debug.py
-
-      - name: Upload Star politics debug files
-        uses: actions/upload-artifact@v4
-        with:
-          name: star-politics-debug
-          path: |
-            debug_star_provincial.html
-            debug_star_federal.html
-
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
