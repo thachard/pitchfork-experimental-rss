@@ -39,6 +39,12 @@ jobs:
       - name: Run Toronto Star City Hall scraper
         run: python star_cityhall_rss.py
 
+      - name: Run Toronto Star Provincial scraper
+        run: python star_ontario_rss.py        
+
+      - name: Run Toronto Star Federal scraper
+        run: python star_federal_rss.py
+
       - name: Run CTV Queen's Park scraper
         run: python ctv_queenspark_rss.py
 
