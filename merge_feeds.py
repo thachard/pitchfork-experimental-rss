@@ -33,12 +33,12 @@ FEED_GROUPS = [
         "output": "Canada_feed.xml", # Output filename
         "feeds": [
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/",
-            "https://www.thestar.com/search/?f=rss&t=article&c=politics/provincial&l=20&s=start_time&sd=desc",
-            "https://www.thestar.com/search/?f=rss&t=article&c=politics/federal&l=20&s=start_time&sd=desc",
+            "https://www.thestar.com/news/ontario.rss",
+            "https://www.thestar.com/politics.rss",
             "https://globalnews.ca/politics/feed/",
             "https://www.cbc.ca/webfeed/rss/rss-politics",
             "https://thelogic.co/tag/national/feed",
-            "https://paulwells.substack.com/feed",
+            "https://paulwells.substack.com/feed/",
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/star_cityhall_feed.xml",
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_queenspark_feed.xml",
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_cityhall_feed.xml"
