@@ -56,36 +56,33 @@ def fetch_articles():
     articles = []
     seen = set()
 
-    # Walk up from each time tag to find the parent card-body div
-    for time_tag in soup.find_all("time", class_="tnt-date"):
-        parent = time_tag
-        for _ in range(10):
-            parent = parent.parent
-            if parent is None:
-                break
-            if "card-body" in " ".join(parent.get("class", [])):
-                break
+    # Each article card is a div.card-container containing:
+    #   div.card-headline (with h3 > a)  — sibling of —  div.card-body (with time.tnt-date)
+    for card in soup.find_all("div", class_="card-container"):
+        # Date
+        time_tag = card.find("time", class_="tnt-date")
+        if not time_tag:
+            continue
+        pub_date = time_tag.get("datetime", "")
 
-        if parent is None:
+        # Heading and link — prefer data-mrf-link for full URL
+        heading_tag = card.find(["h2", "h3", "h4"])
+        if not heading_tag:
+            continue
+        a_tag = heading_tag.find("a", href=True)
+        if not a_tag:
             continue
 
-        # Title and link
-        link_tag = parent.find("a", href=lambda h: h and "/news/" in h and len(h) > 30)
-        heading_tag = parent.find(["h1", "h2", "h3", "h4"])
-        if not link_tag or not heading_tag:
-            continue
-
-        href = link_tag["href"]
-        if href in seen:
+        href = a_tag.get("data-mrf-link") or a_tag.get("href", "")
+        if not href or href in seen:
             continue
         seen.add(href)
 
         full_url = BASE_URL + href if href.startswith("/") else href
         title = heading_tag.get_text(strip=True)
-        pub_date = time_tag.get("datetime", "")
 
         # Description
-        desc_tag = parent.find("p")
+        desc_tag = card.find("p")
         description = desc_tag.get_text(strip=True) if desc_tag else ""
 
         articles.append({
