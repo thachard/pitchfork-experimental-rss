@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toronto Star – Ontario</title>
+    <link>https://www.thestar.com/politics/provincial/</link>
+    <description>Ontario politics coverage from the Toronto Star.</description>
+    <language>en-ca</language>
+    <lastBuildDate>Sun, 01 Mar 2026 15:28:15 +0000</lastBuildDate>
+    <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Solomon to meet OpenAI CEO Altman in wake of mass killings in Tumbler Ridge, B.C.</title>
+      <link>https://www.thestar.com/news/canada/british-columbia/solomon-to-meet-openai-ceo-altman-in-wake-of-mass-killings-in-tumbler-ridge-b/article_3b5fbdeb-f182-59c7-87ee-2b2581aa0b34.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/canada/british-columbia/solomon-to-meet-openai-ceo-altman-in-wake-of-mass-killings-in-tumbler-ridge-b/article_3b5fbdeb-f182-59c7-87ee-2b2581aa0b34.html</guid>
+      <description></description>
+      <pubDate>Fri, 27 Feb 2026 21:03:23 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
