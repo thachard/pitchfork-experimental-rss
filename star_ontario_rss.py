@@ -2,7 +2,7 @@
 """
 Toronto Star – Ontario RSS Feed Generator
 ---------------------------------------------
-Scrapes https://www.thestar.com/news/ontario/
+Scrapes https://www.thestar.com/politics/provincial/
 and writes star_ontario_feed.xml.
 
 Usage:
@@ -18,7 +18,7 @@ import sys
 import time
 
 BASE_URL = "https://www.thestar.com"
-FEED_URL = f"{BASE_URL}/news/ontario/"
+FEED_URL = f"{BASE_URL}/politics/provincial/"
 OUTPUT_FILE = "star_ontario_feed.xml"
 
 
