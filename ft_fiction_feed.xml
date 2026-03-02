@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Mar 2026 15:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 11:49:38 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best new debut novels — ghosts, down-at-heel aristos and a dead pingpong prodigy</title>
+      <link>https://www.ft.com/content/735f477a-1363-4066-a3f8-60beaf32908e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/735f477a-1363-4066-a3f8-60beaf32908e</guid>
+      <description>Tales of a spooky Norfolk village, a shamanic Nigerian astrophysicist — plus the ethics of fiction as murderous revenge</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/59d11871-9f6c-4a01-b426-885427afc68a</guid>
       <description>Elisa Shua Dusapin’s story of two estranged sisters’ struggle to bridge their differences is quietly powerful in its emotions</description>
       <pubDate>Fri, 23 Jan 2026 12:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Glyph, by Ali Smith — brilliant writing that responds to the way we live now</title>
-      <link>https://www.ft.com/content/dd4a0ac6-7b2c-4321-b4e8-bdb082e5ab35</link>
-      <guid isPermaLink="true">https://www.ft.com/content/dd4a0ac6-7b2c-4321-b4e8-bdb082e5ab35</guid>
-      <description>In a companion piece to 2024’s ‘Gliff’, the novelist touches on the horrors of war, AI, siblings and childhood memories</description>
-      <pubDate>Thu, 22 Jan 2026 12:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

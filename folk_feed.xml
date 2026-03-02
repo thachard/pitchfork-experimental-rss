@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 15:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 11:49:16 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Iron &amp; Wine – Hen’s Teeth</title>
+      <link>https://pitchfork.com/reviews/albums/iron-and-wine-hens-teeth/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/iron-and-wine-hens-teeth/</guid>
+      <description>A review by Stephen Thomas Erlewine</description>
+      <author>Stephen Thomas Erlewine</author>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Buck Meek – The Mirror</title>
       <link>https://pitchfork.com/reviews/albums/buck-meek-the-mirror/</link>
@@ -190,14 +198,6 @@
       <description>A review by Sam Goldner</description>
       <author>Sam Goldner</author>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kieran Hebden / William Tyler – 41 Longfield Street Late ’80s</title>
-      <link>https://pitchfork.com/reviews/albums/kieran-heben-william-tyler-41-longfield-street-late-80s/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kieran-heben-william-tyler-41-longfield-street-late-80s/</guid>
-      <description>A review by en Cardew</description>
-      <author>en Cardew</author>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
