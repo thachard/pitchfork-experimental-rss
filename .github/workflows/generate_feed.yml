@@ -47,6 +47,12 @@ jobs:
       - name: Run CTV Toronto City Hall scraper
         run: python ctv_cityhall_rss.py
 
+      - name: Run Toronto Star Ontario scraper
+        run: python star_ontario_rss.py
+
+      - name: Run Toronto Star Federal scraper
+        run: python star_federal_rss.py
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
