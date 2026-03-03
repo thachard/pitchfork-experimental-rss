@@ -44,6 +44,45 @@ FEED_GROUPS = [
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_cityhall_feed.xml"
         ],
     },
+    {
+        "name": "World",
+        "output": "world_feed.xml",
+        "feeds": [
+           "https://www.ft.com/world?format=rss",
+           "https://www.economist.com/europe/rss.xml",
+           "https://www.economist.com/middle-east-and-africa/rss.xml",
+           "https://www.economist.com/asia/rss.xml",
+           "https://www.economist.com/the-americas/rss.xml",
+           "https://www.economist.com/china/rss.xml",
+           "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+           "https://www.economist.com/leaders/rss.xml",
+           "https://www.newyorker.com/contributors/susan-b-glasser/feed",
+           "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+           "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+           "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+           "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+           "http://feeds.bbci.co.uk/news/politics/rss.xml",
+           "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+        ],
+    },
+    {
+        "name": "Economics",
+        "output": "economics_feed.xml",
+        "feeds": [
+            "https://www.newyorker.com/contributors/john-cassidy/feed",
+            "https://www.economist.com/finance-and-economics/rss.xml",
+            "https://www.economist.com/business/rss.xml",
+            "https://www.ft.com/myft/following/92769845-07af-4f2f-a550-87d213fed171.rss",
+            "https://www.ft.com/markets?format=rss",
+            "https://www.ft.com/companies?format=rss",
+            "https://www.ft.com/climate-capital?format=rss",
+            "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/",
+            "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/economy/",
+            "https://thelogic.co/tag/business/feed",
+            "https://adamtooze.substack.com/feed/",
+            "https://thelogic.co/tag/tech/feed"
+        ],
+    },
 ]
 
 # Similarity threshold: 0.0 = anything matches, 1.0 = must be identical.
