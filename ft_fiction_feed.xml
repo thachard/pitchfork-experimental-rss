@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 02 Mar 2026 11:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:52:41 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Beautiful Loan by Mary Costello — self-discovery steeped in literature</title>
+      <link>https://www.ft.com/content/dc3a4862-3a6a-4483-90d4-37893992fcd6</link>
+      <guid isPermaLink="true">https://www.ft.com/content/dc3a4862-3a6a-4483-90d4-37893992fcd6</guid>
+      <description>Seeking clarity on past loves through faith and art, an Irish teacher finds unexpected resolution in Albert Camus</description>
+      <pubDate>Mon, 02 Mar 2026 12:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>The best new debut novels — ghosts, down-at-heel aristos and a dead pingpong prodigy</title>
       <link>https://www.ft.com/content/735f477a-1363-4066-a3f8-60beaf32908e</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/6e52b8e4-0afa-443e-9ef5-05c256af4c5f</guid>
       <description>A masterful new thriller from the former CIA analyst is informed by a profound understanding of the Middle East and the forces that seek to reshape it</description>
       <pubDate>Sat, 24 Jan 2026 05:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Old Fire — breaking the silence over a family rift</title>
-      <link>https://www.ft.com/content/59d11871-9f6c-4a01-b426-885427afc68a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/59d11871-9f6c-4a01-b426-885427afc68a</guid>
-      <description>Elisa Shua Dusapin’s story of two estranged sisters’ struggle to bridge their differences is quietly powerful in its emotions</description>
-      <pubDate>Fri, 23 Jan 2026 12:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
