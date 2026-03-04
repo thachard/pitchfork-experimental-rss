@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 03 Mar 2026 11:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 11:50:21 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>John Tory won’t run for mayor, says he can’t put family through ‘inevitable attacks’</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/john-tory-says-he-will-not-run-for-toronto-mayor/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/john-tory-says-he-will-not-run-for-toronto-mayor/</guid>
+      <description>Video</description>
+      <pubDate>Wed, 04 Mar 2026 00:11:12 +0000</pubDate>
+    </item>
     <item>
       <title>City employees stole packages, misused sick days to work second job, Toronto’s auditor general suggests</title>
       <link>https://www.ctvnews.ca/toronto/article/city-employees-stole-packages-misused-sick-days-to-work-second-job-torontos-auditor-general-suggests/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/city-employees-stole-packages-misused-sick-days-to-work-second-job-torontos-auditor-general-suggests/</guid>
-      <description></description>
+      <description>Toronto’s auditor general has uncovered allegations of fraud involving city employees, including claims of stolen packages, resold protective equipment, and the misuse of sick days to work a second job.</description>
       <pubDate>Fri, 13 Feb 2026 20:42:42 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-names-new-traffic-czar-to-tame-congestion/</guid>
       <description>Andrew Posluns has been named Toronto’s new “traffic czar,” a role council voted earlier this year to create.</description>
       <pubDate>Tue, 30 Dec 2025 22:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>TTC ridership declined this past fall, despite stricter return-to-office policies for workers</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/ttc-ridership-declined-this-past-fall-despite-stricter-return-to-office-policies-for-workers/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/ttc-ridership-declined-this-past-fall-despite-stricter-return-to-office-policies-for-workers/</guid>
-      <description>Despite hopes that 2025 would be the year the TTC saw a major comeback in light of stricter -in-office work policies, new data released by the TTC show that ridership was actually down in the last few months of the year compared to the previous year.</description>
-      <pubDate>Thu, 25 Dec 2025 19:41:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

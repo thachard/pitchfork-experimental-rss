@@ -5,13 +5,27 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 03 Mar 2026 11:53:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 11:50:07 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nova Scotia, Ontario alcohol deal garnering mixed reviews</title>
+      <link>https://www.ctvnews.ca/atlantic/nova-scotia/article/nova-scotia-ontario-alcohol-deal-garnering-mixed-reviews/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/atlantic/nova-scotia/article/nova-scotia-ontario-alcohol-deal-garnering-mixed-reviews/</guid>
+      <description>Video</description>
+      <pubDate>Tue, 03 Mar 2026 23:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>NDP politicians set off on road trip to highlight northern Ontario road dangers</title>
+      <link>https://www.ctvnews.ca/northern-ontario/article/ndp-politicians-set-off-on-road-trip-to-highlight-northern-ontario-road-dangers/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/northern-ontario/article/ndp-politicians-set-off-on-road-trip-to-highlight-northern-ontario-road-dangers/</guid>
+      <description>Three Ontario New Democrats have set off on a road trip from Toronto to the Manitoba border and back to highlight the dangers of northern roads.</description>
+      <pubDate>Wed, 04 Mar 2026 00:03:49 +0000</pubDate>
+    </item>
     <item>
       <title>Ring of Fire roads to be complete by 2031, ahead of schedule: Ford</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ring-of-fire-roads-to-be-complete-by-2031-ahead-of-schedule-ford/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ring-of-fire-roads-to-be-complete-by-2031-ahead-of-schedule-ford/</guid>
-      <description></description>
+      <description>Construction on the roads to the Ring of Fire in northern Ontario should start this year and be completed by 2031, the province announced Monday about a project that has divided several First Nations.</description>
       <pubDate>Mon, 02 Mar 2026 22:52:02 +0000</pubDate>
     </item>
     <item>
@@ -97,20 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/skills-development-fund-recipient-countersues-ontario-government-alleging-reputational-harm/</guid>
       <description>A mental health company being sued by the Ontario government over alleged fraudulent misrepresentation has filed a statement of defence and a counterclaim against the province, alleging it has damaged the company’s reputation.</description>
       <pubDate>Fri, 13 Feb 2026 21:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>$23M deal reached to keep Crown Royal on LCBO shelves</title>
-      <link>https://www.ctvnews.ca/toronto/article/crown-royal-will-remain-on-lcbo-shelves-after-manufacturer-commits-to-23m-in-ontario-investments/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/crown-royal-will-remain-on-lcbo-shelves-after-manufacturer-commits-to-23m-in-ontario-investments/</guid>
-      <description>Crown Royal will remain on LCBO shelves after its manufacturer committed to $23 million in new investments in Ontario.</description>
-      <pubDate>Fri, 13 Feb 2026 20:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario lifting post-secondary tuition freeze, boosting funding</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-lifting-post-secondary-tuition-freeze-boosting-funding/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-lifting-post-secondary-tuition-freeze-boosting-funding/</guid>
-      <description>Ontario is giving colleges and universities billions in new funding, while lifting a seven-year tuition fee freeze and cutting back on the amount of student assistance grants.</description>
-      <pubDate>Thu, 12 Feb 2026 23:52:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
