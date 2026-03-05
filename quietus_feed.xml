@@ -5,8 +5,15 @@
     <link>https://thequietus.com/columns/quietus-reviews/album-of-the-week/</link>
     <description>Album of the Week reviews from The Quietus.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Mar 2026 11:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 11:54:38 +0000</lastBuildDate>
     <atom:link href="https://thequietus.com/columns/quietus-reviews/album-of-the-week/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Crimes of the Future: Torn by Cobrah</title>
+      <link>https://thequietus.com/quietus-reviews/album-of-the-week/torn-cobrah-review/</link>
+      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/torn-cobrah-review/</guid>
+      <description>BDSM meets industrial beats on the new album from the sex-positive Swedish singer-producer</description>
+      <pubDate>Thu, 05 Mar 2026 06:20:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Forest Murmurs: Marathon by Maria BC</title>
       <link>https://thequietus.com/quietus-reviews/album-of-the-week/maria-bc-marathon-review/</link>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/daughters-jennifer-walton-review/</guid>
       <description>The debut album by the Iceboy Violet and BABii collaborator drifts through the non-places of supermodernity, devastated by grief – a stirring and tender work of mourning in which traditional instruments combine with electronics with verve and ambition</description>
       <pubDate>Thu, 23 Oct 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Informal Proposals: Lotto by They Are Gutting a Body of Water</title>
-      <link>https://thequietus.com/quietus-reviews/album-of-the-week/they-are-gutting-a-body-of-water-lotto-review/</link>
-      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/they-are-gutting-a-body-of-water-lotto-review/</guid>
-      <description>The Philadelphia group turn shoegazing on its head, replacing its hazy nostalgia with a restless, anxious energy, finds Aydin Khalili</description>
-      <pubDate>Thu, 16 Oct 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
