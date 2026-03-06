@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:04:57 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shane Parish – Autechre Guitar</title>
+      <link>https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iron &amp; Wine – Hen’s Teeth</title>
       <link>https://pitchfork.com/reviews/albums/iron-and-wine-hens-teeth/</link>
@@ -190,14 +198,6 @@
       <description>A review by Amanda Wicks</description>
       <author>Amanda Wicks</author>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mason Lindahl – Joshua/Same Day Walking</title>
-      <link>https://pitchfork.com/reviews/albums/mason-lindahl-joshua-same-day-walking/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mason-lindahl-joshua-same-day-walking/</guid>
-      <description>A review by Sam Goldner</description>
-      <author>Sam Goldner</author>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

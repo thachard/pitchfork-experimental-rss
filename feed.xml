@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:04:51 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shane Parish – Autechre Guitar</title>
+      <link>https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nomad War Machine / Susan Alcorn – Contra Madre</title>
       <link>https://pitchfork.com/reviews/albums/nomad-war-machine-and-susan-alcorn-contra-madre/</link>
@@ -190,14 +198,6 @@
       <description>A review by enny Sun</description>
       <author>enny Sun</author>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daniel Blumberg – The Testament of Ann Lee (Original Soundtrack)</title>
-      <link>https://pitchfork.com/reviews/albums/daniel-blumberg-the-testament-of-ann-lee-original-soundtrack/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/daniel-blumberg-the-testament-of-ann-lee-original-soundtrack/</guid>
-      <description>A review by Walden Green</description>
-      <author>Walden Green</author>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

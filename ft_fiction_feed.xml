@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:05:17 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Look What You Made Me Do — boomers vs millennials in John Lanchester’s London</title>
+      <link>https://www.ft.com/content/80cfda57-26f7-4ff6-a718-2ff82deada9f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/80cfda57-26f7-4ff6-a718-2ff82deada9f</guid>
+      <description>The bestselling author of ‘Capital’ returns with a dark allegory of intergenerational conflict</description>
+      <pubDate>Thu, 05 Mar 2026 12:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>A Beautiful Loan by Mary Costello — self-discovery steeped in literature</title>
       <link>https://www.ft.com/content/dc3a4862-3a6a-4483-90d4-37893992fcd6</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/d1f36de1-dc06-4ddc-8733-21e0f54bd8d5</guid>
       <description>As a new film brings a fresh generation of fans to Emily Brontë’s classic novel, Maria Crawford heads for the wild moors that inspired it</description>
       <pubDate>Sat, 24 Jan 2026 05:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Persian by David McCloskey — a vivid tale of spies, lies and the Iran-Israel shadow war</title>
-      <link>https://www.ft.com/content/6e52b8e4-0afa-443e-9ef5-05c256af4c5f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6e52b8e4-0afa-443e-9ef5-05c256af4c5f</guid>
-      <description>A masterful new thriller from the former CIA analyst is informed by a profound understanding of the Middle East and the forces that seek to reshape it</description>
-      <pubDate>Sat, 24 Jan 2026 05:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

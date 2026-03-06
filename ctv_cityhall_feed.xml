@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:06:42 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto on-street parking rates could increase again this year</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-on-street-parking-rates-could-increase-again-this-year/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-on-street-parking-rates-could-increase-again-this-year/</guid>
+      <description></description>
+      <pubDate>Fri, 06 Mar 2026 00:41:19 +0000</pubDate>
+    </item>
     <item>
       <title>Michael Ford says he’s giving ‘serious consideration’ to Toronto mayoral run</title>
       <link>https://www.ctvnews.ca/toronto/article/michael-ford-says-hes-giving-serious-consideration-to-toronto-mayoral-run/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/michael-ford-says-hes-giving-serious-consideration-to-toronto-mayoral-run/</guid>
-      <description>Video</description>
+      <description>Michael Ford, a former Toronto city councillor and MPP who is the nephew of Ontario Premier Doug Ford, says he’s seriously considering tossing his hat in the ring to become the city’s next mayor.</description>
       <pubDate>Wed, 04 Mar 2026 22:58:15 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/heres-why-toronto-could-see-a-smaller-property-tax-increase-this-year/</guid>
       <description>When Mayor Olivia Chow took office in 2023, she insisted she could not indicate what the property tax increase might look like ahead of her first budget as mayor.</description>
       <pubDate>Wed, 07 Jan 2026 18:25:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some Toronto households skipped for blue bin collection following implementation of new private recycling rules</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/some-toronto-households-skipped-for-blue-bin-collection-following-implementation-of-new-private-recycling-rules/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/some-toronto-households-skipped-for-blue-bin-collection-following-implementation-of-new-private-recycling-rules/</guid>
-      <description>Some Toronto households are still waiting on their recycling to get picked up after a new private collection company missed their designated days earlier this month, a situation that at least one city councillor says is &apos;infuriating.&apos;</description>
-      <pubDate>Tue, 06 Jan 2026 15:23:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
