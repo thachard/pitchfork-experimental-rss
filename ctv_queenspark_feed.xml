@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 06 Mar 2026 11:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 09:58:56 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doug Ford eyeing filling in part of Lake Ontario for new convention centre</title>
+      <link>https://www.ctvnews.ca/toronto/article/doug-ford-eyeing-filling-in-part-of-lake-ontario-for-new-convention-centre/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/doug-ford-eyeing-filling-in-part-of-lake-ontario-for-new-convention-centre/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 06 Mar 2026 20:02:03 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario formally takes over York Catholic School Board after threatening it was next</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-formally-takes-over-york-catholic-school-board-after-threatening-it-was-next/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-formally-takes-over-york-catholic-school-board-after-threatening-it-was-next/</guid>
-      <description></description>
+      <description>Ontario Education Minister Paul Calandra has named supervisors to run both the Peel District School Board (PDSB) and the York Catholic District School Board (YCDSB) in response to “serious concerns” about their operations.</description>
       <pubDate>Thu, 05 Mar 2026 22:59:59 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-reveals-design-for-new-science-centre-at-torontos-waterfront-says-construction-could-start-in-3-years/</guid>
       <description>Ontario Premier Doug Ford pulled back the curtain Thursday on the province’s design for a new science centre at Toronto’s waterfront, calling it a “world-class” facility that will be “jaw-dropping.”</description>
       <pubDate>Thu, 26 Feb 2026 20:33:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘I hope they hurt’: Unifor irate over early idling of Crown Royal factory in Amherstburg, Ont.</title>
-      <link>https://www.ctvnews.ca/windsor/article/i-hope-they-hurt-unifor-irate-over-early-idling-of-crown-royal-factory-in-amherstburg-ont/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/windsor/article/i-hope-they-hurt-unifor-irate-over-early-idling-of-crown-royal-factory-in-amherstburg-ont/</guid>
-      <description>Unifor is upset over the early idling of the Crown Royal factory in Amherstburg, Ont.</description>
-      <pubDate>Wed, 25 Feb 2026 23:48:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

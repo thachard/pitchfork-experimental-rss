@@ -5,8 +5,29 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 06 Mar 2026 11:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 09:58:06 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From a disrupted world order to Tracey Emin, LGBT+ lives and ‘wellness’ — plus wartime Berlin and John Lanchester’s novel of generational conflict</description>
+      <pubDate>Fri, 06 Mar 2026 13:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebel English Academy by Mohammed Hanif — how to kill an ideology</title>
+      <link>https://www.ft.com/content/4fde07b9-8f3e-43a6-bf54-f431cb3e07c8</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4fde07b9-8f3e-43a6-bf54-f431cb3e07c8</guid>
+      <description>The novelist spares no one in a sharp account of a village in Pakistan wracked by political change in the 1970s</description>
+      <pubDate>Fri, 06 Mar 2026 13:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan Travelogue — a Booker-longlisted novel on the tricks of translation</title>
+      <link>https://www.ft.com/content/01644bad-0d1c-4d38-962d-1c6d77f5968c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/01644bad-0d1c-4d38-962d-1c6d77f5968c</guid>
+      <description>At the heart of Yáng Shuāng-zǐ’s rich, heady book is the uneasy bond between a Japanese author and her Taiwanese interpreter</description>
+      <pubDate>Fri, 06 Mar 2026 13:06:02 +0000</pubDate>
+    </item>
     <item>
       <title>Look What You Made Me Do — boomers vs millennials in John Lanchester’s London</title>
       <link>https://www.ft.com/content/80cfda57-26f7-4ff6-a718-2ff82deada9f</link>
@@ -27,13 +48,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/735f477a-1363-4066-a3f8-60beaf32908e</guid>
       <description>Tales of a spooky Norfolk village, a shamanic Nigerian astrophysicist — plus the ethics of fiction as murderous revenge</description>
       <pubDate>Mon, 02 Mar 2026 05:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Goldman Sachs to royal couture and saving liberal democracy — AI-led genetics plus Francis Spufford’s wartime fantasy and Lionel Shriver’s anti-immigration novel</description>
-      <pubDate>Fri, 27 Feb 2026 13:01:45 +0000</pubDate>
     </item>
     <item>
       <title>Banshee — Irish myths get timely makeover</title>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/588be7c5-9b7e-49fb-b7a6-5a9d1f9705c9</guid>
       <description>A classical composer and celebrity saxophonist find their  lives altered after they team up</description>
       <pubDate>Tue, 27 Jan 2026 17:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Haunted spooks and cryptic mysteries — the best new thrillers</title>
-      <link>https://www.ft.com/content/b78ece4d-ed88-4066-a950-d5603b672c28</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b78ece4d-ed88-4066-a950-d5603b672c28</guid>
-      <description>Titles include Alex Preston, Paul Warner and James Wolff on the perils of being an MI6 spy and two tales from Scotland of women on the hunt for answers</description>
-      <pubDate>Mon, 26 Jan 2026 05:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>My weekend at Wuthering Heights</title>
-      <link>https://www.ft.com/content/d1f36de1-dc06-4ddc-8733-21e0f54bd8d5</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d1f36de1-dc06-4ddc-8733-21e0f54bd8d5</guid>
-      <description>As a new film brings a fresh generation of fans to Emily Brontë’s classic novel, Maria Crawford heads for the wild moors that inspired it</description>
-      <pubDate>Sat, 24 Jan 2026 05:00:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
