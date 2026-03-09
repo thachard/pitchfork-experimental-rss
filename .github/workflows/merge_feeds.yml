@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: feed-merge
+  cancel-in-progress: false
+
 jobs:
   merge:
     # Only run if the triggering workflow succeeded (ignored for manual runs)
@@ -28,6 +32,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 feedparser
