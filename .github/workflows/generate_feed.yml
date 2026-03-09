@@ -2,11 +2,16 @@ name: Generate RSS Feeds
 
 on:
   schedule:
+    - cron: '0 8 * * *'   # 8:00 AM UTC = 3:00 AM ET (winter) / 4:00 AM ET (summer)
     - cron: '30 9 * * *'  # 9:30 AM UTC = 4:30 AM ET (winter) / 5:30 AM ET (summer)
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: feed-generate
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -19,6 +24,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install playwright beautifulsoup4 requests
@@ -27,30 +33,39 @@ jobs:
         run: playwright install chromium --with-deps
 
       - name: Run Pitchfork experimental reviews scraper
+        continue-on-error: true
         run: python pitchfork_rss.py
 
       - name: Run Pitchfork folk reviews scraper
+        continue-on-error: true
         run: python pitchfork_folk_rss.py
 
       - name: Run Quietus album of the week scraper
+        continue-on-error: true
         run: python quietus_rss.py
 
       - name: Run FT fiction scraper
+        continue-on-error: true
         run: python ft_fiction_rss.py
 
       - name: Run Toronto Star City Hall scraper
+        continue-on-error: true
         run: python star_cityhall_rss.py
 
       - name: Run CTV Queen's Park scraper
+        continue-on-error: true
         run: python ctv_queenspark_rss.py
 
       - name: Run CTV Toronto City Hall scraper
+        continue-on-error: true
         run: python ctv_cityhall_rss.py
 
       - name: Run Toronto Star Ontario scraper
+        continue-on-error: true
         run: python star_ontario_rss.py
 
       - name: Run Toronto Star Federal scraper
+        continue-on-error: true
         run: python star_federal_rss.py
 
       - name: Commit and push feeds
