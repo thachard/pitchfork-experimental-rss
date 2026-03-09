@@ -3,23 +3,25 @@
 Meta Feed Merger
 -----------------
 Fetches multiple RSS feeds, filters to recent articles, deduplicates by
-comparing the first body paragraph of each article, and outputs one merged
-RSS feed per group.
+comparing article descriptions and titles, and outputs one merged RSS feed
+per group.
+
+Deduplication uses the feed's own description/summary field (no page fetching
+required), with a title-similarity fallback for entries with short descriptions.
 
 CONFIGURATION: Edit the FEED_GROUPS and LOOKBACK_DAYS variables below.
 
 Usage:
-    pip install requests beautifulsoup4 feedparser
+    pip install feedparser beautifulsoup4
     python merge_feeds.py
 """
 
-import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from difflib import SequenceMatcher
+from xml.sax.saxutils import escape as xml_escape
 import feedparser
 import sys
-import time
 
 # =============================================================================
 # CONFIGURATION — edit this section
@@ -29,8 +31,8 @@ LOOKBACK_DAYS = 3  # Only include articles published within this many days
 
 FEED_GROUPS = [
     {
-        "name": "Canada",           # Human-readable name for this group
-        "output": "Canada_feed.xml", # Output filename
+        "name": "Canada",
+        "output": "Canada_feed.xml",
         "feeds": [
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/",
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/star_ontario_feed.xml",
@@ -41,28 +43,28 @@ FEED_GROUPS = [
             "https://paulwells.substack.com/feed/",
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/star_cityhall_feed.xml",
             "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_queenspark_feed.xml",
-            "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_cityhall_feed.xml"
+            "https://raw.githubusercontent.com/thachard/pitchfork-experimental-rss/main/ctv_cityhall_feed.xml",
         ],
     },
     {
         "name": "World",
         "output": "world_feed.xml",
         "feeds": [
-           "https://www.ft.com/world?format=rss",
-           "https://www.economist.com/europe/rss.xml",
-           "https://www.economist.com/middle-east-and-africa/rss.xml",
-           "https://www.economist.com/asia/rss.xml",
-           "https://www.economist.com/the-americas/rss.xml",
-           "https://www.economist.com/china/rss.xml",
-           "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
-           "https://www.economist.com/leaders/rss.xml",
-           "https://www.newyorker.com/contributors/susan-b-glasser/feed",
-           "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-           "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-           "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
-           "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
-           "http://feeds.bbci.co.uk/news/politics/rss.xml",
-           "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+            "https://www.ft.com/world?format=rss",
+            "https://www.economist.com/europe/rss.xml",
+            "https://www.economist.com/middle-east-and-africa/rss.xml",
+            "https://www.economist.com/asia/rss.xml",
+            "https://www.economist.com/the-americas/rss.xml",
+            "https://www.economist.com/china/rss.xml",
+            "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+            "https://www.economist.com/leaders/rss.xml",
+            "https://www.newyorker.com/contributors/susan-b-glasser/feed",
+            "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+            "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+            "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+            "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+            "http://feeds.bbci.co.uk/news/politics/rss.xml",
+            "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
         ],
     },
     {
@@ -80,25 +82,24 @@ FEED_GROUPS = [
             "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/economy/",
             "https://thelogic.co/tag/business/feed",
             "https://adamtooze.substack.com/feed/",
-            "https://thelogic.co/tag/tech/feed"
+            "https://thelogic.co/tag/tech/feed",
         ],
     },
 ]
 
-# Similarity threshold: 0.0 = anything matches, 1.0 = must be identical.
-# 0.75 catches wire stories reworded across outlets.
-SIMILARITY_THRESHOLD = 0.75
+# Similarity thresholds
+# Description-based: higher threshold since descriptions are shorter and noisier
+DESCRIPTION_SIMILARITY_THRESHOLD = 0.75
+# Title-based: used as fallback when descriptions are too short to compare
+TITLE_SIMILARITY_THRESHOLD = 0.80
+# Minimum description length (chars) to use description-based dedup;
+# below this we fall back to title comparison
+MIN_DESCRIPTION_LENGTH = 80
 
 # Max articles to fetch per feed (keeps run times reasonable)
 MAX_ARTICLES_PER_FEED = 20
 
-# Seconds to wait between article page fetches (be polite to servers)
-FETCH_DELAY = 0.5
-
-# =============================================================================
-# END OF CONFIGURATION
-# =============================================================================
-
+# Request headers for feed fetching
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -135,59 +136,44 @@ def fetch_feed(url):
         return []
 
 
-def fetch_first_paragraph(url):
-    """
-    Fetch an article page and return the text of its first substantive
-    body paragraph. Returns empty string on any failure.
-    """
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        # Remove boilerplate elements
-        for tag in soup(["script", "style", "nav", "header", "footer",
-                          "aside", "figure", "figcaption", "noscript"]):
-            tag.decompose()
-
-        # Try common article body selectors first
-        body = (
-            soup.select_one("article")
-            or soup.select_one("[class*='article-body']")
-            or soup.select_one("[class*='story-body']")
-            or soup.select_one("[class*='post-body']")
-            or soup.select_one("[class*='entry-content']")
-            or soup.select_one("main")
-            or soup.body
-        )
-
-        if not body:
-            return ""
-
-        # Find first paragraph with meaningful text (>= 60 chars)
-        for p in body.find_all("p"):
-            text = p.get_text(separator=" ", strip=True)
-            if len(text) >= 60:
-                return text
-
-    except Exception as e:
-        print(f"    Warning: could not fetch article {url}: {e}", file=sys.stderr)
-
-    return ""
+def clean_html(raw_html):
+    """Strip HTML tags and collapse whitespace from a string."""
+    if not raw_html:
+        return ""
+    return BeautifulSoup(raw_html, "html.parser").get_text(separator=" ", strip=True)
 
 
 def similarity(a, b):
     """Return a similarity ratio between two strings."""
     if not a or not b:
         return 0.0
-    return SequenceMatcher(None, a, b).ratio()
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
 
-def is_duplicate(paragraph, seen_paragraphs):
-    """Return True if paragraph is too similar to any already-seen paragraph."""
-    for seen in seen_paragraphs:
-        if similarity(paragraph, seen) >= SIMILARITY_THRESHOLD:
+def is_duplicate(article, seen_articles):
+    """
+    Check if an article is a duplicate of any already-seen article.
+
+    Strategy:
+    - If description is long enough, compare descriptions.
+    - Otherwise, compare titles.
+    - Returns True if either check exceeds its threshold.
+    """
+    desc = article["description"]
+    title = article["title"]
+
+    for seen in seen_articles:
+        # Try description-based comparison if both are long enough
+        if (
+            len(desc) >= MIN_DESCRIPTION_LENGTH
+            and len(seen["description"]) >= MIN_DESCRIPTION_LENGTH
+        ):
+            if similarity(desc, seen["description"]) >= DESCRIPTION_SIMILARITY_THRESHOLD:
+                return True
+        # Always also check title similarity as a catch-all
+        if similarity(title, seen["title"]) >= TITLE_SIMILARITY_THRESHOLD:
             return True
+
     return False
 
 
@@ -198,17 +184,6 @@ def format_date(dt):
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
 
-def escape_xml(text):
-    return (
-        str(text)
-        .replace("&", "&amp;")
-        .replace("<", "&lt;")
-        .replace(">", "&gt;")
-        .replace('"', "&quot;")
-        .replace("'", "&apos;")
-    )
-
-
 def write_feed(group_name, output_path, articles):
     """Write a list of article dicts to an RSS XML file."""
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
@@ -216,28 +191,28 @@ def write_feed(group_name, output_path, articles):
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
-        '  <channel>',
-        f'    <title>{escape_xml(group_name)} – Merged Feed</title>',
-        f'    <link>https://github.com</link>',
-        f'    <description>Deduplicated merged feed for {escape_xml(group_name)}.</description>',
-        '    <language>en</language>',
-        f'    <lastBuildDate>{now}</lastBuildDate>',
+        "  <channel>",
+        f"    <title>{xml_escape(group_name)} – Merged Feed</title>",
+        "    <link>https://github.com</link>",
+        f"    <description>Deduplicated merged feed for {xml_escape(group_name)}.</description>",
+        "    <language>en</language>",
+        f"    <lastBuildDate>{now}</lastBuildDate>",
     ]
 
     for article in articles:
         pub = format_date(article.get("pubDate"))
         lines += [
-            '    <item>',
-            f'      <title>{escape_xml(article.get("title", ""))}</title>',
-            f'      <link>{escape_xml(article.get("link", ""))}</link>',
-            f'      <guid isPermaLink="true">{escape_xml(article.get("link", ""))}</guid>',
-            f'      <description>{escape_xml(article.get("description", ""))}</description>',
+            "    <item>",
+            f'      <title>{xml_escape(article.get("title", ""))}</title>',
+            f'      <link>{xml_escape(article.get("link", ""))}</link>',
+            f'      <guid isPermaLink="true">{xml_escape(article.get("link", ""))}</guid>',
+            f'      <description>{xml_escape(article.get("description", ""))}</description>',
         ]
         if pub:
-            lines.append(f'      <pubDate>{pub}</pubDate>')
-        lines.append('    </item>')
+            lines.append(f"      <pubDate>{pub}</pubDate>")
+        lines.append("    </item>")
 
-    lines += ['  </channel>', '</rss>']
+    lines += ["  </channel>", "</rss>"]
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
@@ -277,18 +252,17 @@ def process_group(group):
                 continue
 
             title = entry.get("title", "Untitled")
-            description = BeautifulSoup(
-                entry.get("summary", ""), "html.parser"
-            ).get_text(strip=True)
+            description = clean_html(entry.get("summary", ""))
 
-            all_articles.append({
-                "title": title,
-                "link": link,
-                "description": description,
-                "pubDate": pub_date,
-                "source_feed": url,
-                "first_paragraph": None,  # Fetched below
-            })
+            all_articles.append(
+                {
+                    "title": title,
+                    "link": link,
+                    "description": description,
+                    "pubDate": pub_date,
+                    "source_feed": url,
+                }
+            )
             count += 1
 
         print(f"    {count} recent articles from {url}")
@@ -298,41 +272,25 @@ def process_group(group):
         write_feed(name, output, [])
         return
 
-    # Step 2: Sort by date descending (newest first) so we keep the
-    # earliest version when deduplicating (we reverse before dedup below)
-    all_articles.sort(key=lambda a: a["pubDate"] or datetime.min.replace(tzinfo=timezone.utc))
+    # Step 2: Sort oldest-first so we keep the earliest version of each story
+    all_articles.sort(
+        key=lambda a: a["pubDate"] or datetime.min.replace(tzinfo=timezone.utc)
+    )
 
-    # Step 3: Fetch first paragraph for each article
-    print(f"\n  Fetching first paragraphs for {len(all_articles)} articles...")
-    for i, article in enumerate(all_articles):
-        paragraph = fetch_first_paragraph(article["link"])
-        article["first_paragraph"] = paragraph
-        status = f"({len(paragraph)} chars)" if paragraph else "(none)"
-        print(f"    [{i+1}/{len(all_articles)}] {article['title'][:50]:.50} {status}")
-        time.sleep(FETCH_DELAY)
-
-    # Step 4: Deduplicate — iterate oldest-first, keep earliest unique story
-    print(f"\n  Deduplicating...")
-    seen_paragraphs = []
+    # Step 3: Deduplicate — iterate oldest-first, keep earliest unique story
+    print(f"\n  Deduplicating {len(all_articles)} articles...")
     unique_articles = []
 
-    for article in all_articles:  # already sorted oldest-first
-        para = article["first_paragraph"]
-        if not para:
-            # No paragraph fetched — include it rather than risk losing content
-            unique_articles.append(article)
-            continue
-
-        if is_duplicate(para, seen_paragraphs):
-            print(f"    DUPLICATE skipped: {article['title'][:60]:.60}")
+    for article in all_articles:
+        if is_duplicate(article, unique_articles):
+            print(f"    DUPLICATE skipped: {article['title'][:60]}")
         else:
-            seen_paragraphs.append(para)
             unique_articles.append(article)
 
     # Sort final list newest-first for the RSS feed
     unique_articles.sort(
         key=lambda a: a["pubDate"] or datetime.min.replace(tzinfo=timezone.utc),
-        reverse=True
+        reverse=True,
     )
 
     print(f"\n  {len(all_articles)} total → {len(unique_articles)} after deduplication")
@@ -340,8 +298,12 @@ def process_group(group):
 
 
 def main():
-    print(f"Meta Feed Merger")
-    print(f"Lookback: {LOOKBACK_DAYS} days | Similarity threshold: {SIMILARITY_THRESHOLD}")
+    print("Meta Feed Merger")
+    print(
+        f"Lookback: {LOOKBACK_DAYS} days | "
+        f"Description threshold: {DESCRIPTION_SIMILARITY_THRESHOLD} | "
+        f"Title threshold: {TITLE_SIMILARITY_THRESHOLD}"
+    )
 
     for group in FEED_GROUPS:
         process_group(group)
