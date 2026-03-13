@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 08 Mar 2026 10:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:09:05 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bluebell II, Island Chickadee or Water Strider? Voting underway to name Toronto’s new electric ferries</title>
+      <link>https://www.ctvnews.ca/toronto/article/bluebell-ii-island-chickadee-or-water-strider-voting-underway-to-name-torontos-new-electric-ferries/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/bluebell-ii-island-chickadee-or-water-strider-voting-underway-to-name-torontos-new-electric-ferries/</guid>
+      <description></description>
+      <pubDate>Thu, 12 Mar 2026 18:21:02 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto on-street parking rates could increase again this year</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-on-street-parking-rates-could-increase-again-this-year/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-on-street-parking-rates-could-increase-again-this-year/</guid>
-      <description></description>
+      <description>It could cost more to park on the streets of Toronto later this year. The Toronto Parking Authority (TPA) is proposing an increase of 25 cents per hour for 20,768 on-street spaces.</description>
       <pubDate>Fri, 06 Mar 2026 00:41:19 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/myers-says-ttc-needs-to-work-on-attracting-more-riders-as-service-asks-city-for-15b-in-funding/</guid>
       <description>TTC Chair Jamal Myers says the transit service needs to work on attracting more riders to bolster its finances in a year where it is asking the city for nearly $1.5 billion funding boost.</description>
       <pubDate>Wed, 07 Jan 2026 21:48:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s why Toronto could see a smaller property tax increase this year</title>
-      <link>https://www.ctvnews.ca/toronto/article/heres-why-toronto-could-see-a-smaller-property-tax-increase-this-year/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/heres-why-toronto-could-see-a-smaller-property-tax-increase-this-year/</guid>
-      <description>When Mayor Olivia Chow took office in 2023, she insisted she could not indicate what the property tax increase might look like ahead of her first budget as mayor.</description>
-      <pubDate>Wed, 07 Jan 2026 18:25:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

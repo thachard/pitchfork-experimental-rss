@@ -5,8 +5,15 @@
     <link>https://thequietus.com/columns/quietus-reviews/album-of-the-week/</link>
     <description>Album of the Week reviews from The Quietus.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 08 Mar 2026 09:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:07:31 +0000</lastBuildDate>
     <atom:link href="https://thequietus.com/columns/quietus-reviews/album-of-the-week/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Four Seasons: Bill Orcutt’s Music In Continuous Motion</title>
+      <link>https://thequietus.com/quietus-reviews/album-of-the-week/bill-orcutt-music-in-continuous-motion-review/</link>
+      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/bill-orcutt-music-in-continuous-motion-review/</guid>
+      <description>The latest work for four guitars by the Miami-born musician and composer sounds like a history lesson in guitar technique to Bernie Brooks</description>
+      <pubDate>Thu, 12 Mar 2026 06:19:00 +0000</pubDate>
+    </item>
     <item>
       <title>Crimes of the Future: Torn by Cobrah</title>
       <link>https://thequietus.com/quietus-reviews/album-of-the-week/torn-cobrah-review/</link>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/a-theory-of-cloud-shrine-maiden-review/</guid>
       <description>Husband and wife duo Rachel Nakawatase and Ryan Betschart blend their doom with dreampop, noise, ambient and shoegaze elements, exploding the confines of linear perspective into new forms of sonic space</description>
       <pubDate>Thu, 30 Oct 2025 08:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Flying Start: Daughters by Jennifer Walton</title>
-      <link>https://thequietus.com/quietus-reviews/album-of-the-week/daughters-jennifer-walton-review/</link>
-      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/daughters-jennifer-walton-review/</guid>
-      <description>The debut album by the Iceboy Violet and BABii collaborator drifts through the non-places of supermodernity, devastated by grief – a stirring and tender work of mourning in which traditional instruments combine with electronics with verve and ambition</description>
-      <pubDate>Thu, 23 Oct 2025 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

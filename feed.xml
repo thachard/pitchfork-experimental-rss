@@ -5,8 +5,40 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 09:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:07:02 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mammo – Lateral</title>
+      <link>https://pitchfork.com/reviews/albums/mammo-lateral/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mammo-lateral/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noémi Büchi – Exuvie</title>
+      <link>https://pitchfork.com/reviews/albums/noemi-buchi-exuvie/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/noemi-buchi-exuvie/</guid>
+      <description>A review by Walden Green</description>
+      <author>Walden Green</author>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Thinking of the World Began Pounding in Our Ears the Moment We Hit Shore – The Thinking of the World Began Pounding in Our Ears the Moment We Hit Shore</title>
+      <link>https://pitchfork.com/reviews/albums/the-thinking-of-the-world-began-pounding-in-our-ears-the-moment-we-hit-shore/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-thinking-of-the-world-began-pounding-in-our-ears-the-moment-we-hit-shore/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MORI – El Niño Bola</title>
+      <link>https://pitchfork.com/reviews/albums/mori-el-nino-bola/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mori-el-nino-bola/</guid>
+      <description>A review by E.R. Pulgar</description>
+      <author>E.R. Pulgar</author>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shane Parish – Autechre Guitar</title>
       <link>https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</link>
@@ -166,38 +198,6 @@
       <description>A review by James Gui</description>
       <author>James Gui</author>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Necessaries – Completely Necessary</title>
-      <link>https://pitchfork.com/reviews/albums/the-necessaries-completely-necessary/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-necessaries-completely-necessary/</guid>
-      <description>A review by Linnie Greene</description>
-      <author>Linnie Greene</author>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Railings – Ralings ’26</title>
-      <link>https://pitchfork.com/reviews/albums/railings-railings-26/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/railings-railings-26/</guid>
-      <description>A review by Craig Heed</description>
-      <author>Craig Heed</author>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dialect – Full SerpentEP</title>
-      <link>https://pitchfork.com/reviews/albums/dialect-full-serpent-ep/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dialect-full-serpent-ep/</guid>
-      <description>A review by Colin Joyce</description>
-      <author>Colin Joyce</author>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DJ Ramon Sucesso – Sexta dos Crias 2.0</title>
-      <link>https://pitchfork.com/reviews/albums/dj-ramon-sucesso-sexta-dos-crias-2/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dj-ramon-sucesso-sexta-dos-crias-2/</guid>
-      <description>A review by enny Sun</description>
-      <author>enny Sun</author>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
