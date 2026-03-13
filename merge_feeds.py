@@ -89,9 +89,9 @@ FEED_GROUPS = [
 
 # Similarity thresholds
 # Description-based: higher threshold since descriptions are shorter and noisier
-DESCRIPTION_SIMILARITY_THRESHOLD = 0.85
+DESCRIPTION_SIMILARITY_THRESHOLD = 0.65
 # Title-based: used as fallback when descriptions are too short to compare
-TITLE_SIMILARITY_THRESHOLD = 0.9
+TITLE_SIMILARITY_THRESHOLD = 0.7
 # Minimum description length (chars) to use description-based dedup;
 # below this we fall back to title comparison
 MIN_DESCRIPTION_LENGTH = 80
