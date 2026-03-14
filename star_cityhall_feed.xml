@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 14 Mar 2026 09:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 10:03:19 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Doug Ford to seek an injunction to block Al-Quds Day rally in Toronto</title>
@@ -120,6 +120,13 @@
       <pubDate>Tue, 10 Feb 2026 12:20:45 +0000</pubDate>
     </item>
     <item>
+      <title>Co-accused in Jennifer Pan case pleads guilty to conspiring to murder Pan’s parents</title>
+      <link>https://www.thestar.com/news/crime/co-accused-in-jennifer-pan-case-pleads-guilty-to-conspiring-to-murder-pans-parents/article_a8cd6577-54e2-45a1-b841-aa0d88d543d7.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/crime/co-accused-in-jennifer-pan-case-pleads-guilty-to-conspiring-to-murder-pans-parents/article_a8cd6577-54e2-45a1-b841-aa0d88d543d7.html</guid>
+      <description></description>
+      <pubDate>Sat, 14 Mar 2026 05:44:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Suspicious death of 60-year-old woman in North York being investigated as homicide</title>
       <link>https://www.thestar.com/news/gta/suspicious-death-of-60-year-old-woman-in-north-york-being-investigated-as-homicide/article_da7fc280-d5cb-4232-8701-2131fd9be238.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/suspicious-death-of-60-year-old-woman-in-north-york-being-investigated-as-homicide/article_da7fc280-d5cb-4232-8701-2131fd9be238.html</guid>
@@ -146,20 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/ford-government-to-end-funding-for-supervised-consumption-sites-advocates-say-including-two-in-toronto/article_5ab58e5e-d433-4a6b-a32b-831d05b6b777.html</guid>
       <description></description>
       <pubDate>Fri, 13 Mar 2026 21:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Large stretch of TTC subway Line 2 to be replaced by shuttle buses Saturday</title>
-      <link>https://www.thestar.com/news/gta/large-stretch-of-ttc-subway-line-2-to-be-replaced-by-shuttle-buses-saturday/article_401fc619-52e2-4995-8624-b69a0e3c7877.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/large-stretch-of-ttc-subway-line-2-to-be-replaced-by-shuttle-buses-saturday/article_401fc619-52e2-4995-8624-b69a0e3c7877.html</guid>
-      <description></description>
-      <pubDate>Fri, 13 Mar 2026 16:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto man arrested after allegedly playing Hitler speech outside home</title>
-      <link>https://www.thestar.com/news/gta/toronto-man-arrested-after-allegedly-playing-hitler-speech-outside-home/article_ffacbdfd-ee73-4c24-8792-f2026cf5f4f1.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-man-arrested-after-allegedly-playing-hitler-speech-outside-home/article_ffacbdfd-ee73-4c24-8792-f2026cf5f4f1.html</guid>
-      <description></description>
-      <pubDate>Fri, 13 Mar 2026 21:08:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
