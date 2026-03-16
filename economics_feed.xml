@@ -5,13 +5,307 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Economics.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 10:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 11:17:15 +0000</lastBuildDate>
     <item>
-      <title>‘Fake workers’ from North Korea use AI to exploit European companies</title>
-      <link>https://www.ft.com/content/4e26ad94-f917-4f52-924d-066e332217cf</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4e26ad94-f917-4f52-924d-066e332217cf</guid>
-      <description>Pyongyang’s operatives deploy chatbots to undertake tasks, often in multiple roles</description>
-      <pubDate>Sun, 15 Mar 2026 05:00:18 +0000</pubDate>
+      <title>BCE plans to build Saskatchewan AI data centre</title>
+      <link>https://www.theglobeandmail.com/business/article-bce-plans-to-build-saskatchewan-ai-data-centre/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-bce-plans-to-build-saskatchewan-ai-data-centre/</guid>
+      <description>Telecom is seeking to diversify revenue streams; facility to cost $1.7-billion</description>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada’s inflation rate expected to dip in February ahead of Statscan release</title>
+      <link>https://www.theglobeandmail.com/business/economy/article-canadas-inflation-rate-february-statscan-interest-rates/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-canadas-inflation-rate-february-statscan-interest-rates/</guid>
+      <description>Inflation reading will factor into the Bank of Canada’s interest rate decision later this week</description>
+      <pubDate>Mon, 16 Mar 2026 10:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business Brief: Five files to follow this week</title>
+      <link>https://www.theglobeandmail.com/business/article-business-brief-five-files-to-follow-this-week-11/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-business-brief-five-files-to-follow-this-week-11/</guid>
+      <description>Oil prices expose vulnerability and opportunity for Canada</description>
+      <pubDate>Mon, 16 Mar 2026 10:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>FirstFT: Donald Trump warns European allies on Nato over Hormuz plea</title>
+      <link>https://www.ft.com/content/3d92284c-874e-42ce-8049-6b18e20eeb9c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3d92284c-874e-42ce-8049-6b18e20eeb9c</guid>
+      <description>Also in today’s newsletter: wealthy individuals pull $10bn from private credit funds and a good night for One Battle After Another</description>
+      <pubDate>Mon, 16 Mar 2026 10:17:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada, U.S., Britain team up to tackle crypto scams</title>
+      <link>https://www.theglobeandmail.com/business/economy/article-canada-us-britain-team-up-to-tackle-crypto-scams/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-canada-us-britain-team-up-to-tackle-crypto-scams/</guid>
+      <description>Law enforcement agencies launch co-ordinated effort to identify fraud victims, perpetrators</description>
+      <pubDate>Mon, 16 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-alcoholic beer and pet grooming added to UK inflation basket</title>
+      <link>https://www.ft.com/content/3ebefe9b-5bf3-4bd3-aed6-47d7dcbc39b7</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3ebefe9b-5bf3-4bd3-aed6-47d7dcbc39b7</guid>
+      <description>ONS updates list of items used to measure price growth on back of changing spending habits</description>
+      <pubDate>Mon, 16 Mar 2026 09:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK should avoid using subsidies to cap energy costs</title>
+      <link>https://www.ft.com/content/3360b337-6c7e-4e63-8241-7740a76912b2</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3360b337-6c7e-4e63-8241-7740a76912b2</guid>
+      <description>Amid Iran war price shock, Labour should propose a better measure than the Tories’ ‘energy price guarantee’</description>
+      <pubDate>Mon, 16 Mar 2026 09:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stock Markets Today: U.S. futures sit narrowly higher as investor caution remains elevated</title>
+      <link>https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-stock-markets-today-us-futures-sit-narrowly-higher-as-investor-caution/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-stock-markets-today-us-futures-sit-narrowly-higher-as-investor-caution/</guid>
+      <description>Oil rises as focus returns to threats on Middle East export facilities</description>
+      <pubDate>Mon, 16 Mar 2026 09:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emirates reroutes flights after drone attack on Dubai’s airport</title>
+      <link>https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57</link>
+      <guid isPermaLink="true">https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57</guid>
+      <description>Flights from Manchester, Edinburgh and Dublin among those that returned to destinations on Monday</description>
+      <pubDate>Mon, 16 Mar 2026 09:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yale padlock maker to scrap CEO appointment in deal with activist investor</title>
+      <link>https://www.ft.com/content/f628ca01-1a88-455c-9d68-49cee70fd712</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f628ca01-1a88-455c-9d68-49cee70fd712</guid>
+      <description>Fortune Brands staves off proxy battle with asset manager set up by Trian co-founder Ed Garden</description>
+      <pubDate>Mon, 16 Mar 2026 09:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Iran oil shock, Canada talks big but is useless to our allies</title>
+      <link>https://www.theglobeandmail.com/business/commentary/article-iran-war-oil-middle-east-energy/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-iran-war-oil-middle-east-energy/</guid>
+      <description>When friendly countries are clamouring for energy, resource-rich Canada can offer nothing</description>
+      <pubDate>Mon, 16 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing Canada’s dysfunctional mortgage system</title>
+      <link>https://www.theglobeandmail.com/business/commentary/article-canada-mortgage-system-banks-homeowners/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-canada-mortgage-system-banks-homeowners/</guid>
+      <description>In Canada’s mortgage system, the needs of homeowners often clash with the needs of the banks. There’s a better way</description>
+      <pubDate>Mon, 16 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniCredit launches €35bn Commerzbank takeover offer</title>
+      <link>https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525</link>
+      <guid isPermaLink="true">https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525</guid>
+      <description>Italian lender steps up long-running pursuit with plan to increase its near 30% stake in German bank</description>
+      <pubDate>Mon, 16 Mar 2026 07:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>2022 redux?</title>
+      <link>https://www.ft.com/content/26ccce4a-9cf2-4640-b22f-0c91104b3e50</link>
+      <guid isPermaLink="true">https://www.ft.com/content/26ccce4a-9cf2-4640-b22f-0c91104b3e50</guid>
+      <description>War makes it possible.</description>
+      <pubDate>Mon, 16 Mar 2026 06:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Submit your questions to Katie Martin: are markets heading for a shock?</title>
+      <link>https://www.ft.com/content/4cede290-e742-44d7-ac4d-9f3eb24d5d90</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4cede290-e742-44d7-ac4d-9f3eb24d5d90</guid>
+      <description>Take part in a live Ask an Expert Q&amp;A with the FT’s markets columnist on Thursday March 19 at 1pm GMT</description>
+      <pubDate>Mon, 16 Mar 2026 05:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The UK is struggling to achieve its aims on clean energy</title>
+      <link>https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
+      <guid isPermaLink="true">https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
+      <description>Our economy remains highly fossil fuel-dependent partly because we are not electrifying in the desired way Martin Wolf</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Was Revolut’s banking licence worth the wait?</title>
+      <link>https://www.ft.com/content/b601b464-a60a-4d12-8c43-b366b949ce0e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b601b464-a60a-4d12-8c43-b366b949ce0e</guid>
+      <description>Group would be wise to move gradually with its lending ambitions</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian pension funds count cost of private equity slump</title>
+      <link>https://www.ft.com/content/1dcd44b2-e08c-4d95-99b1-065c84852528</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1dcd44b2-e08c-4d95-99b1-065c84852528</guid>
+      <description>Rising interest rates bring prolonged downturn to the buyout industry</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retail investors pull billions from private capital’s credit gold mine</title>
+      <link>https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd</guid>
+      <description>Flood of redemptions threatens to stall one of Wall Street’s most important sources of growth</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Private credit is key to keep Main Street moving</title>
+      <link>https://www.ft.com/content/8b8698b0-987a-479a-8e35-fef5533e3be0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8b8698b0-987a-479a-8e35-fef5533e3be0</guid>
+      <description>Despite recent concerns, it helps sustain job creation and economic growth</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s restaurants stop deep frying food as gas crisis bites</title>
+      <link>https://www.ft.com/content/d3fc82a6-abf3-4ab9-ab03-09aea1407d5e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d3fc82a6-abf3-4ab9-ab03-09aea1407d5e</guid>
+      <description>South Asia reels from global energy crisis sparked by the US-Israeli war on Iran</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy groups press UK to boost gas storage after Iran war price shock</title>
+      <link>https://www.ft.com/content/6c2f50fd-c494-4018-a147-ce7750d348d0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/6c2f50fd-c494-4018-a147-ce7750d348d0</guid>
+      <description>Middle East conflict renews focus on Britain’s resilience to extreme events</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Syngenta to build $120mn agricultural science centre in UK</title>
+      <link>https://www.ft.com/content/46264274-930b-4a41-9d9d-02e1f0b3625a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/46264274-930b-4a41-9d9d-02e1f0b3625a</guid>
+      <description>Investment by Swiss-based group contrasts with pharma companies withdrawing funding from British research facilities</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Activist plots London market return 16 years after dealmaking ban</title>
+      <link>https://www.ft.com/content/b0d69842-2e40-4941-a472-aea4e5ac2b7d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b0d69842-2e40-4941-a472-aea4e5ac2b7d</guid>
+      <description>Brian Myerson wants to raise up to £1bn for new defence venture to be listed in the UK</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boards must feel they can think for themselves</title>
+      <link>https://www.ft.com/content/7e588df9-4a21-4f66-8f77-c40f7b2f5d0e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7e588df9-4a21-4f66-8f77-c40f7b2f5d0e</guid>
+      <description>More companies should use the flexibility in the UK corporate governance code</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business leaders call for housebuilding push to boost London economy</title>
+      <link>https://www.ft.com/content/12130121-a3e0-4d3c-b901-e7ad4c2a2c7d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/12130121-a3e0-4d3c-b901-e7ad4c2a2c7d</guid>
+      <description>Construction starts fell by more than 80% over the past decade, according to research firm Molior</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can the last bamboo artisans of Hong Kong survive the modern age?</title>
+      <link>https://www.ft.com/content/898a7a0d-e6a8-4887-b505-d8301097b5bf</link>
+      <guid isPermaLink="true">https://www.ft.com/content/898a7a0d-e6a8-4887-b505-d8301097b5bf</guid>
+      <description>The material is an inescapable part of the city’s landscape and heritage — but its future is precarious</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Singapore warns of illicit funds in popular low-tax investment vehicles</title>
+      <link>https://www.ft.com/content/e32e0819-1664-4e86-b1e1-31fb346ec106</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e32e0819-1664-4e86-b1e1-31fb346ec106</guid>
+      <description>Product launched by city-state to lure investors from offshore tax havens could be used for money laundering, says regulator</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>US shale producers not yet tempted by $100 oil</title>
+      <link>https://www.ft.com/content/7beacad1-754d-4044-998b-f363899b8c5f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7beacad1-754d-4044-998b-f363899b8c5f</guid>
+      <description>Independent operators are caught between Trump’s Iran war aims and his promise of low petrol prices</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil slips as Trump calls on countries to help secure Strait of Hormuz</title>
+      <link>https://www.theglobeandmail.com/business/article-oil-slips-as-trump-calls-on-countries-to-help-secure-strait-of-hormuz/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-oil-slips-as-trump-calls-on-countries-to-help-secure-strait-of-hormuz/</guid>
+      <description>U.S. President said Sunday he is demanding that other countries help protect the vital energy gateway</description>
+      <pubDate>Mon, 16 Mar 2026 04:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starmer says UK will not be drawn into ‘wider war’</title>
+      <link>https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4</link>
+      <guid isPermaLink="true">https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4</guid>
+      <description>Prime minister indicates that Britain does not intend to heed Donald Trump’s call to help open Strait of Hormuz</description>
+      <pubDate>Mon, 16 Mar 2026 01:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>MPs and peers call for major review of UK financial regulation</title>
+      <link>https://www.ft.com/content/4dd35bfc-0ff1-4d4f-a8f9-6feb5ce0bdcc</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4dd35bfc-0ff1-4d4f-a8f9-6feb5ce0bdcc</guid>
+      <description>Report warns of ‘systemic flaws’ but consumer groups dismiss ‘rehash’ findings</description>
+      <pubDate>Mon, 16 Mar 2026 00:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian Paralympic Committee CEO calls for added investment after dip in medal standings</title>
+      <link>https://www.theglobeandmail.com/sports/article-canadian-paralympic-committee-ceo-calls-for-added-investment-after-dip/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/sports/article-canadian-paralympic-committee-ceo-calls-for-added-investment-after-dip/</guid>
+      <description>Canada finished sixth in total medals (15), after having 25 four years ago in Beijing</description>
+      <pubDate>Sun, 15 Mar 2026 23:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homeowners with stronger credit scores are increasingly defaulting on mortgage payments</title>
+      <link>https://www.theglobeandmail.com/business/article-homeowners-credit-score-mortgage-equifax/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-homeowners-credit-score-mortgage-equifax/</guid>
+      <description>Rate of ‘near-prime’  borrowers missing payments for 90 days increased by 31 per cent by end of 2025 from year earlier</description>
+      <pubDate>Sun, 15 Mar 2026 22:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bank of Canada expected to hold rates amid oil-driven inflation risk</title>
+      <link>https://www.theglobeandmail.com/business/article-bank-of-canada-expected-to-hold-rates-amid-oil-driven-inflation-risk/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-bank-of-canada-expected-to-hold-rates-amid-oil-driven-inflation-risk/</guid>
+      <description>Central bank may strike more hawkish tone as energy prices surge</description>
+      <pubDate>Sun, 15 Mar 2026 20:17:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toronto freelance journalist is ‘working all the time’ to earn her $45,000 annual income</title>
+      <link>https://www.theglobeandmail.com/investing/personal-finance/article-toronto-freelance-journalist-is-working-all-the-time-to-earn-her-45000/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/investing/personal-finance/article-toronto-freelance-journalist-is-working-all-the-time-to-earn-her-45000/</guid>
+      <description>Anna, 30, says she travels a lot but struggles to take time off or prioritize her health</description>
+      <pubDate>Sun, 15 Mar 2026 18:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trouble is brewing among America’s corporate borrowers</title>
+      <link>https://www.economist.com/business/2026/03/15/trouble-is-brewing-among-americas-corporate-borrowers</link>
+      <guid isPermaLink="true">https://www.economist.com/business/2026/03/15/trouble-is-brewing-among-americas-corporate-borrowers</guid>
+      <description>Surging energy prices will add to fears of a wave of defaults</description>
+      <pubDate>Sun, 15 Mar 2026 17:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poilievre unveils new auto plan in bid for tariff-free access to U.S. market</title>
+      <link>https://www.theglobeandmail.com/canada/article-poilievre-auto-sector-tariff-us-market/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/canada/article-poilievre-auto-sector-tariff-us-market/</guid>
+      <description>Plan would remove GST from Canadian-made vehicles, end EV subsidies and ban use of Chinese or Russian-connected software</description>
+      <pubDate>Sun, 15 Mar 2026 16:23:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada’s unemployment rate rises, IEA’s record oil stockpile release and Carney’s Northern major projects: Must-read business and investing stories</title>
+      <link>https://www.theglobeandmail.com/business/article-canada-unemployment-rate-iea-oil-carney-northern-projects-march-15/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-canada-unemployment-rate-iea-oil-carney-northern-projects-march-15/</guid>
+      <description>Plus, Canada’s vehicle exports suffered a historic collapse in January</description>
+      <pubDate>Sun, 15 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The cost of digital disorganization is nearly a month of productivity per year</title>
+      <link>https://www.theglobeandmail.com/business/careers/article-the-cost-of-digital-disorganization-is-nearly-a-month-of-productivity/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/careers/article-the-cost-of-digital-disorganization-is-nearly-a-month-of-productivity/</guid>
+      <description>The problem often stems from unclear systems and ownership inside organizations, but simple habits and clearer workflows can help workers regain focus and reduce wasted time</description>
+      <pubDate>Sun, 15 Mar 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran war should prompt a North Sea rethink</title>
+      <link>https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667</link>
+      <guid isPermaLink="true">https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667</guid>
+      <description>Sweating the UK’s natural gas assets can support the country’s green transition</description>
+      <pubDate>Sun, 15 Mar 2026 12:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump demands ‘about seven’ countries join coalition to help police Strait of Hormuz</title>
+      <link>https://www.theglobeandmail.com/business/article-iran-us-israel-war-uae/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-iran-us-israel-war-uae/</guid>
+      <description>U.S. President’s earlier appeal to protect vital oil route gets cautious response from allies</description>
+      <pubDate>Sun, 15 Mar 2026 11:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelenskyy challenges Europe over Russian oil imports</title>
+      <link>https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552</guid>
+      <description>Ukrainian president asks if countries ‘collectively decided’ to restart flows from Russia</description>
+      <pubDate>Sun, 15 Mar 2026 10:16:32 +0000</pubDate>
     </item>
     <item>
       <title>Wealth taxes’ design flaws consign them to failure</title>
@@ -42,46 +336,11 @@
       <pubDate>Sun, 15 Mar 2026 05:00:09 +0000</pubDate>
     </item>
     <item>
-      <title>Spies and subsidies: China joins Brazil’s $20bn delivery app war</title>
-      <link>https://www.ft.com/content/42ebe96a-f9ae-46f7-be29-1eb63174515b</link>
-      <guid isPermaLink="true">https://www.ft.com/content/42ebe96a-f9ae-46f7-be29-1eb63174515b</guid>
-      <description>Local courier group iFood and China-backed Keeta trade claims of corporate espionage and underhand tactics</description>
-      <pubDate>Sun, 15 Mar 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lithium-ion battery blazes imperil supply chains, warns Los Angeles port chief</title>
-      <link>https://www.ft.com/content/50dc8767-0d37-4a92-b83b-ba76bd0da09c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/50dc8767-0d37-4a92-b83b-ba76bd0da09c</guid>
-      <description>Demand for the storage device is expected to double by 2030 as geopolitical risks pile up</description>
-      <pubDate>Sun, 15 Mar 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan loses its thirst for vending machines</title>
-      <link>https://www.ft.com/content/a0e80f5d-4c42-443d-9788-2f9924c774bf</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a0e80f5d-4c42-443d-9788-2f9924c774bf</guid>
-      <description>Drinks companies cut networks as rising costs and driver shortages undermine business model</description>
-      <pubDate>Sun, 15 Mar 2026 01:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>US oil groups in line for $63bn windfall from Gulf war disruption</title>
-      <link>https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204</link>
-      <guid isPermaLink="true">https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204</guid>
-      <description>American producers will be among biggest beneficiaries if crude prices average $100 a barrel this year</description>
-      <pubDate>Sat, 14 Mar 2026 21:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario restricts new rental building in favour of Sanofi pharma plant</title>
+      <title>Ontario government restricts new rental buildings in favour of Sanofi pharma plant</title>
       <link>https://www.theglobeandmail.com/business/article-ontario-restricts-new-rental-building-in-favour-of-sanofi-pharma-plant/</link>
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-ontario-restricts-new-rental-building-in-favour-of-sanofi-pharma-plant/</guid>
-      <description>Minister’s Zoning Order restricts developer or any future owner from constructing anything taller than 33 metres at proposed site</description>
+      <description>Minister’s Zoning Order limits developer or any future owner to equivalent of 10 stories at proposed site in north Toronto</description>
       <pubDate>Sat, 14 Mar 2026 15:44:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Middle East war day 15 as it happened: Trump calls on China, UK and Japan to send warships to force open Strait of Hormuz</title>
-      <link>https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e</guid>
-      <description>London has declined to deploy an aircraft carrier to the Gulf</description>
-      <pubDate>Sat, 14 Mar 2026 15:33:18 +0000</pubDate>
     </item>
     <item>
       <title>Housing affordability has been improving. It’s not enough and may not last much longer</title>
@@ -91,13 +350,6 @@
       <pubDate>Sat, 14 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why has Trump left Iran’s nuclear stockpile untouched?</title>
-      <link>https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc</link>
-      <guid isPermaLink="true">https://www.ft.com/content/40697a9c-7465-4a2c-acee-6da95edb0fbc</guid>
-      <description>US administration appears to have no plan to retrieve the enriched uranium after two weeks of military action</description>
-      <pubDate>Sat, 14 Mar 2026 11:00:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Even if the Iran war is won, the economy is already lost</title>
       <link>https://www.theglobeandmail.com/business/commentary/article-iran-war-oil-economy-trump-inflation/</link>
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-iran-war-oil-economy-trump-inflation/</guid>
@@ -105,186 +357,11 @@
       <pubDate>Sat, 14 Mar 2026 10:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Higher oil prices are just a short-term worry</title>
-      <link>https://www.ft.com/content/8e847a0f-0133-4220-b33d-9fa0a1eb1023</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8e847a0f-0133-4220-b33d-9fa0a1eb1023</guid>
-      <description>Long-term inflation expectations are staying steady</description>
-      <pubDate>Sat, 14 Mar 2026 09:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Major League Baseball sustain its global momentum?</title>
-      <link>https://www.ft.com/content/f4238e6f-73d1-499b-b872-f2ba08b81ff1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f4238e6f-73d1-499b-b872-f2ba08b81ff1</guid>
-      <description>Also in today’s newsletter: the winners from Apollo’s takeover of Atlético Madrid</description>
-      <pubDate>Sat, 14 Mar 2026 09:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran war risks global food shock as fertiliser supplies cut</title>
-      <link>https://www.ft.com/content/10543c28-de10-4119-8a2c-8a264dce6539</link>
-      <guid isPermaLink="true">https://www.ft.com/content/10543c28-de10-4119-8a2c-8a264dce6539</guid>
-      <description>Growing number of fertiliser plants forced to shut, threatening rice and other harvests</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK government grilled over Vistry finances</title>
-      <link>https://www.ft.com/content/958628ad-17d4-4b10-aa97-6db31adc4de1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/958628ad-17d4-4b10-aa97-6db31adc4de1</guid>
-      <description>Shadow housing minister raised questions over critical partner in housebuilding scheme</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sovereign AI is a bet on the economies of anti-scale</title>
-      <link>https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7938e68a-22f9-4e83-8f66-302fd8f94297</guid>
-      <description>Deglobalisation is expensive for individual countries, but a windfall for their suppliers</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobile internet blackouts hit Moscow as Kremlin tightens control</title>
-      <link>https://www.ft.com/content/f9584377-f63f-48c1-ac16-f46450d8c783</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f9584377-f63f-48c1-ac16-f46450d8c783</guid>
-      <description>Outages mark new phase in government campaign against internet freedom</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are markets being too complacent about the Iran war?</title>
-      <link>https://www.ft.com/content/36474089-8b7e-4fc8-aa76-1643796a57d9</link>
-      <guid isPermaLink="true">https://www.ft.com/content/36474089-8b7e-4fc8-aa76-1643796a57d9</guid>
-      <description>Sometimes crises do not blow over as investors might hope</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK ‘home bias’ drives surge in Isa millionaires, say investment platforms</title>
-      <link>https://www.ft.com/content/da167042-3ecf-4356-a6a8-0376e9ad860d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/da167042-3ecf-4356-a6a8-0376e9ad860d</guid>
-      <description>UK companies such as Lloyds, Shell and Rolls-Royce featured heavily in Isa portfolios whose value topped £1mn last year</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Noma affair will leave a very nasty taste in the mouth</title>
-      <link>https://www.ft.com/content/f3ddd341-ef63-45f9-93b9-3f8aa9280a20</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f3ddd341-ef63-45f9-93b9-3f8aa9280a20</guid>
-      <description>High-end restaurants as a force for moral good was an idea long lacking in self-awareness</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pinterest’s mood board should include a potential sale</title>
-      <link>https://www.ft.com/content/9c6d5e93-eab9-420a-b63f-e87d4cf4011a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9c6d5e93-eab9-420a-b63f-e87d4cf4011a</guid>
-      <description>Many of its users may gather ideas on the platform but shop somewhere else</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is dressing up greed as progress on creative rights</title>
-      <link>https://www.ft.com/content/48532284-9244-4ee6-be46-f3bde22b7232</link>
-      <guid isPermaLink="true">https://www.ft.com/content/48532284-9244-4ee6-be46-f3bde22b7232</guid>
-      <description>The problem is not that the law is unfit for the 21st century but that it is being flouted</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Guiducci is the man with a 57-page plan to fix Vanity Fair</title>
-      <link>https://www.ft.com/content/ece8b616-de84-4a6f-9135-a89ba0c2b85f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ece8b616-de84-4a6f-9135-a89ba0c2b85f</guid>
-      <description>On Oscars weekend, the famous title’s new chief makes his case</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the best Oscars in years could also be a last hurrah</title>
-      <link>https://www.ft.com/content/2fb22f1c-3a11-4a4d-b32f-0e39a8a373e9</link>
-      <guid isPermaLink="true">https://www.ft.com/content/2fb22f1c-3a11-4a4d-b32f-0e39a8a373e9</guid>
-      <description>This year offers something for everyone, but the looming Warner-Paramount deal threatens the whole Hollywood ecosystem</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to build a defensive Isa</title>
-      <link>https://www.ft.com/content/dab7c39b-9ebb-434b-a1f6-56608d894752</link>
-      <guid isPermaLink="true">https://www.ft.com/content/dab7c39b-9ebb-434b-a1f6-56608d894752</guid>
-      <description>As markets reel from the war in the Middle East, some UK investors are seeking a path to safety</description>
-      <pubDate>Sat, 14 Mar 2026 05:00:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Is your Isa strategy up to date?</title>
       <link>https://www.ft.com/content/410f1901-c6aa-434f-a78f-7bfb46c9d7d3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
       <guid isPermaLink="true">https://www.ft.com/content/410f1901-c6aa-434f-a78f-7bfb46c9d7d3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
       <description>Upcoming changes to pensions rules will have a significant impact on how people use Isas in retirement Tax</description>
       <pubDate>Sat, 14 Mar 2026 05:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil prices in the driving seat as energy shock upends global markets</title>
-      <link>https://www.ft.com/content/527d5101-83fe-4f03-a19f-825b73d96c68</link>
-      <guid isPermaLink="true">https://www.ft.com/content/527d5101-83fe-4f03-a19f-825b73d96c68</guid>
-      <description>Investors are picking winners and losers based on economies’ exposure to inflationary surge</description>
-      <pubDate>Sat, 14 Mar 2026 04:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Under pressure to back off key components of its deal with Alberta, Ottawa insists it’s holding the line</title>
-      <link>https://www.theglobeandmail.com/business/article-under-pressure-to-back-off-key-components-of-its-deal-with-alberta/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-under-pressure-to-back-off-key-components-of-its-deal-with-alberta/</guid>
-      <description>Energy Minister Tim Hodgson say the Alberta-Ottawa MOU is ‘not a pick and choose’</description>
-      <pubDate>Sat, 14 Mar 2026 02:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Internal emails highlight Alberta Energy Regulator leadership concerns on coal files</title>
-      <link>https://www.theglobeandmail.com/business/article-internal-emails-highlight-alberta-energy-regulator-leadership-concerns/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-internal-emails-highlight-alberta-energy-regulator-leadership-concerns/</guid>
-      <description>Emails obtained through a freedom of information request show concerns within the agency about coal files</description>
-      <pubDate>Sat, 14 Mar 2026 01:32:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada supplying 23.6 million oil barrels under IEA release plan</title>
-      <link>https://www.theglobeandmail.com/business/article-canada-supplying-236-million-oil-barrels-under-iea-release-plan/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-canada-supplying-236-million-oil-barrels-under-iea-release-plan/</guid>
-      <description>IEA members agreed this week to release 400 million barrels from strategic reserves to offset supply disruptions from the Middle East war</description>
-      <pubDate>Sat, 14 Mar 2026 00:43:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Canada’s energy superpower status can’t fully protect us from the oil crisis</title>
-      <link>https://www.theglobeandmail.com/business/article-canadas-energy-superpower-status-protect-us-oil-crisis/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-canadas-energy-superpower-status-protect-us-oil-crisis/</guid>
-      <description>The telltale signs of an energy crisis – supply shocks, rations and hoarding – are here</description>
-      <pubDate>Sat, 14 Mar 2026 00:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Middle East war day 14 as it happened: Washington eases some Russian oil sanctions, Donald Trump says US ‘obliterated’ military assets on Iran’s Kharg Island</title>
-      <link>https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d213e507-905e-440b-987e-66bfc1acdffe</guid>
-      <description>President warns he would attack oil infrastructure if Tehran impeded more shipments through the Strait of Hormuz</description>
-      <pubDate>Fri, 13 Mar 2026 23:32:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wall Street warns Iran war will trigger prolonged energy crisis</title>
-      <link>https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e5d1f192-c9f1-448f-9aa4-528d6e867cd2</guid>
-      <description>US launches strike on Iran’s Kharg Island supply hub as banks forecast oil could push well above $100</description>
-      <pubDate>Fri, 13 Mar 2026 23:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weston family funding launch of a national digital-media startup, sources say</title>
-      <link>https://www.theglobeandmail.com/business/article-weston-family-funding-launch-national-digital-media-startup-be-giant/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-weston-family-funding-launch-national-digital-media-startup-be-giant/</guid>
-      <description>The non-profit online publication, being developed under the working title Be Giant, is preparing to debut this spring</description>
-      <pubDate>Fri, 13 Mar 2026 23:23:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Restructuring of John Risley’s empire revamped to win over CRA, former business partner</title>
-      <link>https://www.theglobeandmail.com/business/article-john-risley-seafood-empire-restructuring-cra-former-business-partner/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-john-risley-seafood-empire-restructuring-cra-former-business-partner/</guid>
-      <description>Halifax-based company seeks protection under the Companies’ Creditors Arrangement Act</description>
-      <pubDate>Fri, 13 Mar 2026 23:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian airlines hit by soaring jet fuel costs balance hedging and increasing ticket prices</title>
-      <link>https://www.theglobeandmail.com/business/article-canadian-airlines-hit-by-soaring-jet-fuel-costs-balance-hedging-and/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-canadian-airlines-hit-by-soaring-jet-fuel-costs-balance-hedging-and/</guid>
-      <description>Hedging can act as a shock absorber for higher fuel prices</description>
-      <pubDate>Fri, 13 Mar 2026 22:41:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe agrees to pay $150-million to resolve lawsuit alleging it violated online shopping law</title>
-      <link>https://www.theglobeandmail.com/business/article-adobe-settlement-online-shopping-law-subscriptions/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-adobe-settlement-online-shopping-law-subscriptions/</guid>
-      <description>U.S. government lawsuit accused software maker of hiding hefty termination fees and making it difficult to cancel subscriptions</description>
-      <pubDate>Fri, 13 Mar 2026 22:37:30 +0000</pubDate>
     </item>
     <item>
       <title>Vladimir Putin enjoys a huge windfall from the Iran war</title>
@@ -301,32 +378,11 @@
       <pubDate>Fri, 13 Mar 2026 20:17:00 +0000</pubDate>
     </item>
     <item>
-      <title>Odey told receptionist he was in ‘deep trouble’ after she alleged he tried to kiss her</title>
-      <link>https://www.ft.com/content/07b11a04-9bad-4829-b82c-5cb7b5a10072</link>
-      <guid isPermaLink="true">https://www.ft.com/content/07b11a04-9bad-4829-b82c-5cb7b5a10072</guid>
-      <description>Financier had already received a final written warning from his hedge fund about his contact with female staff, court heard</description>
-      <pubDate>Fri, 13 Mar 2026 19:29:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The oil price war</title>
-      <link>https://www.ft.com/content/e21a55b0-1678-4611-94ff-d9b6d429ed4c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e21a55b0-1678-4611-94ff-d9b6d429ed4c</guid>
-      <description>For an Iranian regime facing existential struggle, pushing crude up is key measure of success</description>
-      <pubDate>Fri, 13 Mar 2026 18:54:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>France and Italy open talks with Iran in hope of securing safe Hormuz passage</title>
-      <link>https://www.ft.com/content/96b8e0a4-9ecb-4e07-a96d-7debcfe3bfa6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/96b8e0a4-9ecb-4e07-a96d-7debcfe3bfa6</guid>
-      <description>Europeans look for ways to restart energy shipments as Iran’s new supreme leader vows to keep strait shut</description>
-      <pubDate>Fri, 13 Mar 2026 17:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada added to expanded list of countries facing Washington’s trade investigations</title>
-      <link>https://www.theglobeandmail.com/business/article-washington-adds-canada-to-expanded-list-of-countries-facing-trade/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-washington-adds-canada-to-expanded-list-of-countries-facing-trade/</guid>
-      <description>Trump administration seeking to find new grounds for tariffs after U.S. Supreme Court struck down use of emergency powers</description>
-      <pubDate>Fri, 13 Mar 2026 16:43:15 +0000</pubDate>
+      <title>Lotus plans to be among first to sell Chinese-made EVs in Canada under new quota program</title>
+      <link>https://www.theglobeandmail.com/drive/mobility/article-lotus-geely-electric-vehicles-china-canada-eletre/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/drive/mobility/article-lotus-geely-electric-vehicles-china-canada-eletre/</guid>
+      <description>Lotus Eletre SUV is made in Wuhan, China, and produces up to 905 horsepower for a price tag that will be well into six figures</description>
+      <pubDate>Fri, 13 Mar 2026 17:19:08 +0000</pubDate>
     </item>
     <item>
       <title>Xanadu wants to bring large-scale quantum computer manufacturing to Canada</title>
@@ -343,11 +399,11 @@
       <pubDate>Fri, 13 Mar 2026 15:36:23 +0000</pubDate>
     </item>
     <item>
-      <title>The dangers of doing business while Deutsche</title>
-      <link>https://www.ft.com/content/4e1a3172-6dcb-4317-9b7e-5277bb2ccb52</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4e1a3172-6dcb-4317-9b7e-5277bb2ccb52</guid>
-      <description>Europe’s favourite high-beta bank stock strikes again</description>
-      <pubDate>Fri, 13 Mar 2026 13:59:40 +0000</pubDate>
+      <title>Canada sheds 84,000 jobs in February, unemployment rate rises to 6.7%</title>
+      <link>https://www.theglobeandmail.com/business/economy/jobs/article-canada-jobs-report-unemployment-rate-february/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/jobs/article-canada-jobs-report-unemployment-rate-february/</guid>
+      <description>Economy saw a significant drop in full-time jobs as uncertainty weighs on the labour market</description>
+      <pubDate>Fri, 13 Mar 2026 14:36:09 +0000</pubDate>
     </item>
     <item>
       <title>U.S. economy grew at sluggish 0.7% rate in fourth quarter, well below estimate</title>
@@ -383,160 +439,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-canada-startup-business-uk/</guid>
       <description>The country needs incentives and investment to encourage and grow innovation</description>
       <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cancelling the UK national debt, £1.7mn at a time</title>
-      <link>https://www.ft.com/content/da00909d-cec6-4c82-b2b6-ef18fffbc4c3</link>
-      <guid isPermaLink="true">https://www.ft.com/content/da00909d-cec6-4c82-b2b6-ef18fffbc4c3</guid>
-      <description>Your Debt Management Office needs you</description>
-      <pubDate>Fri, 13 Mar 2026 11:53:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit your questions to Katie Martin: are markets heading for a shock?</title>
-      <link>https://www.ft.com/content/4cede290-e742-44d7-ac4d-9f3eb24d5d90</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4cede290-e742-44d7-ac4d-9f3eb24d5d90</guid>
-      <description>Take part in a live Ask an Expert Q&amp;A with the FT’s markets columnist on Thursday March 19 at 1pm GMT</description>
-      <pubDate>Fri, 13 Mar 2026 11:53:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada reports surprise loss of 83,900 jobs in February, unemployment rate rises to 6.7%</title>
-      <link>https://www.theglobeandmail.com/business/economy/jobs/article-canada-february-jobs-report-unemployment-statistics/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/jobs/article-canada-february-jobs-report-unemployment-statistics/</guid>
-      <description>Economy shed jobs across both the services and goods sectors</description>
-      <pubDate>Fri, 13 Mar 2026 10:46:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stock market Friday: Major indexes end lower as oil flirts with US$100 and Canada reels from ‘brutal’ jobs data</title>
-      <link>https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-stock-market-today-live-updates-march-13/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-stock-market-today-live-updates-march-13/</guid>
-      <description>Markets still believe BoC rate hike will arrive this year despite economists calling today’s labour report ‘worrisome’</description>
-      <pubDate>Fri, 13 Mar 2026 10:04:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Inexcusable Unpreparedness for the Iranian Oil Crisis</title>
-      <link>https://www.newyorker.com/news/the-financial-page/trumps-inexcusable-unpreparedness-for-the-iranian-oil-crisis</link>
-      <guid isPermaLink="true">https://www.newyorker.com/news/the-financial-page/trumps-inexcusable-unpreparedness-for-the-iranian-oil-crisis</guid>
-      <description>In the President’s first term, Iran demonstrated what tactics it would use in a confrontation with the U.S. Yet the Administration seems to have no game plan.</description>
-      <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s second chance in the global LNG race</title>
-      <link>https://www.theglobeandmail.com/business/article-canadas-second-chance-in-the-global-lng-race/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-canadas-second-chance-in-the-global-lng-race/</guid>
-      <description>The country missed out a decade ago, but changing geopolitics and rising demand for natural gas present new export opportunities</description>
-      <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why did Goeasy shares drop? Take our business and investing news quiz</title>
-      <link>https://www.theglobeandmail.com/business/article-goeasy-cannacord-anthropic-caat-business-quiz-march-13/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-goeasy-cannacord-anthropic-caat-business-quiz-march-13/</guid>
-      <description>Test your recollection of the top stories of the week ending March 13</description>
-      <pubDate>Fri, 13 Mar 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. strikes military sites on Iran island key to oil network</title>
-      <link>https://www.theglobeandmail.com/business/article-iran-war-us-israel-ferdowsi-square-explosion/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-iran-war-us-israel-ferdowsi-square-explosion/</guid>
-      <description>Trump says targets ‘obliterated’ on Kharg Island, home to primary terminal that handles the country’s oil exports</description>
-      <pubDate>Fri, 13 Mar 2026 09:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should investors worry about a 2008-style shock?</title>
-      <link>https://www.ft.com/content/d8d1397e-143f-4c28-b872-1efebfa86cef?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d8d1397e-143f-4c28-b872-1efebfa86cef?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <description>From Iran to private credit, things are unnerving but the wider financial system is better prepared Gillian Tett</description>
-      <pubDate>Fri, 13 Mar 2026 05:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The English roads at risk of being underwater</title>
-      <link>https://www.ft.com/content/1536e0b7-5555-4ee6-85bc-8bdc62617446</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1536e0b7-5555-4ee6-85bc-8bdc62617446</guid>
-      <description>FT analysis reveals large swaths of vital infrastructure are vulnerable to flooding</description>
-      <pubDate>Fri, 13 Mar 2026 05:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>What are Prime Minister Mark Carney’s four newly announced Northern major projects?</title>
-      <link>https://www.theglobeandmail.com/business/article-a-list-of-carneys-major-projects-centred-on-the-north/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-a-list-of-carneys-major-projects-centred-on-the-north/</guid>
-      <description>The latest tranche of developments referred to Ottawa’s Major Projects Office for fast-track approval</description>
-      <pubDate>Fri, 13 Mar 2026 00:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>As AI threatens to eliminate jobs, unions are drawing a line</title>
-      <link>https://www.theglobeandmail.com/business/article-as-ai-threatens-to-eliminate-jobs-unions-are-drawing-a-line/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-as-ai-threatens-to-eliminate-jobs-unions-are-drawing-a-line/</guid>
-      <description>Public-sector unions propose changes to collective agreements to add that AI should not be used to justify staffing cuts</description>
-      <pubDate>Thu, 12 Mar 2026 23:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s vehicle exports suffered a historic collapse in January</title>
-      <link>https://www.theglobeandmail.com/business/economy/article-decoder-canada-vehicle-auto-exports-decline-donald-trump/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-decoder-canada-vehicle-auto-exports-decline-donald-trump/</guid>
-      <description>The question is whether it was a temporary drop or part of something bigger</description>
-      <pubDate>Thu, 12 Mar 2026 22:10:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK government under fire over ‘bungled’ crypto Isas policy</title>
-      <link>https://www.ft.com/content/8cad0e71-8826-4873-b018-cc3274465bb2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8cad0e71-8826-4873-b018-cc3274465bb2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <description>Digital investments will be restricted to niche Innovative Finance Isas from next month Tax</description>
-      <pubDate>Thu, 12 Mar 2026 18:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran oil shock may get Trump a Democrat Congress in 2027</title>
-      <link>https://www.theglobeandmail.com/business/commentary/article-iran-oil-trump-democrat-congress-2027/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-iran-oil-trump-democrat-congress-2027/</guid>
-      <description>Affordability remains top of mind for U.S. voters. A prolonged war won’t help matters</description>
-      <pubDate>Thu, 12 Mar 2026 16:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why investors won’t know what to make of AI for a while</title>
-      <link>https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while</link>
-      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/03/12/why-investors-wont-know-what-to-make-of-ai-for-a-while</guid>
-      <description>Markets always struggle to price technological revolutions</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>In praise of grunt work</title>
-      <link>https://www.economist.com/business/2026/03/12/in-praise-of-grunt-work</link>
-      <guid isPermaLink="true">https://www.economist.com/business/2026/03/12/in-praise-of-grunt-work</guid>
-      <description>AI promises to eliminate drudgery. Careful what you wish for</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Altman, Amodei and Musk fight dirty for the biggest prize in business</title>
-      <link>https://www.economist.com/business/2026/03/12/altman-amodei-and-musk-fight-dirty-for-the-biggest-prize-in-business</link>
-      <guid isPermaLink="true">https://www.economist.com/business/2026/03/12/altman-amodei-and-musk-fight-dirty-for-the-biggest-prize-in-business</guid>
-      <description>Never before has so much money been sought from investors in a single year</description>
-      <pubDate>Thu, 12 Mar 2026 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. jobless claims fell last week, allaying fears of labour market downturn</title>
-      <link>https://www.theglobeandmail.com/business/economy/article-us-jobless-claims-unemployment-labour-market/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-us-jobless-claims-unemployment-labour-market/</guid>
-      <description>At a seasonally adjusted 213,000, claims remain at levels consistent with a stable market</description>
-      <pubDate>Thu, 12 Mar 2026 13:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s trade deficit widens to $3.65-billion in January on auto weakness</title>
-      <link>https://www.theglobeandmail.com/business/economy/article-canada-trade-deficit-january-statistics-canada/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-canada-trade-deficit-january-statistics-canada/</guid>
-      <description>Larger-than-expected deficit led by drop in shipments of motor vehicles and parts</description>
-      <pubDate>Thu, 12 Mar 2026 12:52:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Trump’s world, companies seek insurance against political risk</title>
-      <link>https://www.economist.com/business/2026/03/12/in-trumps-world-companies-seek-insurance-against-political-risk</link>
-      <guid isPermaLink="true">https://www.economist.com/business/2026/03/12/in-trumps-world-companies-seek-insurance-against-political-risk</guid>
-      <description>It could soon get more expensive</description>
-      <pubDate>Thu, 12 Mar 2026 11:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>As U.S. state and Big Tech become one, we become digital serfs, and it sucks</title>
-      <link>https://www.theglobeandmail.com/business/commentary/article-big-tech-digital-ai-privacy/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-big-tech-digital-ai-privacy/</guid>
-      <description>Without stronger privacy rules and public AI infrastructure, the value of our data will continue to flow abroad</description>
-      <pubDate>Thu, 12 Mar 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
