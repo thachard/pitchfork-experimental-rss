@@ -67,6 +67,10 @@ jobs:
         continue-on-error: true
         run: python star_federal_rss.py
 
+      - name: Run Top Pitchfork scraper
+        continue-on-error: true
+        run: top_pitchfork_rss.py
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
