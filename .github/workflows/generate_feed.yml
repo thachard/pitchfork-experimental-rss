@@ -69,7 +69,7 @@ jobs:
 
       - name: Run Top Pitchfork scraper
         continue-on-error: true
-        run: top_pitchfork_rss.py
+        run: python top_pitchfork_rss.py
 
       - name: Commit and push feeds
         run: |
