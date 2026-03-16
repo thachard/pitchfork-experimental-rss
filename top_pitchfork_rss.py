@@ -8,7 +8,7 @@ using the exact CSS selectors found in Pitchfork's HTML.
 Usage:
     pip install playwright beautifulsoup4
     playwright install chromium
-    python pitchfork_rss.py
+    python top_pitchfork_rss.py
 """
 
 from playwright.sync_api import sync_playwright
