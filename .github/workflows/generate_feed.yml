@@ -71,6 +71,10 @@ jobs:
         continue-on-error: true
         run: python top_pitchfork_rss.py
 
+      - name: Run Star Columnists scraper
+        continue-on-error: true
+        run: python star_columnists_rss.py
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
