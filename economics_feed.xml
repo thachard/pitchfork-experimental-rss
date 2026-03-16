@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Economics.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:29:03 +0000</lastBuildDate>
     <item>
       <title>In today’s Transformation Economy, companies must respond with more than just services</title>
       <link>https://www.theglobeandmail.com/business/careers/management/article-in-todays-transformation-economy-companies-must-respond-with-more-than/</link>
@@ -63,10 +63,10 @@
       <pubDate>Mon, 16 Mar 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Canada’s inflation rate eases to 1.8% in February from base-year effect of sales tax break</title>
+      <title>Canada’s inflation rate eases to 1.8% in February driven by end of last year’s tax holiday</title>
       <link>https://www.theglobeandmail.com/business/economy/article-canadas-inflation-rate-february-statscan-interest-rates/</link>
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-canadas-inflation-rate-february-statscan-interest-rates/</guid>
-      <description>CPI reading will factor into this week’s Bank of Canada interest rate decision</description>
+      <description>Lower prices from the sales tax break were only in effect for half the month, contributing to somewhat better CPI calculations</description>
       <pubDate>Mon, 16 Mar 2026 10:50:08 +0000</pubDate>
     </item>
     <item>
@@ -411,13 +411,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/jobs/article-canada-jobs-report-unemployment-rate-february/</guid>
       <description>Economy saw a significant drop in full-time jobs as uncertainty weighs on the labour market</description>
       <pubDate>Fri, 13 Mar 2026 14:36:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. economy grew at sluggish 0.7% rate in fourth quarter, well below estimate</title>
-      <link>https://www.theglobeandmail.com/business/economy/article-us-economy-gdp-growth-shutdown/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-us-economy-gdp-growth-shutdown/</guid>
-      <description>Forty-three-day government shutdown hobbled growth in GDP and federal government spending and investment</description>
-      <pubDate>Fri, 13 Mar 2026 13:19:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
