@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 10:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 11:14:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bill Orcutt – Music in Continuous Motion</title>
+      <link>https://pitchfork.com/reviews/albums/bill-orcutt-music-in-continuous-motion/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bill-orcutt-music-in-continuous-motion/</guid>
+      <description>A review by Vanessa Ague</description>
+      <author>Vanessa Ague</author>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mammo – Lateral</title>
       <link>https://pitchfork.com/reviews/albums/mammo-lateral/</link>
@@ -190,14 +198,6 @@
       <description>A review by James Gui</description>
       <author>James Gui</author>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>破地獄 / Scattered Purgatory – 波地獄 / Post Purgatory</title>
-      <link>https://pitchfork.com/reviews/albums/scattered-purgatory-post-purgatory/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/scattered-purgatory-post-purgatory/</guid>
-      <description>A review by James Gui</description>
-      <author>James Gui</author>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

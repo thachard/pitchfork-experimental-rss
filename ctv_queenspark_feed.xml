@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 15 Mar 2026 10:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 11:15:29 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario urges federal government to legalize pepper spray for self-defence</title>
+      <link>https://www.ctvnews.ca/toronto/article/ontario-government-calls-on-feds-to-legalize-pepper-spray-for-self-defence/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-government-calls-on-feds-to-legalize-pepper-spray-for-self-defence/</guid>
+      <description></description>
+      <pubDate>Sun, 15 Mar 2026 22:37:51 +0000</pubDate>
+    </item>
     <item>
       <title>Ford government to end funding for remaining supervised consumption sites: advocates</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-government-to-end-funding-for-remaining-supervised-consumption-sites-advocates/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-government-to-end-funding-for-remaining-supervised-consumption-sites-advocates/</guid>
-      <description></description>
+      <description>Ontario’s remaining supervised consumption sites will be forced to close after Premier Doug Ford’s government informed them Friday that the province is planning to pull their funding, harm reduction advocates say.</description>
       <pubDate>Sat, 14 Mar 2026 00:35:03 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-formally-takes-over-york-catholic-school-board-after-threatening-it-was-next/</guid>
       <description>Ontario Education Minister Paul Calandra has named supervisors to run both the Peel District School Board (PDSB) and the York Catholic District School Board (YCDSB) in response to “serious concerns” about their operations.</description>
       <pubDate>Thu, 05 Mar 2026 22:59:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man charged in connection with threat made against Premier Doug Ford: OPP</title>
-      <link>https://www.ctvnews.ca/barrie/article/person-charged-in-connection-with-threat-made-against-premier-opp/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/barrie/article/person-charged-in-connection-with-threat-made-against-premier-opp/</guid>
-      <description>Police have charged a 20-year-old from Alliston in connection with allegedly making a threat against Premier Doug Ford.</description>
-      <pubDate>Fri, 06 Mar 2026 01:39:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
