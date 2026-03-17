@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 10:36:51 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gregory Uhlmann – Extra Stars</title>
+      <link>https://pitchfork.com/reviews/albums/gregory-uhlmann-extra-stars/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gregory-uhlmann-extra-stars/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bill Orcutt – Music in Continuous Motion</title>
       <link>https://pitchfork.com/reviews/albums/bill-orcutt-music-in-continuous-motion/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mandy-indiana-urgh/</guid>
       <description>A review by Walden Green</description>
       <author>Walden Green</author>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tashi Dorji – low clouds hang, this land is on fire</title>
-      <link>https://pitchfork.com/reviews/albums/tashi-dorji-low-clouds-hang-this-land-is-on-fire/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tashi-dorji-low-clouds-hang-this-land-is-on-fire/</guid>
-      <description>A review by James Gui</description>
-      <author>James Gui</author>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
