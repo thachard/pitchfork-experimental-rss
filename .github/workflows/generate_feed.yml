@@ -3,7 +3,8 @@ name: Generate RSS Feeds
 on:
   schedule:
     - cron: '0 8 * * *'   # 8:00 AM UTC = 3:00 AM ET (winter) / 4:00 AM ET (summer)
-    - cron: '30 9 * * *'  # 9:30 AM UTC = 4:30 AM ET (winter) / 5:30 AM ET (summer)
+    - cron: '15 9 * * *'  # 9:15 AM UTC = 4:15 AM ET (winter) / 5:15 AM ET (summer)
+    - cron: '15 10 * * *'  # 10:15 AM UTC = 5:15 AM ET (winter) / 6:15 AM ET (summer)
   workflow_dispatch:
 
 permissions:
