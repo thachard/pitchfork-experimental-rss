@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Canada.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:56:48 +0000</lastBuildDate>
     <item>
       <title>Toronto's donor-funded consumption sites bracing for fallout of Ontario funding cuts</title>
       <link>https://www.ctvnews.ca/toronto/article/torontos-donor-funded-consumption-sites-bracing-for-fallout-of-ontario-funding-cuts/</link>
@@ -33,6 +33,13 @@
       <guid isPermaLink="true">https://www.cbc.ca/news/canada/ottawa/union-budget-carney-public-service-department-plans-9.7133612?cmp=rss</guid>
       <description>Federal programs aimed at addressing climate change are facing significant cuts as the government shifts to artificial intelligence and slashes thousands of jobs,  according to recently released departmental plans.</description>
       <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toronto to get rain and flurries on Thursday, the last day of winter</title>
+      <link>https://www.thestar.com/news/gta/toronto-to-get-rain-and-flurries-on-the-last-day-of-winter-thursday/article_a0260941-7f00-4ec2-a8da-af8776af6c83.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-to-get-rain-and-flurries-on-the-last-day-of-winter-thursday/article_a0260941-7f00-4ec2-a8da-af8776af6c83.html</guid>
+      <description></description>
+      <pubDate>Thu, 19 Mar 2026 07:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Canada is letting rural employers hire more temporary foreign workers. Economists say it’s a misstep</title>
@@ -89,13 +96,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/politics/article-pierre-poilievre-joe-rogan-podcast-interview-conservative-leader/</guid>
       <description>Influential U.S. podcaster’s interview with the Conservative Leader is expected to air on Thursday afternoon</description>
       <pubDate>Thu, 19 Mar 2026 00:18:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Young boy dies after being struck by GO train in Mississauga</title>
-      <link>https://www.thestar.com/news/gta/person-fatally-struck-by-train-along-lakeshore-west-go-line/article_b611a9c5-253a-4daa-adf5-4b7791b44823.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/person-fatally-struck-by-train-along-lakeshore-west-go-line/article_b611a9c5-253a-4daa-adf5-4b7791b44823.html</guid>
-      <description></description>
-      <pubDate>Wed, 18 Mar 2026 22:55:39 +0000</pubDate>
     </item>
     <item>
       <title>Politics Insider: Bank of Canada holds its benchmark interest rate steady</title>
@@ -572,13 +572,6 @@
       <guid isPermaLink="true">https://globalnews.ca/news/11732964/ottawa-space-launch-pad-nova-scotia/</guid>
       <description>Ottawa will use the funds over the next decade to lease a space launch pad near Canso, Nova Scotia, which will serve as the foundation for a future spaceport.</description>
       <pubDate>Mon, 16 Mar 2026 15:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carney, Starmer meet amid deepening Middle East crisis</title>
-      <link>https://www.cbc.ca/news/world/carney-canada-iran-oil-blockade-starmer-uk-9.7130065?cmp=rss</link>
-      <guid isPermaLink="true">https://www.cbc.ca/news/world/carney-canada-iran-oil-blockade-starmer-uk-9.7130065?cmp=rss</guid>
-      <description>Prime Minister Mark Carney and U.K. Prime Minister Keir Starmer met in London to discuss the escalating Middle East war and the closure of the Strait of Hormuz. The leaders condemned Iran's attacks, warned of mounting civilian and economic costs, and stressed the need to reopen the critical oil shipping route.</description>
-      <pubDate>Mon, 16 Mar 2026 11:28:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
