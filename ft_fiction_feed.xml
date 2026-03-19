@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 17 Mar 2026 10:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:24:39 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The News from Dublin by Colm Tóibín — short stories to astonish and delight</title>
+      <link>https://www.ft.com/content/94f92d01-fad3-48c6-b423-12a6c434828d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/94f92d01-fad3-48c6-b423-12a6c434828d</guid>
+      <description>Nine masterful tales chart unbreakable family connections — and complications — from Ireland to South America and Spain</description>
+      <pubDate>Thu, 19 Mar 2026 05:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pixie by Jill Dawson — retelling the fortunes of a great Tarot artist</title>
+      <link>https://www.ft.com/content/732194dc-7d10-46e6-9117-d1d01ce41cae</link>
+      <guid isPermaLink="true">https://www.ft.com/content/732194dc-7d10-46e6-9117-d1d01ce41cae</guid>
+      <description>The coming-of-age story of Pamela Colman Smith is brought to life in a meticulously researched historical novel spanning Jamaica, the US and the UK</description>
+      <pubDate>Tue, 17 Mar 2026 12:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/e9762565-f13e-4232-974c-1f192f12179c</guid>
       <description>A moving and amusing novel explores life’s challenges and choices through two young people’s passion for climbing</description>
       <pubDate>Mon, 09 Feb 2026 12:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>A panoply of intriguing new crime novels that do not disappoint</title>
-      <link>https://www.ft.com/content/655a4c36-a4e3-4468-8a8f-c170e287af7e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/655a4c36-a4e3-4468-8a8f-c170e287af7e</guid>
-      <description>From witchcraft to sociopaths and confused kids — plus the latest from Danny Ryan and Nicci French</description>
-      <pubDate>Mon, 09 Feb 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Roof Beneath Their Feet — on higher ground</title>
-      <link>https://www.ft.com/content/9396c47f-f94d-42ac-81a9-bae35cd7edef</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9396c47f-f94d-42ac-81a9-bae35cd7edef</guid>
-      <description>International Booker Prize winner Geetanjali Shree’s 2001 novel, now available in English, is a compassionate story of class, desire and friendship</description>
-      <pubDate>Fri, 06 Feb 2026 05:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
