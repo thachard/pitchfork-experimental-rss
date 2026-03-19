@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:11:07 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
+      <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</guid>
+      <description>A review by Vrinda Jagota</description>
+      <author>Vrinda Jagota</author>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Low – I Could Live in Hope</title>
       <link>https://pitchfork.com/reviews/albums/low-i-could-live-in-hope/</link>
@@ -238,14 +246,6 @@
       <description>A review by rad Shoup</description>
       <author>rad Shoup</author>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outkast – ATLiens</title>
-      <link>https://pitchfork.com/reviews/albums/outkast-atliens/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/outkast-atliens/</guid>
-      <description>A review by Paul A. Thompson</description>
-      <author>Paul A. Thompson</author>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

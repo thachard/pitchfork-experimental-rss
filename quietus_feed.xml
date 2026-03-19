@@ -5,8 +5,15 @@
     <link>https://thequietus.com/columns/quietus-reviews/album-of-the-week/</link>
     <description>Album of the Week reviews from The Quietus.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:09:21 +0000</lastBuildDate>
     <atom:link href="https://thequietus.com/columns/quietus-reviews/album-of-the-week/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Twilight of the Idols: Yourprettyplaceisgoingtohell by The Heads</title>
+      <link>https://thequietus.com/quietus-reviews/album-of-the-week/yourprettyplaceisgoingtohell-by-the-heads-review/</link>
+      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/yourprettyplaceisgoingtohell-by-the-heads-review/</guid>
+      <description>The Heads&apos; chaotic Dionysian abandon is always tempered by a mathematical Apollonian rigour, finds Stewart Lee</description>
+      <pubDate>Thu, 19 Mar 2026 08:51:06 +0000</pubDate>
+    </item>
     <item>
       <title>The Four Seasons: Bill Orcutt’s Music In Continuous Motion</title>
       <link>https://thequietus.com/quietus-reviews/album-of-the-week/bill-orcutt-music-in-continuous-motion-review/</link>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/armand-hammer-mercy-review/</guid>
       <description>On their seventh stellar album in a row, the unbeatable duo of Elucid and Billy Woods find space for small, everyday joys amongst the horror of contemporary geopolitics</description>
       <pubDate>Thu, 06 Nov 2025 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heavy Weather: A Theory of Cloud by Shrine Maiden</title>
-      <link>https://thequietus.com/quietus-reviews/album-of-the-week/a-theory-of-cloud-shrine-maiden-review/</link>
-      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/a-theory-of-cloud-shrine-maiden-review/</guid>
-      <description>Husband and wife duo Rachel Nakawatase and Ryan Betschart blend their doom with dreampop, noise, ambient and shoegaze elements, exploding the confines of linear perspective into new forms of sonic space</description>
-      <pubDate>Thu, 30 Oct 2025 08:57:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

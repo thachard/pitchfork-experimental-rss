@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:08:52 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
+      <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</guid>
+      <description>A review by Vrinda Jagota</description>
+      <author>Vrinda Jagota</author>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gregory Uhlmann – Extra Stars</title>
       <link>https://pitchfork.com/reviews/albums/gregory-uhlmann-extra-stars/</link>
@@ -190,14 +198,6 @@
       <description>A review by H.D. Angel</description>
       <author>H.D. Angel</author>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mandy, Indiana – URGH</title>
-      <link>https://pitchfork.com/reviews/albums/mandy-indiana-urgh/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mandy-indiana-urgh/</guid>
-      <description>A review by Walden Green</description>
-      <author>Walden Green</author>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
