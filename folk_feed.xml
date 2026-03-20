@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:02:37 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Luke Combs – The Way I Am</title>
+      <link>https://pitchfork.com/reviews/albums/luke-combs-the-way-i-am/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/luke-combs-the-way-i-am/</guid>
+      <description>A review by Stephen Thomas Erlewine</description>
+      <author>Stephen Thomas Erlewine</author>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anjimile – You’re Free to Go</title>
+      <link>https://pitchfork.com/reviews/albums/anjimile-youre-free-to-go/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/anjimile-youre-free-to-go/</guid>
+      <description>A review by en Cardew</description>
+      <author>en Cardew</author>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
       <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
@@ -182,22 +198,6 @@
       <description>A review by Aimee Cliff</description>
       <author>Aimee Cliff</author>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hannah Frances – Nested in Tangles</title>
-      <link>https://pitchfork.com/reviews/albums/hannah-frances-nested-in-tangles/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hannah-frances-nested-in-tangles/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Madison Cunningham – Ace</title>
-      <link>https://pitchfork.com/reviews/albums/madison-cunningham-ace/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/madison-cunningham-ace/</guid>
-      <description>A review by Hannah Jocelyn</description>
-      <author>Hannah Jocelyn</author>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

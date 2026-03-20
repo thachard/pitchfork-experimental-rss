@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:02:31 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anjimile – You’re Free to Go</title>
+      <link>https://pitchfork.com/reviews/albums/anjimile-youre-free-to-go/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/anjimile-youre-free-to-go/</guid>
+      <description>A review by en Cardew</description>
+      <author>en Cardew</author>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
       <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kavari-plague-music/</guid>
       <description>A review by James Gui</description>
       <author>James Gui</author>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gaute Granli – Rosacea</title>
-      <link>https://pitchfork.com/reviews/albums/gaute-granli-rosacea/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gaute-granli-rosacea/</guid>
-      <description>A review by H.D. Angel</description>
-      <author>H.D. Angel</author>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:03:34 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario plans to replace disjointed electronic medical records with its own system for family doctors</title>
+      <link>https://www.ctvnews.ca/toronto/article/ontario-plans-to-replace-disjointed-electronic-medical-records-with-its-own-system-for-family-doctors/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-plans-to-replace-disjointed-electronic-medical-records-with-its-own-system-for-family-doctors/</guid>
+      <description></description>
+      <pubDate>Thu, 19 Mar 2026 15:34:18 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto&apos;s donor-funded consumption sites bracing for fallout of Ontario funding cuts</title>
       <link>https://www.ctvnews.ca/toronto/article/torontos-donor-funded-consumption-sites-bracing-for-fallout-of-ontario-funding-cuts/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/torontos-donor-funded-consumption-sites-bracing-for-fallout-of-ontario-funding-cuts/</guid>
-      <description></description>
+      <description>As the Ontario government cuts funding for seven supervised drug consumption sites in the province, workers at three remaining sites in Toronto that don’t rely on provincial funding say they’re worried the move will further strain their resources and lead to more overdoses and open drug use across the city.</description>
       <pubDate>Thu, 19 Mar 2026 10:26:15 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/make-teaching-more-attractive-for-tradespeople-teachers-federation-tells-ontario/</guid>
       <description>Ontario must make entering the teaching profession more attractive to skilled tradespeople if it hopes to address a long-standing shortage of technological education teachers and ultimately get more students into the trades, a teachers organization says.</description>
       <pubDate>Thu, 12 Mar 2026 18:27:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simcoe County students express opposition to OSAP cuts by the Ontario government</title>
-      <link>https://www.ctvnews.ca/barrie/article/simcoe-county-students-express-opposition-to-osap-cuts-by-the-ontario-government/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/barrie/article/simcoe-county-students-express-opposition-to-osap-cuts-by-the-ontario-government/</guid>
-      <description>High school students in Barrie traded in their books for protest signs on Wednesday to fight the Ontario government’s planned changes to the province’s student financial aid program.</description>
-      <pubDate>Thu, 12 Mar 2026 17:57:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:04:36 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grace Ives – Girlfriend</title>
+      <link>https://pitchfork.com/reviews/albums/grace-ives-girlfriend/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/grace-ives-girlfriend/</guid>
+      <description>A review by Hattie Lindert</description>
+      <author>Hattie Lindert</author>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
       <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
@@ -238,14 +246,6 @@
       <description>A review by Jeremy D. Larson</description>
       <author>Jeremy D. Larson</author>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Durutti Column – The Return of the Durutti Column (Expanded &amp; Remastered)</title>
-      <link>https://pitchfork.com/reviews/albums/the-durutti-column-the-return-of-the-durutti-column-expanded-and-remastered/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-durutti-column-the-return-of-the-durutti-column-expanded-and-remastered/</guid>
-      <description>A review by rad Shoup</description>
-      <author>rad Shoup</author>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
