@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:08:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:48:43 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario to miss federal deadline for publicly funding nurse practitioners</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-miss-federal-deadline-for-publicly-funding-nurse-practitioners/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-miss-federal-deadline-for-publicly-funding-nurse-practitioners/</guid>
+      <description></description>
+      <pubDate>Fri, 20 Mar 2026 11:36:38 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario plans to replace disjointed electronic medical records with its own system for family doctors</title>
       <link>https://www.ctvnews.ca/toronto/article/ontario-plans-to-replace-disjointed-electronic-medical-records-with-its-own-system-for-family-doctors/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-plans-to-replace-disjointed-electronic-medical-records-with-its-own-system-for-family-doctors/</guid>
-      <description></description>
+      <description>The province says plans are in the works to develop its own electronic medical records system for family doctors that will link the “disconnected” software that currently prevents physicians from sharing information with other health-care professionals.</description>
       <pubDate>Thu, 19 Mar 2026 15:34:18 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-moves-to-keep-documents-from-premier-and-cabinet-minister-offices-secret/</guid>
       <description>The Ontario government says it will be introducing legislation to keep secret documents from the premier’s office as well as the offices of his cabinet ministers.</description>
       <pubDate>Fri, 13 Mar 2026 21:47:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Make teaching more attractive for tradespeople, teachers&apos; federation tells Ontario</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/make-teaching-more-attractive-for-tradespeople-teachers-federation-tells-ontario/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/make-teaching-more-attractive-for-tradespeople-teachers-federation-tells-ontario/</guid>
-      <description>Ontario must make entering the teaching profession more attractive to skilled tradespeople if it hopes to address a long-standing shortage of technological education teachers and ultimately get more students into the trades, a teachers organization says.</description>
-      <pubDate>Thu, 12 Mar 2026 18:27:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

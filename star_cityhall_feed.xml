@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:48:16 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>A Toronto councillor wants to create public grocery stores to tackle rising food costs. Would that work here?</title>
@@ -127,6 +127,13 @@
       <pubDate>Tue, 10 Feb 2026 12:20:45 +0000</pubDate>
     </item>
     <item>
+      <title>Snow, ice and freezing rain kick off the first day of spring in Toronto</title>
+      <link>https://www.thestar.com/news/gta/snow-ice-and-freezing-rain-kick-off-the-first-day-of-spring-in-toronto/article_c5328ee0-0b3b-48ba-ae4c-3bf62efb0dc2.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/snow-ice-and-freezing-rain-kick-off-the-first-day-of-spring-in-toronto/article_c5328ee0-0b3b-48ba-ae4c-3bf62efb0dc2.html</guid>
+      <description></description>
+      <pubDate>Fri, 20 Mar 2026 07:24:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Parents outraged by TDSB slashing number of summer school locations by more than half: ‘I’m still reeling’</title>
       <link>https://www.thestar.com/news/gta/parents-outraged-by-tdsb-slashing-number-of-summer-school-locations-by-more-than-half-im-still-reeling/article_5963db33-e6ed-4f6a-be41-b2ac176790b5.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/parents-outraged-by-tdsb-slashing-number-of-summer-school-locations-by-more-than-half-im-still-reeling/article_5963db33-e6ed-4f6a-be41-b2ac176790b5.html</guid>
@@ -145,7 +152,7 @@
       <link>https://www.thestar.com/news/gta/a-night-at-mississaugas-ridgeway-plaza-as-ramadan-ends-hundreds-break-their-fast-at-the-vital-late-night-hub/article_a8de5cb9-78a7-47a4-95d8-c71c99483ed8.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/a-night-at-mississaugas-ridgeway-plaza-as-ramadan-ends-hundreds-break-their-fast-at-the-vital-late-night-hub/article_a8de5cb9-78a7-47a4-95d8-c71c99483ed8.html</guid>
       <description></description>
-      <pubDate>Fri, 20 Mar 2026 05:59:15 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steve’s Music Store will permanently close its Toronto doors on Sunday</title>
@@ -160,13 +167,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/metrolinx-police-investigating-go-train-crash-that-killed-young-boy-in-mississauga/article_8b11945c-f018-4dde-8804-8c73dca1e680.html</guid>
       <description></description>
       <pubDate>Thu, 19 Mar 2026 21:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto Islamic Centre creates safe ‘buddy system’ after multiple violent incidents</title>
-      <link>https://www.thestar.com/news/gta/toronto-islamic-centre-creates-safe-buddy-system-after-multiple-violent-incidents/article_c9a60d7a-0c61-4eb1-968c-3898389c16a5.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-islamic-centre-creates-safe-buddy-system-after-multiple-violent-incidents/article_c9a60d7a-0c61-4eb1-968c-3898389c16a5.html</guid>
-      <description></description>
-      <pubDate>Thu, 19 Mar 2026 23:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
