@@ -5,13 +5,13 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Economics.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:50:35 +0000</lastBuildDate>
     <item>
-      <title>UK household energy bills to rise by £332 as Iran war drives up prices</title>
-      <link>https://www.ft.com/content/53b4463a-4888-48ad-981a-023369e6dd33</link>
-      <guid isPermaLink="true">https://www.ft.com/content/53b4463a-4888-48ad-981a-023369e6dd33</guid>
-      <description>Price cap expected to rise 20% from July to September</description>
-      <pubDate>Fri, 20 Mar 2026 11:03:44 +0000</pubDate>
+      <title>Failure to reform WTO may prompt some countries to seek other free-trade options</title>
+      <link>https://www.theglobeandmail.com/business/article-wto-reform-meeting-cameroon-free-trade-eu-cptpp/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-wto-reform-meeting-cameroon-free-trade-eu-cptpp/</guid>
+      <description>EU, CPTPP trading blocks may pursue deeper co-operation if talks stall in Cameroon next week</description>
+      <pubDate>Fri, 20 Mar 2026 11:41:13 +0000</pubDate>
     </item>
     <item>
       <title>ECB, BoE could hike rates as early as April on inflation pressures, brokerages say</title>
@@ -33,6 +33,13 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-business-brief-the-man-behind-canadas-quantum-leap/</guid>
       <description>Christian Weedbrook is a man of science, and sees the future of Quantum Computing</description>
       <pubDate>Fri, 20 Mar 2026 10:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK borrowing costs hit highest since 2008 amid inflation shock</title>
+      <link>https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1e77f7ce-1c93-4852-9970-297636a7d9cf</guid>
+      <description>Ten-year gilt yields rise to 4.94% as borrowing numbers add to concerns over energy-driven inflation shock</description>
+      <pubDate>Fri, 20 Mar 2026 10:22:49 +0000</pubDate>
     </item>
     <item>
       <title>FirstFT: Fears of jet fuel shortage rattle airlines</title>
@@ -231,10 +238,10 @@
       <pubDate>Thu, 19 Mar 2026 23:55:02 +0000</pubDate>
     </item>
     <item>
-      <title>Iran renews Gulf strikes as oil steadies</title>
+      <title>Iran renews strikes on Gulf as Israel attacks Tehran</title>
       <link>https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f</link>
       <guid isPermaLink="true">https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f</guid>
-      <description>Energy prices ease after Israeli PM says war will end sooner than people think</description>
+      <description>Oil rose to $110 a barrel but was down from a high of $119 touched in volatile trading on Thursday</description>
       <pubDate>Thu, 19 Mar 2026 23:30:02 +0000</pubDate>
     </item>
     <item>
@@ -264,20 +271,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-ottawa-appeal-emergencies-act-truckers/</guid>
       <description>Costly appeal not in public interest after Ottawa already suffered two decisive legal defeats</description>
       <pubDate>Thu, 19 Mar 2026 22:47:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some provinces criticize expansion of Temporary Foreign Worker Program for rural employers</title>
-      <link>https://www.theglobeandmail.com/business/article-some-provinces-criticize-expansion-of-temporary-foreign-worker-program/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-some-provinces-criticize-expansion-of-temporary-foreign-worker-program/</guid>
-      <description>British Columbia, Alberta, Saskatchewan and Ontario still deciding whether to participate</description>
-      <pubDate>Thu, 19 Mar 2026 22:18:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xanadu CEO Christian Weedbrook wants his company to win the quantum race. Now he’s betting big on going public</title>
-      <link>https://www.theglobeandmail.com/business/article-xanadu-ipo-ceo-christian-weedbrook-quantum-computing-race/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-xanadu-ipo-ceo-christian-weedbrook-quantum-computing-race/</guid>
-      <description>From dropping out of film school to leading the Canadian firm’s bold public offering, the tech trailblazer is no stranger to calculated risks</description>
-      <pubDate>Thu, 19 Mar 2026 21:53:06 +0000</pubDate>
     </item>
     <item>
       <title>Iran’s AI-slop war propaganda is working surprisingly well</title>
@@ -348,13 +341,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/28ad014b-091c-437f-8109-c523606378c2</guid>
       <description>Tribunal hears that financier had 40% of his management fees slashed by his hedge fund</description>
       <pubDate>Thu, 19 Mar 2026 17:56:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe needs to prepare now for an extended energy shock</title>
-      <link>https://www.ft.com/content/5b9df1a3-9418-4ecb-846e-11a032042e6c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/5b9df1a3-9418-4ecb-846e-11a032042e6c</guid>
-      <description>Flows of oil and gas do not resume like turning a tap back on</description>
-      <pubDate>Thu, 19 Mar 2026 17:56:06 +0000</pubDate>
     </item>
     <item>
       <title>Colt Canada to deliver more than 65,000 rifles to Canadian troops in sped-up procurement process</title>
@@ -476,6 +462,13 @@
       <pubDate>Wed, 18 Mar 2026 23:08:29 +0000</pubDate>
     </item>
     <item>
+      <title>Chinese EV maker BYD in talks to open Canadian dealerships, consultant says</title>
+      <link>https://www.theglobeandmail.com/business/article-china-ev-maker-byd-auto-dealerships-canada/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-china-ev-maker-byd-auto-dealerships-canada/</guid>
+      <description>Automaker said to be looking at establishing 20 dealerships in GTA, followed by locations in three other cities</description>
+      <pubDate>Wed, 18 Mar 2026 21:36:43 +0000</pubDate>
+    </item>
+    <item>
       <title>What if Donald Trump decided to ban oil exports?</title>
       <link>https://www.economist.com/finance-and-economics/2026/03/18/what-if-donald-trump-decided-to-ban-oil-exports</link>
       <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/03/18/what-if-donald-trump-decided-to-ban-oil-exports</guid>
@@ -518,17 +511,17 @@
       <pubDate>Wed, 18 Mar 2026 11:12:46 +0000</pubDate>
     </item>
     <item>
-      <title>How Canada can help allies with the Iran oil shock: The answer may surprise you</title>
-      <link>https://www.theglobeandmail.com/business/commentary/article-how-canada-can-help-allies-with-the-iran-oil-shock-the-answer-may/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-how-canada-can-help-allies-with-the-iran-oil-shock-the-answer-may/</guid>
-      <description>Investing in geothermal energy could have a domino effect</description>
-      <pubDate>Wed, 18 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Rumours of 1970s stagflation from Iran oil shock are greatly exaggerated</title>
       <link>https://www.theglobeandmail.com/business/commentary/article-1970s-stagflation-iran-war-oil-shock/</link>
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-1970s-stagflation-iran-war-oil-shock/</guid>
       <description>There are some key differences between conditions today and in the 1970s</description>
+      <pubDate>Wed, 18 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Canada can help allies with the Iran oil shock: The answer may surprise you</title>
+      <link>https://www.theglobeandmail.com/business/commentary/article-how-canada-can-help-allies-with-the-iran-oil-shock-the-answer-may/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-how-canada-can-help-allies-with-the-iran-oil-shock-the-answer-may/</guid>
+      <description>Investing in geothermal energy could have a domino effect</description>
       <pubDate>Wed, 18 Mar 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
