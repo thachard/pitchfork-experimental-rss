@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 19 Mar 2026 11:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 11:07:44 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Obituary.Len Deighton, writer, 1929-2026</title>
+      <link>https://www.ft.com/content/32e4c2d6-9afe-41e4-ac95-48aa8443633f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/32e4c2d6-9afe-41e4-ac95-48aa8443633f</guid>
+      <description>He reframed the spy novel genre with gritty cold-war thrillers but possessed an extraordinary range of talents, from graphic designer to historian</description>
+      <pubDate>Thu, 19 Mar 2026 13:01:07 +0000</pubDate>
+    </item>
     <item>
       <title>The News from Dublin by Colm Tóibín — short stories to astonish and delight</title>
       <link>https://www.ft.com/content/94f92d01-fad3-48c6-b423-12a6c434828d</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/738c6d1d-7346-4f25-8543-6917b61343b4</guid>
       <description>Reading a piece of literature where it was written can transform our relationship with a metropolis, landscape, and the book itself</description>
       <pubDate>Wed, 11 Feb 2026 13:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crux by Gabriel Tallent — the thrills and spills of friendship</title>
-      <link>https://www.ft.com/content/e9762565-f13e-4232-974c-1f192f12179c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e9762565-f13e-4232-974c-1f192f12179c</guid>
-      <description>A moving and amusing novel explores life’s challenges and choices through two young people’s passion for climbing</description>
-      <pubDate>Mon, 09 Feb 2026 12:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
