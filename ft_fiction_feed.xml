@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 20 Mar 2026 11:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 09:03:20 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Rana Dasgupta on empire to the directors who changed the movies — plus new stories by Colm Tóibín, Mossad’s mystique and a myth-busting guide to recessions</description>
+      <pubDate>Fri, 20 Mar 2026 15:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>City Like Water — drowning in oppression</title>
+      <link>https://www.ft.com/content/49cd96e8-119a-4bc1-88ef-44f0fa48d8a0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/49cd96e8-119a-4bc1-88ef-44f0fa48d8a0</guid>
+      <description>A family is caught in a political sea of deception in this dystopian novella by Hong Kong author Dorothy Tse</description>
+      <pubDate>Fri, 20 Mar 2026 12:00:11 +0000</pubDate>
+    </item>
     <item>
       <title>Obituary.Len Deighton, writer, 1929-2026</title>
       <link>https://www.ft.com/content/32e4c2d6-9afe-41e4-ac95-48aa8443633f</link>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/732194dc-7d10-46e6-9117-d1d01ce41cae</guid>
       <description>The coming-of-age story of Pamela Colman Smith is brought to life in a meticulously researched historical novel spanning Jamaica, the US and the UK</description>
       <pubDate>Tue, 17 Mar 2026 12:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From David Willetts on liberalism to Gisèle Pelicot on audio — plus saving woodland, an Alan Bennett interview, Howard Jacobson’s angry new novel and a tale of Iran’s brave women</description>
-      <pubDate>Fri, 13 Mar 2026 13:16:03 +0000</pubDate>
     </item>
     <item>
       <title>Howl — Howard Jacobson lambasts antisemitism in his angriest novel yet</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/f2fa10bf-6339-4376-9284-27715e8db985</guid>
       <description>A celebrated Russian author in exile turns to fiction to navigate the physical and psychological fallout of one’s home country waging war against its neighbour</description>
       <pubDate>Thu, 12 Feb 2026 12:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Need a guide to a strange city? Pack a novel</title>
-      <link>https://www.ft.com/content/738c6d1d-7346-4f25-8543-6917b61343b4</link>
-      <guid isPermaLink="true">https://www.ft.com/content/738c6d1d-7346-4f25-8543-6917b61343b4</guid>
-      <description>Reading a piece of literature where it was written can transform our relationship with a metropolis, landscape, and the book itself</description>
-      <pubDate>Wed, 11 Feb 2026 13:20:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
