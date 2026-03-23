@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 11:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:12:57 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>underscores – U</title>
+      <link>https://pitchfork.com/reviews/albums/underscores-u/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/underscores-u/</guid>
+      <description>A review by Walden Green</description>
+      <author>Walden Green</author>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patrice Rushen – Straight From the Heart</title>
       <link>https://pitchfork.com/reviews/albums/patrice-rushen-straight-from-the-heart/</link>
@@ -238,14 +246,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Necessaries – Completely Necessary</title>
-      <link>https://pitchfork.com/reviews/albums/the-necessaries-completely-necessary/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-necessaries-completely-necessary/</guid>
-      <description>A review by Linnie Greene</description>
-      <author>Linnie Greene</author>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
