@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Canada.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:55:27 +0000</lastBuildDate>
     <item>
       <title>Opposition parties to pressure Ford government to reverse OSAP changes as legislature resumes</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/opposition-parties-to-pressure-ford-government-to-reverse-osap-changes-as-legislature-resumes/</link>
@@ -40,6 +40,13 @@
       <guid isPermaLink="true">https://www.cbc.ca/news/politics/cbsa-harassment-inquiry-9.7136689?cmp=rss</guid>
       <description>The House of Commons public safety committee is planning an inquiry this spring to examine "systemic discrimination and organizational culture" within Canada's border agency.</description>
       <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dolly Parton. Diefenbarker. Ossington. Are these Toronto’s most unique dog names?</title>
+      <link>https://www.thestar.com/news/gta/dolly-parton-diefenbarker-ossington-are-these-torontos-most-unique-dog-names/article_5806146a-6194-42a9-a74e-7be1231db0a2.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/dolly-parton-diefenbarker-ossington-are-these-torontos-most-unique-dog-names/article_5806146a-6194-42a9-a74e-7be1231db0a2.html</guid>
+      <description></description>
+      <pubDate>Mon, 23 Mar 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What to expect when Doug Ford brings the legislature back on Monday</title>
@@ -117,13 +124,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/clashing-visions-define-pivotal-ndp-leadership-race-as-party-prepares-to-rebuild/article_69633f29-6a18-4856-b36b-3fca9d5ff533.html</guid>
       <description>A week from now, New Democrats will make their choice for a new leader.</description>
       <pubDate>Sun, 22 Mar 2026 19:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mild weather, spring showers prompt water safety warning in Toronto</title>
-      <link>https://www.thestar.com/news/gta/showers-and-mild-weather-round-out-torontos-first-spring-weekend/article_5127fe47-c085-4143-9fd9-823ca8bc8eab.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/showers-and-mild-weather-round-out-torontos-first-spring-weekend/article_5127fe47-c085-4143-9fd9-823ca8bc8eab.html</guid>
-      <description></description>
-      <pubDate>Sun, 22 Mar 2026 18:48:07 +0000</pubDate>
     </item>
     <item>
       <title>Public servant ‘scared’ to retire due to problems with Phoenix pay system</title>
@@ -392,6 +392,13 @@
       <pubDate>Fri, 20 Mar 2026 19:00:27 +0000</pubDate>
     </item>
     <item>
+      <title>Ontario to miss federal deadline for publicly funding nurse practitioners</title>
+      <link>https://www.thestar.com/politics/ontario-to-miss-federal-deadline-for-publicly-funding-nurse-practitioners/article_6ab2a76e-2e86-5309-9262-7377bb0b1ebf.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/ontario-to-miss-federal-deadline-for-publicly-funding-nurse-practitioners/article_6ab2a76e-2e86-5309-9262-7377bb0b1ebf.html</guid>
+      <description></description>
+      <pubDate>Fri, 20 Mar 2026 18:40:53 +0000</pubDate>
+    </item>
+    <item>
       <title>3 Quebec maritime trainees return home after being stranded aboard ship in the Persian Gulf</title>
       <link>https://www.cbc.ca/news/canada/montreal/quebec-maritime-trainees-9.7136552?cmp=rss</link>
       <guid isPermaLink="true">https://www.cbc.ca/news/canada/montreal/quebec-maritime-trainees-9.7136552?cmp=rss</guid>
@@ -411,13 +418,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/politics/opinion/article-pierre-poilievre-joe-rogan-experience-politics-kettlebells/</guid>
       <description>In between extended meditations on all things bro, we learned some interesting things about Mr. Poilievre</description>
       <pubDate>Fri, 20 Mar 2026 14:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario to miss federal deadline for publicly funding nurse practitioners</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-miss-federal-deadline-for-publicly-funding-nurse-practitioners/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-miss-federal-deadline-for-publicly-funding-nurse-practitioners/</guid>
-      <description>Ontario will not have a policy in place to publicly fund all medically necessary services from nurse practitioners by April 1, as ordered by the federal government, leaving some patients paying out of pocket for primary care.</description>
-      <pubDate>Fri, 20 Mar 2026 11:36:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
