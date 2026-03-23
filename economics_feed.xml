@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Economics.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 12:05:21 +0000</lastBuildDate>
+    <item>
+      <title>Made in Canada: Beachman Electric Bikes has found its winning formula</title>
+      <link>https://www.theglobeandmail.com/business/rob-magazine/article-made-in-canada-beachman-electric-bikes-has-found-its-winning-formula/</link>
+      <guid isPermaLink="true">https://www.theglobeandmail.com/business/rob-magazine/article-made-in-canada-beachman-electric-bikes-has-found-its-winning-formula/</guid>
+      <description>Beachman is redefining what an e-bike can be</description>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Two pilots killed after Air Canada jet crashes into fire truck at LaGuardia Airport</title>
       <link>https://www.theglobeandmail.com/canada/article-air-canada-crash-laguardia-airport-two-pilots-dead/</link>
@@ -56,7 +63,7 @@
       <pubDate>Mon, 23 Mar 2026 10:12:59 +0000</pubDate>
     </item>
     <item>
-      <title>BlackRock’s Fink warns AI may intensify wealth inequality</title>
+      <title>Larry Fink warns AI may intensify wealth inequality</title>
       <link>https://www.ft.com/content/58602814-8138-4a14-a32e-d82dec2d472c</link>
       <guid isPermaLink="true">https://www.ft.com/content/58602814-8138-4a14-a32e-d82dec2d472c</guid>
       <description>CEO of world’s biggest asset manager says rich backers of artificial intelligence could reap most of the rewards</description>
@@ -481,13 +488,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-steady-interest-rate-helps-reassure-buyers-february-home-sales-dip-to/</guid>
       <description>Plus, this week’s lowest fixed and variable mortgage rates in Canada</description>
       <pubDate>Fri, 20 Mar 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Tech’s new carbon play</title>
-      <link>https://www.ft.com/content/a518445a-b800-4605-9f5b-12d4266b85b2</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a518445a-b800-4605-9f5b-12d4266b85b2</guid>
-      <description>Is the latest twist on offsets a good idea?</description>
-      <pubDate>Fri, 20 Mar 2026 12:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
