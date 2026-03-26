@@ -5,8 +5,15 @@
     <link>https://thequietus.com/columns/quietus-reviews/album-of-the-week/</link>
     <description>Album of the Week reviews from The Quietus.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 25 Mar 2026 12:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:40:01 +0000</lastBuildDate>
     <atom:link href="https://thequietus.com/columns/quietus-reviews/album-of-the-week/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Symphonies from Destruction: Kinshasa in Action by KinAct</title>
+      <link>https://thequietus.com/quietus-reviews/album-of-the-week/kinact-kinshasa-in-action-review/</link>
+      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/kinact-kinshasa-in-action-review/</guid>
+      <description>Congolese collective build sonic starships ouf of the scrapyards of Africa, transforming ritual into auditory assault</description>
+      <pubDate>Thu, 26 Mar 2026 09:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>Twilight of the Idols: Yourprettyplaceisgoingtohell by The Heads</title>
       <link>https://thequietus.com/quietus-reviews/album-of-the-week/yourprettyplaceisgoingtohell-by-the-heads-review/</link>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/a-topography-of-intimacy-a-body-like-a-home-by-alejandra-cardenas/</guid>
       <description>To the sound of cumbia rhythms, noisy bass tremors, frantic violin phrases and spectral electronics, the Peruvian-born artist creates a moving meditation on home and homeliness, from the unconscious desires buried in the basement to the hopes and dreams spiralling from the attic room</description>
       <pubDate>Thu, 13 Nov 2025 09:10:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chopper Choons: Mercy by Armand Hammer and The Alchemist</title>
-      <link>https://thequietus.com/quietus-reviews/album-of-the-week/armand-hammer-mercy-review/</link>
-      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/armand-hammer-mercy-review/</guid>
-      <description>On their seventh stellar album in a row, the unbeatable duo of Elucid and Billy Woods find space for small, everyday joys amongst the horror of contemporary geopolitics</description>
-      <pubDate>Thu, 06 Nov 2025 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 12:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:39:33 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GRRL – Beetle</title>
+      <link>https://pitchfork.com/reviews/albums/grrl-beetle/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/grrl-beetle/</guid>
+      <description>A review by enny Sun</description>
+      <author>enny Sun</author>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ana Tijoux / DJ Dacel – 97EP</title>
+      <link>https://pitchfork.com/reviews/albums/ana-tijoux-dj-dacel-97-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ana-tijoux-dj-dacel-97-ep/</guid>
+      <description>A review by E.R. Pulgar</description>
+      <author>E.R. Pulgar</author>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dylan Brady – Needle GuyEP</title>
       <link>https://pitchfork.com/reviews/albums/dylan-brady-needle-guy-ep/</link>
@@ -182,22 +198,6 @@
       <description>A review by Matthew Blackwell</description>
       <author>Matthew Blackwell</author>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Organ Tapes – 一包烟 (Yi Bao Yan)</title>
-      <link>https://pitchfork.com/reviews/albums/organ-tapes-yi-bao-yan/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/organ-tapes-yi-bao-yan/</guid>
-      <description>A review by James Gui</description>
-      <author>James Gui</author>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yapping Portal – blue fifty-six</title>
-      <link>https://pitchfork.com/reviews/albums/yapping-portal-blue-fifty-six/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/yapping-portal-blue-fifty-six/</guid>
-      <description>A review by Maxie Younger</description>
-      <author>Maxie Younger</author>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
