@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 08:38:10 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘We’re fixing it’: Toronto unveils new congestion plan as gridlock continues to mount</title>
+      <link>https://www.ctvnews.ca/toronto/article/were-fixing-it-toronto-unveils-new-congestion-plan-as-gridlock-continues-to-mount/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/were-fixing-it-toronto-unveils-new-congestion-plan-as-gridlock-continues-to-mount/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 27 Mar 2026 17:52:30 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto city council votes to ban flying flags of foreign countries at City Hall, civic centres</title>
       <link>https://www.ctvnews.ca/toronto/article/toronto-city-council-votes-to-ban-flying-flags-of-foreign-countries-at-city-hall-civic-centres/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-city-council-votes-to-ban-flying-flags-of-foreign-countries-at-city-hall-civic-centres/</guid>
-      <description></description>
+      <description>Flags of foreign nations will not be raised on flagpoles at Toronto City Hall and civic centres starting in December.</description>
       <pubDate>Fri, 27 Mar 2026 09:19:26 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/efficacy-of-torontos-vacant-home-tax-questioned-in-record-slow-real-estate-market/</guid>
       <description>The City of Toronto’s vacant home tax was created to make housing more available and affordable, but several years into the policy it’s not known how many properties have been converted into additional homes.</description>
       <pubDate>Wed, 28 Jan 2026 00:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto plans to complete some road projects before the FIFA World Cup starts this summer</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-plans-to-complete-some-road-projects-before-the-fifa-world-cup-starts-this-summer/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-plans-to-complete-some-road-projects-before-the-fifa-world-cup-starts-this-summer/</guid>
-      <description>FIFA World Cup organizers, athletes, and many visitors are expected to fill the city when Toronto hosts six of the international soccer matches in June and July, and some are worried about delays related to construction on Toronto’s roads.</description>
-      <pubDate>Thu, 22 Jan 2026 22:10:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
