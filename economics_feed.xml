@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Economics.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 09:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 10:55:39 +0000</lastBuildDate>
+    <item>
+      <title>Social media has been put on notice</title>
+      <link>https://www.ft.com/content/dd7606e1-8350-4d88-8026-7afaaf5a23a5</link>
+      <guid isPermaLink="true">https://www.ft.com/content/dd7606e1-8350-4d88-8026-7afaaf5a23a5</guid>
+      <description>Legal and legislative pressure is mounting to safeguard young people</description>
+      <pubDate>Sun, 29 Mar 2026 10:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>Iran accuses US of seeking talks while preparing to invade</title>
       <link>https://www.ft.com/content/21607fce-182d-45d1-bcf2-d2a78f9339cb</link>
@@ -193,13 +200,6 @@
       <link>https://www.ft.com/content/130c4cd3-4d88-4a7c-b199-2104ac12bc04</link>
       <guid isPermaLink="true">https://www.ft.com/content/130c4cd3-4d88-4a7c-b199-2104ac12bc04</guid>
       <description>Take the proactive approach, from a build-your-own Eames house to the TikTok realtors selling mega-homes on social media</description>
-      <pubDate>Sat, 28 Mar 2026 05:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inheritance disputes surge to record levels as heirs fight for spoils</title>
-      <link>https://www.ft.com/content/62ac2cd5-8e35-43e5-a65e-8c851fe4fa51</link>
-      <guid isPermaLink="true">https://www.ft.com/content/62ac2cd5-8e35-43e5-a65e-8c851fe4fa51</guid>
-      <description>Rising asset values and increasingly complex families spark increase in cases heading to court</description>
       <pubDate>Sat, 28 Mar 2026 05:00:21 +0000</pubDate>
     </item>
     <item>
@@ -523,27 +523,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-banks-deregulation-2008-crash-fed/</guid>
       <description>Fed has provisionally approved easing regulations put in place following the 2008 financial crisis</description>
       <pubDate>Thu, 26 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The decline and fall of the Roman currency empire</title>
-      <link>https://www.economist.com/finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire</link>
-      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire</guid>
-      <description>The fate of ancient coins offers uncomfortable lessons about dollar dominance</description>
-      <pubDate>Thu, 26 Mar 2026 10:18:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Christine Lagarde’s sober tone on the Gulf war energy shock</title>
-      <link>https://www.economist.com/finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock</link>
-      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock</guid>
-      <description>Our interview with the ECB’s president</description>
-      <pubDate>Thu, 26 Mar 2026 10:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s in it for Canada in the new global defence bank? It may not be what you think</title>
-      <link>https://www.theglobeandmail.com/business/commentary/article-defence-security-resilience-bank-dsrb/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-defence-security-resilience-bank-dsrb/</guid>
-      <description>DSRB claims to offer ‘long-term, low-cost financing without adding pressure to national balance sheets’ - but it still needs to be funded by them</description>
-      <pubDate>Thu, 26 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

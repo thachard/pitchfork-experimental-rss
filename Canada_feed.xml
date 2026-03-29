@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Canada.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 09:57:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 10:55:21 +0000</lastBuildDate>
+    <item>
+      <title>As prime minister, Mark Carney makes Question Period a low priority</title>
+      <link>https://globalnews.ca/news/11750090/prime-minister-mark-carney-question-period-attendance/</link>
+      <guid isPermaLink="true">https://globalnews.ca/news/11750090/prime-minister-mark-carney-question-period-attendance/</guid>
+      <description>A Global News analysis of Hansard shows Prime Minister Mark Carney has attended Question Period less than 30 per cent of the time, much less than either of his two predecessors.</description>
+      <pubDate>Sun, 29 Mar 2026 10:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Ottawa's big bet on world's largest cricket farm ran into a simple problem: the 'yuck factor'</title>
       <link>https://www.cbc.ca/news/canada/canada-aspire-food-cricket-farm-9.7136152?cmp=rss</link>
@@ -628,13 +635,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/politics/article-canada-nato-defence-military-spending/</guid>
       <description>Canada’s defence spending as a proportion of its economic output has not been this high since the end of the Cold War</description>
       <pubDate>Thu, 26 Mar 2026 12:18:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shopify flexes its political muscle with Canadian lobbying blitz</title>
-      <link>https://thelogic.co/news/shopify-lobbying-ottawa-michel-liboiron/</link>
-      <guid isPermaLink="true">https://thelogic.co/news/shopify-lobbying-ottawa-michel-liboiron/</guid>
-      <description>The post Shopify flexes its political muscle with Canadian lobbying blitz appeared first on The Logic .</description>
-      <pubDate>Thu, 26 Mar 2026 10:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
