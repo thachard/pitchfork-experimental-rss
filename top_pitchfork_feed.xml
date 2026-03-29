@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 10:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 08:39:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brandy – Full Moon</title>
+      <link>https://pitchfork.com/reviews/albums/brandy-full-moon/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/brandy-full-moon/</guid>
+      <description>A review by Jackson Howard</description>
+      <author>Jackson Howard</author>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rocketship – A Certain Smile, A Certain Sadness</title>
       <link>https://pitchfork.com/reviews/albums/rocketship-a-certain-smile-a-certain-sadness/</link>
@@ -238,14 +246,6 @@
       <description>A review by Walden Green</description>
       <author>Walden Green</author>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>xaviersobased – Xavier</title>
-      <link>https://pitchfork.com/reviews/albums/xaviersobased-xavier/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/xaviersobased-xavier/</guid>
-      <description>A review by Alphonse Pierre</description>
-      <author>Alphonse Pierre</author>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
