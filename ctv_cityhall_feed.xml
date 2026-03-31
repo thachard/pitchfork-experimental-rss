@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 08:58:35 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto’s newest transit project gets green light with provincial, federal funding</title>
+      <link>https://www.ctvnews.ca/toronto/article/torontos-3-billion-waterfront-east-transit-project-gets-provincial-federal-funding/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/torontos-3-billion-waterfront-east-transit-project-gets-provincial-federal-funding/</guid>
+      <description>Video</description>
+      <pubDate>Tue, 31 Mar 2026 01:12:13 +0000</pubDate>
+    </item>
     <item>
       <title>‘We’re fixing it’: Toronto unveils new congestion plan as gridlock continues to mount</title>
       <link>https://www.ctvnews.ca/toronto/article/were-fixing-it-toronto-unveils-new-congestion-plan-as-gridlock-continues-to-mount/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/were-fixing-it-toronto-unveils-new-congestion-plan-as-gridlock-continues-to-mount/</guid>
-      <description>Video</description>
+      <description>Toronto is doubling down on its fight against gridlock, unveiling an updated congestion management plan Friday that leans heavily on transit, technology and tighter control of construction across the city.</description>
       <pubDate>Fri, 27 Mar 2026 17:52:30 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-mayor-dodges-questions-about-re-election-as-she-touts-affordable-budget/</guid>
       <description>Toronto Mayor Olivia Chow touted the merits of her budget Monday, saying the lowest property tax increase of her tenure is all about keeping life more “affordable” for residents, while continuing to insist she has no idea if she’ll run to keep her job in a municipal election that is just eight months away.</description>
       <pubDate>Mon, 02 Feb 2026 18:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Efficacy of Toronto’s vacant home tax questioned in record slow real estate market</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/efficacy-of-torontos-vacant-home-tax-questioned-in-record-slow-real-estate-market/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/efficacy-of-torontos-vacant-home-tax-questioned-in-record-slow-real-estate-market/</guid>
-      <description>The City of Toronto’s vacant home tax was created to make housing more available and affordable, but several years into the policy it’s not known how many properties have been converted into additional homes.</description>
-      <pubDate>Wed, 28 Jan 2026 00:19:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
