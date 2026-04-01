@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:01:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sluice – Companion</title>
+      <link>https://pitchfork.com/reviews/albums/sluice-companion/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sluice-companion/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Luke Combs – The Way I Am</title>
       <link>https://pitchfork.com/reviews/albums/luke-combs-the-way-i-am/</link>
@@ -190,14 +198,6 @@
       <description>A review by Sadie Sartini Garner</description>
       <author>Sadie Sartini Garner</author>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Madi Diaz – Fatal Optimist</title>
-      <link>https://pitchfork.com/reviews/albums/madi-diaz-fatal-optimist/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/madi-diaz-fatal-optimist/</guid>
-      <description>A review by Aimee Cliff</description>
-      <author>Aimee Cliff</author>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
