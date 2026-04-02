@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:55:27 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Slayyyter – WOR$T GIRL IN AMERICA</title>
+      <link>https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/</guid>
+      <description>A review by Harry Tafoya</description>
+      <author>Harry Tafoya</author>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Brandy – Full Moon</title>
       <link>https://pitchfork.com/reviews/albums/brandy-full-moon/</link>
@@ -238,14 +246,6 @@
       <description>A review by James Gui</description>
       <author>James Gui</author>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mandy, Indiana – URGH</title>
-      <link>https://pitchfork.com/reviews/albums/mandy-indiana-urgh/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mandy-indiana-urgh/</guid>
-      <description>A review by Walden Green</description>
-      <author>Walden Green</author>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
