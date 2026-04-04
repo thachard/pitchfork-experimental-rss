@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 11:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 08:40:31 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sunn O))) – Sunn O)))</title>
+      <link>https://pitchfork.com/reviews/albums/sunn-o-sunn-o/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sunn-o-sunn-o/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Angine de Poitrine – Vol. II</title>
       <link>https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii/</link>
@@ -238,14 +246,6 @@
       <description>A review by Stephen M. Deusner</description>
       <author>Stephen M. Deusner</author>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ratboys – Singin’ to an Empty Chair</title>
-      <link>https://pitchfork.com/reviews/albums/ratboys-singin-to-an-empty-chair/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ratboys-singin-to-an-empty-chair/</guid>
-      <description>A review by Ivy Nelson</description>
-      <author>Ivy Nelson</author>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
