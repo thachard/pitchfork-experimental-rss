@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for Economics.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 08:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 10:00:39 +0000</lastBuildDate>
+    <item>
+      <title>Why McDonald’s and KFC are growing like wildfire in China</title>
+      <link>https://www.economist.com/business/2026/04/05/why-mcdonalds-and-kfc-are-growing-like-wildfire-in-china</link>
+      <guid isPermaLink="true">https://www.economist.com/business/2026/04/05/why-mcdonalds-and-kfc-are-growing-like-wildfire-in-china</guid>
+      <description>Western fast-food brands are expanding into the countryside</description>
+      <pubDate>Sun, 05 Apr 2026 08:30:28 +0000</pubDate>
+    </item>
     <item>
       <title>Inflation or recession? The tug of war in bond markets</title>
       <link>https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets</link>
@@ -453,27 +460,6 @@
       <guid isPermaLink="true">https://www.theglobeandmail.com/business/economy/article-deloitte-canada-economic-growth-outlook-iran-war-trade-uncertainty/</guid>
       <description>Chief economist Dawn Desjardins says Canadian consumers and businesses still ‘navigating murky waters’</description>
       <pubDate>Thu, 02 Apr 2026 11:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>With prediction markets, Canada’s regulators send a strange mixed message</title>
-      <link>https://www.theglobeandmail.com/business/commentary/article-prediction-markets-canada-wealthsimple-questrade-mixed-messages/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/commentary/article-prediction-markets-canada-wealthsimple-questrade-mixed-messages/</guid>
-      <description>There’s a growing inconsistency in how risk, protection and ‘investor‑friendly’ behaviour are defined in Canada</description>
-      <pubDate>Thu, 02 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Much ado about marshmallows</title>
-      <link>https://www.ft.com/content/eb37569d-0a2b-4df6-bd11-4d0c4e81cdc9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</link>
-      <guid isPermaLink="true">https://www.ft.com/content/eb37569d-0a2b-4df6-bd11-4d0c4e81cdc9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss</guid>
-      <description>Good news, it’s s’more VAT nonsense Tax</description>
-      <pubDate>Thu, 02 Apr 2026 09:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a small-town poker buff changed the game for AI patents in Canada</title>
-      <link>https://thelogic.co/news/the-big-read/poker-change-game-ai-patents-canada/</link>
-      <guid isPermaLink="true">https://thelogic.co/news/the-big-read/poker-change-game-ai-patents-canada/</guid>
-      <description>The post How a small-town poker buff changed the game for AI patents in Canada appeared first on The Logic .</description>
-      <pubDate>Thu, 02 Apr 2026 09:45:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
