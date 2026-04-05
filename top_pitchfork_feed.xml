@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 10:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 08:42:23 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Generation X – Generation X</title>
+      <link>https://pitchfork.com/reviews/albums/generation-x-generation-x/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/generation-x-generation-x/</guid>
+      <description>A review by Alex Robert Ross</description>
+      <author>Alex Robert Ross</author>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sunn O))) – Sunn O)))</title>
       <link>https://pitchfork.com/reviews/albums/sunn-o-sunn-o/</link>
@@ -238,14 +246,6 @@
       <description>A review by Philip Sherburne</description>
       <author>Philip Sherburne</author>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tav Falco’s Panther Burns – Behind the Magnolia Curtain</title>
-      <link>https://pitchfork.com/reviews/albums/tav-falcos-panther-burns-behind-the-magnolia-curtain/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tav-falcos-panther-burns-behind-the-magnolia-curtain/</guid>
-      <description>A review by Stephen M. Deusner</description>
-      <author>Stephen M. Deusner</author>
-      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
