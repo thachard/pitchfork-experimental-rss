@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 05 Apr 2026 08:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 09:58:51 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Eglinton LRT hours extended past midnight</title>
@@ -127,6 +127,13 @@
       <pubDate>Mon, 30 Mar 2026 19:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Anger around the corner: How 75 weeks of protest in this Toronto neighbourhood have frayed nerves and fuelled a raging debate</title>
+      <link>https://www.thestar.com/news/gta/anger-around-the-corner-how-75-weeks-of-protest-in-this-toronto-neighbourhood-have-frayed-nerves-and-fuelled-a-raging-debate/article_d26c9dd5-bd94-4fd4-9ead-cd982202fbc5.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/anger-around-the-corner-how-75-weeks-of-protest-in-this-toronto-neighbourhood-have-frayed-nerves-and-fuelled-a-raging-debate/article_d26c9dd5-bd94-4fd4-9ead-cd982202fbc5.html</guid>
+      <description></description>
+      <pubDate>Sun, 05 Apr 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2 men sought for assault after homophobic slurs yelled at victim near Church and Wellesley</title>
       <link>https://www.thestar.com/news/gta/two-men-sought-for-assault-after-homophobic-slurs-yelled-at-victim-near-church-and-wellesley/article_dc094eb2-3b03-4e74-a265-57b097309726.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/two-men-sought-for-assault-after-homophobic-slurs-yelled-at-victim-near-church-and-wellesley/article_dc094eb2-3b03-4e74-a265-57b097309726.html</guid>
@@ -160,13 +167,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/burdett-bud-sisler-oldest-known-living-canadian-dies-at-110/article_076bf46f-1d02-4cd7-82af-2f6a535d25c2.html</guid>
       <description></description>
       <pubDate>Sat, 04 Apr 2026 23:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto under rainfall warning, flood watch with up to 40 mm expected this weekend</title>
-      <link>https://www.thestar.com/news/gta/toronto-under-rainfall-warning-flood-watch-with-up-to-40-mm-expected-this-weekend/article_4df90ece-8fd8-42d6-9494-973c436e5d04.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-under-rainfall-warning-flood-watch-with-up-to-40-mm-expected-this-weekend/article_4df90ece-8fd8-42d6-9494-973c436e5d04.html</guid>
-      <description></description>
-      <pubDate>Sat, 04 Apr 2026 22:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
