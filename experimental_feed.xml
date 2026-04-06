@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 10:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 09:06:18 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daryl Groetsch – Fathoms</title>
+      <link>https://pitchfork.com/reviews/albums/daryl-groetsch-fathoms/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/daryl-groetsch-fathoms/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sunn O))) – Sunn O)))</title>
       <link>https://pitchfork.com/reviews/albums/sunn-o-sunn-o/</link>
@@ -190,14 +198,6 @@
       <description>A review by Philip Sherburne</description>
       <author>Philip Sherburne</author>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KMRU – Kin</title>
-      <link>https://pitchfork.com/reviews/albums/kmru-kin/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kmru-kin/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
