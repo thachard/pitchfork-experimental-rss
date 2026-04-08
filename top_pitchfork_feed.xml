@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 11:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:00:59 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bon Iver – VOLUMES: ONE “SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND”</title>
+      <link>https://pitchfork.com/reviews/albums/bon-iver-volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bon-iver-volumes-one-selections-from-music-concerts-2019-2023-bon-iver-6-piece-band/</guid>
+      <description>A review by Mitch Therieau</description>
+      <author>Mitch Therieau</author>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Generation X – Generation X</title>
       <link>https://pitchfork.com/reviews/albums/generation-x-generation-x/</link>
@@ -238,14 +246,6 @@
       <description>A review by Dash Lewis</description>
       <author>Dash Lewis</author>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>David Moore – Graze the Bell</title>
-      <link>https://pitchfork.com/reviews/albums/david-moore-graze-the-bell/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/david-moore-graze-the-bell/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

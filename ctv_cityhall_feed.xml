@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 07 Apr 2026 11:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:00:44 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI-controlled traffic lights coming to Yonge Street as part of Toronto’s plan to ease gridlock</title>
+      <link>https://www.ctvnews.ca/toronto/article/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/</guid>
+      <description>Video</description>
+      <pubDate>Wed, 08 Apr 2026 01:58:26 +0000</pubDate>
+    </item>
     <item>
       <title>Ottawa saying little about Toronto&apos;s call to block ICE from World Cup</title>
       <link>https://www.ctvnews.ca/politics/article/ottawa-saying-little-about-torontos-call-to-block-ice-from-world-cup/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/politics/article/ottawa-saying-little-about-torontos-call-to-block-ice-from-world-cup/</guid>
-      <description></description>
+      <description>The federal government is not responding directly to a Toronto city council motion opposing the presence of any U.S. Immigration and Customs Enforcement agents at upcoming FIFA World Cup games.</description>
       <pubDate>Thu, 02 Apr 2026 21:34:43 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/live-updates-toronto-city-council-meets-to-consider-mayors-2026-budget/</guid>
       <description>Toronto City Council has left Mayor Olivia Chow’s 2026 city budget mostly intact following final consideration. Here are the highlights.</description>
       <pubDate>Tue, 10 Feb 2026 23:12:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto could unlock transit potential by revitalizing surface network: advocate</title>
-      <link>https://www.ctvnews.ca/toronto/article/toronto-could-unlock-transit-potential-by-revitalizing-surface-network-report/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-could-unlock-transit-potential-by-revitalizing-surface-network-report/</guid>
-      <description>A presentation set to be delivered before the TTC Board today argues that revitalizing surface transit to make it attractive to riders would involve giving vehicles “real priority” by extending green lights to get them through intersections, cutting some stops and modernizing antiquated technology that slows down vehicles.</description>
-      <pubDate>Tue, 03 Feb 2026 11:11:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
