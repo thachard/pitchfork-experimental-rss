@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:06:40 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto could temporarily close additional roads during FIFA World Cup</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-could-temporarily-close-additional-roads-during-fifa-world-cup/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-could-temporarily-close-additional-roads-during-fifa-world-cup/</guid>
+      <description></description>
+      <pubDate>Wed, 08 Apr 2026 17:17:43 +0000</pubDate>
+    </item>
     <item>
       <title>AI-controlled traffic lights coming to Yonge Street as part of Toronto’s plan to ease gridlock</title>
       <link>https://www.ctvnews.ca/toronto/article/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/</guid>
-      <description>Video</description>
+      <description>The City of Toronto is turning to artificial intelligence to unclog its congested streets. After a recent test, intersections in North York are being equipped with smart traffic signals.</description>
       <pubDate>Wed, 08 Apr 2026 01:58:26 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/city-employees-stole-packages-misused-sick-days-to-work-second-job-torontos-auditor-general-suggests/</guid>
       <description>Toronto’s auditor general has uncovered allegations of fraud involving city employees, including claims of stolen packages, resold protective equipment, and the misuse of sick days to work a second job.</description>
       <pubDate>Fri, 13 Feb 2026 20:42:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto budget that includes 2.2 per cent tax hike makes it through final council debate with few major changes</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/live-updates-toronto-city-council-meets-to-consider-mayors-2026-budget/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/live-updates-toronto-city-council-meets-to-consider-mayors-2026-budget/</guid>
-      <description>Toronto City Council has left Mayor Olivia Chow’s 2026 city budget mostly intact following final consideration. Here are the highlights.</description>
-      <pubDate>Tue, 10 Feb 2026 23:12:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:04:56 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Actress / Suzanne Ciani – Concrète Waves</title>
+      <link>https://pitchfork.com/reviews/albums/actress-suzanne-ciani-concrete-waves/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/actress-suzanne-ciani-concrete-waves/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tyler Friedman – METLASR</title>
+      <link>https://pitchfork.com/reviews/albums/tyler-friedman-metlasr/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tyler-friedman-metlasr/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Daryl Groetsch – Fathoms</title>
       <link>https://pitchfork.com/reviews/albums/daryl-groetsch-fathoms/</link>
@@ -182,22 +198,6 @@
       <description>A review by Sadie Sartini Garner</description>
       <author>Sadie Sartini Garner</author>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kevin Richard Martin – Sub Zero</title>
-      <link>https://pitchfork.com/reviews/albums/kevin-richard-martin-sub-zero/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kevin-richard-martin-sub-zero/</guid>
-      <description>A review by Andrew Ryce</description>
-      <author>Andrew Ryce</author>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ben Vince – Street Druid</title>
-      <link>https://pitchfork.com/reviews/albums/ben-vince-street-druid/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ben-vince-street-druid/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
