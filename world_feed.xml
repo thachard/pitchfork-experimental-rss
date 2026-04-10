@@ -5,34 +5,601 @@
     <link>https://github.com</link>
     <description>Deduplicated merged feed for World.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:09:01 +0000</lastBuildDate>
     <item>
-      <title>Iran War Live Updates: Israeli Strikes in Lebanon Threaten Shaky U.S.-Iran Cease-Fire</title>
-      <link>https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon</guid>
-      <description>Israeli forces killed more than 200 people in strikes against Hezbollah, the Iran-backed militant group, on Wednesday. Top European diplomats called for Lebanon to be included in the cease-fire.</description>
-      <pubDate>Thu, 09 Apr 2026 11:14:12 +0000</pubDate>
+      <title>Iran War Live Updates: Israel Strikes Hezbollah as Lebanon Impasse Threatens Cease-Fire</title>
+      <link>https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon</guid>
+      <description>Israel said it would continue striking the Iran-backed militia. Iran said it would not attend peace talks with the United States in Pakistan if the truce was not extended to Lebanon.</description>
+      <pubDate>Fri, 10 Apr 2026 09:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lebanon: A Nation Uprooted by War</title>
+      <link>https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html</guid>
+      <description>A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now.</description>
+      <pubDate>Fri, 10 Apr 2026 09:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>See You in Pyongyang: Russia Pushes Its People to Embrace North Korea</title>
+      <link>https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html</guid>
+      <description>Through art, food, tourism and academics, an increasingly isolated Moscow is seeking to cement lasting ties with Pyongyang.</description>
+      <pubDate>Fri, 10 Apr 2026 09:05:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vance Faces Test of His Negotiating Skills With Iran Talks</title>
+      <link>https://www.nytimes.com/2026/04/10/us/politics/vance-iran-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/us/politics/vance-iran-talks.html</guid>
+      <description>Vice President JD Vance is leading negotiations this weekend toward an end to a war that he had opposed starting.</description>
+      <pubDate>Fri, 10 Apr 2026 09:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Hungarian Town Explains Why Orban Could Lose on Sunday</title>
+      <link>https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html</guid>
+      <description>Lake Balaton was beloved as a vacation spot. Now, luxury real estate projects serve many friends of Prime Minister Viktor Orban, and the locals are fed up.</description>
+      <pubDate>Fri, 10 Apr 2026 09:02:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soaring Fuel Prices Squeeze China’s Frugal Truckers</title>
+      <link>https://www.nytimes.com/video/world/asia/100000010809735/china-truckers-oil-fuel-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/asia/100000010809735/china-truckers-oil-fuel-prices.html</guid>
+      <description>Many long-haul truckers in China have a tight budget and live frugally on the road, sleeping and cooking in their vehicles. Now, the pain at the pump is forcing some drivers to rethink their lives.</description>
+      <pubDate>Fri, 10 Apr 2026 09:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Many Venezuelans Want to Go Home. But They Can’t Get Passports.</title>
+      <link>https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html</guid>
+      <description>The U.S. has made it impossible for them to stay legally, and their own country makes it difficult for them to return.</description>
+      <pubDate>Fri, 10 Apr 2026 09:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xi Meets Taiwan Opposition Leader for First Time in a Decade</title>
+      <link>https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html</guid>
+      <description>Xi Jinping held rare talks with a Taiwanese opposition leader, Cheng Li-wun, who floated the idea of some day inviting Mr. Xi to visit Taiwan.</description>
+      <pubDate>Fri, 10 Apr 2026 08:53:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel presses ahead with Lebanon strikes as talks loom</title>
+      <link>https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f</guid>
+      <description>Iran’s attendance at peace discussions in Islamabad on Saturday uncertain amid strained truce</description>
+      <pubDate>Fri, 10 Apr 2026 08:37:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Longer Off Limits, the Strait of Hormuz Remains Thorny Politically</title>
+      <link>https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html</guid>
+      <description>Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S.</description>
+      <pubDate>Fri, 10 Apr 2026 08:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>The NHS isn’t getting better</title>
+      <link>https://www.ft.com/content/91ad3442-0dc0-49dd-b988-0fc8c41a914d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/91ad3442-0dc0-49dd-b988-0fc8c41a914d</guid>
+      <description>Tough medicine is needed to resolve rolling strikes</description>
+      <pubDate>Fri, 10 Apr 2026 08:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jollof, jewellery and Ridley Road Market – Simone Brewster shares her London</title>
+      <link>https://www.ft.com/content/d8783676-cf74-495f-9c05-33fa982bb3fe</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d8783676-cf74-495f-9c05-33fa982bb3fe</guid>
+      <description>The artist and designer on the African and Caribbean destinations that make her city home</description>
+      <pubDate>Fri, 10 Apr 2026 08:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Architect Sophie Hicks: my love affair with Seoul</title>
+      <link>https://www.ft.com/content/712a4185-95b1-4cb6-8c7b-e3daa5a7df7e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/712a4185-95b1-4cb6-8c7b-e3daa5a7df7e</guid>
+      <description>A decade of projects in the South Korean capital have made the designer fall for its youthful buzz</description>
+      <pubDate>Fri, 10 Apr 2026 08:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>US has let in 4,499 refugees since October - all but three were South African</title>
+      <link>https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.</description>
+      <pubDate>Fri, 10 Apr 2026 08:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK elections poll tracker</title>
+      <link>https://www.ft.com/content/ec11dcb6-4f53-4215-a1a1-0b72b4bc7e29</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ec11dcb6-4f53-4215-a1a1-0b72b4bc7e29</guid>
+      <description>Live-updating snapshot of party and leadership support in run-up to voting on May 7</description>
+      <pubDate>Fri, 10 Apr 2026 08:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan opposition leader meets Xi Jinping in Beijing</title>
+      <link>https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.</description>
+      <pubDate>Fri, 10 Apr 2026 07:55:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/heres-the-latest</guid>
+      <description></description>
+      <pubDate>Fri, 10 Apr 2026 07:55:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Middle East War Triggers Higher Prices in China</title>
+      <link>https://www.nytimes.com/2026/04/10/business/china-deflation-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/business/china-deflation-iran-war.html</guid>
+      <description>Three and a half years of deflationary pressure on Chinese factories reversed course last month as higher energy prices cycled into the economy.</description>
+      <pubDate>Fri, 10 Apr 2026 07:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Submit your questions: How will the Iran war impact China?</title>
+      <link>https://www.ft.com/content/d0a02760-aeaa-47d1-a1fb-a96d2cadfacf</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d0a02760-aeaa-47d1-a1fb-a96d2cadfacf</guid>
+      <description>Take part in a live Ask an Expert Q&amp;A with Joe Leahy and Cheng Leng from our Beijing bureau today at 1pm BST</description>
+      <pubDate>Fri, 10 Apr 2026 06:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>'We should not be at the mercy of events abroad' - Starmer</title>
+      <link>https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The prime minister says "shocks" like the conflict in Iran are becoming more frequent.</description>
+      <pubDate>Fri, 10 Apr 2026 06:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian interceptors downed Iran’s drones in Middle East, says Zelenskyy</title>
+      <link>https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d0dbac4f-ecb6-4ccd-b15b-7d48aee2b213</guid>
+      <description>Ukraine’s president says military teams dispatched across the Gulf had delivered ‘positive’ results</description>
+      <pubDate>Fri, 10 Apr 2026 06:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>SNP pledges 'first refusal' for tenants to buy private rental homes</title>
+      <link>https://www.bbc.com/news/articles/cx2e54vk0jvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx2e54vk0jvo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>John Swinney says it would help renters get on the housing  ladder but other parties say the SNP is to blame for the housing emergency.</description>
+      <pubDate>Fri, 10 Apr 2026 05:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s Xi tells Taiwan opposition leader unification an ‘inevitability’</title>
+      <link>https://www.ft.com/content/e4aecf2e-9975-4b44-b01c-d6f2b8435386</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e4aecf2e-9975-4b44-b01c-d6f2b8435386</guid>
+      <description>Meeting in Beijing with Chinese president first of its kind in a decade</description>
+      <pubDate>Fri, 10 Apr 2026 05:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe braces for Hungary’s pivotal election as Orbán fights for survival</title>
+      <link>https://www.ft.com/content/9bf77f51-d76c-41da-be1a-20a9a55cae8b</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9bf77f51-d76c-41da-be1a-20a9a55cae8b</guid>
+      <description>Plus: a €2.2bn Chinese deal tests Brussels approach to economic security</description>
+      <pubDate>Fri, 10 Apr 2026 05:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Sea oil prices hit record high as Iran keeps hold over Hormuz</title>
+      <link>https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f04ad855-81e3-49c5-827e-d3c4acb901c9</guid>
+      <description>Washington-Tehran ceasefire agreement fails to stem global energy crunch</description>
+      <pubDate>Fri, 10 Apr 2026 04:37:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s factory gate prices rise on back of Iran war</title>
+      <link>https://www.ft.com/content/a56c69bc-97a1-4911-be38-8bccf8f7dcb3</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a56c69bc-97a1-4911-be38-8bccf8f7dcb3</guid>
+      <description>Producer price index for the world’s dominant manufacturer turns positive year-on-year for the first time since 2022</description>
+      <pubDate>Fri, 10 Apr 2026 04:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>South African Writer Mfundi Vundla Gets Personal in His New Play</title>
+      <link>https://www.nytimes.com/2026/04/10/world/africa/south-africa-theater-generations-mfundi-vundla.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/10/world/africa/south-africa-theater-generations-mfundi-vundla.html</guid>
+      <description>Mfundi Vundla spent 21 years in exile and created the popular television show “Generations.” His latest project is a play that explores the imperfections of the fight against apartheid.</description>
+      <pubDate>Fri, 10 Apr 2026 04:01:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Labour’s deputy warns against ‘bloody’ leadership contest to replace Starmer</title>
+      <link>https://www.ft.com/content/9196d514-2ba3-4d0c-82e7-0c91554b9f9a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9196d514-2ba3-4d0c-82e7-0c91554b9f9a</guid>
+      <description>Lucy Powell, an ally of Andy Burnham, says party members would take ‘dim view’ of challenge despite looming election losses</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK health officials discuss banning doctors from going on strike</title>
+      <link>https://www.ft.com/content/05f9b1cc-5e3b-4184-8509-e31832de72cf</link>
+      <guid isPermaLink="true">https://www.ft.com/content/05f9b1cc-5e3b-4184-8509-e31832de72cf</guid>
+      <description>Wes Streeting has not ruled out policy as desperation grows over walkouts in long-running pay dispute</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Annuities look more attractive in wake of inflation fears, say advisers</title>
+      <link>https://www.ft.com/content/a35d6a12-19ff-4cee-8d61-92e646812d27</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a35d6a12-19ff-4cee-8d61-92e646812d27</guid>
+      <description>Benefits of a fixed and stable income set to play more prominent role in retirement planning</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU boosts imports of Russian gas as Middle East crisis squeezes supplies</title>
+      <link>https://www.ft.com/content/5f96c141-e345-4101-be83-c82726cd07ac</link>
+      <guid isPermaLink="true">https://www.ft.com/content/5f96c141-e345-4101-be83-c82726cd07ac</guid>
+      <description>The bloc took 97% of the cargoes from the vast Yamal LNG project in Siberia in the first three months of year</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Now would be a great time to send US ambassadors to the Middle East</title>
+      <link>https://www.ft.com/content/5ed07139-1626-4d2c-88a3-dec8357ad643</link>
+      <guid isPermaLink="true">https://www.ft.com/content/5ed07139-1626-4d2c-88a3-dec8357ad643</guid>
+      <description>At a time when many question American leadership, there’s an underrated value in simply showing up</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nato split over US access to European bases in Iran war</title>
+      <link>https://www.ft.com/content/e2347e81-19b2-4cd5-aea4-ff6bacf0e71b</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e2347e81-19b2-4cd5-aea4-ff6bacf0e71b</guid>
+      <description>Donald Trump irate at France and Spain’s refusal to authorise use of military facilities</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran war will leave a long-term ‘scar’ on Wall Street, investors warn</title>
+      <link>https://www.ft.com/content/aefedeb8-e5a6-4490-bb9f-fa4a973fe71c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/aefedeb8-e5a6-4490-bb9f-fa4a973fe71c</guid>
+      <description>Commodity prices and bond yields unlikely to return to pre-conflict levels quickly</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Jamie Dimon could learn from the collapse of Northern Rock</title>
+      <link>https://www.ft.com/content/23e4da45-58c7-4302-81a6-b9cdf3e4c575</link>
+      <guid isPermaLink="true">https://www.ft.com/content/23e4da45-58c7-4302-81a6-b9cdf3e4c575</guid>
+      <description>UK bank’s collapse offers a lesson for JPMorgan’s CEO and his idea to overhaul the US’s deposit insurance system</description>
+      <pubDate>Fri, 10 Apr 2026 04:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'</title>
+      <link>https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The US president accused Iran of "doing a very poor job" with the waterway as Israel and Lebanon to begin peace talks.</description>
+      <pubDate>Fri, 10 Apr 2026 02:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>India proposes new rules to regulate news and political posts on social media</title>
+      <link>https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/ce9mx2j3xlxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The changes will give government more power over news-related posts shared by podcasters and influencers.</description>
+      <pubDate>Fri, 10 Apr 2026 00:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran’s Battered Leaders Emerge From War Confident — and With New Cards</title>
+      <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</guid>
+      <description>For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.</description>
+      <pubDate>Fri, 10 Apr 2026 00:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co-leader McIlroy's golf does the talking after busy Masters build-up</title>
+      <link>https://www.bbc.com/sport/golf/articles/cx24pn55dg9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/golf/articles/cx24pn55dg9o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>With the pomp and celebration of his Masters victory finished, Rory McIlroy reminded everyone he is back at Augusta to win again.</description>
+      <pubDate>Fri, 10 Apr 2026 00:13:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Costs of Trump’s Iran-War Folly</title>
+      <link>https://www.newyorker.com/news/letter-from-trumps-washington/the-costs-of-trumps-iran-war-folly</link>
+      <guid isPermaLink="true">https://www.newyorker.com/news/letter-from-trumps-washington/the-costs-of-trumps-iran-war-folly</guid>
+      <description>If this is “total and complete victory,” imagine what failure looks like.</description>
+      <pubDate>Thu, 09 Apr 2026 23:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU fingerprint and photo travel rules come into force</title>
+      <link>https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.</description>
+      <pubDate>Thu, 09 Apr 2026 23:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spreading Islamist insurgency dominates Benin's presidential campaign</title>
+      <link>https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Cross-border raids from militant Islamists are increasingly threatening the West African state's stability.</description>
+      <pubDate>Thu, 09 Apr 2026 23:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
+      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Both sides have reason to end the war but share no common ground.</description>
+      <pubDate>Thu, 09 Apr 2026 23:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 Russian Submarines Detected Near Britain Were Spying, U.K. Says</title>
+      <link>https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html</guid>
+      <description>John Healey, the defense secretary, said the vessels were gathering information about undersea pipelines, and said he believed President Vladimir V. Putin “would want us to be distracted by the Middle East.”</description>
+      <pubDate>Thu, 09 Apr 2026 22:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia and Ukraine agree to truce for Orthodox Easter</title>
+      <link>https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.</description>
+      <pubDate>Thu, 09 Apr 2026 22:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hot in the city: Energy crisis tests Singapore's air-con addiction</title>
+      <link>https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.</description>
+      <pubDate>Thu, 09 Apr 2026 22:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelensky Sees Small Window for Peace</title>
+      <link>https://www.nytimes.com/2026/04/09/world/europe/ukraine-russia-war-peace-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/ukraine-russia-war-peace-talks.html</guid>
+      <description>Talks to end the war in Ukraine could resume soon, said President Volodymyr Zelensky as he expressed skepticism about a breakthrough.</description>
+      <pubDate>Thu, 09 Apr 2026 21:46:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>People walk along motorway towards Dublin Airport as fuel protests continue</title>
+      <link>https://www.bbc.com/news/articles/cjr9j87j8n3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cjr9j87j8n3o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The Irish military will be deployed to move vehicles "blocking critical infrastructure".</description>
+      <pubDate>Thu, 09 Apr 2026 21:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Newspaper Is Raided and a Rights Group Outlawed Amid Kremlin Crackdown</title>
+      <link>https://www.nytimes.com/2026/04/09/world/europe/russia-newspaper-rights-group-crackdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/russia-newspaper-rights-group-crackdown.html</guid>
+      <description>As Moscow throttles Russia’s few remaining independent voices, the authorities targeted two of the most prominent, one a Nobel Peace Prize winner and the other headed by a Nobel laureate.</description>
+      <pubDate>Thu, 09 Apr 2026 21:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI pauses UK data centre deal over energy costs and regulation</title>
+      <link>https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The project was part of a package of tech investment promising the UK could become an AI superpower.</description>
+      <pubDate>Thu, 09 Apr 2026 20:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>137-Year-Old Piece of Eiffel Tower to Be Auctioned in Paris</title>
+      <link>https://www.nytimes.com/2026/04/09/world/europe/eiffel-tower-auction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/eiffel-tower-auction.html</guid>
+      <description>A section of the landmark’s original staircase will go up for auction next month and could sell for a towering sum.</description>
+      <pubDate>Thu, 09 Apr 2026 17:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz</title>
+      <link>https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.</description>
+      <pubDate>Thu, 09 Apr 2026 17:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC</title>
+      <link>https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.</description>
+      <pubDate>Thu, 09 Apr 2026 17:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK says Russia ran submarine operation over cables and pipelines</title>
+      <link>https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Defence Secretary John Healey says there is "no evidence" of any damage to UK infrastructure in the Atlantic.</description>
+      <pubDate>Thu, 09 Apr 2026 17:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greens launch local election campaign with focus on housing</title>
+      <link>https://www.bbc.com/news/articles/cj0v1qdd45no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cj0v1qdd45no?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Party leader Zack Polanski accuses Labour of failing to build enough social and affordable homes.</description>
+      <pubDate>Thu, 09 Apr 2026 16:42:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Endless fears': Even if fighting stops, the damage to Iran's children will endure</title>
+      <link>https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.</description>
+      <pubDate>Thu, 09 Apr 2026 16:06:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Hit Erotica Writers Outwitting Nigeria’s Religious Censors</title>
+      <link>https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html</guid>
+      <description>Zealous officials burned their predecessors’ romance novels. Now, young Muslim women in northern Nigeria publish their erotic books in installments on WhatsApp.</description>
+      <pubDate>Thu, 09 Apr 2026 15:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>French far-right leader romantically linked to Italian princess</title>
+      <link>https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Presidential hopeful Jordan Bardella was pictured on a Corsican beach with Princess Maria Carolina of Bourbon-Two Sicilies.</description>
+      <pubDate>Thu, 09 Apr 2026 15:05:15 +0000</pubDate>
     </item>
     <item>
       <title>Payments for children and 100 new GPs in Plaid election manifesto</title>
       <link>https://www.bbc.com/news/articles/c5y70z1q0k3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c5y70z1q0k3o?at_medium=RSS&amp;at_campaign=rss</guid>
       <description>Rhun ap Iorwerth said a Plaid government would cut waiting times, help with childcare costs and grow economy.</description>
-      <pubDate>Thu, 09 Apr 2026 11:08:44 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 14:36:34 +0000</pubDate>
     </item>
     <item>
-      <title>US approves non-critical staff to leave embassy in Nigeria on security grounds</title>
+      <title>US warns citizens to reconsider Nigeria travel on safety grounds</title>
       <link>https://www.bbc.com/news/articles/c5ylq03evjzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c5ylq03evjzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The state department has also asked US citizens to "reconsider" travel plans to the West African country.</description>
-      <pubDate>Thu, 09 Apr 2026 11:00:36 +0000</pubDate>
+      <description>The state department has also authorised non-emergency embassy staff to leave on security grounds.</description>
+      <pubDate>Thu, 09 Apr 2026 14:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>Cooper urges full and toll-free reopening of Strait of Hormuz</title>
-      <link>https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The foreign secretary also calls for Lebanon to be "urgently included" in the ceasefire agreement.</description>
-      <pubDate>Thu, 09 Apr 2026 10:52:41 +0000</pubDate>
+      <title>BTS battle torrential rain to kick off $1bn world tour</title>
+      <link>https://www.bbc.com/news/articles/cq59qzzg93jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cq59qzzg93jo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The K-Pop band are battered by the elements as they launch their marathon world tour in Goyang.</description>
+      <pubDate>Thu, 09 Apr 2026 13:59:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire</title>
+      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.</description>
+      <pubDate>Thu, 09 Apr 2026 13:58:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four people die trying to board boat in Channel crossing attempt</title>
+      <link>https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Authorities say 37 people are being treated in hospital, but around 30 others continued their journeys to the UK.</description>
+      <pubDate>Thu, 09 Apr 2026 13:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Has US achieved its war objectives in Iran?</title>
+      <link>https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.</description>
+      <pubDate>Thu, 09 Apr 2026 13:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why a big country like Italy acts as if it were small</title>
+      <link>https://www.economist.com/europe/2026/04/09/why-a-big-country-like-italy-acts-as-if-it-were-small</link>
+      <guid isPermaLink="true">https://www.economist.com/europe/2026/04/09/why-a-big-country-like-italy-acts-as-if-it-were-small</guid>
+      <description>Equivocating between Trump and Europe suits a history of switching sides</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Viktor Orban is bashing Ukraine for votes</title>
+      <link>https://www.economist.com/europe/2026/04/09/viktor-orban-is-bashing-ukraine-for-votes</link>
+      <guid isPermaLink="true">https://www.economist.com/europe/2026/04/09/viktor-orban-is-bashing-ukraine-for-votes</guid>
+      <description>Hungary’s election poisons relations between Hungary and its neighbour</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe’s joint nuclear-fusion project needs Russian expertise</title>
+      <link>https://www.economist.com/europe/2026/04/09/europes-joint-nuclear-fusion-project-needs-russian-expertise</link>
+      <guid isPermaLink="true">https://www.economist.com/europe/2026/04/09/europes-joint-nuclear-fusion-project-needs-russian-expertise</guid>
+      <description>At ITER Russian and Western scientists still work together—slowly</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Most Syrians in Germany are there to stay</title>
+      <link>https://www.economist.com/europe/2026/04/09/most-syrians-in-germany-are-there-to-stay</link>
+      <guid isPermaLink="true">https://www.economist.com/europe/2026/04/09/most-syrians-in-germany-are-there-to-stay</guid>
+      <description>Sending back masses of immigrants would be foolish and impossible</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>A deadly conflict in Malawi raises questions about conservation</title>
+      <link>https://www.economist.com/middle-east-and-africa/2026/04/09/a-deadly-conflict-in-malawi-raises-questions-about-conservation</link>
+      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/04/09/a-deadly-conflict-in-malawi-raises-questions-about-conservation</guid>
+      <description>How can humans coexist with wild animals?</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burkina Faso’s government is committing war crimes</title>
+      <link>https://www.economist.com/middle-east-and-africa/2026/04/09/burkina-fasos-government-is-committing-war-crimes</link>
+      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/04/09/burkina-fasos-government-is-committing-war-crimes</guid>
+      <description>While fighting jihadism, it has killed more civilians than the jihadists themselves</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>How anarchist was Africa?</title>
+      <link>https://www.economist.com/middle-east-and-africa/2026/04/09/how-anarchist-was-africa</link>
+      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/04/09/how-anarchist-was-africa</guid>
+      <description>Precolonial statelessness may have been a sign of success, not failure</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Africa’s protests span countries, classes and causes</title>
+      <link>https://www.economist.com/middle-east-and-africa/2026/04/09/africas-protests-span-countries-classes-and-causes</link>
+      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/04/09/africas-protests-span-countries-classes-and-causes</guid>
+      <description>But can they bring lasting change?</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cambodia honours a life-saving rat</title>
+      <link>https://www.economist.com/asia/2026/04/09/cambodia-honours-a-life-saving-rat</link>
+      <guid isPermaLink="true">https://www.economist.com/asia/2026/04/09/cambodia-honours-a-life-saving-rat</guid>
+      <description>The rodent helped clear more than 100 unexploded mines</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>China may be building a big new airbase in the South China Sea</title>
+      <link>https://www.economist.com/asia/2026/04/09/china-may-be-building-a-big-new-airbase-in-the-south-china-sea</link>
+      <guid isPermaLink="true">https://www.economist.com/asia/2026/04/09/china-may-be-building-a-big-new-airbase-in-the-south-china-sea</guid>
+      <description>But analysts are scratching their heads over the timing and location</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>There is little prospect of legalising abortion in Brazil</title>
+      <link>https://www.economist.com/the-americas/2026/04/09/there-is-little-prospect-of-legalising-abortion-in-brazil</link>
+      <guid isPermaLink="true">https://www.economist.com/the-americas/2026/04/09/there-is-little-prospect-of-legalising-abortion-in-brazil</guid>
+      <description>Other large countries in Latin America have either legalised or decriminalised</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The West is doing more to combat China’s covert activity abroad</title>
+      <link>https://www.economist.com/china/2026/04/09/the-west-is-doing-more-to-combat-chinas-covert-activity-abroad</link>
+      <guid isPermaLink="true">https://www.economist.com/china/2026/04/09/the-west-is-doing-more-to-combat-chinas-covert-activity-abroad</guid>
+      <description>But China is paying little attention</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sir Keir Starmer is Britain’s best hope for legalising assisted dying</title>
+      <link>https://www.economist.com/leaders/2026/04/09/sir-keir-starmer-is-britains-best-hope-for-legalising-assisted-dying</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/09/sir-keir-starmer-is-britains-best-hope-for-legalising-assisted-dying</guid>
+      <description>He should stop dawdling</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recriminations over Iran have heightened the risk of a break-up of NATO</title>
+      <link>https://www.economist.com/leaders/2026/04/09/recriminations-over-iran-have-heightened-the-risk-of-a-break-up-of-nato</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/09/recriminations-over-iran-have-heightened-the-risk-of-a-break-up-of-nato</guid>
+      <description>Europe must prepare to defend itself</description>
+      <pubDate>Thu, 09 Apr 2026 13:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caf president would welcome corruption investigation</title>
+      <link>https://www.bbc.com/sport/football/articles/cwyk7rk097yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/cwyk7rk097yo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Confederation of African Football president Patrice Motsepe has "zero tolerance" for corruption, which he says is "worse than cancer".</description>
+      <pubDate>Thu, 09 Apr 2026 12:24:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Know About the U.S.-Iran Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html</guid>
+      <description>The two-week truce agreement already seems to be on shaky ground over two issues, the Strait of Hormuz and the status of Lebanon.</description>
+      <pubDate>Thu, 09 Apr 2026 12:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kenya disputes UN report on rape allegations against its Haiti personnel</title>
+      <link>https://www.bbc.com/news/articles/c1d9zrl2z03o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c1d9zrl2z03o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The foreign minister says the accusations, involving children, were investigated and found to be unsubstantiated.</description>
+      <pubDate>Thu, 09 Apr 2026 12:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al Jazeera condemns killing of journalist in Israeli strike in Gaza</title>
+      <link>https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The Israeli military claims Mohammed Wishah was a "Hamas terrorist" - which the Qatar-based network has previously denied.</description>
+      <pubDate>Thu, 09 Apr 2026 11:39:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Husband arrested over disappearance of Michigan woman in Bahamas</title>
+      <link>https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The lawyer of Brian Hooker, who was identified as the arrested man by US media, says he denies any wrongdoing.</description>
+      <pubDate>Thu, 09 Apr 2026 11:27:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s religious minorities face harsher anti-conversion laws</title>
+      <link>https://www.economist.com/asia/2026/04/09/indias-religious-minorities-face-harsher-anti-conversion-laws</link>
+      <guid isPermaLink="true">https://www.economist.com/asia/2026/04/09/indias-religious-minorities-face-harsher-anti-conversion-laws</guid>
+      <description>Exhumations fuel communal tensions</description>
+      <pubDate>Thu, 09 Apr 2026 11:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Pakistan emerged as an unlikely broker of peace in the Gulf</title>
+      <link>https://www.economist.com/asia/2026/04/09/how-pakistan-emerged-as-an-unlikely-broker-of-peace-in-the-gulf</link>
+      <guid isPermaLink="true">https://www.economist.com/asia/2026/04/09/how-pakistan-emerged-as-an-unlikely-broker-of-peace-in-the-gulf</guid>
+      <description>The troubled country has cannily managed its ties with the warring parties</description>
+      <pubDate>Thu, 09 Apr 2026 11:08:18 +0000</pubDate>
     </item>
     <item>
       <title>Argentina passes bill loosening protection of its glaciers</title>
@@ -42,46 +609,11 @@
       <pubDate>Thu, 09 Apr 2026 10:52:23 +0000</pubDate>
     </item>
     <item>
-      <title>Four people die trying to board boat in Channel crossing attempt</title>
-      <link>https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Authorities say 37 people are being treated in hospital, but around 30 others continued their journeys to the UK.</description>
-      <pubDate>Thu, 09 Apr 2026 10:48:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lebanon Mourns After Israeli Barrage Kills More Than 200 People</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/lebanon-israel-iran-war-airstrikes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/middleeast/lebanon-israel-iran-war-airstrikes.html</guid>
-      <description>The intense bombardment, which Israel said included more than 100 airstrikes in 10 minutes, was a sharp escalation that put pressure on the tenuous cease-fire with Iran.</description>
-      <pubDate>Thu, 09 Apr 2026 10:37:57 +0000</pubDate>
-    </item>
-    <item>
       <title>Key Indian state polls begin in test for Modi's party</title>
       <link>https://www.bbc.com/news/articles/c5yv8p4zvd0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c5yv8p4zvd0o?at_medium=RSS&amp;at_campaign=rss</guid>
       <description>Modi's Bharatiya Janata Party is trying to expand into regions where it has struggled to gain a foothold.</description>
       <pubDate>Thu, 09 Apr 2026 10:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea Tests New Weapons, Drawing Lessons from Iran War</title>
-      <link>https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html</guid>
-      <description>The country has been leveraging armed conflicts abroad, such as Russia’s war against Ukraine, to bolster its own military capabilities.</description>
-      <pubDate>Thu, 09 Apr 2026 10:25:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon/heres-the-latest</guid>
-      <description></description>
-      <pubDate>Thu, 09 Apr 2026 10:21:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>I.U.C.N. Red List Moves Emperor Penguins to “Endangered”</title>
-      <link>https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html</guid>
-      <description>Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers.</description>
-      <pubDate>Thu, 09 Apr 2026 10:20:13 +0000</pubDate>
     </item>
     <item>
       <title>Trapped miner rescued from flooded Mexican tunnel after 14 days</title>
@@ -91,74 +623,11 @@
       <pubDate>Thu, 09 Apr 2026 10:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>Reopening the minimum wage debate</title>
-      <link>https://www.ft.com/content/1ece1558-0ddb-4159-a0dc-c276826807f3</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1ece1558-0ddb-4159-a0dc-c276826807f3</guid>
-      <description>Most research from the US challenges the idea that a statutory pay floor doesn’t lower employment</description>
-      <pubDate>Thu, 09 Apr 2026 10:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>7-Eleven owner delays US listing in blow to turnaround plan</title>
-      <link>https://www.ft.com/content/03e91356-c075-4366-9a5b-29d73f29659d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/03e91356-c075-4366-9a5b-29d73f29659d</guid>
-      <description>IPO proposal was key to fending off $46bn takeover approach by Canadian rival Couche-Tard</description>
-      <pubDate>Thu, 09 Apr 2026 09:58:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to Know About the U.S.-Iran Cease-Fire</title>
-      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html</guid>
-      <description>The two-week truce agreement already seems to be on shaky ground over two issues, the Strait of Hormuz and the status of Lebanon.</description>
-      <pubDate>Thu, 09 Apr 2026 09:57:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>FirstFT: US-Iran truce shows signs of strain</title>
-      <link>https://www.ft.com/content/c68caa4d-7cc8-44ea-96a7-1764282002a7</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c68caa4d-7cc8-44ea-96a7-1764282002a7</guid>
-      <description>Also in today’s newsletter: wealthy investors sought to pull $20bn from private credit funds and Meta launches new AI model</description>
-      <pubDate>Thu, 09 Apr 2026 09:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>No, Britain Is Not Having a Christian Revival</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/britain-christian-revival-survey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/britain-christian-revival-survey.html</guid>
-      <description>A study said church attendance had soared among British young people, a trend reversal that excited religious conservatives around the world. Turns out it wasn’t true.</description>
-      <pubDate>Thu, 09 Apr 2026 09:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Again Hits Out at NATO Over Iran War</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/trump-nato-rutte-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/middleeast/trump-nato-rutte-iran-war.html</guid>
-      <description>President Trump lashed out after hosting Mark Rutte, NATO’s secretary general, at the White House on Wednesday.</description>
-      <pubDate>Thu, 09 Apr 2026 09:21:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Maker of Pet Toys in Ukraine Turns to Killer Drones</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/ukraine-defense-technology-companies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/ukraine-defense-technology-companies.html</guid>
-      <description>An entrepreneur behind drones that make the final strike themselves epitomizes the transformation of Ukraine’s civilian technology industry into a defense powerhouse.</description>
-      <pubDate>Thu, 09 Apr 2026 09:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Germany’s East, the Far Right Could Soon Take Power. This Is Its Plan.</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/afd-germany-saxony-anhalt-plan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/europe/afd-germany-saxony-anhalt-plan.html</guid>
-      <description>In the eastern state of Saxony-Anhalt, the Alternative for Germany could win control of the government this fall. Once in power, it has a plan to overhaul German society.</description>
-      <pubDate>Thu, 09 Apr 2026 09:13:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Donald Trump is the war’s biggest loser</title>
       <link>https://www.economist.com/leaders/2026/04/09/donald-trump-is-the-wars-biggest-loser</link>
       <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/09/donald-trump-is-the-wars-biggest-loser</guid>
       <description>There is a reason he wants an exit from Iran</description>
       <pubDate>Thu, 09 Apr 2026 09:05:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hit Erotica Writers Outwitting Nigeria’s Religious Censors</title>
-      <link>https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/africa/nigeria-erotica-writers-censors.html</guid>
-      <description>Zealous officials burned their predecessors’ romance novels. Now, young Muslim women in northern Nigeria publish their erotic books in installments on WhatsApp.</description>
-      <pubDate>Thu, 09 Apr 2026 09:00:25 +0000</pubDate>
     </item>
     <item>
       <title>Conservatives vow to outlaw council four-day week</title>
@@ -168,9 +637,9 @@
       <pubDate>Thu, 09 Apr 2026 08:54:03 +0000</pubDate>
     </item>
     <item>
-      <title>A ceasefire will not stop the Iran war’s economic consequences</title>
-      <link>https://www.economist.com/leaders/2026/04/09/a-ceasefire-will-not-stop-the-iran-wars-economic-consequences</link>
-      <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/09/a-ceasefire-will-not-stop-the-iran-wars-economic-consequences</guid>
+      <title>A ceasefire will not prevent the Iran war’s economic harm</title>
+      <link>https://www.economist.com/leaders/2026/04/09/a-ceasefire-will-not-prevent-the-iran-wars-economic-harm</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/09/a-ceasefire-will-not-prevent-the-iran-wars-economic-harm</guid>
       <description>Even if the Strait of Hormuz reopens, expect lasting change to energy markets</description>
       <pubDate>Thu, 09 Apr 2026 08:43:58 +0000</pubDate>
     </item>
@@ -182,53 +651,11 @@
       <pubDate>Thu, 09 Apr 2026 08:23:11 +0000</pubDate>
     </item>
     <item>
-      <title>OECD urges governments to rapidly unwind costly fuel duty cuts</title>
-      <link>https://www.ft.com/content/e77bf078-7cc3-4bd7-a0a5-b09cb6b7a61b</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e77bf078-7cc3-4bd7-a0a5-b09cb6b7a61b</guid>
-      <description>More than 25 countries have introduced universal measures to shield consumers from high energy prices since the start of the Iran war</description>
-      <pubDate>Thu, 09 Apr 2026 07:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>BDO axes 31 partner roles as AI pressure grows and profits fall</title>
-      <link>https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6</guid>
-      <description>Move comes amid downturn for professional services after hiring spree during pandemic</description>
-      <pubDate>Thu, 09 Apr 2026 06:55:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ceasefire bounce</title>
-      <link>https://www.ft.com/content/f3ca59b9-4c99-4a41-9e7d-5f1db0209e16</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f3ca59b9-4c99-4a41-9e7d-5f1db0209e16</guid>
-      <description>And the Hormuz bitcoin tollbooth</description>
-      <pubDate>Thu, 09 Apr 2026 05:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>How War in the Middle East Paralyzed an Asian Food Giant</title>
-      <link>https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html</guid>
-      <description>Vietnam, the world’s No. 2 rice exporter, cut production as power prices surged. Even with a temporary cease-fire in Iran, worries linger over the world’s food supply.</description>
-      <pubDate>Thu, 09 Apr 2026 05:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe nervously eyes fragile Iran ceasefire as energy crisis rumbles on</title>
-      <link>https://www.ft.com/content/b4b8de1d-49a9-4b19-808f-5b26070422c1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b4b8de1d-49a9-4b19-808f-5b26070422c1</guid>
-      <description>Also in this newsletter: Italy calls for looser EU spending rules</description>
-      <pubDate>Thu, 09 Apr 2026 05:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tariffs are Trump’s perpetual leverage machine</title>
-      <link>https://www.ft.com/content/5f805a4d-f186-4761-9266-4bed85580901</link>
-      <guid isPermaLink="true">https://www.ft.com/content/5f805a4d-f186-4761-9266-4bed85580901</guid>
-      <description>And the US might find them hard to give up</description>
-      <pubDate>Thu, 09 Apr 2026 04:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man Is Arrested in Bahamas Days After Michigan Woman Goes Missing</title>
-      <link>https://www.nytimes.com/2026/04/09/world/americas/missing-woman-husband-overboard-bahamas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/09/world/americas/missing-woman-husband-overboard-bahamas.html</guid>
-      <description>The Bahamian police said they had arrested an American man in connection with the disappearance of Lynette Hooker, who fell off a dinghy while boating with her husband.</description>
-      <pubDate>Thu, 09 Apr 2026 04:28:33 +0000</pubDate>
+      <title>BBC at the site of Israeli air strikes in Beirut</title>
+      <link>https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>At least 182 people were killed and 890 others wounded, according to the Lebanese health ministry.</description>
+      <pubDate>Thu, 09 Apr 2026 07:45:26 +0000</pubDate>
     </item>
     <item>
       <title>A Cease-Fire for Now in Iran, but a Blow to American Credibility</title>
@@ -238,90 +665,6 @@
       <pubDate>Thu, 09 Apr 2026 04:27:57 +0000</pubDate>
     </item>
     <item>
-      <title>He Got Rich Buying and Selling Luxury Watches. Was It a Ponzi Scheme?</title>
-      <link>https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html</guid>
-      <description>Dominic Khoo made waves in Singapore as an investor in expensive timepieces. Now many of his clients accuse him of fraud.</description>
-      <pubDate>Thu, 09 Apr 2026 04:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors sought to pull $20bn from private credit funds in first quarter</title>
-      <link>https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c</guid>
-      <description>Big groups including Apollo, Ares and Blackstone were hit with redemption requests at start of 2026</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shipping stalls as Tehran dictates terms in Strait of Hormuz</title>
-      <link>https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd</guid>
-      <description>Despite US-Iran ceasefire deal fewer tankers passed the crucial waterway than during fiercest days of fighting</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ackman in talks to launch fund to bet on investor complacency</title>
-      <link>https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561</link>
-      <guid isPermaLink="true">https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561</guid>
-      <description>Strategy would echo doomsday trades that earned Pershing Square a big windfall during the pandemic</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK becomes top destination for US jet fuel</title>
-      <link>https://www.ft.com/content/7702fdae-4ef3-45bd-b33f-96b9e43d195f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7702fdae-4ef3-45bd-b33f-96b9e43d195f</guid>
-      <description>Iran war stokes embrace of American exports as Britain’s aviation sector shifts reliance on Middle East supplies</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>US oil exports to hit record as Iran war triggers race for supplies</title>
-      <link>https://www.ft.com/content/c7499763-5630-4ab9-9d10-0e22ab88e674</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c7499763-5630-4ab9-9d10-0e22ab88e674</guid>
-      <description>‘Armada’ of Asian tankers heads for American ports as energy shortages spread</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU warns it will still face ‘stagflationary shock’</title>
-      <link>https://www.ft.com/content/9b3a4ada-e715-4972-ac46-af94c12425ba</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9b3a4ada-e715-4972-ac46-af94c12425ba</guid>
-      <description>European Commission preparing to cut growth forecasts despite two-week Iran war ceasefire</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>CLSA curtails flagship Tokyo forum because of its Chinese parent</title>
-      <link>https://www.ft.com/content/b5424612-b152-4793-b169-a652c133f52a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b5424612-b152-4793-b169-a652c133f52a</guid>
-      <description>Famed investor gathering becomes ‘access day’ with new event launched in South Korea</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran war has exposed the weakness of the dollar</title>
-      <link>https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa</guid>
-      <description>As Opec members have long understood, it is not a good idea to give users of your product an incentive to find alternatives</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is the BoJ ready to take Japan back to reality?</title>
-      <link>https://www.ft.com/content/200d5b7b-bd73-414e-b6d5-e2e449d46f13</link>
-      <guid isPermaLink="true">https://www.ft.com/content/200d5b7b-bd73-414e-b6d5-e2e449d46f13</guid>
-      <description>This month’s probable rate increase is in keeping with the moment</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The case for trade, remade</title>
-      <link>https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6</guid>
-      <description>There are good reasons to believe it is likely to follow the rewiring of global finance earlier this century</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have Hungarians had enough of Orbán?</title>
-      <link>https://www.ft.com/content/9aa38707-f4dd-4902-95af-9c9f68c67142</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9aa38707-f4dd-4902-95af-9c9f68c67142</guid>
-      <description>Rural strongholds turn against ruling Fidesz party ahead of Sunday’s parliamentary election</description>
-      <pubDate>Thu, 09 Apr 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Is BTS losing its K-pop identity as it aims for a bigger world stage?</title>
       <link>https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&amp;at_campaign=rss</guid>
@@ -329,18 +672,18 @@
       <pubDate>Thu, 09 Apr 2026 03:28:15 +0000</pubDate>
     </item>
     <item>
+      <title>Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters</title>
+      <link>https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>US exhibition squad, the Harlem Globetrotters, met the pontiff in the Vatican, helping him to spin a basketball on the tip of his finger.</description>
+      <pubDate>Thu, 09 Apr 2026 03:17:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Chinese researcher's death after questioning in US prompts anger in Beijing</title>
       <link>https://www.bbc.com/news/articles/cge0xd4g21qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cge0xd4g21qo?at_medium=RSS&amp;at_campaign=rss</guid>
       <description>The semiconductor researcher was found dead after “hostile questioning” by US law enforcement.</description>
       <pubDate>Thu, 09 Apr 2026 03:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>US man arrested in case of Michigan woman's disappearance in Bahamas</title>
-      <link>https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c7471lzklyko?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Lynette Hooker fell overboard from a small boat and was swept out to sea by strong currents, her husband told authorities.</description>
-      <pubDate>Thu, 09 Apr 2026 02:07:58 +0000</pubDate>
     </item>
     <item>
       <title>Starmer says much work remains to make US-Iran ceasefire hold</title>
@@ -374,29 +717,8 @@
       <title>Negotiators face huge task to close gaps in rival Iran peace proposals</title>
       <link>https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>A US 15-point plan and an Iranian 10-point variant are oceans apart, writes the BBC's diplomatic correspondent.</description>
+      <description>The US has a 15-point plan to end the war, with Iran offering 10 proposals of its own. Can they be reconciled?</description>
       <pubDate>Wed, 08 Apr 2026 20:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s Mark Carney Poised to Secure Liberal Party Majority After Gladu’s Defection</title>
-      <link>https://www.nytimes.com/2026/04/08/world/canada/mark-carney-canada-liberal-party-marilyn-gladu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/canada/mark-carney-canada-liberal-party-marilyn-gladu.html</guid>
-      <description>Prime Minister Mark Carney’s Liberal Party is expected to win two special elections that could give the government broader powers in Parliament.</description>
-      <pubDate>Wed, 08 Apr 2026 20:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil prices plunge and shares jump on US-Iran ceasefire plan</title>
-      <link>https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.</description>
-      <pubDate>Wed, 08 Apr 2026 20:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump</title>
-      <link>https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html</guid>
-      <description>Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with President Trump’s whims.</description>
-      <pubDate>Wed, 08 Apr 2026 20:03:41 +0000</pubDate>
     </item>
     <item>
       <title>Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes</title>
@@ -406,20 +728,6 @@
       <pubDate>Wed, 08 Apr 2026 19:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>China Pressed Iran Toward Cease-Fire, Iranian Officials Say</title>
-      <link>https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html</guid>
-      <description>Beijing appeared to have helped push Tehran to accept the two-week deal with the United States, reflecting China’s growing influence and its stake in avoiding a wider war.</description>
-      <pubDate>Wed, 08 Apr 2026 18:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Greece Plans to Block Social Media for Children Under 15</title>
-      <link>https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/world/europe/greece-social-media-teens.html</guid>
-      <description>Countries including Australia, Spain and others have already passed bans or are working on plans to restrict teenagers’ access to social sites.</description>
-      <pubDate>Wed, 08 Apr 2026 18:37:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Who is Viktor Orbán, Hungarian PM fighting to stay in power after 16 years?</title>
       <link>https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&amp;at_campaign=rss</guid>
@@ -427,25 +735,11 @@
       <pubDate>Wed, 08 Apr 2026 18:25:27 +0000</pubDate>
     </item>
     <item>
-      <title>Gas Prices Won’t Quickly Return to Prewar Levels, Even if the Strait of Hormuz Reopens</title>
-      <link>https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html</guid>
-      <description>Some wells can be turned on in days or weeks, but bringing the Gulf’s energy system back to something akin to normal will take months.</description>
-      <pubDate>Wed, 08 Apr 2026 18:25:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Partner, scapegoat or spoiler? Israel’s place in a fragile ceasefire</title>
       <link>https://www.economist.com/middle-east-and-africa/2026/04/08/partner-scapegoat-or-spoiler-israels-place-in-a-fragile-ceasefire</link>
       <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/04/08/partner-scapegoat-or-spoiler-israels-place-in-a-fragile-ceasefire</guid>
       <description>The dealmaking between America and Iran is happening without Binyamin Netanyahu</description>
       <pubDate>Wed, 08 Apr 2026 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Strait of Hormuz warning adds to shipping uncertainty</title>
-      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.</description>
-      <pubDate>Wed, 08 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
       <title>Why ceasefire deal with US has unsettled Iran's hardliners</title>
@@ -532,13 +826,6 @@
       <pubDate>Wed, 08 Apr 2026 11:33:32 +0000</pubDate>
     </item>
     <item>
-      <title>Madagascar declares state of emergency over severe fuel shortages linked to Iran war</title>
-      <link>https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The presidency says it is taking action as it fears fuel shortages could lead to public disorder.</description>
-      <pubDate>Wed, 08 Apr 2026 11:07:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Co-founder of Jalisco New Generation drug cartel pleads guilty</title>
       <link>https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&amp;at_campaign=rss</guid>
@@ -574,13 +861,6 @@
       <pubDate>Wed, 08 Apr 2026 03:30:55 +0000</pubDate>
     </item>
     <item>
-      <title>US journalist Shelly Kittleson released after kidnap in Iraq, officials say</title>
-      <link>https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>US officials say they are now "working to support her safe departure from Iraq".</description>
-      <pubDate>Wed, 08 Apr 2026 01:44:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Plan to scrap presidential elections puts Zimbabweans at loggerheads</title>
       <link>https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&amp;at_campaign=rss</guid>
@@ -602,17 +882,10 @@
       <pubDate>Tue, 07 Apr 2026 22:29:28 +0000</pubDate>
     </item>
     <item>
-      <title>Trump condemned over threat that Iran's 'civilisation will die'</title>
-      <link>https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The UN's chief says he is "deeply troubled" by such statements, as the US president ramps up pressure on Iran to agree a deal to end the war.</description>
-      <pubDate>Tue, 07 Apr 2026 21:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The crew of Artemis II are returning to a planet they have cheered up</title>
-      <link>https://www.economist.com/leaders/2026/04/07/the-crew-of-artemis-ii-are-returning-to-a-planet-they-have-cheered-up</link>
-      <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/07/the-crew-of-artemis-ii-are-returning-to-a-planet-they-have-cheered-up</guid>
-      <description>The mission has recaptured some of the enthusiasm of early lunar flights</description>
+      <title>Artemis II has offered Earth inspiration</title>
+      <link>https://www.economist.com/leaders/2026/04/07/artemis-ii-has-offered-earth-inspiration</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/04/07/artemis-ii-has-offered-earth-inspiration</guid>
+      <description>But rekindled Space Age enthusiasm will need new foundations if it is to endure</description>
       <pubDate>Tue, 07 Apr 2026 20:23:59 +0000</pubDate>
     </item>
     <item>
@@ -621,13 +894,6 @@
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&amp;at_campaign=rss</guid>
       <description>West was due to headline the festival in July but drew criticism over past antisemitic comments.</description>
       <pubDate>Tue, 07 Apr 2026 19:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>French couple leave Iran after more than three years in jail</title>
-      <link>https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Cecile Kohler and Jacques Paris are on their way home after being allowed to leave the country, the French president says.</description>
-      <pubDate>Tue, 07 Apr 2026 19:18:08 +0000</pubDate>
     </item>
     <item>
       <title>JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU</title>
@@ -693,20 +959,6 @@
       <pubDate>Tue, 07 Apr 2026 14:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>WHO suspends Gaza medical evacuations after contractor killed by Israeli troops</title>
-      <link>https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Israel's military says troops fired at a vehicle driven by the Palestinian because they believed it posed "an immediate threat".</description>
-      <pubDate>Tue, 07 Apr 2026 13:55:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ringleader of suspected human trafficking network arrested in Ethiopia</title>
-      <link>https://www.bbc.com/news/articles/cn08gx8k5ego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cn08gx8k5ego?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Yetbarek Dawit is alleged to have operated a multi-million-dollar operation, using torture to raise money.</description>
-      <pubDate>Tue, 07 Apr 2026 13:24:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Reform would deny visas over calls for slavery reparations</title>
       <link>https://www.bbc.com/news/articles/c4g4w722peyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g4w722peyo?at_medium=RSS&amp;at_campaign=rss</guid>
@@ -749,102 +1001,11 @@
       <pubDate>Tue, 07 Apr 2026 10:59:53 +0000</pubDate>
     </item>
     <item>
-      <title>More than 1,700 Brits who fell ill in Cape Verde join action against Tui</title>
-      <link>https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Tui is investigating the claims and says it is "not in a position to provide a statement at this stage".</description>
-      <pubDate>Tue, 07 Apr 2026 10:36:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Air India CEO steps down early as losses mount</title>
       <link>https://www.bbc.com/news/articles/cvg49gq9y16o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cvg49gq9y16o?at_medium=RSS&amp;at_campaign=rss</guid>
       <description>Wilson, whose term was set to end in 2027, will remain CEO and MD until a successor is appointed.</description>
       <pubDate>Tue, 07 Apr 2026 10:10:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>India's top court hears challenges to ruling on women's entry into temple</title>
-      <link>https://www.bbc.com/news/articles/c36rkz1wl01o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c36rkz1wl01o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Experts say the court's decision will have far-reaching consequences for women's religious freedoms in India.</description>
-      <pubDate>Tue, 07 Apr 2026 06:55:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Real Madrid tie could make or break Kane's Ballon d'Or hopes</title>
-      <link>https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Harry Kane is the leading goalscorer in Europe but does he need to win a major trophy to have a chance of winning the prestigious award?</description>
-      <pubDate>Tue, 07 Apr 2026 05:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's deadline looms but Asian nations already have deals with Iran</title>
-      <link>https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.</description>
-      <pubDate>Mon, 06 Apr 2026 23:34:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound</title>
-      <link>https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Almost nothing was known about the Royal Hill casino until the Thai military took control of it in December.</description>
-      <pubDate>Mon, 06 Apr 2026 23:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Little sign of breakthrough as Trump's Iran deadline nears</title>
-      <link>https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.</description>
-      <pubDate>Mon, 06 Apr 2026 23:04:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>How rescue of US airman in remote part of Iran unfolded</title>
-      <link>https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.</description>
-      <pubDate>Mon, 06 Apr 2026 21:31:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nine policemen sentenced to death in India over Covid custody killings</title>
-      <link>https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.</description>
-      <pubDate>Mon, 06 Apr 2026 21:21:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran and America are spinning stories about the size of their victories</title>
-      <link>https://www.economist.com/middle-east-and-africa/2026/04/06/iran-and-america-are-spinning-stories-about-the-size-of-their-victories</link>
-      <guid isPermaLink="true">https://www.economist.com/middle-east-and-africa/2026/04/06/iran-and-america-are-spinning-stories-about-the-size-of-their-victories</guid>
-      <description>The bombast obscures the scale of the damage the war is doing</description>
-      <pubDate>Mon, 06 Apr 2026 20:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seven Eritrean players fail to return home after international match</title>
-      <link>https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Several footballers have absconded in the past leaving behind what rights groups call a repressive government.</description>
-      <pubDate>Mon, 06 Apr 2026 17:31:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>The strange, multicultural slang of Toronto’s teenagers</title>
-      <link>https://www.economist.com/the-americas/2026/04/06/the-strange-multicultural-slang-of-torontos-teenagers</link>
-      <guid isPermaLink="true">https://www.economist.com/the-americas/2026/04/06/the-strange-multicultural-slang-of-torontos-teenagers</guid>
-      <description>London rappers have an outsize influence</description>
-      <pubDate>Mon, 06 Apr 2026 13:14:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan and China are preparing for a summit, of sorts</title>
-      <link>https://www.economist.com/china/2026/04/06/taiwan-and-china-are-preparing-for-a-summit-of-sorts</link>
-      <guid isPermaLink="true">https://www.economist.com/china/2026/04/06/taiwan-and-china-are-preparing-for-a-summit-of-sorts</guid>
-      <description>A trip to the mainland by the KMT’s leader exposes a rift in the party</description>
-      <pubDate>Mon, 06 Apr 2026 12:47:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>How far do the European Union’s military ambitions go?</title>
-      <link>https://www.economist.com/europe/2026/04/06/how-far-do-the-european-unions-military-ambitions-go</link>
-      <guid isPermaLink="true">https://www.economist.com/europe/2026/04/06/how-far-do-the-european-unions-military-ambitions-go</guid>
-      <description>An interview with the EU’s top military officer</description>
-      <pubDate>Mon, 06 Apr 2026 11:51:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
