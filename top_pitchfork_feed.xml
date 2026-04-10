@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:08:28 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>My New Band Believe – My New Band Believe</title>
+      <link>https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los Thuthanaka – Wak’aEP</title>
+      <link>https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/</guid>
+      <description>A review by Sasha Geffen</description>
+      <author>Sasha Geffen</author>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Wendy Eisenberg – Wendy Eisenberg</title>
       <link>https://pitchfork.com/reviews/albums/wendy-eisenberg-wendy-eisenberg/</link>
@@ -230,22 +246,6 @@
       <description>A review by Matthew Blackwell</description>
       <author>Matthew Blackwell</author>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Shaw – And So It Is</title>
-      <link>https://pitchfork.com/reviews/albums/aaron-shaw-and-so-it-is/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/aaron-shaw-and-so-it-is/</guid>
-      <description>A review by Linnie Greene</description>
-      <author>Linnie Greene</author>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scritti Politti – Cupid &amp; Psyche 85</title>
-      <link>https://pitchfork.com/reviews/albums/scritti-politti-cupid-and-psyche-85/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/scritti-politti-cupid-and-psyche-85/</guid>
-      <description>A review by Andy Cush</description>
-      <author>Andy Cush</author>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

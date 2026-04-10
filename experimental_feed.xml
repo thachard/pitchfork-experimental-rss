@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:06:48 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Los Thuthanaka – Wak’aEP</title>
+      <link>https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/</guid>
+      <description>A review by Sasha Geffen</description>
+      <author>Sasha Geffen</author>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Actress / Suzanne Ciani – Concrète Waves</title>
       <link>https://pitchfork.com/reviews/albums/actress-suzanne-ciani-concrete-waves/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/caterina-barbieri-bendik-giske-at-source/</guid>
       <description>A review by Hattie Lindert</description>
       <author>Hattie Lindert</author>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maria BC – Marathon</title>
-      <link>https://pitchfork.com/reviews/albums/maria-bc-marathon/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/maria-bc-marathon/</guid>
-      <description>A review by Sadie Sartini Garner</description>
-      <author>Sadie Sartini Garner</author>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
