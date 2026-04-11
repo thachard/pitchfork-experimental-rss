@@ -90,68 +90,41 @@ def fetch_listing(page):
 def fetch_article_date(page, url):
     """Fetch an individual article page and extract its publish date."""
     try:
-        page.goto(url, wait_until="networkidle", timeout=60000)
-        time.sleep(2)
-        soup = BeautifulSoup(page.content(), "html.parser")
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(3)
 
-        # 1. Open Graph article:published_time meta tag
-        for prop in ["article:published_time", "article:published", "og:published_time"]:
-            meta = soup.find("meta", {"property": prop})
-            if meta and meta.get("content"):
-                return meta["content"]
+        # Extract date directly from the browser DOM - bypasses any BS4 parsing issues
+        date = page.evaluate("""() => {
+            // 1. article:published_time meta tag
+            const meta = document.querySelector('meta[property="article:published_time"]');
+            if (meta && meta.content) return meta.content;
 
-        # 2. JSON-LD structured data
-        for script in soup.find_all("script", type="application/ld+json"):
-            try:
-                data = json.loads(script.string or "")
-                items = data if isinstance(data, list) else [data]
-                for item in items:
-                    for field in ("datePublished", "dateCreated", "dateModified"):
-                        if field in item:
-                            return item[field]
-            except (json.JSONDecodeError, AttributeError):
-                pass
+            // 2. JSON-LD
+            const scripts = document.querySelectorAll('script[type="application/ld+json"]');
+            for (const s of scripts) {
+                try {
+                    const data = JSON.parse(s.textContent);
+                    const items = Array.isArray(data) ? data : (data['@graph'] || [data]);
+                    for (const item of items) {
+                        if (item.datePublished) return item.datePublished;
+                        if (item.dateCreated) return item.dateCreated;
+                    }
+                } catch(e) {}
+            }
 
-        # 3. <time> tag with datetime attribute
-        time_tag = soup.find("time", {"datetime": True})
-        if time_tag:
-            return time_tag["datetime"]
+            // 3. <time> tag datetime attribute
+            const timeEl = document.querySelector('time[datetime]');
+            if (timeEl) return timeEl.getAttribute('datetime');
 
-        # 4. <time> tag text only
-        time_tag = soup.find("time")
-        if time_tag:
-            return time_tag.get_text(strip=True)
+            // 4. <time> tag text
+            const timeText = document.querySelector('time');
+            if (timeText) return timeText.textContent.trim();
 
-        # 5. Regex scan of page text for date patterns
-        text = soup.get_text(" ")
+            return null;
+        }""")
 
-        # Quietus-specific: "Published 6:03am 26 February 2026"
-        match = re.search(
-            r"Published\s+\d{1,2}:\d{2}(?:am|pm)\s+(\d{1,2})\s+"
-            r"(January|February|March|April|May|June|"
-            r"July|August|September|October|November|December)\s+(\d{4})",
-            text, re.IGNORECASE
-        )
-        if match:
-            return f"{match.group(1)} {match.group(2)} {match.group(3)}"
-
-        # Generic: "26 February 2026"
-        match = re.search(
-            r"\b(\d{1,2})(?:st|nd|rd|th)?\s+(January|February|March|April|May|June|"
-            r"July|August|September|October|November|December)\s+(\d{4})\b",
-            text
-        )
-        if match:
-            return f"{match.group(1)} {match.group(2)} {match.group(3)}"
-
-        # Generic: "February 26, 2026"
-        match = re.search(
-            r"\b(January|February|March|April|May|June|July|August|September|"
-            r"October|November|December)\s+(\d{1,2}),?\s+(\d{4})\b",
-            text
-        )
-        if match:
-            return f"{match.group(1)} {match.group(2)}, {match.group(3)}"
+        if date:
+            return date
 
     except Exception as e:
         print(f"  Warning: could not fetch date for {url}: {e}", file=sys.stderr)
@@ -257,7 +230,7 @@ if __name__ == "__main__":
             browser.close()
             sys.exit(1)
 
-        articles = articles[:15]
+        articles = articles[:8]
         print(f"Fetching publish dates for {len(articles)} articles...")
         for i, article in enumerate(articles):
             date = fetch_article_date(page, article["link"])
