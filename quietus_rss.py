@@ -87,57 +87,33 @@ def fetch_listing(page):
     return articles
 
 
-def fetch_article_date(page, url):
-    """Fetch an individual article page and extract its publish date."""
+def fetch_article_date(page, slug):
+    """Use the WordPress REST API via in-browser fetch to get the article date.
+    Called after the listing page is already loaded, so Cloudflare is satisfied."""
     try:
-        page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        time.sleep(3)
-
-        # Diagnostic: print page title and URL to confirm correct page loaded
-        print(f"    page title: {page.title()}", file=sys.stderr)
-        print(f"    page url:   {page.url}", file=sys.stderr)
-
-        # Extract date directly from the browser DOM
-        date = page.evaluate("""() => {
-            // 1. article:published_time meta tag
-            const meta = document.querySelector('meta[property="article:published_time"]');
-            if (meta && meta.content) return 'META:' + meta.content;
-
-            // 2. JSON-LD
-            const scripts = document.querySelectorAll('script[type="application/ld+json"]');
-            for (const s of scripts) {
-                try {
-                    const data = JSON.parse(s.textContent);
-                    const items = Array.isArray(data) ? data : (data['@graph'] || [data]);
-                    for (const item of items) {
-                        if (item.datePublished) return 'JSONLD:' + item.datePublished;
-                        if (item.dateCreated) return 'JSONLD:' + item.dateCreated;
-                    }
-                } catch(e) {}
-            }
-
-            // 3. <time> tag datetime attribute
-            const timeEl = document.querySelector('time[datetime]');
-            if (timeEl) return 'TIME:' + timeEl.getAttribute('datetime');
-
-            // 4. <time> tag text
-            const timeText = document.querySelector('time');
-            if (timeText) return 'TIMETEXT:' + timeText.textContent.trim();
-
-            // 5. Count meta tags so we know if page loaded at all
-            return 'NOMATCH:metas=' + document.querySelectorAll('meta').length;
-        }""")
-
-        print(f"    evaluate result: {repr(date)}", file=sys.stderr)
-
-        if date and ':' in date:
-            prefix, value = date.split(':', 1)
-            if prefix != 'NOMATCH':
-                return value
-
+        api_url = f"https://thequietus.com/wp-json/wp/v2/posts?slug={slug}&_fields=date"
+        result = page.evaluate(f"""async () => {{
+            try {{
+                const resp = await fetch("{api_url}", {{
+                    headers: {{
+                        'Accept': 'application/json',
+                    }}
+                }});
+                if (!resp.ok) return 'ERROR:' + resp.status;
+                const data = await resp.json();
+                if (data && data.length > 0 && data[0].date) {{
+                    return data[0].date;
+                }}
+                return 'EMPTY';
+            }} catch(e) {{
+                return 'EXCEPTION:' + e.message;
+            }}
+        }}""")
+        print(f"    api result for {slug}: {repr(result)}", file=sys.stderr)
+        if result and not result.startswith(('ERROR', 'EMPTY', 'EXCEPTION')):
+            return result
     except Exception as e:
-        print(f"  Warning: could not fetch date for {url}: {e}", file=sys.stderr)
-
+        print(f"  Warning: API call failed for {slug}: {e}", file=sys.stderr)
     return ""
 
 
@@ -242,10 +218,10 @@ if __name__ == "__main__":
         articles = articles[:8]
         print(f"Fetching publish dates for {len(articles)} articles...")
         for i, article in enumerate(articles):
-            date = fetch_article_date(page, article["link"])
+            slug = [s for s in article["link"].rstrip("/").split("/") if s][-1]
+            date = fetch_article_date(page, slug)
             article["pubDate"] = date
             print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} -> {repr(date) if date else 'NO DATE FOUND'}")
-            time.sleep(2)
 
         browser.close()
 
