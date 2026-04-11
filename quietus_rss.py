@@ -93,11 +93,15 @@ def fetch_article_date(page, url):
         page.goto(url, wait_until="domcontentloaded", timeout=60000)
         time.sleep(3)
 
-        # Extract date directly from the browser DOM - bypasses any BS4 parsing issues
+        # Diagnostic: print page title and URL to confirm correct page loaded
+        print(f"    page title: {page.title()}", file=sys.stderr)
+        print(f"    page url:   {page.url}", file=sys.stderr)
+
+        # Extract date directly from the browser DOM
         date = page.evaluate("""() => {
             // 1. article:published_time meta tag
             const meta = document.querySelector('meta[property="article:published_time"]');
-            if (meta && meta.content) return meta.content;
+            if (meta && meta.content) return 'META:' + meta.content;
 
             // 2. JSON-LD
             const scripts = document.querySelectorAll('script[type="application/ld+json"]');
@@ -106,25 +110,30 @@ def fetch_article_date(page, url):
                     const data = JSON.parse(s.textContent);
                     const items = Array.isArray(data) ? data : (data['@graph'] || [data]);
                     for (const item of items) {
-                        if (item.datePublished) return item.datePublished;
-                        if (item.dateCreated) return item.dateCreated;
+                        if (item.datePublished) return 'JSONLD:' + item.datePublished;
+                        if (item.dateCreated) return 'JSONLD:' + item.dateCreated;
                     }
                 } catch(e) {}
             }
 
             // 3. <time> tag datetime attribute
             const timeEl = document.querySelector('time[datetime]');
-            if (timeEl) return timeEl.getAttribute('datetime');
+            if (timeEl) return 'TIME:' + timeEl.getAttribute('datetime');
 
             // 4. <time> tag text
             const timeText = document.querySelector('time');
-            if (timeText) return timeText.textContent.trim();
+            if (timeText) return 'TIMETEXT:' + timeText.textContent.trim();
 
-            return null;
+            // 5. Count meta tags so we know if page loaded at all
+            return 'NOMATCH:metas=' + document.querySelectorAll('meta').length;
         }""")
 
-        if date:
-            return date
+        print(f"    evaluate result: {repr(date)}", file=sys.stderr)
+
+        if date and ':' in date:
+            prefix, value = date.split(':', 1)
+            if prefix != 'NOMATCH':
+                return value
 
     except Exception as e:
         print(f"  Warning: could not fetch date for {url}: {e}", file=sys.stderr)
