@@ -76,6 +76,15 @@ jobs:
         continue-on-error: true
         run: python star_columnists_rss.py
 
+      - name: Debug Quietus article date
+        run: python quietus_date_debug.py
+
+      - name: Upload Quietus article debug
+        uses: actions/upload-artifact@v4
+        with:
+          name: quietus-article-debug
+          path: debug_quietus_article.html
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
