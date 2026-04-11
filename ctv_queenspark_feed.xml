@@ -5,7 +5,7 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 11 Apr 2026 11:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 15:09:50 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ontario failed to collect nearly $10M owed by alleged animal abusers: documents</title>
@@ -27,6 +27,13 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/changes-to-ontario-school-board-governance-coming-monday-education-minister/</guid>
       <description>Ontario Education Minister Paul Calandra says the government will be introducing “significant” legislation on school board governance on April 13.</description>
       <pubDate>Fri, 10 Apr 2026 18:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Northlander train begins final testing before service resumes this year</title>
+      <link>https://www.ctvnews.ca/northern-ontario/article/northlander-train-begins-final-testing-before-service-resumes-this-year/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/northern-ontario/article/northlander-train-begins-final-testing-before-service-resumes-this-year/</guid>
+      <description>The return of passenger rail service connecting northern Ontario to the south took another step forward Thursday as the Northlander began full testing of the routes and all systems needed before the trains are relaunched.</description>
+      <pubDate>Sat, 11 Apr 2026 11:48:48 +0000</pubDate>
     </item>
     <item>
       <title>Ontario electricity system to add 14 new solar, wind projects</title>
@@ -105,13 +112,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/development-charges-to-be-cut-in-half-for-three-years-through-88-billion-investment-by-ontario-and-federal-governments/</guid>
       <description>The federal and provincial governments will jointly spend $8.8 billion to lower municipal development charges that drive up housing costs over the next decade, Prime Minister Mark Carney and Premier Doug Ford announced Monday.</description>
       <pubDate>Mon, 30 Mar 2026 22:21:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opposition fears Doug Ford&apos;s omnibus budget bill will be fast-tracked through to law</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/opposition-fears-doug-fords-omnibus-budget-bill-will-be-fast-tracked-through-to-law/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/opposition-fears-doug-fords-omnibus-budget-bill-will-be-fast-tracked-through-to-law/</guid>
-      <description>What do conservation authorities, a downtown Toronto parking lot and freedom-of-information requests have in common? On the face of it, nothing — but provincial legislative changes are coming to all three, and they are jammed into an omnibus budget bill tabled Thursday by Ontario Finance Minister Peter Bethlenfalvy.</description>
-      <pubDate>Fri, 27 Mar 2026 21:59:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
