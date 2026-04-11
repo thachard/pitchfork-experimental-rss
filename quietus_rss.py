@@ -3,9 +3,11 @@
 The Quietus – Album of the Week RSS Feed Generator
 ----------------------------------------------------
 Scrapes https://thequietus.com/columns/quietus-reviews/album-of-the-week/
-and fetches each article page for its publish date, then writes quietus_feed.xml.
+and writes quietus_feed.xml.
 
-Uses Playwright for full browser rendering to avoid bot detection.
+Date strategy:
+- Fetches the most recent article's date using a fresh browser (avoids Cloudflare)
+- Calculates older article dates by subtracting 7 days per position (weekly column)
 
 Usage:
     pip install playwright beautifulsoup4
@@ -15,7 +17,7 @@ Usage:
 
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 import json
 import re
 import sys
@@ -24,9 +26,10 @@ import time
 BASE_URL = "https://thequietus.com"
 FEED_URL = f"{BASE_URL}/columns/quietus-reviews/album-of-the-week/"
 OUTPUT_FILE = "quietus_feed.xml"
+MAX_ARTICLES = 8
 
 
-def make_browser_context(playwright):
+def make_context(playwright):
     browser = playwright.chromium.launch(headless=True)
     context = browser.new_context(
         user_agent=(
@@ -49,24 +52,18 @@ def make_browser_context(playwright):
     return browser, context
 
 
-def fetch_listing(page):
+def fetch_listing():
     """Fetch the listing page and return list of {title, description, link}."""
-    print(f"Fetching {FEED_URL} ...")
-    page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
-    time.sleep(3)
-    html = page.content()
-
-    # Debug: save listing page HTML
-    import os
-    debug_path = os.path.join(os.getcwd(), "debug_quietus_listing.html")
-    print(f"  Working dir: {os.getcwd()}", file=sys.stderr)
-    print(f"  Saving listing HTML to: {debug_path}", file=sys.stderr)
-    with open(debug_path, "w", encoding="utf-8") as f:
-        f.write(html)
-    print(f"  Saved ({len(html)} bytes)", file=sys.stderr)
+    print(f"Fetching listing page: {FEED_URL}")
+    with sync_playwright() as p:
+        browser, context = make_context(p)
+        page = context.new_page()
+        page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(3)
+        html = page.content()
+        browser.close()
 
     soup = BeautifulSoup(html, "html.parser")
-
     articles = []
     seen = set()
 
@@ -76,98 +73,80 @@ def fetch_listing(page):
             continue
         if href in seen:
             continue
-
         h3 = a_tag.find("h3")
         if not h3:
             continue
-
         seen.add(href)
         full_url = href if href.startswith("http") else BASE_URL + href
         title = h3.get_text(strip=True)
-
         h3.extract()
         description = a_tag.get_text(separator=" ", strip=True)
-
         articles.append({
             "title": title,
             "description": description,
             "link": full_url,
         })
 
-    print(f"  Found {len(articles)} articles on listing page.")
+    print(f"  Found {len(articles)} articles.")
     return articles
 
 
-def fetch_article_date(page, slug):
-    """Use the WordPress REST API via in-browser fetch to get the article date.
-    Called after the listing page is already loaded, so Cloudflare is satisfied."""
+def fetch_latest_date(url):
+    """Fetch the most recent article with a fresh browser to get its publish date."""
+    print(f"  Fetching date from most recent article: {url}")
+    with sync_playwright() as p:
+        browser, context = make_context(p)
+        page = context.new_page()
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(4)
+        date = page.evaluate("""() => {
+            const meta = document.querySelector('meta[property="article:published_time"]');
+            if (meta && meta.content) return meta.content;
+            const scripts = document.querySelectorAll('script[type="application/ld+json"]');
+            for (const s of scripts) {
+                try {
+                    const data = JSON.parse(s.textContent);
+                    const items = Array.isArray(data) ? data : (data['@graph'] || [data]);
+                    for (const item of items) {
+                        if (item.datePublished) return item.datePublished;
+                    }
+                } catch(e) {}
+            }
+            const timeEl = document.querySelector('time[datetime]');
+            if (timeEl) return timeEl.getAttribute('datetime');
+            return null;
+        }""")
+        print(f"  Raw date from article: {repr(date)}")
+        browser.close()
+    return date
+
+
+def parse_date(raw):
+    """Parse any date string to a datetime object."""
+    if not raw:
+        return None
+    raw = raw.strip()
+    # Strip ordinal suffixes
+    raw = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', raw)
+    # ISO 8601
     try:
-        api_url = f"https://thequietus.com/wp-json/wp/v2/posts?slug={slug}&_fields=date"
-        result = page.evaluate(f"""async () => {{
-            try {{
-                const resp = await fetch("{api_url}", {{
-                    headers: {{
-                        'Accept': 'application/json',
-                    }}
-                }});
-                if (!resp.ok) return 'ERROR:' + resp.status;
-                const data = await resp.json();
-                if (data && data.length > 0 && data[0].date) {{
-                    return data[0].date;
-                }}
-                return 'EMPTY';
-            }} catch(e) {{
-                return 'EXCEPTION:' + e.message;
-            }}
-        }}""")
-        print(f"    api result for {slug}: {repr(result)}", file=sys.stderr)
-        if result and not result.startswith(('ERROR', 'EMPTY', 'EXCEPTION')):
-            return result
-    except Exception as e:
-        print(f"  Warning: API call failed for {slug}: {e}", file=sys.stderr)
-    return ""
-
-
-def format_date(pub):
-    """Convert any date string to RFC 2822 format required by RSS."""
-    if not pub:
-        return ""
-
-    pub = pub.strip()
-
-    # ISO 8601 (e.g. 2026-02-26T10:00:00+00:00 or 2026-02-26)
-    try:
-        dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
-        return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+        return datetime.fromisoformat(raw.replace("Z", "+00:00"))
     except ValueError:
         pass
-
-    formats = [
-        "%d %B %Y",        # 26 February 2026
-        "%a %d %B, %Y",    # Thu 26 February, 2026
-        "%a %d %B %Y",     # Thu 26 February 2026
-        "%B %d, %Y",       # February 26, 2026
-        "%B %d %Y",        # February 26 2026
-        "%d/%m/%Y",        # 26/02/2026
-        "%Y/%m/%d",        # 2026/02/26
-        "%d-%m-%Y",        # 26-02-2026
-        "%b %d, %Y",       # Feb 26, 2026
-        "%d %b %Y",        # 26 Feb 2026
-    ]
-    for fmt in formats:
+    for fmt in ["%d %B %Y", "%a %d %B, %Y", "%a %d %B %Y",
+                "%B %d, %Y", "%B %d %Y", "%d %b %Y", "%b %d, %Y"]:
         try:
-            dt = datetime.strptime(pub, fmt)
-            return dt.strftime("%a, %d %b %Y 00:00:00 +0000")
+            return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
         except ValueError:
             pass
+    print(f"  Warning: could not parse date: {repr(raw)}", file=sys.stderr)
+    return None
 
-    # Strip ordinal suffixes and retry
-    cleaned = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", pub)
-    if cleaned != pub:
-        return format_date(cleaned)
 
-    print(f"  Warning: could not parse date: {repr(pub)}", file=sys.stderr)
-    return ""
+def format_rfc2822(dt):
+    if not dt:
+        return ""
+    return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
 
 
 def escape_xml(text):
@@ -180,9 +159,8 @@ def escape_xml(text):
     )
 
 
-def write_feed(reviews, output_path=OUTPUT_FILE):
+def write_feed(articles, output_path=OUTPUT_FILE):
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
-
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
@@ -194,46 +172,49 @@ def write_feed(reviews, output_path=OUTPUT_FILE):
         f'    <lastBuildDate>{now}</lastBuildDate>',
         f'    <atom:link href="{FEED_URL}" rel="self" type="application/rss+xml"/>',
     ]
-
-    for review in reviews:
-        pub = format_date(review.get("pubDate", ""))
+    for article in articles:
+        pub = format_rfc2822(article.get("pubDate"))
         lines += [
             '    <item>',
-            f'      <title>{escape_xml(review.get("title", ""))}</title>',
-            f'      <link>{escape_xml(review.get("link", ""))}</link>',
-            f'      <guid isPermaLink="true">{escape_xml(review.get("link", ""))}</guid>',
-            f'      <description>{escape_xml(review.get("description", ""))}</description>',
+            f'      <title>{escape_xml(article.get("title", ""))}</title>',
+            f'      <link>{escape_xml(article.get("link", ""))}</link>',
+            f'      <guid isPermaLink="true">{escape_xml(article.get("link", ""))}</guid>',
+            f'      <description>{escape_xml(article.get("description", ""))}</description>',
         ]
         if pub:
             lines.append(f'      <pubDate>{pub}</pubDate>')
         lines.append('    </item>')
-
     lines += ['  </channel>', '</rss>']
-
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print(f"RSS feed written to: {output_path}")
 
 
 if __name__ == "__main__":
-    with sync_playwright() as p:
-        browser, context = make_browser_context(p)
-        page = context.new_page()
+    articles = fetch_listing()
+    if not articles:
+        print("No articles found.", file=sys.stderr)
+        sys.exit(1)
 
-        articles = fetch_listing(page)
-        if not articles:
-            print("No articles found. The page structure may have changed.", file=sys.stderr)
-            browser.close()
-            sys.exit(1)
+    articles = articles[:MAX_ARTICLES]
 
-        articles = articles[:8]
-        print(f"Fetching publish dates for {len(articles)} articles...")
+    # Get the date of the most recent article with a fresh browser
+    raw_date = fetch_latest_date(articles[0]["link"])
+    latest_dt = parse_date(raw_date)
+
+    if latest_dt:
+        print(f"  Most recent article date: {latest_dt.strftime('%d %B %Y')}")
+        # Assign dates by subtracting 7 days per position (weekly column)
         for i, article in enumerate(articles):
-            slug = [s for s in article["link"].rstrip("/").split("/") if s][-1]
-            date = fetch_article_date(page, slug)
-            article["pubDate"] = date
-            print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} -> {repr(date) if date else 'NO DATE FOUND'}")
+            article["pubDate"] = latest_dt - timedelta(weeks=i)
+    else:
+        print("  Warning: could not determine latest date, feed will have no dates.", file=sys.stderr)
+        for article in articles:
+            article["pubDate"] = None
 
-        browser.close()
+    for i, article in enumerate(articles):
+        dt = article.get("pubDate")
+        date_str = dt.strftime('%d %B %Y') if dt else 'NO DATE'
+        print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} → {date_str}")
 
     write_feed(articles)
