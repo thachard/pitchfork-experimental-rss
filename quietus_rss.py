@@ -5,12 +5,15 @@ The Quietus – Album of the Week RSS Feed Generator
 Scrapes https://thequietus.com/columns/quietus-reviews/album-of-the-week/
 and fetches each article page for its publish date, then writes quietus_feed.xml.
 
+Uses Playwright for full browser rendering to avoid bot detection.
+
 Usage:
-    pip install requests beautifulsoup4
+    pip install playwright beautifulsoup4
+    playwright install chromium
     python quietus_rss.py
 """
 
-import requests
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import json
@@ -22,33 +25,36 @@ BASE_URL = "https://thequietus.com"
 FEED_URL = f"{BASE_URL}/columns/quietus-reviews/album-of-the-week/"
 OUTPUT_FILE = "quietus_feed.xml"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "none",
-    "Sec-Fetch-User": "?1",
-    "Cache-Control": "max-age=0",
-}
+
+def make_browser_context(playwright):
+    browser = playwright.chromium.launch(headless=True)
+    context = browser.new_context(
+        user_agent=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        viewport={"width": 1280, "height": 800},
+        locale="en-GB",
+        extra_http_headers={
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-GB,en;q=0.9",
+        }
+    )
+    context.add_init_script("""
+        Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
+        Object.defineProperty(navigator, 'languages', { get: () => ['en-GB', 'en'] });
+    """)
+    return browser, context
 
 
-def fetch_listing():
+def fetch_listing(page):
     """Fetch the listing page and return list of {title, description, link}."""
     print(f"Fetching {FEED_URL} ...")
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    resp = session.get(FEED_URL, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
+    page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
+    time.sleep(3)
+    soup = BeautifulSoup(page.content(), "html.parser")
 
     articles = []
     seen = set()
@@ -81,24 +87,23 @@ def fetch_listing():
     return articles
 
 
-def fetch_article_date(url):
+def fetch_article_date(page, url):
     """Fetch an individual article page and extract its publish date."""
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(1)
+        soup = BeautifulSoup(page.content(), "html.parser")
 
-        # 1. Best source: Open Graph article:published_time meta tag (WordPress standard)
+        # 1. Open Graph article:published_time meta tag
         for prop in ["article:published_time", "article:published", "og:published_time"]:
             meta = soup.find("meta", {"property": prop})
             if meta and meta.get("content"):
                 return meta["content"]
 
-        # 2. JSON-LD structured data (also common in WordPress)
+        # 2. JSON-LD structured data
         for script in soup.find_all("script", type="application/ld+json"):
             try:
                 data = json.loads(script.string or "")
-                # Handle both single object and list
                 items = data if isinstance(data, list) else [data]
                 for item in items:
                     for field in ("datePublished", "dateCreated", "dateModified"):
@@ -112,14 +117,13 @@ def fetch_article_date(url):
         if time_tag:
             return time_tag["datetime"]
 
-        # 4. <time> tag with text content only (no datetime attr)
+        # 4. <time> tag text only
         time_tag = soup.find("time")
         if time_tag:
             return time_tag.get_text(strip=True)
 
-        # 5. Last resort: scan visible text for a date pattern
+        # 5. Regex scan of page text for date patterns
         text = soup.get_text(" ")
-        # Match patterns like "26 February 2026" or "February 26, 2026" or "26th February 2026"
         match = re.search(
             r"\b(\d{1,2})(?:st|nd|rd|th)?\s+(January|February|March|April|May|June|"
             r"July|August|September|October|November|December)\s+(\d{4})\b",
@@ -148,23 +152,22 @@ def format_date(pub):
 
     pub = pub.strip()
 
-    # ISO 8601 formats (e.g. 2026-02-26T10:00:00+00:00 or 2026-02-26)
+    # ISO 8601 (e.g. 2026-02-26T10:00:00+00:00 or 2026-02-26)
     try:
         dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
         return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
     except ValueError:
         pass
 
-    # Try a wide range of human-readable formats
     formats = [
-        "%d %B %Y",        # 26 February 2026
-        "%B %d, %Y",       # February 26, 2026
-        "%B %d %Y",        # February 26 2026
-        "%d/%m/%Y",        # 26/02/2026
-        "%Y/%m/%d",        # 2026/02/26
-        "%d-%m-%Y",        # 26-02-2026
-        "%b %d, %Y",       # Feb 26, 2026
-        "%d %b %Y",        # 26 Feb 2026
+        "%d %B %Y",
+        "%B %d, %Y",
+        "%B %d %Y",
+        "%d/%m/%Y",
+        "%Y/%m/%d",
+        "%d-%m-%Y",
+        "%b %d, %Y",
+        "%d %b %Y",
     ]
     for fmt in formats:
         try:
@@ -173,7 +176,7 @@ def format_date(pub):
         except ValueError:
             pass
 
-    # Strip ordinal suffixes (1st, 2nd, 3rd, 4th...) and retry
+    # Strip ordinal suffixes and retry
     cleaned = re.sub(r"(\d+)(st|nd|rd|th)", r"\1", pub)
     if cleaned != pub:
         return format_date(cleaned)
@@ -199,7 +202,7 @@ def write_feed(reviews, output_path=OUTPUT_FILE):
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         '  <channel>',
-        '    <title>The Quietus – Album of the Week</title>',
+        '    <title>The Quietus \u2013 Album of the Week</title>',
         f'    <link>{FEED_URL}</link>',
         '    <description>Album of the Week reviews from The Quietus.</description>',
         '    <language>en-gb</language>',
@@ -228,17 +231,24 @@ def write_feed(reviews, output_path=OUTPUT_FILE):
 
 
 if __name__ == "__main__":
-    articles = fetch_listing()
-    if not articles:
-        print("No articles found. The page structure may have changed.", file=sys.stderr)
-        sys.exit(1)
+    with sync_playwright() as p:
+        browser, context = make_browser_context(p)
+        page = context.new_page()
 
-    articles = articles[:15]
-    print(f"Fetching publish dates for {len(articles)} articles...")
-    for i, article in enumerate(articles):
-        date = fetch_article_date(article["link"])
-        article["pubDate"] = date
-        print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} → {repr(date) if date else 'NO DATE FOUND'}")
-        time.sleep(0.5)
+        articles = fetch_listing(page)
+        if not articles:
+            print("No articles found. The page structure may have changed.", file=sys.stderr)
+            browser.close()
+            sys.exit(1)
+
+        articles = articles[:15]
+        print(f"Fetching publish dates for {len(articles)} articles...")
+        for i, article in enumerate(articles):
+            date = fetch_article_date(page, article["link"])
+            article["pubDate"] = date
+            print(f"  [{i+1}/{len(articles)}] {article['title'][:50]} -> {repr(date) if date else 'NO DATE FOUND'}")
+            time.sleep(0.5)
+
+        browser.close()
 
     write_feed(articles)
