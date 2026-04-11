@@ -48,7 +48,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: quietus-listing-debug
-          path: debug_quietus_listing.html
+          path: "**/*.html"
+          if-no-files-found: warn
 
       - name: Run FT fiction scraper
         continue-on-error: true
