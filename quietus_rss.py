@@ -54,7 +54,18 @@ def fetch_listing(page):
     print(f"Fetching {FEED_URL} ...")
     page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
     time.sleep(3)
-    soup = BeautifulSoup(page.content(), "html.parser")
+    html = page.content()
+
+    # Debug: save listing page HTML
+    import os
+    debug_path = os.path.join(os.getcwd(), "debug_quietus_listing.html")
+    print(f"  Working dir: {os.getcwd()}", file=sys.stderr)
+    print(f"  Saving listing HTML to: {debug_path}", file=sys.stderr)
+    with open(debug_path, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"  Saved ({len(html)} bytes)", file=sys.stderr)
+
+    soup = BeautifulSoup(html, "html.parser")
 
     articles = []
     seen = set()
