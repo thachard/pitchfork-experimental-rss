@@ -44,13 +44,6 @@ jobs:
         continue-on-error: true
         run: python quietus_rss.py
 
-      - name: Upload Quietus listing debug
-        uses: actions/upload-artifact@v4
-        with:
-          name: quietus-listing-debug
-          path: "**/*.html"
-          if-no-files-found: warn
-
       - name: Run FT fiction scraper
         continue-on-error: true
         run: python ft_fiction_rss.py
