@@ -91,7 +91,7 @@ def fetch_article_date(page, url):
     """Fetch an individual article page and extract its publish date."""
     try:
         page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        time.sleep(1)
+        time.sleep(3)
         soup = BeautifulSoup(page.content(), "html.parser")
 
         # 1. Open Graph article:published_time meta tag
@@ -124,6 +124,18 @@ def fetch_article_date(page, url):
 
         # 5. Regex scan of page text for date patterns
         text = soup.get_text(" ")
+
+        # Quietus-specific: "Published 6:03am 26 February 2026"
+        match = re.search(
+            r"Published\s+\d{1,2}:\d{2}(?:am|pm)\s+(\d{1,2})\s+"
+            r"(January|February|March|April|May|June|"
+            r"July|August|September|October|November|December)\s+(\d{4})",
+            text, re.IGNORECASE
+        )
+        if match:
+            return f"{match.group(1)} {match.group(2)} {match.group(3)}"
+
+        # Generic: "26 February 2026"
         match = re.search(
             r"\b(\d{1,2})(?:st|nd|rd|th)?\s+(January|February|March|April|May|June|"
             r"July|August|September|October|November|December)\s+(\d{4})\b",
@@ -131,6 +143,8 @@ def fetch_article_date(page, url):
         )
         if match:
             return f"{match.group(1)} {match.group(2)} {match.group(3)}"
+
+        # Generic: "February 26, 2026"
         match = re.search(
             r"\b(January|February|March|April|May|June|July|August|September|"
             r"October|November|December)\s+(\d{1,2}),?\s+(\d{4})\b",
