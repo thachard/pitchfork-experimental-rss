@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 11 Apr 2026 16:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 16:51:24 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why Olivia Chow loves ‘Nirvanna the Band the Show the Movie’ — even if the film broke city bylaws</title>
@@ -127,6 +127,13 @@
       <pubDate>Mon, 30 Mar 2026 19:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Toronto man charged with manslaughter in connection to fatal November shooting of 18-year-old</title>
+      <link>https://www.thestar.com/news/gta/toronto-man-charged-with-manslaughter-in-connection-to-fatal-november-shooting-of-18-year-old/article_ddcc9a69-a877-43a7-8a57-d2fa6aeeb9c6.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-man-charged-with-manslaughter-in-connection-to-fatal-november-shooting-of-18-year-old/article_ddcc9a69-a877-43a7-8a57-d2fa6aeeb9c6.html</guid>
+      <description></description>
+      <pubDate>Sat, 11 Apr 2026 12:34:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Man in critical condition, two arrested after early morning stabbing in Scarborough</title>
       <link>https://www.thestar.com/news/gta/man-in-critical-condition-two-arrested-after-early-morning-stabbing-in-scarborough/article_43c6fba4-50eb-45eb-a3b0-59859afcc03c.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/man-in-critical-condition-two-arrested-after-early-morning-stabbing-in-scarborough/article_43c6fba4-50eb-45eb-a3b0-59859afcc03c.html</guid>
@@ -160,13 +167,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/doug-fords-government-has-sent-mixed-signals-about-the-planned-height-of-this-controversial-oakville-condo-project-heres-why-residents-are-concerned/article_fa11e298-c40a-406f-b9b7-eeb97973d586.html</guid>
       <description></description>
       <pubDate>Sat, 11 Apr 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Woman fatally struck by GO train near Richmond Hill station</title>
-      <link>https://www.thestar.com/news/gta/woman-fatally-struck-by-train-near-richmond-hill-go-station/article_eb1c5eea-b64f-441b-aa21-711844ef6b07.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-fatally-struck-by-train-near-richmond-hill-go-station/article_eb1c5eea-b64f-441b-aa21-711844ef6b07.html</guid>
-      <description></description>
-      <pubDate>Sat, 11 Apr 2026 07:36:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
