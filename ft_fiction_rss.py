@@ -3,44 +3,60 @@
 FT Fiction – RSS Feed Generator
 ---------------------------------
 Scrapes https://www.ft.com/fiction and writes ft_fiction_feed.xml.
-No Playwright needed — the page renders server-side.
+Uses Playwright for full browser rendering to avoid bot detection.
 
 Usage:
-    pip install requests beautifulsoup4
+    pip install playwright beautifulsoup4
+    playwright install chromium
     python ft_fiction_rss.py
 """
 
-import requests
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import sys
+import time
 
 BASE_URL = "https://www.ft.com"
 FEED_URL = f"{BASE_URL}/fiction"
 OUTPUT_FILE = "ft_fiction_feed.xml"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
-
 
 def fetch_articles():
     print(f"Fetching {FEED_URL} ...")
-    resp = requests.get(FEED_URL, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
 
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            viewport={"width": 1280, "height": 800},
+            locale="en-GB",
+            extra_http_headers={
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "en-GB,en;q=0.9",
+            }
+        )
+        context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['en-GB', 'en'] });
+        """)
+        page = context.new_page()
+        page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(3)
+        html = page.content()
+        browser.close()
+
+    soup = BeautifulSoup(html, "html.parser")
     articles = []
     seen = set()
 
     # Each article is inside an li.o-teaser-collection__item
     for card in soup.find_all("li", class_="o-teaser-collection__item"):
-        # Title and link
         title_tag = card.select_one("a.js-teaser-heading-link")
         if not title_tag:
             continue
@@ -53,11 +69,9 @@ def fetch_articles():
         full_url = BASE_URL + href if href.startswith("/") else href
         title = title_tag.get_text(strip=True)
 
-        # Description (standfirst)
         desc_tag = card.select_one("p.o-teaser__standfirst, a.js-teaser-standfirst-link")
         description = desc_tag.get_text(strip=True) if desc_tag else ""
 
-        # Date — already present as ISO datetime attribute
         time_tag = card.select_one("time.o-date")
         pub_date = time_tag.get("datetime", "") if time_tag else ""
 
@@ -100,7 +114,7 @@ def write_feed(articles, output_path=OUTPUT_FILE):
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         '  <channel>',
-        '    <title>FT – Fiction</title>',
+        '    <title>FT \u2013 Fiction</title>',
         f'    <link>{FEED_URL}</link>',
         '    <description>Fiction reviews and articles from the Financial Times.</description>',
         '    <language>en-gb</language>',
