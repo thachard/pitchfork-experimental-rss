@@ -2,23 +2,28 @@
 """
 The Metropolitan Review – Fiction RSS Feed Generator
 ------------------------------------------------------
-Fetches the main Substack feed and filters to fiction-tagged posts only,
-then writes metropolitan_fiction_feed.xml.
+1. Uses Playwright to scrape article URLs from /t/fiction listing page
+2. Fetches the main Substack feed via feedparser
+3. Keeps only feed entries whose URL appears in the fiction listing
+4. Writes metropolitan_fiction_feed.xml
 
 Usage:
-    pip install feedparser
+    pip install playwright beautifulsoup4 feedparser
+    playwright install chromium
     python metropolitan_fiction_rss.py
 """
 
 import feedparser
+from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import sys
+import time
 
+LISTING_URL = "https://www.metropolitanreview.org/t/fiction"
 FEED_URL = "https://www.metropolitanreview.org/feed"
-SOURCE_URL = "https://www.metropolitanreview.org/t/fiction"
 OUTPUT_FILE = "metropolitan_fiction_feed.xml"
 MAX_ARTICLES = 15
-FILTER_TAG = "fiction"
 
 
 def escape_xml(text):
@@ -38,24 +43,41 @@ def format_rfc2822(entry):
     return ""
 
 
-def is_fiction(entry):
-    """Return True if the entry is tagged with fiction."""
-    # feedparser exposes tags as entry.tags list of {term, scheme, label}
-    tags = entry.get("tags", [])
-    for tag in tags:
-        term = tag.get("term", "").lower()
-        label = tag.get("label", "").lower()
-        if FILTER_TAG in term or FILTER_TAG in label:
-            return True
-    # Also check category field directly
-    category = entry.get("category", "").lower()
-    if FILTER_TAG in category:
-        return True
-    return False
+def fetch_fiction_urls():
+    """Scrape the /t/fiction listing page and return a set of article URLs."""
+    print(f"Fetching fiction listing: {LISTING_URL} ...")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            viewport={"width": 1280, "height": 800},
+        )
+        page = context.new_page()
+        page.goto(LISTING_URL, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(4)
+        html = page.content()
+        browser.close()
+
+    soup = BeautifulSoup(html, "html.parser")
+    urls = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/p/" in href and "metropolitanreview.org" in href:
+            # Normalise: strip query strings and trailing slashes
+            clean = href.split("?")[0].rstrip("/")
+            urls.add(clean)
+
+    print(f"  Found {len(urls)} fiction article URLs on listing page.")
+    return urls
 
 
-def fetch_articles():
-    print(f"Fetching {FEED_URL} ...")
+def fetch_feed_articles(fiction_urls):
+    """Fetch main feed and return entries whose URL is in fiction_urls."""
+    print(f"Fetching main feed: {FEED_URL} ...")
     feed = feedparser.parse(FEED_URL)
 
     if feed.bozo and not feed.entries:
@@ -64,18 +86,13 @@ def fetch_articles():
 
     print(f"  Total entries in feed: {len(feed.entries)}")
 
-    # Debug: show tags on first few entries so we can verify filtering
-    for entry in feed.entries[:3]:
-        tags = [t.get("term", "") for t in entry.get("tags", [])]
-        print(f"  Sample entry: {entry.get('title','')[:50]} | tags: {tags}")
-
     articles = []
     for entry in feed.entries:
-        if not is_fiction(entry):
+        link = entry.get("link", "").split("?")[0].rstrip("/")
+        if link not in fiction_urls:
             continue
 
         title = entry.get("title", "").strip()
-        link = entry.get("link", "").strip()
         description = entry.get("summary", "").strip()
         pub_date = format_rfc2822(entry)
 
@@ -92,7 +109,7 @@ def fetch_articles():
         if len(articles) >= MAX_ARTICLES:
             break
 
-    print(f"  Found {len(articles)} fiction articles.")
+    print(f"  Matched {len(articles)} fiction articles in feed.")
     return articles
 
 
@@ -103,7 +120,7 @@ def write_feed(articles, output_path=OUTPUT_FILE):
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         '  <channel>',
         '    <title>The Metropolitan Review \u2013 Fiction</title>',
-        f'    <link>{SOURCE_URL}</link>',
+        f'    <link>{LISTING_URL}</link>',
         '    <description>Fiction reviews from The Metropolitan Review.</description>',
         '    <language>en</language>',
         f'    <lastBuildDate>{now}</lastBuildDate>',
@@ -128,8 +145,14 @@ def write_feed(articles, output_path=OUTPUT_FILE):
 
 
 if __name__ == "__main__":
-    articles = fetch_articles()
-    if not articles:
-        print("No fiction articles found. Check tag filtering in logs.", file=sys.stderr)
+    fiction_urls = fetch_fiction_urls()
+    if not fiction_urls:
+        print("No fiction URLs found on listing page. Page structure may have changed.", file=sys.stderr)
         sys.exit(1)
+
+    articles = fetch_feed_articles(fiction_urls)
+    if not articles:
+        print("No fiction articles matched in feed. Feed may only contain recent posts.", file=sys.stderr)
+        sys.exit(1)
+
     write_feed(articles)
