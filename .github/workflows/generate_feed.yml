@@ -27,7 +27,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install playwright beautifulsoup4 requests
+        run: pip install playwright beautifulsoup4 requests feedparser
 
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
