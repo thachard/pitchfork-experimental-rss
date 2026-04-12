@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 01:47:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:46:20 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cris Williamson – The Changer and the Changed</title>
+      <link>https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>My New Band Believe – My New Band Believe</title>
       <link>https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/</link>
@@ -238,14 +246,6 @@
       <description>A review by Grayson Haver Currin</description>
       <author>Grayson Haver Currin</author>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beverly Glenn-Copeland – Laughter in Summer</title>
-      <link>https://pitchfork.com/reviews/albums/beverly-glenn-copeland-laughter-in-summer/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/beverly-glenn-copeland-laughter-in-summer/</guid>
-      <description>A review by Matthew Blackwell</description>
-      <author>Matthew Blackwell</author>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

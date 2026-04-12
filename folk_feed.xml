@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 01:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:44:30 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cris Williamson – The Changer and the Changed</title>
+      <link>https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ashley Monroe – Dear Nashville</title>
       <link>https://pitchfork.com/reviews/albums/ashley-monroe-dear-nashville/</link>
@@ -190,14 +198,6 @@
       <description>A review by Emma Madden</description>
       <author>Emma Madden</author>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dove Ellis – Blizzard</title>
-      <link>https://pitchfork.com/reviews/albums/dove-ellis-blizzard/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dove-ellis-blizzard/</guid>
-      <description>A review by Hannah Jocelyn</description>
-      <author>Hannah Jocelyn</author>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
