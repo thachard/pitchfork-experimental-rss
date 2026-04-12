@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Metropolitan Review – Fiction</title>
+    <link>https://www.metropolitanreview.org/t/fiction</link>
+    <description>Fiction reviews from The Metropolitan Review.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Apr 2026 01:47:20 +0000</lastBuildDate>
+    <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>High School Confidential</title>
+      <link>https://www.metropolitanreview.org/p/high-school-confidential</link>
+      <guid isPermaLink="true">https://www.metropolitanreview.org/p/high-school-confidential</guid>
+      <description>On Peter Shull&apos;s &apos;Why Teach?&apos;</description>
+      <pubDate>Tue, 24 Mar 2026 13:52:12 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
