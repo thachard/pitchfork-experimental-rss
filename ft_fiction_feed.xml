@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 13 Apr 2026 01:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:53:07 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stories of superheroes, spellsmiths and southern gothic terror</title>
+      <link>https://www.ft.com/content/9457bf8e-e3d2-4d27-bd3e-caa5fcf138ab</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9457bf8e-e3d2-4d27-bd3e-caa5fcf138ab</guid>
+      <description>Four of the best new sci-fi novels chart a darker journey across America, including a Marvel reboot, a crime caper that fuses magic and linguistics, plus a philosophical view of a looming apocalypse</description>
+      <pubDate>Mon, 13 Apr 2026 04:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>FT Magazine.The story behind an almost forgotten 1950s feminist fantasy classic</title>
       <link>https://www.ft.com/content/412ac1f5-3734-4445-a36d-ad186fbd643d</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/4fde07b9-8f3e-43a6-bf54-f431cb3e07c8</guid>
       <description>The novelist spares no one in a sharp account of a town in Pakistan wracked by political change in the 1970s</description>
       <pubDate>Fri, 06 Mar 2026 13:08:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan Travelogue — a Booker-longlisted novel on the tricks of translation</title>
-      <link>https://www.ft.com/content/01644bad-0d1c-4d38-962d-1c6d77f5968c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/01644bad-0d1c-4d38-962d-1c6d77f5968c</guid>
-      <description>At the heart of Yáng Shuāng-zǐ’s rich, heady book is the uneasy bond between a Japanese author and her Taiwanese interpreter</description>
-      <pubDate>Fri, 06 Mar 2026 13:06:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

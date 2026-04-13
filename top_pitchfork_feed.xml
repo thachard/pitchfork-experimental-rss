@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 01:56:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:54:37 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cancer House – The Moth</title>
+      <link>https://pitchfork.com/reviews/albums/cancer-house-the-moth/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cancer-house-the-moth/</guid>
+      <description>A review by Joshua Minsoo Kim</description>
+      <author>Joshua Minsoo Kim</author>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cris Williamson – The Changer and the Changed</title>
       <link>https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jill-scott-to-whom-this-may-concern/</guid>
       <description>A review by Marcus J. Moore</description>
       <author>Marcus J. Moore</author>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roy Montgomery – Guitars Infernal</title>
-      <link>https://pitchfork.com/reviews/albums/roy-montgomery-guitars-infernal/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/roy-montgomery-guitars-infernal/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
