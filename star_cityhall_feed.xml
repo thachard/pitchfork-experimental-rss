@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:40:14 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Toronto was just days away from defaulting on troubled St. Lawrence Market project, documents reveal</title>
@@ -134,6 +134,13 @@
       <pubDate>Mon, 30 Mar 2026 19:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Hwy. 427 on-ramp to Hwy. 401 closed after collision leaves man in critical condition</title>
+      <link>https://www.thestar.com/news/gta/hwy-427-on-ramp-to-hwy-401-closed-after-collision-leaves-man-in-critical-condition/article_a01b60cb-9600-403a-9e25-3450860e9344.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/hwy-427-on-ramp-to-hwy-401-closed-after-collision-leaves-man-in-critical-condition/article_a01b60cb-9600-403a-9e25-3450860e9344.html</guid>
+      <description></description>
+      <pubDate>Mon, 13 Apr 2026 07:19:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Waymo reportedly plans to test robo taxis in Ontario. Toronto’s mayor has her doubts about its technology</title>
       <link>https://www.thestar.com/news/gta/waymo-reportedly-plans-to-test-robo-taxis-in-ontario-torontos-mayor-has-her-doubts-about-its-technology/article_8e67c10b-6935-42b9-b754-71345bb950cd.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/waymo-reportedly-plans-to-test-robo-taxis-in-ontario-torontos-mayor-has-her-doubts-about-its-technology/article_8e67c10b-6935-42b9-b754-71345bb950cd.html</guid>
@@ -167,13 +174,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/motorcyclist-hurt-in-crash-on-gardiner/article_b7b5d46d-c84b-4722-acb5-b734a1806150.html</guid>
       <description></description>
       <pubDate>Sun, 12 Apr 2026 18:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Car chase, gunfire and slaying of 16-year-old in 2025 connected to violence in tow industry</title>
-      <link>https://www.thestar.com/news/crime/stoney-creek-homicide-faizaan-awan/article_fefb074f-f6a6-5255-b72e-e11e250d7fbb.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/crime/stoney-creek-homicide-faizaan-awan/article_fefb074f-f6a6-5255-b72e-e11e250d7fbb.html</guid>
-      <description></description>
-      <pubDate>Sun, 12 Apr 2026 16:00:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
