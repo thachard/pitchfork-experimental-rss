@@ -5,67 +5,83 @@ Bandcamp Daily – Best Jazz RSS Feed Generator
 Scrapes https://daily.bandcamp.com/best-jazz and writes bandcamp_jazz_feed.xml.
 
 Usage:
-    pip install requests beautifulsoup4
+    pip install playwright beautifulsoup4
+    playwright install chromium
     python bandcamp_jazz_rss.py
 """
 
-import requests
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+import re
 import sys
+import time
 
 BASE_URL = "https://daily.bandcamp.com"
 FEED_URL = f"{BASE_URL}/best-jazz"
 OUTPUT_FILE = "bandcamp_jazz_feed.xml"
 MAX_ARTICLES = 15
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-}
-
 
 def fetch_articles():
     print(f"Fetching {FEED_URL} ...")
-    resp = requests.get(FEED_URL, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            viewport={"width": 1280, "height": 800},
+            extra_http_headers={
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+            }
+        )
+        context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        """)
+        page = context.new_page()
+        page.goto(FEED_URL, wait_until="domcontentloaded", timeout=60000)
+        time.sleep(4)
+        html = page.content()
+        browser.close()
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Debug: show sample links to verify structure
+    all_hrefs = [a["href"] for a in soup.find_all("a", href=True)]
+    print(f"  Total links on page: {len(all_hrefs)}")
+    jazz_hrefs = [h for h in all_hrefs if "/best-jazz/" in h]
+    print(f"  /best-jazz/ links: {len(jazz_hrefs)}")
+    for h in jazz_hrefs[:5]:
+        print(f"    {h}")
 
     articles = []
     seen = set()
 
-    # Each article card has: a[href] containing /best-jazz/,
-    # a date span, and a title link
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if not href.startswith("/best-jazz/"):
+        if "/best-jazz/" not in href:
             continue
         if href in seen:
             continue
 
-        # Title is the text of the link, skip nav/category links
         title = a.get_text(strip=True)
         if not title or title.upper() == "BEST JAZZ":
             continue
 
         seen.add(href)
-        full_url = BASE_URL + href
+        full_url = BASE_URL + href if href.startswith("/") else href
 
-        # Date: look in the parent container for a text matching
-        # the pattern "Month DD, YYYY"
-        parent = a.parent
+        # Find date in parent container
         pub_date = ""
-        # Walk up a few levels to find the date text
-        for _ in range(5):
+        parent = a.parent
+        for _ in range(6):
             if parent is None:
                 break
             text = parent.get_text(" ", strip=True)
-            import re
             m = re.search(
                 r'(January|February|March|April|May|June|July|August|'
                 r'September|October|November|December)\s+\d{1,2},\s+\d{4}',
@@ -145,6 +161,6 @@ def write_feed(articles, output_path=OUTPUT_FILE):
 if __name__ == "__main__":
     articles = fetch_articles()
     if not articles:
-        print("No articles found.", file=sys.stderr)
+        print("No articles found. Check debug output above.", file=sys.stderr)
         sys.exit(1)
     write_feed(articles)
