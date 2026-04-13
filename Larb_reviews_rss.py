@@ -75,31 +75,38 @@ def fetch_articles():
         full_url = BASE_URL + href
         seen.add(href)
 
-        # Title: try the link text, or look for a heading in the parent
-        title = a.get_text(strip=True)
+        # Walk up to find the card container (has both image link and title)
+        container = a.parent
+        for _ in range(8):
+            if container is None:
+                break
+            # Title: look for any heading tag in the container
+            heading = container.find(["h1", "h2", "h3", "h4"])
+            if heading:
+                break
+            container = container.parent
+
+        if not container:
+            continue
+
+        title = heading.get_text(strip=True) if heading else ""
         if not title:
             continue
 
-        # Walk up to find date and description in the card container
+        # Date: scan container text for date pattern
         pub_date = ""
-        description = ""
-        container = a.parent
-        for _ in range(6):
-            if container is None:
-                break
-            text = container.get_text(" ", strip=True)
+        text = container.get_text(" ", strip=True)
+        m = re.search(
+            r'(January|February|March|April|May|June|July|August|'
+            r'September|October|November|December)\s+\d{1,2}(?:,\s+\d{4})?',
+            text
+        )
+        if m:
+            pub_date = m.group(0)
 
-            # Date patterns: "March 13" / "March 13, 2026" / "Robert N. Watson · Mar 13"
-            if not pub_date:
-                m = re.search(
-                    r'(January|February|March|April|May|June|July|August|'
-                    r'September|October|November|December)\s+\d{1,2}(?:,\s+\d{4})?',
-                    text
-                )
-                if m:
-                    pub_date = m.group(0)
-
-            container = container.parent
+        # Description: look for a <p> tag in container
+        p_tag = container.find("p")
+        description = p_tag.get_text(strip=True) if p_tag else ""
 
         articles.append({
             "title": title,
