@@ -21,7 +21,7 @@ import sys
 import time
 
 LISTING_URL = "https://lareviewofbooks.org/articles/reviews/"
-FEED_URL = "https://lareviewofbooks.org/feed/"
+FEED_URL = "https://lareviewofbooks.org/feed"
 OUTPUT_FILE = "larb_reviews_feed.xml"
 MAX_ARTICLES = 15
 
@@ -88,7 +88,10 @@ def fetch_review_urls():
                 clean = "https://lareviewofbooks.org" + clean
             urls.add(clean)
 
+    # Debug: show what we found
     print(f"  Found {len(urls)} review article URLs.")
+    for u in list(urls)[:5]:
+        print(f"    {u}")
     return urls
 
 
@@ -97,12 +100,14 @@ def fetch_feed_articles(review_urls):
     print(f"Fetching main feed: {FEED_URL} ...")
     feed = feedparser.parse(FEED_URL)
 
-    if feed.bozo and not feed.entries:
-        print(f"Feed parse error: {feed.bozo_exception}", file=sys.stderr)
+    # feedparser sets bozo=True for malformed XML but may still have entries
+    if feed.bozo:
+        print(f"  Feed warning (may still have entries): {feed.bozo_exception}", file=sys.stderr)
+    if not feed.entries:
+        print("Feed returned no entries.", file=sys.stderr)
         sys.exit(1)
 
     print(f"  Total entries in feed: {len(feed.entries)}")
-    # Debug: show sample feed links
     for entry in feed.entries[:3]:
         print(f"  Sample feed link: {entry.get('link', '')}")
 
