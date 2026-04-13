@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 01:55:21 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why Olivia Chow loves ‘Nirvanna the Band the Show the Movie’ — even if the film broke city bylaws</title>
@@ -127,6 +127,13 @@
       <pubDate>Mon, 30 Mar 2026 19:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Pedestrian, 80, critically hurt after being struck by vehicle</title>
+      <link>https://www.thestar.com/news/gta/pedestrian-80-critically-hurt-after-being-struck-by-vehicle/article_0e313ab3-e1e0-4759-bd6f-66f8a958e8d8.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/pedestrian-80-critically-hurt-after-being-struck-by-vehicle/article_0e313ab3-e1e0-4759-bd6f-66f8a958e8d8.html</guid>
+      <description></description>
+      <pubDate>Sun, 12 Apr 2026 20:38:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Camel from endangered species expecting baby at Toronto Zoo</title>
       <link>https://www.thestar.com/news/gta/camel-from-endangered-species-expecting-baby-at-toronto-zoo/article_b4f63f29-eac1-454f-abe0-02fda8dbc01e.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/camel-from-endangered-species-expecting-baby-at-toronto-zoo/article_b4f63f29-eac1-454f-abe0-02fda8dbc01e.html</guid>
@@ -160,13 +167,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-rescued-man-missing-after-canoe-capsized-at-brampton-lake/article_13278255-98c8-4866-b7f5-9ea0cbed550d.html</guid>
       <description></description>
       <pubDate>Sun, 12 Apr 2026 19:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two police officers injured, one bitten during arrest at North York apartment</title>
-      <link>https://www.thestar.com/news/gta/two-police-officers-injured-one-bitten-during-arrest-at-north-york-apartment/article_e4da395d-4e3a-4188-9281-797aa2364413.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/two-police-officers-injured-one-bitten-during-arrest-at-north-york-apartment/article_e4da395d-4e3a-4188-9281-797aa2364413.html</guid>
-      <description></description>
-      <pubDate>Sun, 12 Apr 2026 19:25:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
