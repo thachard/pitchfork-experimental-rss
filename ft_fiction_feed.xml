@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:19:02 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>You Are the Führer’s Unrequited Love — the truth behind the ‘good Nazi’</title>
+      <link>https://www.ft.com/content/93ee0e78-65ac-448f-bb66-09f799035a36</link>
+      <guid isPermaLink="true">https://www.ft.com/content/93ee0e78-65ac-448f-bb66-09f799035a36</guid>
+      <description>In a hybrid of fiction and essay, Jean-Noël Orengo explores how Albert Speer charmed Hitler and then laundered his own postwar reputation</description>
+      <pubDate>Tue, 14 Apr 2026 11:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Stories of superheroes, spellsmiths and southern gothic terror</title>
       <link>https://www.ft.com/content/9457bf8e-e3d2-4d27-bd3e-caa5fcf138ab</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c94246cb-97c1-4aeb-9a62-bb1e772362c9</guid>
       <description>Sixty years after it was published, the pulp fiction classic is embedded in pop culture and the fashion imagination</description>
       <pubDate>Tue, 10 Mar 2026 07:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rebel English Academy by Mohammed Hanif — how to kill an ideology</title>
-      <link>https://www.ft.com/content/4fde07b9-8f3e-43a6-bf54-f431cb3e07c8</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4fde07b9-8f3e-43a6-bf54-f431cb3e07c8</guid>
-      <description>The novelist spares no one in a sharp account of a town in Pakistan wracked by political change in the 1970s</description>
-      <pubDate>Fri, 06 Mar 2026 13:08:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
