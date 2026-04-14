@@ -5,13 +5,19 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:42:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:21:55 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Perhaps You’re Not Yourself, But Her</title>
       <link>https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</guid>
       <description>German director Mascha Schilinski’s visually evocative 2025 film suggests the influence of Francesca Woodman’s photographic work.</description>
+    </item>
+    <item>
+      <title>The Artist Who Knew Almost Everyone Important and Made Pictures of Them</title>
+      <link>https://lareviewofbooks.org/article/oskar-stoessel-bryan-garner-etcher-life-art-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/oskar-stoessel-bryan-garner-etcher-life-art-review/</guid>
+      <description>Bryan Garner’s new book revisits the career of little-known artist Oskar Stoessel.</description>
     </item>
     <item>
       <title>Strange Old Alien</title>
@@ -32,16 +38,16 @@
       <description>In Wayne Koestenbaum’s new novel, the quest to understand the loved object’s inner life takes on a Talmudic quality.</description>
     </item>
     <item>
-      <title>Digging Through the Debris</title>
-      <link>https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</guid>
-      <description>Theodor Adorno’s early music criticism, newly translated to English, showcases his expressionist, concrete style of examination, which grew increasingly moralizing after the war.</description>
-    </item>
-    <item>
       <title>Sadism as Psychotherapy</title>
       <link>https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</guid>
       <description>Jon Stock’s recent book examines the deplorable career of prominent psychiatrist Willam Sargant and his brand of bio-therapeutics.</description>
+    </item>
+    <item>
+      <title>Digging Through the Debris</title>
+      <link>https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</guid>
+      <description>Theodor Adorno’s early music criticism, newly translated to English, showcases his expressionist, concrete style of examination, which grew increasingly moralizing after the war.</description>
     </item>
     <item>
       <title>The Doyen of Distress</title>
@@ -84,12 +90,6 @@
       <link>https://lareviewofbooks.org/article/unlearning-with-translation-critical-collective-practice-virginie-bobin/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/unlearning-with-translation-critical-collective-practice-virginie-bobin/</guid>
       <description>Virginie Bobin’s new book argues that translation can be a form of political intervention.</description>
-    </item>
-    <item>
-      <title>In Praise of Difficult Poetry</title>
-      <link>https://lareviewofbooks.org/article/difficult-poetry-temperance-aghamohammadi-camille-ralphs-witches-sexuality/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/difficult-poetry-temperance-aghamohammadi-camille-ralphs-witches-sexuality/</guid>
-      <description>A new strain of contemporary women poets proves there is still a place for the rewardingly difficult in English-language poetics.</description>
     </item>
   </channel>
 </rss>

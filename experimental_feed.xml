@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:19:47 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>HYPER GAL – Our Hyper</title>
+      <link>https://pitchfork.com/reviews/albums/hyper-gal-our-hyper/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hyper-gal-our-hyper/</guid>
+      <description>A review by Jude Noel</description>
+      <author>Jude Noel</author>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>upsammy / Valentina Magaletti – Seismo</title>
       <link>https://pitchfork.com/reviews/albums/upsammy-valentina-magaletti-seismo/</link>
@@ -190,14 +198,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nomad War Machine / Susan Alcorn – Contra Madre</title>
-      <link>https://pitchfork.com/reviews/albums/nomad-war-machine-and-susan-alcorn-contra-madre/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nomad-war-machine-and-susan-alcorn-contra-madre/</guid>
-      <description>A review by H.D. Angel</description>
-      <author>H.D. Angel</author>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
