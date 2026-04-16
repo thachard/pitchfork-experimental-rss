@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 11:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:16:57 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>WU LYF – A Wave That Will Never Break</title>
+      <link>https://pitchfork.com/reviews/albums/wu-lyf-a-wave-that-will-never-break/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/wu-lyf-a-wave-that-will-never-break/</guid>
+      <description>A review by Ian Cohen</description>
+      <author>Ian Cohen</author>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HYPER GAL – Our Hyper</title>
       <link>https://pitchfork.com/reviews/albums/hyper-gal-our-hyper/</link>
@@ -190,14 +198,6 @@
       <description>A review by E.R. Pulgar</description>
       <author>E.R. Pulgar</author>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shane Parish – Autechre Guitar</title>
-      <link>https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shane-parish-autechre-guitar/</guid>
-      <description>A review by Sam Sodomsky</description>
-      <author>Sam Sodomsky</author>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

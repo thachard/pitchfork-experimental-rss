@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 11:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:19:01 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tokischa – AMOR &amp; DROGA</title>
+      <link>https://pitchfork.com/reviews/albums/tokischa-amor-y-droga/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tokischa-amor-y-droga/</guid>
+      <description>A review by E.R. Pulgar</description>
+      <author>E.R. Pulgar</author>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cancer House – The Moth</title>
       <link>https://pitchfork.com/reviews/albums/cancer-house-the-moth/</link>
@@ -238,14 +246,6 @@
       <description>A review by Philip Sherburne</description>
       <author>Philip Sherburne</author>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jill Scott – To Whom This May Concern</title>
-      <link>https://pitchfork.com/reviews/albums/jill-scott-to-whom-this-may-concern/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jill-scott-to-whom-this-may-concern/</guid>
-      <description>A review by Marcus J. Moore</description>
-      <author>Marcus J. Moore</author>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
