@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 09:15:37 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>My Year in Paris with Gertrude Stein — Deborah Levy’s adventures with the avant-garde</title>
+      <link>https://www.ft.com/content/e2e78d64-f7f2-4191-b271-99cf06eb43d8</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e2e78d64-f7f2-4191-b271-99cf06eb43d8</guid>
+      <description>A nameless narrator finds connections with the American pioneer of modernism in a confounding, compelling fiction-biography hybrid</description>
+      <pubDate>Thu, 16 Apr 2026 13:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Interview.Leïla Slimani: ‘This novel was very, very, very difficult to write’</title>
       <link>https://www.ft.com/content/3860b493-1312-4821-8717-2aa4263e6b53</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c83e6022-884f-4699-b4ab-040c07990aac</guid>
       <description>Mixing archival fragments, confessional auto-fiction and picaresque storytelling, an acclaimed account of the Apache struggle is now published in English</description>
       <pubDate>Wed, 11 Mar 2026 17:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Women Without Men — Shahrnush Parsipur’s powerful tale of misogyny and escape in Iran</title>
-      <link>https://www.ft.com/content/493c6245-bb4e-49c2-b726-46feb2f160a1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/493c6245-bb4e-49c2-b726-46feb2f160a1</guid>
-      <description>The Booker-longlisted novel follows the interwoven stories of five characters in search of new, sometimes surreal, destinies</description>
-      <pubDate>Tue, 10 Mar 2026 17:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,13 +5,25 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 09:17:47 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Perhaps You’re Not Yourself, But Her</title>
       <link>https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</guid>
       <description>German director Mascha Schilinski’s visually evocative 2025 film suggests the influence of Francesca Woodman’s photographic work.</description>
+    </item>
+    <item>
+      <title>Cold War Reborn</title>
+      <link>https://lareviewofbooks.org/article/polar-war-book-rosen-arctic-war/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/polar-war-book-rosen-arctic-war/</guid>
+      <description>The Arctic may well be the center of the next global conflict.</description>
+    </item>
+    <item>
+      <title>Seeing Like a Worm</title>
+      <link>https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</guid>
+      <description>Jessica Riskin’s Lamarckian (history of) science is a remarkably transformative work.</description>
     </item>
     <item>
       <title>Mortal Urges</title>
@@ -26,6 +38,12 @@
       <description>Bryan Garner’s new book revisits the career of little-known artist Oskar Stoessel.</description>
     </item>
     <item>
+      <title>Sadism as Psychotherapy</title>
+      <link>https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</guid>
+      <description>Jon Stock’s recent book examines the deplorable career of prominent psychiatrist Willam Sargant and his brand of bio-therapeutics.</description>
+    </item>
+    <item>
       <title>Strange Old Alien</title>
       <link>https://lareviewofbooks.org/article/monochrome-set-bid-strange-young-alien-lyrics-annotated/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/monochrome-set-bid-strange-young-alien-lyrics-annotated/</guid>
@@ -36,12 +54,6 @@
       <link>https://lareviewofbooks.org/article/blank-space-cultural-history-capitalism-w-david-marx/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/blank-space-cultural-history-capitalism-w-david-marx/</guid>
       <description>A diagnosis of our stale culture sounds very familiar.</description>
-    </item>
-    <item>
-      <title>Sadism as Psychotherapy</title>
-      <link>https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</guid>
-      <description>Jon Stock’s recent book examines the deplorable career of prominent psychiatrist Willam Sargant and his brand of bio-therapeutics.</description>
     </item>
     <item>
       <title>A Simulation of Worship</title>
@@ -78,18 +90,6 @@
       <link>https://lareviewofbooks.org/article/ingeborg-bachmann-malina-threshold-ledger-tom-mccarthy-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ingeborg-bachmann-malina-threshold-ledger-tom-mccarthy-review/</guid>
       <description>Tom McCarthy’s critical study of postwar Austrian writer Ingeborg Bachmann shows a deep sensitivity to form.</description>
-    </item>
-    <item>
-      <title>Love Transmuted into Archive</title>
-      <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
-      <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
-    </item>
-    <item>
-      <title>Before and After the Pelicot Trial</title>
-      <link>https://lareviewofbooks.org/article/gisele-pelicot-trial-sexual-assault-epstein-manon-garcia/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/gisele-pelicot-trial-sexual-assault-epstein-manon-garcia/</guid>
-      <description>On Manon Garcia’s new book about the recent case, and what it tells us about Jeffrey Epstein’s crimes and the complicity of men in general.</description>
     </item>
   </channel>
 </rss>
