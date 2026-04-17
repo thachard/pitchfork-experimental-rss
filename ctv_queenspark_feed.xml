@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:36:42 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario forging ahead with medical residency rule for international grads it recently rescinded</title>
+      <link>https://www.ctvnews.ca/toronto/article/ontario-forging-ahead-with-medical-residency-rule-for-international-grads-it-recently-rescinded/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-forging-ahead-with-medical-residency-rule-for-international-grads-it-recently-rescinded/</guid>
+      <description></description>
+      <pubDate>Fri, 17 Apr 2026 09:24:21 +0000</pubDate>
+    </item>
     <item>
       <title>Doug Ford nixes idea of grocery surveillance pricing ban in Ontario</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/doug-ford-nixes-idea-of-grocery-surveillance-pricing-ban-in-ontario/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/doug-ford-nixes-idea-of-grocery-surveillance-pricing-ban-in-ontario/</guid>
-      <description></description>
+      <description>Ontario Premier Doug Ford lamented Thursday that grocery store prices are sky high, but nixed the idea of banning so-called surveillance pricing and slammed a pilot project for city-run grocery stores as socialist and “crazy.”</description>
       <pubDate>Thu, 16 Apr 2026 21:25:31 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/northern-ontario/article/northlander-train-begins-final-testing-before-service-resumes-this-year/</guid>
       <description>The return of passenger rail service connecting northern Ontario to the south took another step forward Thursday as the Northlander began full testing of the routes and all systems needed before the trains are relaunched.</description>
       <pubDate>Sat, 11 Apr 2026 11:48:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario electricity system to add 14 new solar, wind projects</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-electricity-system-to-add-14-new-solar-wind-projects/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-electricity-system-to-add-14-new-solar-wind-projects/</guid>
-      <description>Ontario’s electricity system operator is giving long-term energy generation contracts to 12 new solar and two wind projects.</description>
-      <pubDate>Thu, 09 Apr 2026 21:25:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
