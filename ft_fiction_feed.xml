@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 11:12:06 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Shadow of the Object — Chloe Aridjis’s story of metamorphosis, mortality and magic lanterns</title>
+      <link>https://www.ft.com/content/664dc809-ad3e-4c48-b101-db26b163a0cd</link>
+      <guid isPermaLink="true">https://www.ft.com/content/664dc809-ad3e-4c48-b101-db26b163a0cd</guid>
+      <description>The novelist explores the realm between reality and imagination in a dreamlike tale journeying from Mexico to England</description>
+      <pubDate>Fri, 17 Apr 2026 11:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>My Year in Paris with Gertrude Stein — Deborah Levy’s adventures with the avant-garde</title>
       <link>https://www.ft.com/content/e2e78d64-f7f2-4191-b271-99cf06eb43d8</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/18c3f0b0-4bd1-4118-a191-2879b3f27dd8</guid>
       <description>With savage humour, the British Jewish author takes aim at hatred of Jews in the wake of the October 7 atrocity</description>
       <pubDate>Thu, 12 Mar 2026 15:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now I Surrender — Álvaro Enrigue’s tale of how the west was really won</title>
-      <link>https://www.ft.com/content/c83e6022-884f-4699-b4ab-040c07990aac</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c83e6022-884f-4699-b4ab-040c07990aac</guid>
-      <description>Mixing archival fragments, confessional auto-fiction and picaresque storytelling, an acclaimed account of the Apache struggle is now published in English</description>
-      <pubDate>Wed, 11 Mar 2026 17:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
