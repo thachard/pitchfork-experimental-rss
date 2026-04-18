@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 17 Apr 2026 11:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:45:40 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From a masterful story of money, tragedy and London’s dark side, to the rich and strange art of translating Shakespeare. Plus the ecstasy and heartbreak of being Lena Dunham, the truth behind the ‘good Nazi’, Deborah Levy’s adventures with the avant-garde, and other top new fiction</description>
+      <pubDate>Fri, 17 Apr 2026 11:56:34 +0000</pubDate>
+    </item>
     <item>
       <title>The Shadow of the Object — Chloe Aridjis’s story of metamorphosis, mortality and magic lanterns</title>
       <link>https://www.ft.com/content/664dc809-ad3e-4c48-b101-db26b163a0cd</link>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/412ac1f5-3734-4445-a36d-ad186fbd643d</guid>
       <description>Why Naomi Mitchison’s Travel Light gets better with distance.</description>
       <pubDate>Sat, 11 Apr 2026 04:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From a portrait of Samuel Alito, the Supreme Court justice who helped unshackle Trump, to the case for free-market capitalism and how plastic trashed the planet. Plus the complicated, fascinating life of Jan Morris, Gwendoline Riley’s tale of toxic men, and other top new fiction</description>
-      <pubDate>Fri, 10 Apr 2026 11:02:17 +0000</pubDate>
     </item>
     <item>
       <title>She Who Remains — rites and wrongs in the Accursed Mountains</title>
