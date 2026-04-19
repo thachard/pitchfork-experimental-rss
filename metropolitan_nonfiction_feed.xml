@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/nonfiction</link>
     <description>Nonfiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 11:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 08:54:04 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>Can We Have a Party?</title>
@@ -48,13 +48,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/the-trials-of-fatherhood</guid>
       <description>On Aymann Ismail&apos;s &amp;#8216;Becoming Baba&amp;#8217;</description>
       <pubDate>Tue, 17 Mar 2026 13:39:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>God Is in the Algorithm</title>
-      <link>https://www.metropolitanreview.org/p/god-is-in-the-algorithm</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/god-is-in-the-algorithm</guid>
-      <description>On NBA YoungBoy, the Hidden American Superstar</description>
-      <pubDate>Thu, 12 Mar 2026 16:33:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
