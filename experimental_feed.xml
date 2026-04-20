@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 10:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:57:20 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Handle – COLLIDE</title>
+      <link>https://pitchfork.com/reviews/albums/handle-collide/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/handle-collide/</guid>
+      <description>A review by Shaad D’Souza</description>
+      <author>Shaad D’Souza</author>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>WU LYF – A Wave That Will Never Break</title>
       <link>https://pitchfork.com/reviews/albums/wu-lyf-a-wave-that-will-never-break/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-thinking-of-the-world-began-pounding-in-our-ears-the-moment-we-hit-shore/</guid>
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MORI – El Niño Bola</title>
-      <link>https://pitchfork.com/reviews/albums/mori-el-nino-bola/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mori-el-nino-bola/</guid>
-      <description>A review by E.R. Pulgar</description>
-      <author>E.R. Pulgar</author>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
