@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:25:19 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthony Furey says that he will not run for mayor of Toronto</title>
+      <link>https://www.ctvnews.ca/toronto/article/anthony-furey-says-that-he-will-not-run-for-mayor-of-toronto/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/anthony-furey-says-that-he-will-not-run-for-mayor-of-toronto/</guid>
+      <description></description>
+      <pubDate>Mon, 20 Apr 2026 18:45:07 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto city staff asked to devise plan to keep World Cup fan fest free after proposing to charge for admission</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-city-staff-asked-to-devise-plan-to-keep-world-cup-fan-fest-free-after-proposing-to-charge-for-admission/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-city-staff-asked-to-devise-plan-to-keep-world-cup-fan-fest-free-after-proposing-to-charge-for-admission/</guid>
-      <description>Video</description>
+      <description>Toronto Mayor Olivia Chow’s executive committee asked city staff on Wednesday to go back to the drawing board and put a new plan that would allow residents to attend World Cup watch parties for free.</description>
       <pubDate>Wed, 15 Apr 2026 23:35:47 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/bluebell-ii-island-chickadee-or-water-strider-voting-underway-to-name-torontos-new-electric-ferries/</guid>
       <description>Toronto’s new electric ferries are gearing up to set sail soon, and the city wants you to choose their names.</description>
       <pubDate>Thu, 12 Mar 2026 18:21:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto on-street parking rates could increase again this year</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-on-street-parking-rates-could-increase-again-this-year/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-on-street-parking-rates-could-increase-again-this-year/</guid>
-      <description>It could cost more to park on the streets of Toronto later this year. The Toronto Parking Authority (TPA) is proposing an increase of 25 cents per hour for 20,768 on-street spaces.</description>
-      <pubDate>Fri, 06 Mar 2026 00:41:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
