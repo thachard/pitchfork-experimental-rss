@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:22:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:18:45 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ghost-Eye — Amitav Ghosh’s ambitious novel about climate change and reincarnation</title>
+      <link>https://www.ft.com/content/f061d4fe-1428-4229-98e8-22a23a015408</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f061d4fe-1428-4229-98e8-22a23a015408</guid>
+      <description>The story of a young girl in 1960s Calcutta who claims to have lived before shows the difficulties of grappling with climate politics in literary fiction</description>
+      <pubDate>Tue, 21 Apr 2026 12:29:17 +0000</pubDate>
+    </item>
     <item>
       <title>Sex, lies and the trials of being Gen Z — the best new debut novels</title>
       <link>https://www.ft.com/content/e8927be8-3be5-466c-86ea-ebaa9f06d1d8</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/32e4c2d6-9afe-41e4-ac95-48aa8443633f</guid>
       <description>He reframed the spy novel genre with gritty cold-war thrillers but possessed an extraordinary range of talents, from graphic designer to historian</description>
       <pubDate>Thu, 19 Mar 2026 13:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The News from Dublin by Colm Tóibín — short stories to astonish and delight</title>
-      <link>https://www.ft.com/content/94f92d01-fad3-48c6-b423-12a6c434828d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/94f92d01-fad3-48c6-b423-12a6c434828d</guid>
-      <description>Nine masterful tales chart unbreakable family connections — and complications — from Ireland to South America and Spain</description>
-      <pubDate>Thu, 19 Mar 2026 05:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

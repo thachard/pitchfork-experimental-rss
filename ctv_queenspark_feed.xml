@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:19:28 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Six mistakenly released inmates still at large, Ontario Premier Doug Ford says</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontarios-solicitor-general-sorry-for-saying-improperly-released-inmates-were-caught/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontarios-solicitor-general-sorry-for-saying-improperly-released-inmates-were-caught/</guid>
+      <description></description>
+      <pubDate>Tue, 21 Apr 2026 17:30:24 +0000</pubDate>
+    </item>
     <item>
       <title>Doug Ford backs off government plane purchase, seeks to sell aircraft</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/breaking-doug-ford-backs-off-government-plane-purchase-seeks-to-sell-aircraft/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/breaking-doug-ford-backs-off-government-plane-purchase-seeks-to-sell-aircraft/</guid>
-      <description></description>
+      <description>Just days after announcing plans to buy a private jet, Ontario Premier Doug Ford says the province will now move to sell its newly acquired plane, acknowledging concerns about the timing and cost of the purchase.</description>
       <pubDate>Sun, 19 Apr 2026 18:24:37 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-boost-injured-worker-benefits-extend-coverage-beyond-age-65/</guid>
       <description>Ontario workers who are injured on the job could soon receive higher loss-of-earnings benefits, under legislation the labour minister plans to introduce.</description>
       <pubDate>Mon, 13 Apr 2026 16:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario considering allowing legal cannabis stores to open earlier</title>
-      <link>https://www.ctvnews.ca/toronto/article/ontario-considering-allowing-legal-cannabis-stores-to-open-earlier/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-considering-allowing-legal-cannabis-stores-to-open-earlier/</guid>
-      <description>Ontario cannabis stores could be allowed to open two hours earlier.</description>
-      <pubDate>Sat, 11 Apr 2026 23:53:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

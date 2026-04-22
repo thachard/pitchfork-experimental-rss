@@ -5,13 +5,25 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:20:21 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Perhaps You’re Not Yourself, But Her</title>
       <link>https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</guid>
       <description>German director Mascha Schilinski’s visually evocative 2025 film suggests the influence of Francesca Woodman’s photographic work.</description>
+    </item>
+    <item>
+      <title>Fiction Creep</title>
+      <link>https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</guid>
+      <description>Megan Garber’s new book argues that our regime of screens has made us into ‘two-way people,’ split between our flesh-and-blood selves and our digital avatars.</description>
+    </item>
+    <item>
+      <title>We’ve All Stopped Dreaming</title>
+      <link>https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</guid>
+      <description>Chiara Barzini’s new book is a meditation on the broken promises and empty dreams of Los Angeles.</description>
     </item>
     <item>
       <title>Cold War Reborn</title>
@@ -26,6 +38,12 @@
       <description>Jessica Riskin’s Lamarckian (history of) science is a remarkably transformative work.</description>
     </item>
     <item>
+      <title>Sadism as Psychotherapy</title>
+      <link>https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</guid>
+      <description>Jon Stock’s recent book examines the deplorable career of prominent psychiatrist Willam Sargant and his brand of bio-therapeutics.</description>
+    </item>
+    <item>
       <title>Mortal Urges</title>
       <link>https://lareviewofbooks.org/article/poetry-translation-milo-de-angelis-jean-follain-vidya/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/poetry-translation-milo-de-angelis-jean-follain-vidya/</guid>
@@ -36,12 +54,6 @@
       <link>https://lareviewofbooks.org/article/oskar-stoessel-bryan-garner-etcher-life-art-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/oskar-stoessel-bryan-garner-etcher-life-art-review/</guid>
       <description>Bryan Garner’s new book revisits the career of little-known artist Oskar Stoessel.</description>
-    </item>
-    <item>
-      <title>Sadism as Psychotherapy</title>
-      <link>https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</guid>
-      <description>Jon Stock’s recent book examines the deplorable career of prominent psychiatrist Willam Sargant and his brand of bio-therapeutics.</description>
     </item>
     <item>
       <title>Strange Old Alien</title>
@@ -78,18 +90,6 @@
       <link>https://lareviewofbooks.org/article/ben-lerner-transcription-screen-time-millennial-novel-parenting/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ben-lerner-transcription-screen-time-millennial-novel-parenting/</guid>
       <description>Ben Lerner’s new novel is a portrait of an artist within the world, trying to live a life in spite of and toward language.</description>
-    </item>
-    <item>
-      <title>Fantasy Dismantled</title>
-      <link>https://lareviewofbooks.org/article/algeria-crime-novel-said-khatibi-desert-romance-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/algeria-crime-novel-said-khatibi-desert-romance-review/</guid>
-      <description>Saïd Khatibi’s ‘The End of the Sahara,’ the first Algerian crime novel translated from Arabic by Bitter Lemon Press, potently critiques Orientalist fantasies of desert romance.</description>
-    </item>
-    <item>
-      <title>The Structures That Make Violence Legible</title>
-      <link>https://lareviewofbooks.org/article/ingeborg-bachmann-malina-threshold-ledger-tom-mccarthy-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/ingeborg-bachmann-malina-threshold-ledger-tom-mccarthy-review/</guid>
-      <description>Tom McCarthy’s critical study of postwar Austrian writer Ingeborg Bachmann shows a deep sensitivity to form.</description>
     </item>
   </channel>
 </rss>
