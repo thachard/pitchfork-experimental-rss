@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 23 Apr 2026 10:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 11:32:41 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devotions by Lucy Caldwell — stories that wrestle with the biggest question of all</title>
+      <link>https://www.ft.com/content/eaf4186a-4095-4f13-9503-99612478e1cb</link>
+      <guid isPermaLink="true">https://www.ft.com/content/eaf4186a-4095-4f13-9503-99612478e1cb</guid>
+      <description>A hunt for meaning unites the eight tales from one of the best practitioners of the short form</description>
+      <pubDate>Thu, 23 Apr 2026 11:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>The full and interesting lives of writers’ alter egos</title>
       <link>https://www.ft.com/content/9da8e51b-ca2a-4a48-a50d-1785c494c9b0</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/9201e5ac-39ab-4e4d-ab29-b519eac14c64</guid>
       <description>Including Saïd Khatibi’s vivid Arab noir, Elizabeth Heider’s tale of secrets and lies in Naples and a first outing for Maya Landry, AC Glass’s new protagonist</description>
       <pubDate>Mon, 23 Mar 2026 05:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>City Like Water — drowning in oppression</title>
-      <link>https://www.ft.com/content/49cd96e8-119a-4bc1-88ef-44f0fa48d8a0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/49cd96e8-119a-4bc1-88ef-44f0fa48d8a0</guid>
-      <description>A family is caught in a political sea of deception in this dystopian novella by Hong Kong author Dorothy Tse</description>
-      <pubDate>Fri, 20 Mar 2026 12:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
