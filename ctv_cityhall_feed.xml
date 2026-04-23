@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:27:02 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto councillor who violated code of conduct asking city to cover legal fees</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-councillor-who-violated-code-of-conduct-asking-city-to-cover-legal-fees/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-councillor-who-violated-code-of-conduct-asking-city-to-cover-legal-fees/</guid>
+      <description></description>
+      <pubDate>Wed, 22 Apr 2026 18:55:40 +0000</pubDate>
+    </item>
     <item>
       <title>Anthony Furey says that he will not run for mayor of Toronto</title>
       <link>https://www.ctvnews.ca/toronto/article/anthony-furey-says-that-he-will-not-run-for-mayor-of-toronto/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/anthony-furey-says-that-he-will-not-run-for-mayor-of-toronto/</guid>
-      <description></description>
+      <description>A former newspaper columnist who finished fourth in Toronto’s mayoral byelection in 2023 says that he will not enter the race for mayor.</description>
       <pubDate>Mon, 20 Apr 2026 18:45:07 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-councillor-proposes-banning-flying-foreign-flags-at-city-hall/</guid>
       <description>A Toronto councillor wants to “eliminate” flying the flags of other countries at City Hall.</description>
       <pubDate>Fri, 20 Mar 2026 17:28:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bluebell II, Island Chickadee or Water Strider? Voting underway to name Toronto’s new electric ferries</title>
-      <link>https://www.ctvnews.ca/toronto/article/bluebell-ii-island-chickadee-or-water-strider-voting-underway-to-name-torontos-new-electric-ferries/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/bluebell-ii-island-chickadee-or-water-strider-voting-underway-to-name-torontos-new-electric-ferries/</guid>
-      <description>Toronto’s new electric ferries are gearing up to set sail soon, and the city wants you to choose their names.</description>
-      <pubDate>Thu, 12 Mar 2026 18:21:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

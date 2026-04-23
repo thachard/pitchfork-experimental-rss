@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:25:55 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The full and interesting lives of writers’ alter egos</title>
+      <link>https://www.ft.com/content/9da8e51b-ca2a-4a48-a50d-1785c494c9b0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9da8e51b-ca2a-4a48-a50d-1785c494c9b0</guid>
+      <description>Doctors, dairy farmers, failed novelists — how authors’ fictional selves take on an identity all their own, distinct from their creators</description>
+      <pubDate>Wed, 22 Apr 2026 16:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>Ghost-Eye — Amitav Ghosh’s ambitious novel about climate change and reincarnation</title>
       <link>https://www.ft.com/content/f061d4fe-1428-4229-98e8-22a23a015408</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/49cd96e8-119a-4bc1-88ef-44f0fa48d8a0</guid>
       <description>A family is caught in a political sea of deception in this dystopian novella by Hong Kong author Dorothy Tse</description>
       <pubDate>Fri, 20 Mar 2026 12:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obituary.Len Deighton, writer, 1929-2026</title>
-      <link>https://www.ft.com/content/32e4c2d6-9afe-41e4-ac95-48aa8443633f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/32e4c2d6-9afe-41e4-ac95-48aa8443633f</guid>
-      <description>He reframed the spy novel genre with gritty cold-war thrillers but possessed an extraordinary range of talents, from graphic designer to historian</description>
-      <pubDate>Thu, 19 Mar 2026 13:01:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
