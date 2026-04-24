@@ -5,13 +5,25 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 11:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:31:10 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Perhaps You’re Not Yourself, But Her</title>
-      <link>https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/perhaps-youre-not-yourself-but-her/</guid>
-      <description>German director Mascha Schilinski’s visually evocative 2025 film suggests the influence of Francesca Woodman’s photographic work.</description>
+      <title>Love Transmuted into Archive</title>
+      <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
+      <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>The Precarious Deaths of Monuments</title>
+      <link>https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-jillian-mcmanemin/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-jillian-mcmanemin/</guid>
+      <description>The afterlives of Confederate memorials and the ideological contradictions of American commemorative culture.</description>
+    </item>
+    <item>
+      <title>This Liminal Moment</title>
+      <link>https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</guid>
+      <description>Confederate monuments and contemporary art at MOCA and the Brick.</description>
     </item>
     <item>
       <title>Fiction Creep</title>
@@ -26,6 +38,12 @@
       <description>Chiara Barzini’s new book is a meditation on the broken promises and empty dreams of Los Angeles.</description>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Cold War Reborn</title>
       <link>https://lareviewofbooks.org/article/polar-war-book-rosen-arctic-war/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/polar-war-book-rosen-arctic-war/</guid>
@@ -36,12 +54,6 @@
       <link>https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</guid>
       <description>Jessica Riskin’s Lamarckian (history of) science is a remarkably transformative work.</description>
-    </item>
-    <item>
-      <title>Sadism as Psychotherapy</title>
-      <link>https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/william-sargant-electroshock-lobotomy-sleep-room-jon-stock/</guid>
-      <description>Jon Stock’s recent book examines the deplorable career of prominent psychiatrist Willam Sargant and his brand of bio-therapeutics.</description>
     </item>
     <item>
       <title>Mortal Urges</title>
@@ -78,18 +90,6 @@
       <link>https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</guid>
       <description>Theodor Adorno’s early music criticism, newly translated to English, showcases his expressionist, concrete style of examination, which grew increasingly moralizing after the war.</description>
-    </item>
-    <item>
-      <title>The Doyen of Distress</title>
-      <link>https://lareviewofbooks.org/article/arthur-schopenhauer-philosophys-greatest-pessimist-david-bather-woods/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/arthur-schopenhauer-philosophys-greatest-pessimist-david-bather-woods/</guid>
-      <description>Making excuses for Schopenhauer.</description>
-    </item>
-    <item>
-      <title>Facing the Past</title>
-      <link>https://lareviewofbooks.org/article/ben-lerner-transcription-screen-time-millennial-novel-parenting/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/ben-lerner-transcription-screen-time-millennial-novel-parenting/</guid>
-      <description>Ben Lerner’s new novel is a portrait of an artist within the world, trying to live a life in spite of and toward language.</description>
     </item>
   </channel>
 </rss>
