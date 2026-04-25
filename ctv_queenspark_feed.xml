@@ -5,14 +5,21 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:51:07 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Ticketmaster to cap resale prices in Ontario starting next week</title>
+      <title>Ontario hospitals announce job cuts, nearly three-quarters of hospitals in deficit</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-hospitals-announce-job-cuts-nearly-three-quarters-of-hospitals-in-deficit/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-hospitals-announce-job-cuts-nearly-three-quarters-of-hospitals-in-deficit/</guid>
+      <description></description>
+      <pubDate>Fri, 24 Apr 2026 19:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ticketmaster to ban reselling tickets above original price starting next week</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ticketmaster-to-cap-resale-prices-in-ontario-starting-next-week/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ticketmaster-to-cap-resale-prices-in-ontario-starting-next-week/</guid>
-      <description></description>
-      <pubDate>Fri, 24 Apr 2026 01:45:32 +0000</pubDate>
+      <description>Ticketmaster Canada says fans won’t be able to resell their tickets for more than the original cost starting next week.</description>
+      <pubDate>Fri, 24 Apr 2026 17:41:38 +0000</pubDate>
     </item>
     <item>
       <title>Ontario planning to seize section of waterfront park as part of airport expansion plans</title>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/kitchener/article/go-train-service-extending-to-stratford/</guid>
       <description>Stratford is preparing for the return of GO Train service and city leaders say the move could provide a major boost to tourism in the Festival City.</description>
       <pubDate>Fri, 17 Apr 2026 22:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Terrible timing;’ Doug Ford facing opposition criticism over purchase of $28.9M private jet</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-purchases-289m-private-jet-for-doug-fords-extensive-travel/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-purchases-289m-private-jet-for-doug-fords-extensive-travel/</guid>
-      <description>A brand new 28.9 million private jet is taking off at Queen’s Park and so is the criticism across Ontario. A brand new 28.9 million private jet is taking off at Queen’s Park and so is the criticism across Ontario.</description>
-      <pubDate>Fri, 17 Apr 2026 21:28:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:50:38 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Mary Beard’s love for the classics to the dynasty behind Fidelity and the dynasty that rules North Korea. Plus fiction by Lucy Caldwell, Amitav Ghosh and Suzi Feay’s pick of debuts</description>
+      <pubDate>Fri, 24 Apr 2026 11:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hey, Good Morning, How Are You? — an unsettling story of art and ageing</title>
+      <link>https://www.ft.com/content/27503d5b-1897-43df-8250-09d51b7f60b1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/27503d5b-1897-43df-8250-09d51b7f60b1</guid>
+      <description>A romance scam takes an unexpected turn in Martina Hefter’s German Book Prize-winning novel, her first translated into English</description>
+      <pubDate>Fri, 24 Apr 2026 11:46:24 +0000</pubDate>
+    </item>
     <item>
       <title>Devotions by Lucy Caldwell — stories that wrestle with the biggest question of all</title>
       <link>https://www.ft.com/content/eaf4186a-4095-4f13-9503-99612478e1cb</link>
@@ -41,13 +55,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/295111a1-0275-4b94-8a0e-749588d3a711</guid>
       <description>Plotto</description>
       <pubDate>Mon, 20 Apr 2026 12:42:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From a masterful story of money, tragedy and London’s dark side, to the rich and strange art of translating Shakespeare. Plus the ecstasy and heartbreak of being Lena Dunham, the truth behind the ‘good Nazi’, Deborah Levy’s adventures with the avant-garde, and other top new fiction</description>
-      <pubDate>Fri, 17 Apr 2026 11:56:34 +0000</pubDate>
     </item>
     <item>
       <title>The Shadow of the Object — Chloe Aridjis’s story of metamorphosis, mortality and magic lanterns</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/04591779-e105-4073-a015-2506662c66af</guid>
       <description>A portrait of a woman processing dead souls in the afterlife is both meditation on being human and scabrous social satire</description>
       <pubDate>Tue, 24 Mar 2026 05:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the run from dictators, murderers and the Vatican — the best new thrillers</title>
-      <link>https://www.ft.com/content/9201e5ac-39ab-4e4d-ab29-b519eac14c64</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9201e5ac-39ab-4e4d-ab29-b519eac14c64</guid>
-      <description>Including Saïd Khatibi’s vivid Arab noir, Elizabeth Heider’s tale of secrets and lies in Naples and a first outing for Maya Landry, AC Glass’s new protagonist</description>
-      <pubDate>Mon, 23 Mar 2026 05:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
