@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2026 11:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:59:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Book of Love – Book of Love</title>
+      <link>https://pitchfork.com/reviews/albums/book-of-love-book-of-love/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/book-of-love-book-of-love/</guid>
+      <description>A review by illie Bugara</description>
+      <author>illie Bugara</author>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Starker – LIVING TYPE DANGEROUS Vol. 1</title>
       <link>https://pitchfork.com/reviews/albums/starker-living-type-dangerous-vol-1/</link>
@@ -238,14 +246,6 @@
       <description>A review by Nina Corcoran</description>
       <author>Nina Corcoran</author>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Madonna – Erotica</title>
-      <link>https://pitchfork.com/reviews/albums/madonna-erotica/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/madonna-erotica/</guid>
-      <description>A review by Harry Tafoya</description>
-      <author>Harry Tafoya</author>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
