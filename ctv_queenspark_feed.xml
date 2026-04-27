@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 26 Apr 2026 11:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:13:25 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ford apologizes after personal insults in legislature, Liberal MPP says</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-apologizes-after-personal-insults-in-legislature-liberal-mpp-says/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-apologizes-after-personal-insults-in-legislature-liberal-mpp-says/</guid>
+      <description>Video</description>
+      <pubDate>Mon, 27 Apr 2026 01:55:56 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario hospitals announce job cuts, nearly three-quarters of hospitals in deficit</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-hospitals-announce-job-cuts-nearly-three-quarters-of-hospitals-in-deficit/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-hospitals-announce-job-cuts-nearly-three-quarters-of-hospitals-in-deficit/</guid>
-      <description></description>
+      <description>Several Ontario hospitals have announced job cuts in recent months as they try to climb out of financial holes, a situation critics say will likely keep repeating.</description>
       <pubDate>Fri, 24 Apr 2026 19:15:03 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-government-to-bypass-public-hearings-on-freedom-of-information-clampdown/</guid>
       <description>Ontario Premier Doug Ford’s government is planning to skip public hearings to pass its omnibus budget bill that contains a retroactive clampdown on access to his cellphone records.</description>
       <pubDate>Fri, 17 Apr 2026 18:18:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>GO Train service returning to Stratford with daily trips to Toronto</title>
-      <link>https://www.ctvnews.ca/kitchener/article/go-train-service-extending-to-stratford/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/kitchener/article/go-train-service-extending-to-stratford/</guid>
-      <description>Stratford is preparing for the return of GO Train service and city leaders say the move could provide a major boost to tourism in the Festival City.</description>
-      <pubDate>Fri, 17 Apr 2026 22:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
