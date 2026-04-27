@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:59:37 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>In Kensington Market, an artist’s ‘demonic’ wall had to be painted over. Some say the move hurts the area’s ‘imagination’</title>
@@ -127,6 +127,13 @@
       <pubDate>Mon, 30 Mar 2026 19:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Sunny day in Toronto Monday before rain rolls in over the coming days</title>
+      <link>https://www.thestar.com/news/gta/sunny-day-in-toronto-monday-before-rain-rolls-in-over-the-coming/article_64e7515a-c2f4-45ab-97ba-f5ac82fbdf04.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/sunny-day-in-toronto-monday-before-rain-rolls-in-over-the-coming/article_64e7515a-c2f4-45ab-97ba-f5ac82fbdf04.html</guid>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 07:26:46 +0000</pubDate>
+    </item>
+    <item>
       <title>The underground farm hiding in this Toronto parking garage</title>
       <link>https://www.thestar.com/news/gta/the-underground-farm-hiding-in-this-toronto-parking-garage/article_1a53e5a6-a69b-4db7-ba07-ba19bb7fdc8e.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/the-underground-farm-hiding-in-this-toronto-parking-garage/article_1a53e5a6-a69b-4db7-ba07-ba19bb7fdc8e.html</guid>
@@ -153,13 +160,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontarios-king-of-asparagus-readies-for-harvest/article_93cfe41d-b2ee-40f0-8e9d-4da0c832c2f7.html</guid>
       <description></description>
       <pubDate>Sun, 26 Apr 2026 23:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wrong-way driver charged with impaired driving after fatal crash on Hwy. 401 in Pickering</title>
-      <link>https://www.thestar.com/news/gta/hwy-401-partially-closed-in-pickering-after-multiple-crashes-kill-one-driver-seriously-injure-two-police-officers/article_d99680e3-ce41-481b-ac33-43c2c0f92671.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/hwy-401-partially-closed-in-pickering-after-multiple-crashes-kill-one-driver-seriously-injure-two-police-officers/article_d99680e3-ce41-481b-ac33-43c2c0f92671.html</guid>
-      <description></description>
-      <pubDate>Sun, 26 Apr 2026 21:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
