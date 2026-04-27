@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:20:10 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Other People’s Children by Ben Faccini — an accomplished tale of families, biological or blended</title>
+      <link>https://www.ft.com/content/3c55747d-921b-4419-a8be-d301ae6eab27</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3c55747d-921b-4419-a8be-d301ae6eab27</guid>
+      <description>In a beautifully balanced novel, a man tries to bond with his partner’s young sons while grappling with his own inherited history</description>
+      <pubDate>Mon, 27 Apr 2026 11:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/4a8e83f3-a010-4aa8-9472-7b1c48ff6356</guid>
       <description>At the halfway point in her seven-novel work, the Danish writer’s power and originality remain fresh, even as her protagonist remains trapped in the same day</description>
       <pubDate>Thu, 26 Mar 2026 05:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Delusions by Jenni Fagan — a red-tape purgatory</title>
-      <link>https://www.ft.com/content/04591779-e105-4073-a015-2506662c66af</link>
-      <guid isPermaLink="true">https://www.ft.com/content/04591779-e105-4073-a015-2506662c66af</guid>
-      <description>A portrait of a woman processing dead souls in the afterlife is both meditation on being human and scabrous social satire</description>
-      <pubDate>Tue, 24 Mar 2026 05:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
