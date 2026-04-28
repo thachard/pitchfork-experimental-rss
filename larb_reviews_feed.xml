@@ -5,13 +5,19 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:13:57 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Purgatory or State of Grace?</title>
+      <link>https://lareviewofbooks.org/article/sophie-mackintosh-permanence-novel-adultery-impermanence-love-story/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/sophie-mackintosh-permanence-novel-adultery-impermanence-love-story/</guid>
+      <description>Sophie Mackintosh’s new novel is a love story filled with nuances of longing and regret.</description>
     </item>
     <item>
       <title>The Precarious Deaths of Monuments</title>
@@ -32,16 +38,16 @@
       <description>Megan Garber’s new book argues that our regime of screens has made us into ‘two-way people,’ split between our flesh-and-blood selves and our digital avatars.</description>
     </item>
     <item>
-      <title>We’ve All Stopped Dreaming</title>
-      <link>https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</guid>
-      <description>Chiara Barzini’s new book is a meditation on the broken promises and empty dreams of Los Angeles.</description>
-    </item>
-    <item>
       <title>Spectacles of Repression: On Netflix’s “Beef”</title>
       <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
       <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
+      <title>We’ve All Stopped Dreaming</title>
+      <link>https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</guid>
+      <description>Chiara Barzini’s new book is a meditation on the broken promises and empty dreams of Los Angeles.</description>
     </item>
     <item>
       <title>Cold War Reborn</title>
@@ -84,12 +90,6 @@
       <link>https://lareviewofbooks.org/article/wayne-koestenbaum-my-lover-rabbi-talmudic-erotics-interpretation/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/wayne-koestenbaum-my-lover-rabbi-talmudic-erotics-interpretation/</guid>
       <description>In Wayne Koestenbaum’s new novel, the quest to understand the loved object’s inner life takes on a Talmudic quality.</description>
-    </item>
-    <item>
-      <title>Digging Through the Debris</title>
-      <link>https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/theodor-adorno-orpheus-underworld-music-criticism-sibelius-stravinsky/</guid>
-      <description>Theodor Adorno’s early music criticism, newly translated to English, showcases his expressionist, concrete style of examination, which grew increasingly moralizing after the war.</description>
     </item>
   </channel>
 </rss>

@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:12:32 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Our members are upset:’ Toronto police union speaks out over Gardiner, DVP changes</title>
+      <link>https://www.ctvnews.ca/toronto/article/ineffective-and-inefficient-head-of-toronto-police-union-urges-province-to-reconsider-gardiner-dvp-changes/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ineffective-and-inefficient-head-of-toronto-police-union-urges-province-to-reconsider-gardiner-dvp-changes/</guid>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 14:15:12 +0000</pubDate>
+    </item>
     <item>
       <title>Ford apologizes after personal insults in legislature, Liberal MPP says</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-apologizes-after-personal-insults-in-legislature-liberal-mpp-says/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-apologizes-after-personal-insults-in-legislature-liberal-mpp-says/</guid>
-      <description>Video</description>
+      <description>An Ontario Liberal member of provincial parliament says Premier Doug Ford has apologized to her after he hurled a personal insult at her Thursday in the legislature.</description>
       <pubDate>Mon, 27 Apr 2026 01:55:56 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-forging-ahead-with-medical-residency-rule-for-international-grads-it-recently-rescinded/</guid>
       <description>Ontario is embedding in legislation a policy that would give priority for medical residency positions to applicants with a connection to the province.</description>
       <pubDate>Fri, 17 Apr 2026 22:36:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ford government to bypass public hearings on freedom-of-information clampdown</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-government-to-bypass-public-hearings-on-freedom-of-information-clampdown/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ford-government-to-bypass-public-hearings-on-freedom-of-information-clampdown/</guid>
-      <description>Ontario Premier Doug Ford’s government is planning to skip public hearings to pass its omnibus budget bill that contains a retroactive clampdown on access to his cellphone records.</description>
-      <pubDate>Fri, 17 Apr 2026 18:18:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

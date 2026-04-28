@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:11:35 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mikaela Davis – Graceland Way</title>
+      <link>https://pitchfork.com/reviews/albums/mikaela-davis-graceland-way/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mikaela-davis-graceland-way/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cris Williamson – The Changer and the Changed</title>
       <link>https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</link>
@@ -190,14 +198,6 @@
       <description>A review by Stephen M. Deusner</description>
       <author>Stephen M. Deusner</author>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bulgarian State Radio &amp; Television Female Vocal Choir – Le Mystère des Voix Bulgares</title>
-      <link>https://pitchfork.com/reviews/albums/bulgarian-state-radio-and-television-female-vocal-choir-le-mystere-des-voix-bulgares/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bulgarian-state-radio-and-television-female-vocal-choir-le-mystere-des-voix-bulgares/</guid>
-      <description>A review by Emma Madden</description>
-      <author>Emma Madden</author>
-      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
