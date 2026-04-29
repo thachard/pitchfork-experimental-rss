@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:05:18 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Barbarism of Yesteryear</title>
@@ -20,13 +20,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/i-fear-la</guid>
       <description>On Luke Goebel&amp;#8217;s &amp;#8216;Kill Dick&amp;#8217;</description>
       <pubDate>Tue, 21 Apr 2026 17:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>High School Confidential</title>
-      <link>https://www.metropolitanreview.org/p/high-school-confidential</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/high-school-confidential</guid>
-      <description>On Peter Shull&apos;s &apos;Why Teach?&apos;</description>
-      <pubDate>Tue, 24 Mar 2026 13:52:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

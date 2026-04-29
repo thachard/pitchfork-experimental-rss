@@ -5,13 +5,19 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:05:29 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>The Power of Fit</title>
+      <link>https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</guid>
+      <description>Laura B. McGrath’s new book looks at how the largely invisible work of literary agents shapes American literature.</description>
     </item>
     <item>
       <title>Purgatory or State of Grace?</title>
@@ -32,16 +38,16 @@
       <description>Confederate monuments and contemporary art at MOCA and the Brick.</description>
     </item>
     <item>
-      <title>Fiction Creep</title>
-      <link>https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</guid>
-      <description>Megan Garber’s new book argues that our regime of screens has made us into ‘two-way people,’ split between our flesh-and-blood selves and our digital avatars.</description>
-    </item>
-    <item>
       <title>Spectacles of Repression: On Netflix’s “Beef”</title>
       <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
       <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
+      <title>Fiction Creep</title>
+      <link>https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</guid>
+      <description>Megan Garber’s new book argues that our regime of screens has made us into ‘two-way people,’ split between our flesh-and-blood selves and our digital avatars.</description>
     </item>
     <item>
       <title>We’ve All Stopped Dreaming</title>
@@ -84,12 +90,6 @@
       <link>https://lareviewofbooks.org/article/blank-space-cultural-history-capitalism-w-david-marx/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/blank-space-cultural-history-capitalism-w-david-marx/</guid>
       <description>A diagnosis of our stale culture sounds very familiar.</description>
-    </item>
-    <item>
-      <title>A Simulation of Worship</title>
-      <link>https://lareviewofbooks.org/article/wayne-koestenbaum-my-lover-rabbi-talmudic-erotics-interpretation/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/wayne-koestenbaum-my-lover-rabbi-talmudic-erotics-interpretation/</guid>
-      <description>In Wayne Koestenbaum’s new novel, the quest to understand the loved object’s inner life takes on a Talmudic quality.</description>
     </item>
   </channel>
 </rss>
