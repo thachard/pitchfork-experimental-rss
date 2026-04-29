@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 11:54:31 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Toronto to expand early registration for locals to every free recreation centre</title>
@@ -134,6 +134,13 @@
       <pubDate>Mon, 30 Mar 2026 19:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Firefighters battle three-alarm blaze at Etobicoke yacht club</title>
+      <link>https://www.thestar.com/news/gta/firefighters-battle-three-alarm-blaze-at-etobicoke-yacht-club/article_a96f91ae-d926-41b9-b443-b7bffc67f77e.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/firefighters-battle-three-alarm-blaze-at-etobicoke-yacht-club/article_a96f91ae-d926-41b9-b443-b7bffc67f77e.html</guid>
+      <description></description>
+      <pubDate>Wed, 29 Apr 2026 07:27:45 +0000</pubDate>
+    </item>
+    <item>
       <title>This Mississauga man just turned 107. His life has been marked by famine, war — and wisdom from his mom that kept him going</title>
       <link>https://www.thestar.com/news/gta/this-mississauga-man-just-turned-107-his-life-has-been-marked-by-famine-war--and-wisdom-from-his-mom-that-kept-him-going/article_4da89970-94e6-4db0-a8b8-d36e91b936a1.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/this-mississauga-man-just-turned-107-his-life-has-been-marked-by-famine-war--and-wisdom-from-his-mom-that-kept-him-going/article_4da89970-94e6-4db0-a8b8-d36e91b936a1.html</guid>
@@ -167,13 +174,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/arrest-made-in-2024-caledon-murder-arson-investigation/article_3378e784-e281-4d55-b29f-f3c26d594ebb.html</guid>
       <description></description>
       <pubDate>Tue, 28 Apr 2026 22:10:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto Star nominated for three Digital Publishing Awards</title>
-      <link>https://www.thestar.com/news/gta/toronto-star-nominated-for-three-digital-publishing-awards/article_324b0687-7b4b-4643-b291-dadcab547a85.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-star-nominated-for-three-digital-publishing-awards/article_324b0687-7b4b-4643-b291-dadcab547a85.html</guid>
-      <description></description>
-      <pubDate>Tue, 28 Apr 2026 21:33:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
