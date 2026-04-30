@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:53:25 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Things We Never Say by Elizabeth Strout — profound and resplendent</title>
+      <link>https://www.ft.com/content/53599eca-0b6c-49bf-8a77-0e6c261ee829</link>
+      <guid isPermaLink="true">https://www.ft.com/content/53599eca-0b6c-49bf-8a77-0e6c261ee829</guid>
+      <description>A new tale about the power of secrets by the Pulitzer Prize-winning author of ‘Olive Kitteridge’</description>
+      <pubDate>Thu, 30 Apr 2026 11:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Other People’s Children by Ben Faccini — an accomplished tale of families, biological or blended</title>
       <link>https://www.ft.com/content/3c55747d-921b-4419-a8be-d301ae6eab27</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/348612f1-6d07-4752-902d-9a4408405b98</guid>
       <description>The discovery of a Homeric-style poem and an academic’s life-in-the-footnotes are captivatingly entwined in the Booker-winner’s ambitious new novel</description>
       <pubDate>Thu, 26 Mar 2026 12:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the Calculation of Volume IV by Solvej Balle — the brilliant lessons of a life on repeat</title>
-      <link>https://www.ft.com/content/4a8e83f3-a010-4aa8-9472-7b1c48ff6356</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4a8e83f3-a010-4aa8-9472-7b1c48ff6356</guid>
-      <description>At the halfway point in her seven-novel work, the Danish writer’s power and originality remain fresh, even as her protagonist remains trapped in the same day</description>
-      <pubDate>Thu, 26 Mar 2026 05:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
