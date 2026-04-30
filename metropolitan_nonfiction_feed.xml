@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/nonfiction</link>
     <description>Nonfiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:06:55 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>This Land Belongs to All of Us</title>
@@ -41,13 +41,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/drawing-a-blank</guid>
       <description>On D. David Marx&apos;s &apos;Blank Space&apos;</description>
       <pubDate>Wed, 01 Apr 2026 21:33:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Very Good Soldier</title>
-      <link>https://www.metropolitanreview.org/p/the-very-good-soldier</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/the-very-good-soldier</guid>
-      <description>On the American Journey of Bret Easton Ellis</description>
-      <pubDate>Thu, 26 Mar 2026 16:13:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

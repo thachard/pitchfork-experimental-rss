@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:55:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:06:37 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yu Su – Foundry</title>
+      <link>https://pitchfork.com/reviews/albums/yu-su-foundry/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/yu-su-foundry/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Book of Love – Book of Love</title>
       <link>https://pitchfork.com/reviews/albums/book-of-love-book-of-love/</link>
@@ -238,14 +246,6 @@
       <description>A review by Olivier Lafontant</description>
       <author>Olivier Lafontant</author>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twisted Teens – Blame the Clown</title>
-      <link>https://pitchfork.com/reviews/albums/twisted-teens-blame-the-clown/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/twisted-teens-blame-the-clown/</guid>
-      <description>A review by Nina Corcoran</description>
-      <author>Nina Corcoran</author>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

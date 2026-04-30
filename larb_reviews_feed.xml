@@ -5,13 +5,19 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:07:00 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Natural Election</title>
+      <link>https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</guid>
+      <description>Kathryn Paige Harden’s new book offers a defense of a kind of Scientific Calvinism that converges with the eugenicist ideals of the contemporary Far Right.</description>
     </item>
     <item>
       <title>The Power of Fit</title>
@@ -32,16 +38,16 @@
       <description>The afterlives of Confederate memorials and the ideological contradictions of American commemorative culture.</description>
     </item>
     <item>
-      <title>This Liminal Moment</title>
-      <link>https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</guid>
-      <description>Confederate monuments and contemporary art at MOCA and the Brick.</description>
-    </item>
-    <item>
       <title>Spectacles of Repression: On Netflix’s “Beef”</title>
       <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
       <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
+      <title>This Liminal Moment</title>
+      <link>https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</guid>
+      <description>Confederate monuments and contemporary art at MOCA and the Brick.</description>
     </item>
     <item>
       <title>Fiction Creep</title>
@@ -84,12 +90,6 @@
       <link>https://lareviewofbooks.org/article/monochrome-set-bid-strange-young-alien-lyrics-annotated/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/monochrome-set-bid-strange-young-alien-lyrics-annotated/</guid>
       <description>The Monochrome Set in their fifth decade of music.</description>
-    </item>
-    <item>
-      <title>Vulgar Marxism, or Stop Me If You’ve Heard This One Before</title>
-      <link>https://lareviewofbooks.org/article/blank-space-cultural-history-capitalism-w-david-marx/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/blank-space-cultural-history-capitalism-w-david-marx/</guid>
-      <description>A diagnosis of our stale culture sounds very familiar.</description>
     </item>
   </channel>
 </rss>
