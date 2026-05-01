@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:44:08 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kacey Musgraves – Middle of Nowhere</title>
+      <link>https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/</guid>
+      <description>A review by Molly Mary O’Brien</description>
+      <author>Molly Mary O’Brien</author>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mikaela Davis – Graceland Way</title>
       <link>https://pitchfork.com/reviews/albums/mikaela-davis-graceland-way/</link>
@@ -190,14 +198,6 @@
       <description>A review by Stephen Thomas Erlewine</description>
       <author>Stephen Thomas Erlewine</author>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jake Xerxes Fussell / James Elkington – Rebuilding</title>
-      <link>https://pitchfork.com/reviews/albums/jake-xerxes-fussell-james-elkington-rebuilding/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jake-xerxes-fussell-james-elkington-rebuilding/</guid>
-      <description>A review by Stephen M. Deusner</description>
-      <author>Stephen M. Deusner</author>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

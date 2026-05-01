@@ -5,13 +5,25 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:46:10 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Red Specters and Right-Wing Fever Dreams</title>
+      <link>https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</guid>
+      <description>A. J. A. Woods’s new book explores how the Right’s obsession with Cultural Marxism emerged from the backlash against the 1960s.</description>
+    </item>
+    <item>
+      <title>High and Dry</title>
+      <link>https://lareviewofbooks.org/article/no-way-home-tc-boyle-climate-crisis-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/no-way-home-tc-boyle-climate-crisis-review/</guid>
+      <description>The ‘godfather of climate fiction’ offers a novel about finding a home on a despoiled planet.</description>
     </item>
     <item>
       <title>Natural Election</title>
@@ -26,6 +38,12 @@
       <description>Laura B. McGrath’s new book looks at how the largely invisible work of literary agents shapes American literature.</description>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Purgatory or State of Grace?</title>
       <link>https://lareviewofbooks.org/article/sophie-mackintosh-permanence-novel-adultery-impermanence-love-story/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sophie-mackintosh-permanence-novel-adultery-impermanence-love-story/</guid>
@@ -36,12 +54,6 @@
       <link>https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-jillian-mcmanemin/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-jillian-mcmanemin/</guid>
       <description>The afterlives of Confederate memorials and the ideological contradictions of American commemorative culture.</description>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>This Liminal Moment</title>
@@ -78,18 +90,6 @@
       <link>https://lareviewofbooks.org/article/poetry-translation-milo-de-angelis-jean-follain-vidya/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/poetry-translation-milo-de-angelis-jean-follain-vidya/</guid>
       <description>Three recent translations of Milo De Angelis, Jean Follain, and Vidyā will fill their reader with welcome weirdness.</description>
-    </item>
-    <item>
-      <title>The Artist Who Knew Almost Everyone Important and Made Pictures of Them</title>
-      <link>https://lareviewofbooks.org/article/oskar-stoessel-bryan-garner-etcher-life-art-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/oskar-stoessel-bryan-garner-etcher-life-art-review/</guid>
-      <description>Bryan Garner’s new book revisits the career of little-known artist Oskar Stoessel.</description>
-    </item>
-    <item>
-      <title>Strange Old Alien</title>
-      <link>https://lareviewofbooks.org/article/monochrome-set-bid-strange-young-alien-lyrics-annotated/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/monochrome-set-bid-strange-young-alien-lyrics-annotated/</guid>
-      <description>The Monochrome Set in their fifth decade of music.</description>
     </item>
   </channel>
 </rss>

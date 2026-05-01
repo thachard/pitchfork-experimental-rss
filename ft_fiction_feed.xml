@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:44:21 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From Lady Chatterley to Marilyn to Dua Lipa, books are in rude health</title>
+      <link>https://www.ft.com/content/4f0b16cf-2f89-43e8-9411-46cf5cf3648e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4f0b16cf-2f89-43e8-9411-46cf5cf3648e</guid>
+      <description>Reading for both pleasure and betterment endures — even if unquestioning faith in literary canons and critical authority is gone</description>
+      <pubDate>Fri, 01 May 2026 04:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>The Things We Never Say by Elizabeth Strout — profound and resplendent</title>
       <link>https://www.ft.com/content/53599eca-0b6c-49bf-8a77-0e6c261ee829</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/336a681f-a9f8-4fa1-883f-f54686470307</guid>
       <description>Jane Harper’s Last One Out takes us into the Australian outback, and Camille de Peretti spins an intriguing tale around a stolen Klimt painting</description>
       <pubDate>Mon, 30 Mar 2026 04:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Son of Nobody — Yann Martel’s epic, beguiling tale of past and present</title>
-      <link>https://www.ft.com/content/348612f1-6d07-4752-902d-9a4408405b98</link>
-      <guid isPermaLink="true">https://www.ft.com/content/348612f1-6d07-4752-902d-9a4408405b98</guid>
-      <description>The discovery of a Homeric-style poem and an academic’s life-in-the-footnotes are captivatingly entwined in the Booker-winner’s ambitious new novel</description>
-      <pubDate>Thu, 26 Mar 2026 12:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

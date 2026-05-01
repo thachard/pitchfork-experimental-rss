@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:44:03 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gobby – i guess bro</title>
+      <link>https://pitchfork.com/reviews/albums/gobby-i-guess-bro/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gobby-i-guess-bro/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Alvarius B. – Malarial Dream</title>
       <link>https://pitchfork.com/reviews/albums/alvarius-b-malarial-dream/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mammo-lateral/</guid>
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noémi Büchi – Exuvie</title>
-      <link>https://pitchfork.com/reviews/albums/noemi-buchi-exuvie/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/noemi-buchi-exuvie/</guid>
-      <description>A review by Walden Green</description>
-      <author>Walden Green</author>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
