@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 01 May 2026 11:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 09:05:41 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nominations for municipal elections open across the GTHA. Here’s who is running.</title>
+      <link>https://www.ctvnews.ca/toronto/article/nominations-for-municipal-elections-open-across-the-gtha-heres-who-is-running/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/nominations-for-municipal-elections-open-across-the-gtha-heres-who-is-running/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 01 May 2026 18:48:28 +0000</pubDate>
+    </item>
     <item>
       <title>Coming to select Toronto parks this summer: food trucks and carts</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/coming-to-select-toronto-parks-this-summer-food-trucks-and-carts/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/coming-to-select-toronto-parks-this-summer-food-trucks-and-carts/</guid>
-      <description></description>
+      <description>There will be more food and drink options at select public parks across the city this summer after city council approved a park mobile vending pilot program.</description>
       <pubDate>Fri, 24 Apr 2026 00:12:13 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-councillor-violated-code-of-conduct-integrity-commissioner-finds/</guid>
       <description>The city’s integrity commissioner has found that a downtown Toronto councillor violated the Code of Conduct during an interaction with a constituent last year but is not recommending a penalty.</description>
       <pubDate>Sat, 21 Mar 2026 20:15:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>As World Cup nears, Toronto mayor moves to block U.S. ICE presence</title>
-      <link>https://www.ctvnews.ca/toronto/article/as-world-cup-nears-toronto-mayor-moves-to-block-us-ice-presence/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/as-world-cup-nears-toronto-mayor-moves-to-block-us-ice-presence/</guid>
-      <description>Toronto Mayor Olivia Chow is asking city council to oppose any role for U.S. Immigration and Customs Enforcement in Toronto during the 2026 FIFA World Cup, arguing the agency’s presence could “create fear” among visitors.</description>
-      <pubDate>Sat, 21 Mar 2026 00:46:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

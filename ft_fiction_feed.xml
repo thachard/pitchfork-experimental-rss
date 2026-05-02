@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 01 May 2026 11:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 09:04:13 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From British declinism to Antony Beevor on Rasputin and a Chinese factory memoir. Plus fiction by Elizabeth Strout — and Boyd Tonkin on Marilyn Monroe and the power of reading</description>
+      <pubDate>Fri, 01 May 2026 11:55:31 +0000</pubDate>
+    </item>
     <item>
       <title>Hey Man by Andrew Meehan — from bromance to the brotherhood</title>
       <link>https://www.ft.com/content/e67250ae-b7ad-4841-9441-65a9629376fa</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/3c55747d-921b-4419-a8be-d301ae6eab27</guid>
       <description>In a beautifully balanced novel, a man tries to bond with his partner’s young sons while grappling with his own inherited history</description>
       <pubDate>Mon, 27 Apr 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Mary Beard’s love for the classics to the dynasty behind Fidelity and the dynasty that rules North Korea. Plus fiction by Lucy Caldwell, Amitav Ghosh and Suzi Feay’s pick of debuts</description>
-      <pubDate>Fri, 24 Apr 2026 11:48:52 +0000</pubDate>
     </item>
     <item>
       <title>Hey, Good Morning, How Are You? — an unsettling story of art and ageing</title>
