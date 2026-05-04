@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 04 May 2026 11:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:04:58 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Last Movement — a beautiful portrait of Mahler, a genius all at sea</title>
+      <link>https://www.ft.com/content/c635b379-0751-4edb-b1fa-208cd35e6e66</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c635b379-0751-4edb-b1fa-208cd35e6e66</guid>
+      <description>Robert Seethaler’s gem of a novella mixes the dying composer’s reflections with real-life history and imaginative flourishes</description>
+      <pubDate>Mon, 04 May 2026 11:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/b8f37d1f-7d1b-405f-87ee-ce749b3a6863</guid>
       <description>Nelio Biedermann’s ambitious debut is a fast-paced story of decline and fall across three generations in Austria-Hungary</description>
       <pubDate>Wed, 01 Apr 2026 16:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Witch by Marie NDiaye — spellbinding</title>
-      <link>https://www.ft.com/content/56b47b63-7dce-4ec3-9281-3acccf1d5c12</link>
-      <guid isPermaLink="true">https://www.ft.com/content/56b47b63-7dce-4ec3-9281-3acccf1d5c12</guid>
-      <description>Shortlisted for the International Booker Prize, this dreamlike, unsettling tale explores the terror and sorrow of a mediocre sorceress with meagre talents</description>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
