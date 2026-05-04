@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:11:45 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Maya Hawke – MAITREYA CORSO</title>
+      <link>https://pitchfork.com/reviews/albums/maya-hawke-maitreya-corso/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/maya-hawke-maitreya-corso/</guid>
+      <description>A review by Caitlin Wolper Phillips</description>
+      <author>Caitlin Wolper Phillips</author>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kacey Musgraves – Middle of Nowhere</title>
       <link>https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/</link>
@@ -190,14 +198,6 @@
       <description>A review by Jayson Greene</description>
       <author>Jayson Greene</author>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zach Bryan – With Heaven on Top / With Heaven on Top (Acoustic)</title>
-      <link>https://pitchfork.com/reviews/albums/zach-bryan-with-heaven-on-top/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/zach-bryan-with-heaven-on-top/</guid>
-      <description>A review by Stephen Thomas Erlewine</description>
-      <author>Stephen Thomas Erlewine</author>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 11:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:14:09 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>The Epic of the Fear of Death</title>
+      <link>https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</guid>
+      <description>Simon Armitage’s new verse translation of the ‘Epic of Gilgamesh’ is unhurried and resplendent, archaizing without being antiquated.</description>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Red Specters and Right-Wing Fever Dreams</title>
@@ -32,16 +39,16 @@
       <description>Kathryn Paige Harden’s new book offers a defense of a kind of Scientific Calvinism that converges with the eugenicist ideals of the contemporary Far Right.</description>
     </item>
     <item>
-      <title>The Power of Fit</title>
-      <link>https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</guid>
-      <description>Laura B. McGrath’s new book looks at how the largely invisible work of literary agents shapes American literature.</description>
-    </item>
-    <item>
       <title>Spectacles of Repression: On Netflix’s “Beef”</title>
       <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
       <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
+      <title>The Power of Fit</title>
+      <link>https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</guid>
+      <description>Laura B. McGrath’s new book looks at how the largely invisible work of literary agents shapes American literature.</description>
     </item>
     <item>
       <title>Purgatory or State of Grace?</title>
@@ -84,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</guid>
       <description>Jessica Riskin’s Lamarckian (history of) science is a remarkably transformative work.</description>
-    </item>
-    <item>
-      <title>Mortal Urges</title>
-      <link>https://lareviewofbooks.org/article/poetry-translation-milo-de-angelis-jean-follain-vidya/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/poetry-translation-milo-de-angelis-jean-follain-vidya/</guid>
-      <description>Three recent translations of Milo De Angelis, Jean Follain, and Vidyā will fill their reader with welcome weirdness.</description>
     </item>
   </channel>
 </rss>

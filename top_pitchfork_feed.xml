@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:13:47 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>American Football – American Football (LP4)</title>
+      <link>https://pitchfork.com/reviews/albums/american-football-american-football-lp4/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/american-football-american-football-lp4/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fanny – Fanny Hill</title>
       <link>https://pitchfork.com/reviews/albums/fanny-fanny-hill/</link>
@@ -238,14 +246,6 @@
       <description>A review by Jen Vafidis</description>
       <author>Jen Vafidis</author>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Andrew Bird – Andrew Bird &amp; the Mysterious Production of Eggs (20th Anniversary Edition)</title>
-      <link>https://pitchfork.com/reviews/albums/andrew-bird-and-the-mysterious-production-of-eggs-20th-anniversary-edition/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/andrew-bird-and-the-mysterious-production-of-eggs-20th-anniversary-edition/</guid>
-      <description>A review by Marianela D’Aprile</description>
-      <author>Marianela D’Aprile</author>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

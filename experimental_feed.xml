@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:11:39 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Setting – Setting</title>
+      <link>https://pitchfork.com/reviews/albums/setting-setting/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/setting-setting/</guid>
+      <description>A review by Jesse Jarnow</description>
+      <author>Jesse Jarnow</author>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gobby – i guess bro</title>
       <link>https://pitchfork.com/reviews/albums/gobby-i-guess-bro/</link>
@@ -190,14 +198,6 @@
       <description>A review by Vanessa Ague</description>
       <author>Vanessa Ague</author>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mammo – Lateral</title>
-      <link>https://pitchfork.com/reviews/albums/mammo-lateral/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mammo-lateral/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
