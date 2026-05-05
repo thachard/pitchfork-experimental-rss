@@ -5,13 +5,27 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 12:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:02:54 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>What Ever Happened to Aunt Gladys?</title>
+      <link>https://lareviewofbooks.org/article/weapons-amy-madigan-zach-cregger-hagsploitation-aunt-gladys/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/weapons-amy-madigan-zach-cregger-hagsploitation-aunt-gladys/</guid>
+      <description>On Zach Cregger’s ‘Weapons’ and the figure of the hag.</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Archives of Desire</title>
+      <link>https://lareviewofbooks.org/article/positive-obsession-h-is-for-horse-octavia-butler/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/positive-obsession-h-is-for-horse-octavia-butler/</guid>
+      <description>Two recent biographies of Octavia Butler, drawing on her archive at the Huntington Library, ‘challenge us to reflect upon what it means to study a writer’s archive.’</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Epic of the Fear of Death</title>
@@ -27,6 +41,12 @@
       <description>A. J. A. Woods’s new book explores how the Right’s obsession with Cultural Marxism emerged from the backlash against the 1960s.</description>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>High and Dry</title>
       <link>https://lareviewofbooks.org/article/no-way-home-tc-boyle-climate-crisis-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/no-way-home-tc-boyle-climate-crisis-review/</guid>
@@ -37,12 +57,6 @@
       <link>https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</guid>
       <description>Kathryn Paige Harden’s new book offers a defense of a kind of Scientific Calvinism that converges with the eugenicist ideals of the contemporary Far Right.</description>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>The Power of Fit</title>
@@ -79,18 +93,6 @@
       <link>https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</guid>
       <description>Chiara Barzini’s new book is a meditation on the broken promises and empty dreams of Los Angeles.</description>
-    </item>
-    <item>
-      <title>Cold War Reborn</title>
-      <link>https://lareviewofbooks.org/article/polar-war-book-rosen-arctic-war/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/polar-war-book-rosen-arctic-war/</guid>
-      <description>The Arctic may well be the center of the next global conflict.</description>
-    </item>
-    <item>
-      <title>Seeing Like a Worm</title>
-      <link>https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jessica-riskin-lamarck-power-life-invention-biology-review/</guid>
-      <description>Jessica Riskin’s Lamarckian (history of) science is a remarkably transformative work.</description>
     </item>
   </channel>
 </rss>

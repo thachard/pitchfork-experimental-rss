@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 12:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:01:11 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ana Roxanne – Poem 1</title>
+      <link>https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Setting – Setting</title>
       <link>https://pitchfork.com/reviews/albums/setting-setting/</link>
@@ -190,14 +198,6 @@
       <description>A review by Grayson Haver Currin</description>
       <author>Grayson Haver Currin</author>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bill Orcutt – Music in Continuous Motion</title>
-      <link>https://pitchfork.com/reviews/albums/bill-orcutt-music-in-continuous-motion/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bill-orcutt-music-in-continuous-motion/</guid>
-      <description>A review by Vanessa Ague</description>
-      <author>Vanessa Ague</author>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
