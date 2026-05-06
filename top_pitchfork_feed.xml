@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 11:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:16:41 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seefeel – Sol.Hz</title>
+      <link>https://pitchfork.com/reviews/albums/seefeel-sol-hz/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/seefeel-sol-hz/</guid>
+      <description>A review by Philip Sherburne</description>
+      <author>Philip Sherburne</author>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ana Roxanne – Poem 1</title>
       <link>https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</link>
@@ -238,14 +246,6 @@
       <description>A review by Jayson Greene</description>
       <author>Jayson Greene</author>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GENA / Karriem Riggins / Liv.e – The Pleasure Is Yours</title>
-      <link>https://pitchfork.com/reviews/albums/gena-the-pleasure-is-yours/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gena-the-pleasure-is-yours/</guid>
-      <description>A review by Marcus J. Moore</description>
-      <author>Marcus J. Moore</author>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

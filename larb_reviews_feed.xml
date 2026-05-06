@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 11:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:17:03 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Sitting Apart</title>
+      <link>https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</guid>
+      <description>Gal Beckerman’s new book offers a thoughtful catalog of social resistance, from Diogenes to Alexei Navalny.</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Ever Happened to Aunt Gladys?</title>
@@ -35,16 +42,16 @@
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Red Specters and Right-Wing Fever Dreams</title>
-      <link>https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</guid>
-      <description>A. J. A. Woods’s new book explores how the Right’s obsession with Cultural Marxism emerged from the backlash against the 1960s.</description>
-    </item>
-    <item>
       <title>Spectacles of Repression: On Netflix’s “Beef”</title>
       <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
       <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
+      <title>Red Specters and Right-Wing Fever Dreams</title>
+      <link>https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</guid>
+      <description>A. J. A. Woods’s new book explores how the Right’s obsession with Cultural Marxism emerged from the backlash against the 1960s.</description>
     </item>
     <item>
       <title>High and Dry</title>
@@ -87,12 +94,6 @@
       <link>https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</guid>
       <description>Megan Garber’s new book argues that our regime of screens has made us into ‘two-way people,’ split between our flesh-and-blood selves and our digital avatars.</description>
-    </item>
-    <item>
-      <title>We’ve All Stopped Dreaming</title>
-      <link>https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/aqua-water-lost-dreams-chiara-barzini-hollywood-mulholland/</guid>
-      <description>Chiara Barzini’s new book is a meditation on the broken promises and empty dreams of Los Angeles.</description>
     </item>
   </channel>
 </rss>

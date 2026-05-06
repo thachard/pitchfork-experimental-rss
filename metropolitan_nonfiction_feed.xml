@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/nonfiction</link>
     <description>Nonfiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 11:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:16:58 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>This Land Belongs to All of Us</title>
@@ -34,13 +34,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/they-got-the-beat</guid>
       <description>On the 6 Gallery Reading</description>
       <pubDate>Tue, 07 Apr 2026 01:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drawing a Blank</title>
-      <link>https://www.metropolitanreview.org/p/drawing-a-blank</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/drawing-a-blank</guid>
-      <description>On D. David Marx&apos;s &apos;Blank Space&apos;</description>
-      <pubDate>Wed, 01 Apr 2026 21:33:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
