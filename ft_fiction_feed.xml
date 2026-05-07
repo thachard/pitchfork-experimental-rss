@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 06 May 2026 12:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:23:17 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Little Vanities — Sarah Gilmartin’s novel of unravelling friendships</title>
+      <link>https://www.ft.com/content/18497568-ecb3-4cee-96c7-04e0d5330905</link>
+      <guid isPermaLink="true">https://www.ft.com/content/18497568-ecb3-4cee-96c7-04e0d5330905</guid>
+      <description>Over shifting timelines, the Irish author’s third novel unpicks the fracturing relationships of a group of thirty-somethings</description>
+      <pubDate>Wed, 06 May 2026 15:57:50 +0000</pubDate>
+    </item>
     <item>
       <title>The Last Movement — a beautiful portrait of Mahler, a genius all at sea</title>
       <link>https://www.ft.com/content/c635b379-0751-4edb-b1fa-208cd35e6e66</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/db58f731-0252-4235-83f5-97d9be5bc71d</guid>
       <description>The US novelist probes the porous border between the real and the unreal in this thrilling hall of mirrors</description>
       <pubDate>Thu, 02 Apr 2026 12:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lázár — a bravura saga of family ghosts, secrets and lies</title>
-      <link>https://www.ft.com/content/b8f37d1f-7d1b-405f-87ee-ce749b3a6863</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b8f37d1f-7d1b-405f-87ee-ce749b3a6863</guid>
-      <description>Nelio Biedermann’s ambitious debut is a fast-paced story of decline and fall across three generations in Austria-Hungary</description>
-      <pubDate>Wed, 01 Apr 2026 16:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

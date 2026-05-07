@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 12:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:25:11 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Fame! A Misunderstanding</title>
+      <link>https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</guid>
+      <description>Albert Camus has long been misunderstood, but a new translation of his complete notebooks offers a corrective.</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sitting Apart</title>
@@ -35,17 +42,17 @@
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>The Epic of the Fear of Death</title>
       <link>https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</guid>
       <description>Simon Armitage’s new verse translation of the ‘Epic of Gilgamesh’ is unhurried and resplendent, archaizing without being antiquated.</description>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Red Specters and Right-Wing Fever Dreams</title>
@@ -88,12 +95,6 @@
       <link>https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/monuments-moca-brick-black-art-confederacy-bridget-cooks/</guid>
       <description>Confederate monuments and contemporary art at MOCA and the Brick.</description>
-    </item>
-    <item>
-      <title>Fiction Creep</title>
-      <link>https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/screen-people-internet-entertainment-propaganda-enshittification-megan-garber/</guid>
-      <description>Megan Garber’s new book argues that our regime of screens has made us into ‘two-way people,’ split between our flesh-and-blood selves and our digital avatars.</description>
     </item>
   </channel>
 </rss>
