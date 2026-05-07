@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 07 May 2026 11:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 12:08:25 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Toronto wasn’t ready for this winter’s snowstorm. So it wants to spend millions more to make sure it doesn’t happen again</title>
@@ -106,6 +106,13 @@
       <pubDate>Tue, 10 Feb 2026 07:40:13 +0000</pubDate>
     </item>
     <item>
+      <title>A man is in critical condition after Vaughan house fire</title>
+      <link>https://www.thestar.com/news/gta/a-man-is-in-critical-condition-after-vaughan-house-fire/article_9100a83e-cc32-47ff-b232-8d5c220f503f.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/a-man-is-in-critical-condition-after-vaughan-house-fire/article_9100a83e-cc32-47ff-b232-8d5c220f503f.html</guid>
+      <description></description>
+      <pubDate>Thu, 07 May 2026 07:56:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Metrolinx begins body camera rollout across GO Transit and UP Express</title>
       <link>https://www.thestar.com/news/gta/metrolinx-begins-body-camera-rollout/article_b96f9c81-bca2-5ba2-b2d4-a761ddef070e.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/metrolinx-begins-body-camera-rollout/article_b96f9c81-bca2-5ba2-b2d4-a761ddef070e.html</guid>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/millhaven-institution-prisoner-dies-after-inmate-incident-police-investigating/article_1efd4452-254f-464e-ae05-6c5e65412336.html</guid>
       <description></description>
       <pubDate>Thu, 07 May 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TCDSB walks back plan to relocate special education program at two schools after backlash</title>
-      <link>https://www.thestar.com/news/gta/tcdsb-walks-back-plan-to-relocate-special-education-program-at-two-schools-after-backlash/article_dbd40dc7-2b85-4438-9828-baff6d4abe5b.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/tcdsb-walks-back-plan-to-relocate-special-education-program-at-two-schools-after-backlash/article_dbd40dc7-2b85-4438-9828-baff6d4abe5b.html</guid>
-      <description></description>
-      <pubDate>Thu, 07 May 2026 06:13:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
