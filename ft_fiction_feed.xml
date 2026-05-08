@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2026 10:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:44:47 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dark is the Morning by Rupert Thomson — a question of infidelity</title>
+      <link>https://www.ft.com/content/909229a7-de85-4ee0-b722-9a2cb7295ac3</link>
+      <guid isPermaLink="true">https://www.ft.com/content/909229a7-de85-4ee0-b722-9a2cb7295ac3</guid>
+      <description>An Abruzzo-set tale about a man’s psychological unravelling is a surprising, skilfully wrought novel for a long, sweltering afternoon</description>
+      <pubDate>Fri, 08 May 2026 11:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Best new thrillers — five pacy tales of money, mafiosi and betrayal</title>
       <link>https://www.ft.com/content/c78c5c8a-7651-4b57-89ec-073219cec9ea</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/b83fbd97-e85d-4e67-90de-bfb7bf8c8cde</guid>
       <description>The danger is not that it will replace human-authored books — but that we stop caring about good writing at all</description>
       <pubDate>Sat, 04 Apr 2026 04:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interview.Why Constance Debré shed marriage, law and a French political dynasty to write novels</title>
-      <link>https://www.ft.com/content/50f3d685-1219-4fd9-930a-d3c2a7f2a134</link>
-      <guid isPermaLink="true">https://www.ft.com/content/50f3d685-1219-4fd9-930a-d3c2a7f2a134</guid>
-      <description>One of France’s most significant literary voices on pursuing a ‘higher purpose’ — and how the country’s judicial system crushes the weakest</description>
-      <pubDate>Fri, 03 Apr 2026 16:29:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

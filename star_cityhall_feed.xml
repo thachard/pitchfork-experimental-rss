@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 08 May 2026 10:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:44:51 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Toronto pushes forward on $675-million shelter plan despite lawsuits</title>
@@ -106,6 +106,13 @@
       <pubDate>Tue, 10 Feb 2026 07:40:13 +0000</pubDate>
     </item>
     <item>
+      <title>Man seriously injured after stabbing in Etobicoke</title>
+      <link>https://www.thestar.com/news/gta/man-seriously-injured-after-stabbing-in-etobicoke/article_a5f6e757-3591-43d9-a508-8085ec621e5b.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/man-seriously-injured-after-stabbing-in-etobicoke/article_a5f6e757-3591-43d9-a508-8085ec621e5b.html</guid>
+      <description></description>
+      <pubDate>Fri, 08 May 2026 07:27:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Couple ‘asked me to keep silent’ about night Liberty Village filmmaker was killed upstairs, roommate tells murder trial</title>
       <link>https://www.thestar.com/news/gta/couple-asked-me-to-keep-silent-about-night-liberty-village-filmmaker-was-killed-upstairs-roommate-tells-murder-trial/article_2c54b6e2-9a1f-4f66-bbc8-2c8e1c37bf29.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/couple-asked-me-to-keep-silent-about-night-liberty-village-filmmaker-was-killed-upstairs-roommate-tells-murder-trial/article_2c54b6e2-9a1f-4f66-bbc8-2c8e1c37bf29.html</guid>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/rush-hour-service-halted-on-stretch-of-bloor-danforth-subway-after-track-level-injury/article_dc36e151-d2ac-42a9-ae4c-54c202b2ba93.html</guid>
       <description></description>
       <pubDate>Thu, 07 May 2026 20:49:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four days in, crews continue to monitor Thorncliffe Park condo fire sparked by repair work</title>
-      <link>https://www.thestar.com/news/gta/four-days-in-crews-continue-to-monitor-thorncliffe-park-condo-fire-sparked-by-repair-work/article_9f82749a-dca9-41c2-bfca-517c23626703.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/four-days-in-crews-continue-to-monitor-thorncliffe-park-condo-fire-sparked-by-repair-work/article_9f82749a-dca9-41c2-bfca-517c23626703.html</guid>
-      <description></description>
-      <pubDate>Thu, 07 May 2026 18:01:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
