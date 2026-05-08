@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 12:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:20:13 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aldous Harding – Train on the Island</title>
+      <link>https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>media puzzle – New Racehorse</title>
+      <link>https://pitchfork.com/reviews/albums/media-puzzle-new-racehorse/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/media-puzzle-new-racehorse/</guid>
+      <description>A review by Nina Corcoran</description>
+      <author>Nina Corcoran</author>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Seefeel – Sol.Hz</title>
       <link>https://pitchfork.com/reviews/albums/seefeel-sol-hz/</link>
@@ -230,22 +246,6 @@
       <description>A review by Mark Richardson</description>
       <author>Mark Richardson</author>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arima Ederra – A Rush to Nowhere</title>
-      <link>https://pitchfork.com/reviews/albums/arima-ederra-a-rush-to-nowhere/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/arima-ederra-a-rush-to-nowhere/</guid>
-      <description>A review by Stephen Kearse</description>
-      <author>Stephen Kearse</author>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redman – Dare Iz a Darkside</title>
-      <link>https://pitchfork.com/reviews/albums/redman-dare-iz-a-darkside/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/redman-dare-iz-a-darkside/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
