@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 11:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:19:58 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Being Eugène Atget</title>
+      <link>https://lareviewofbooks.org/article/eugene-atget-making-reputation-berenice-abbott-modern-photography/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/eugene-atget-making-reputation-berenice-abbott-modern-photography/</guid>
+      <description>The new exhibition of Eugène Atget’s photography demands what we are getting worse at giving: time, stillness, and the willingness to see.</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Back to the Canadian Future</title>
@@ -35,17 +42,17 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Sitting Apart</title>
       <link>https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</guid>
       <description>Gal Beckerman’s new book offers a thoughtful catalog of social resistance, from Diogenes to Alexei Navalny.</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>What Ever Happened to Aunt Gladys?</title>
@@ -91,12 +98,6 @@
       <link>https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</guid>
       <description>Laura B. McGrath’s new book looks at how the largely invisible work of literary agents shapes American literature.</description>
-    </item>
-    <item>
-      <title>Purgatory or State of Grace?</title>
-      <link>https://lareviewofbooks.org/article/sophie-mackintosh-permanence-novel-adultery-impermanence-love-story/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/sophie-mackintosh-permanence-novel-adultery-impermanence-love-story/</guid>
-      <description>Sophie Mackintosh’s new novel is a love story filled with nuances of longing and regret.</description>
     </item>
   </channel>
 </rss>

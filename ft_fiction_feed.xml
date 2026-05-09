@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2026 11:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:17:53 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Russia’s poisoned minds to the puzzle of human beliefs and policy in the best-governed nations. Plus much-maligned managers, the love letters of Albert Camus, fiction by Melissa Harrison, Rupert Thomson and more — and Adam LeBor’s pick of thrillers</description>
+      <pubDate>Fri, 08 May 2026 11:57:57 +0000</pubDate>
+    </item>
     <item>
       <title>Dark is the Morning by Rupert Thomson — a question of infidelity</title>
       <link>https://www.ft.com/content/909229a7-de85-4ee0-b722-9a2cb7295ac3</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c635b379-0751-4edb-b1fa-208cd35e6e66</guid>
       <description>Robert Seethaler’s gem of a novella mixes the dying composer’s reflections with real-life history and imaginative flourishes</description>
       <pubDate>Mon, 04 May 2026 11:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From British declinism to Antony Beevor on Rasputin and a Chinese factory memoir. Plus fiction by Elizabeth Strout — and Boyd Tonkin on Marilyn Monroe and the power of reading</description>
-      <pubDate>Fri, 01 May 2026 11:55:31 +0000</pubDate>
     </item>
     <item>
       <title>Hey Man by Andrew Meehan — from bromance to the brotherhood</title>
