@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 09 May 2026 10:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:10:50 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Toronto pushes forward on $675-million shelter plan despite lawsuits</title>
@@ -106,6 +106,13 @@
       <pubDate>Tue, 10 Feb 2026 07:40:13 +0000</pubDate>
     </item>
     <item>
+      <title>His Toronto jail cellmate believed he was a demon. Twice, the guards were called — but no one came to stop his ‘completely avoidable’ killing</title>
+      <link>https://www.thestar.com/news/gta/his-toronto-jail-cellmate-believed-he-was-a-demon-twice-the-guards-were-called-but-none-came-to-stop-his-completely-avoidable-killing/article_58c87362-aa5a-43ee-9981-7e03bb981049.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/his-toronto-jail-cellmate-believed-he-was-a-demon-twice-the-guards-were-called-but-none-came-to-stop-his-completely-avoidable-killing/article_58c87362-aa5a-43ee-9981-7e03bb981049.html</guid>
+      <description></description>
+      <pubDate>Sat, 09 May 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Worker shot, seriously injured by masked robbers at North York money services business</title>
       <link>https://www.thestar.com/news/gta/worker-shot-seriously-injured-by-masked-robbers-at-north-york-money-services-business/article_eb13e540-53a7-4a75-8ff2-4c9d6e418b90.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/worker-shot-seriously-injured-by-masked-robbers-at-north-york-money-services-business/article_eb13e540-53a7-4a75-8ff2-4c9d6e418b90.html</guid>
@@ -132,13 +139,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/canada/none-of-their-business-canadas-2026-census-may-well-be-crucial-its-also-ticking-some-people-off/article_11f372e5-9a02-4188-942e-7b44edfe2373.html</guid>
       <description></description>
       <pubDate>Fri, 08 May 2026 22:48:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>U of T working to determine what ‘may have been compromised’ after software used by thousands of universities hacked</title>
-      <link>https://www.thestar.com/news/gta/no-evidence-of-compromised-data-at-u-of-t-after-software-used-by-thousands-of-universities-hacked/article_3d7170f3-7786-46cf-8490-3089aa5c9e0e.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/no-evidence-of-compromised-data-at-u-of-t-after-software-used-by-thousands-of-universities-hacked/article_3d7170f3-7786-46cf-8490-3089aa5c9e0e.html</guid>
-      <description></description>
-      <pubDate>Fri, 08 May 2026 22:04:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
