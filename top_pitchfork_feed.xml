@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 11:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 09:28:11 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Carlos Santana – Caravanserai</title>
+      <link>https://pitchfork.com/reviews/albums/santana-caravanserai/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/santana-caravanserai/</guid>
+      <description>A review by Mark Richardson</description>
+      <author>Mark Richardson</author>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mahito Yokota / Koji Kondo – Super Mario Galaxy / Super Mario Galaxy 2</title>
       <link>https://pitchfork.com/reviews/albums/mahito-yokota-koji-kondo-super-mario-galaxy-super-mario-galaxy-2/</link>
@@ -238,14 +246,6 @@
       <description>A review by Hattie Lindert</description>
       <author>Hattie Lindert</author>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
-      <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</guid>
-      <description>A review by Vrinda Jagota</description>
-      <author>Vrinda Jagota</author>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

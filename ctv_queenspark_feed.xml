@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 09 May 2026 11:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 09:27:20 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liberal MP Erskine-Smith loses nomination battle for Ontario provincial byelection</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/liberal-mp-erskine-smith-loses-nomination-battle-for-ontario-provincial-byelection/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/liberal-mp-erskine-smith-loses-nomination-battle-for-ontario-provincial-byelection/</guid>
+      <description>Video</description>
+      <pubDate>Sun, 10 May 2026 00:04:27 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario Liberal MPP from Etobicoke enters leadership race</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-liberal-mpp-from-etobicoke-enters-leadership-race/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-liberal-mpp-from-etobicoke-enters-leadership-race/</guid>
-      <description></description>
+      <description>Ontario Liberal legislator Lee Fairclough has announced her bid for the party’s leadership.</description>
       <pubDate>Fri, 08 May 2026 14:55:26 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/advocates-urge-ontario-to-boost-special-education-funding-report-kids-being-excluded/</guid>
       <description>Advocates are calling for greater staffing and funding for special education in the province in order to address what they say is a lack of adequate in-class supports to allow their kids to fully participate and be safe.</description>
       <pubDate>Wed, 29 Apr 2026 20:35:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doug Ford’s PCs now in statistical tie with Liberals amid jet fallout: poll</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/doug-fords-pcs-in-statistical-tie-with-ontario-liberals-in-wake-of-private-jet-fiasco-poll/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/doug-fords-pcs-in-statistical-tie-with-ontario-liberals-in-wake-of-private-jet-fiasco-poll/</guid>
-      <description>The Ontario government’s decision to purchase and later return a $28.9-million private jet appears to have created turbulence for Premier Doug Ford and his Progressive Conservatives.</description>
-      <pubDate>Wed, 29 Apr 2026 13:36:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
