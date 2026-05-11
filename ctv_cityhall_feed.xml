@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 10 May 2026 11:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 11:00:15 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto Coun. Parthi Kandavel says he’s being investigated by the OPP</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-coun-parthi-kandavel-says-hes-being-investigated-by-the-opp/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-coun-parthi-kandavel-says-hes-being-investigated-by-the-opp/</guid>
+      <description></description>
+      <pubDate>Sun, 10 May 2026 22:13:20 +0000</pubDate>
+    </item>
     <item>
       <title>Nominations for municipal elections open across the GTHA. Here’s who is running.</title>
       <link>https://www.ctvnews.ca/toronto/article/nominations-for-municipal-elections-open-across-the-gtha-heres-who-is-running/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/nominations-for-municipal-elections-open-across-the-gtha-heres-who-is-running/</guid>
-      <description>Video</description>
+      <description>The race to elect Toronto’s mayor is officially underway. Candidate nominations opened at 8:30 a.m. Friday morning. Those looking to throw their hat in the ring have until Aug. 21 to do so.</description>
       <pubDate>Fri, 01 May 2026 18:48:28 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-city-council-votes-to-develop-paid-sidewalk-shovelling-program/</guid>
       <description>Toronto residents could get paid to shovel their sidewalk as early as next winter.</description>
       <pubDate>Fri, 27 Mar 2026 02:24:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto councillor violated Code of Conduct, integrity commissioner finds</title>
-      <link>https://www.ctvnews.ca/toronto/article/toronto-councillor-violated-code-of-conduct-integrity-commissioner-finds/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-councillor-violated-code-of-conduct-integrity-commissioner-finds/</guid>
-      <description>The city’s integrity commissioner has found that a downtown Toronto councillor violated the Code of Conduct during an interaction with a constituent last year but is not recommending a penalty.</description>
-      <pubDate>Sat, 21 Mar 2026 20:15:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

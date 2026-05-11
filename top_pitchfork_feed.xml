@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 11:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 11:00:29 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>أحمد [Ahmed] – Play Monk</title>
+      <link>https://pitchfork.com/reviews/albums/ahmed-play-monk/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ahmed-play-monk/</guid>
+      <description>A review by Levi Dayan</description>
+      <author>Levi Dayan</author>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Carlos Santana – Caravanserai</title>
       <link>https://pitchfork.com/reviews/albums/santana-caravanserai/</link>
@@ -238,14 +246,6 @@
       <description>A review by Shaad D’Souza</description>
       <author>Shaad D’Souza</author>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grace Ives – Girlfriend</title>
-      <link>https://pitchfork.com/reviews/albums/grace-ives-girlfriend/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/grace-ives-girlfriend/</guid>
-      <description>A review by Hattie Lindert</description>
-      <author>Hattie Lindert</author>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
