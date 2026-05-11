@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 11 May 2026 10:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 12:25:12 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wash by Erica Wagner — the man behind the Brooklyn Bridge</title>
+      <link>https://www.ft.com/content/40b96131-843e-41d2-9df9-d6a0c0643af5</link>
+      <guid isPermaLink="true">https://www.ft.com/content/40b96131-843e-41d2-9df9-d6a0c0643af5</guid>
+      <description>A poignant fictional account of the life of Washington Roebling and the engineering feat that dominates the New York cityscape</description>
+      <pubDate>Mon, 11 May 2026 11:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/cd52a04b-f71f-4ef1-bc17-a6c930fef9d3</guid>
       <description>The translator’s debut novel is a funny, moving and skilfully crafted story of obsession, performance and the fantasies that drive people to action</description>
       <pubDate>Tue, 07 Apr 2026 16:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s the point of an AI novel?</title>
-      <link>https://www.ft.com/content/b83fbd97-e85d-4e67-90de-bfb7bf8c8cde</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b83fbd97-e85d-4e67-90de-bfb7bf8c8cde</guid>
-      <description>The danger is not that it will replace human-authored books — but that we stop caring about good writing at all</description>
-      <pubDate>Sat, 04 Apr 2026 04:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
