@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 12:49:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:29:34 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SUSS – Counting Sunsets</title>
+      <link>https://pitchfork.com/reviews/albums/suss-counting-sunsets/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/suss-counting-sunsets/</guid>
+      <description>A review by rian Howe</description>
+      <author>rian Howe</author>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Croz Boyce / Avey Tare / Geologist – Croz Boyce</title>
+      <link>https://pitchfork.com/reviews/albums/croz-boyce-croz-boyce/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/croz-boyce-croz-boyce/</guid>
+      <description>A review by Ethan Beck</description>
+      <author>Ethan Beck</author>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ana Roxanne – Poem 1</title>
       <link>https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</link>
@@ -182,22 +198,6 @@
       <description>A review by en Cardew</description>
       <author>en Cardew</author>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
-      <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</guid>
-      <description>A review by Vrinda Jagota</description>
-      <author>Vrinda Jagota</author>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gregory Uhlmann – Extra Stars</title>
-      <link>https://pitchfork.com/reviews/albums/gregory-uhlmann-extra-stars/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gregory-uhlmann-extra-stars/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

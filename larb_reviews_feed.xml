@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 12:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:31:47 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>The Hedgehog and the Holocaust</title>
+      <link>https://lareviewofbooks.org/article/world-enemy-no-1-jochen-hellbeck-judeo-bolshevism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/world-enemy-no-1-jochen-hellbeck-judeo-bolshevism/</guid>
+      <description>Jochen Hellbeck’s recent history of the Eastern Front gets caught up in hyperfixating on its one big argument, at the cost of oversimplification.</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Being Eugène Atget</title>
@@ -35,17 +42,17 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Fame! A Misunderstanding</title>
       <link>https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</guid>
       <description>Albert Camus has long been misunderstood, but a new translation of his complete notebooks offers a corrective.</description>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Sitting Apart</title>
@@ -92,12 +99,6 @@
       <link>https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</guid>
       <description>Kathryn Paige Harden’s new book offers a defense of a kind of Scientific Calvinism that converges with the eugenicist ideals of the contemporary Far Right.</description>
-    </item>
-    <item>
-      <title>The Power of Fit</title>
-      <link>https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/middlemen-literary-agents-american-publishing-industry-laura-mcgrath/</guid>
-      <description>Laura B. McGrath’s new book looks at how the largely invisible work of literary agents shapes American literature.</description>
     </item>
   </channel>
 </rss>
