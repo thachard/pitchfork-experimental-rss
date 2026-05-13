@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 12:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:26:02 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Broken Social Scene – Remember the Humans</title>
+      <link>https://pitchfork.com/reviews/albums/broken-social-scene-remember-the-humans/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/broken-social-scene-remember-the-humans/</guid>
+      <description>A review by Nina Corcoran</description>
+      <author>Nina Corcoran</author>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>أحمد [Ahmed] – Play Monk</title>
       <link>https://pitchfork.com/reviews/albums/ahmed-play-monk/</link>
@@ -238,14 +246,6 @@
       <description>A review by Matthew Ritchie</description>
       <author>Matthew Ritchie</author>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avalon Emerson – Written Into Changes</title>
-      <link>https://pitchfork.com/reviews/albums/avalon-emerson-written-into-changes/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/avalon-emerson-written-into-changes/</guid>
-      <description>A review by Shaad D’Souza</description>
-      <author>Shaad D’Souza</author>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

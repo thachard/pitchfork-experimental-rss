@@ -5,13 +5,27 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 12:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:26:25 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Consummating Our Incomplete Nation</title>
+      <link>https://lareviewofbooks.org/article/minister-stefan-boskovic-montenegro-novel-will-firth-serbia/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/minister-stefan-boskovic-montenegro-novel-will-firth-serbia/</guid>
+      <description>A newly translated Montenegrin novel combines dashes of Kafka, Kadare, and early Kundera with a style that is all Stefan Bošković’s own.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Possible Grain of Light</title>
+      <link>https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</guid>
+      <description>Fanny Howe’s posthumous epic poem reads like an intercepted signal that explores what is ‘Unlocatable and Hidden.’</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Hedgehog and the Holocaust</title>
@@ -28,6 +42,12 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Back to the Canadian Future</title>
       <link>https://lareviewofbooks.org/article/mile-end-kicks-nirvanna-band-show-movie-canada/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/mile-end-kicks-nirvanna-band-show-movie-canada/</guid>
@@ -40,12 +60,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/christianity-atheism-ross-douthat-christopher-beha-catholicism-review/</guid>
       <description>Two sincere believers and noted public intellectuals make the case for God in a secular world.</description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Fame! A Misunderstanding</title>
@@ -87,18 +101,6 @@
       <link>https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</guid>
       <description>A. J. A. Woods’s new book explores how the Right’s obsession with Cultural Marxism emerged from the backlash against the 1960s.</description>
-    </item>
-    <item>
-      <title>High and Dry</title>
-      <link>https://lareviewofbooks.org/article/no-way-home-tc-boyle-climate-crisis-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/no-way-home-tc-boyle-climate-crisis-review/</guid>
-      <description>The ‘godfather of climate fiction’ offers a novel about finding a home on a despoiled planet.</description>
-    </item>
-    <item>
-      <title>Natural Election</title>
-      <link>https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/original-sin-eugenics-scientific-calvinism-kathryn-paige-harden/</guid>
-      <description>Kathryn Paige Harden’s new book offers a defense of a kind of Scientific Calvinism that converges with the eugenicist ideals of the contemporary Far Right.</description>
     </item>
   </channel>
 </rss>

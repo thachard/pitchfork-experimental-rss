@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 12:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:24:15 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fire-Toolz – Lavender Networks</title>
+      <link>https://pitchfork.com/reviews/albums/fire-toolz-lavender-networks/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/fire-toolz-lavender-networks/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lucy Liyou – MR COBRA</title>
+      <link>https://pitchfork.com/reviews/albums/lucy-liyou-mr-cobra/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lucy-liyou-mr-cobra/</guid>
+      <description>A review by Elise Soutar</description>
+      <author>Elise Soutar</author>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SUSS – Counting Sunsets</title>
       <link>https://pitchfork.com/reviews/albums/suss-counting-sunsets/</link>
@@ -182,22 +198,6 @@
       <description>A review by James Gui</description>
       <author>James Gui</author>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Whitney Johnson / Lia Kohl / Macie Stewart – BODY SOUND</title>
-      <link>https://pitchfork.com/reviews/albums/whitney-johnson-lia-kohl-macie-stewart-body-sound/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/whitney-johnson-lia-kohl-macie-stewart-body-sound/</guid>
-      <description>A review by Rob Arcand</description>
-      <author>Rob Arcand</author>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anjimile – You’re Free to Go</title>
-      <link>https://pitchfork.com/reviews/albums/anjimile-youre-free-to-go/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/anjimile-youre-free-to-go/</guid>
-      <description>A review by en Cardew</description>
-      <author>en Cardew</author>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

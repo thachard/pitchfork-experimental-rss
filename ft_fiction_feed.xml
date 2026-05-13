@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 12 May 2026 12:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:24:35 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hunger &amp; Thirst — Claire Fuller goes darker</title>
+      <link>https://www.ft.com/content/7f641fa7-ae9f-4576-b7bb-6e214ddfaa57</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7f641fa7-ae9f-4576-b7bb-6e214ddfaa57</guid>
+      <description>A 1980s-set tale of childhood trauma and female friendship explores the unsettling space between real and imagined terrors</description>
+      <pubDate>Tue, 12 May 2026 16:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Wash by Erica Wagner — the man behind the Brooklyn Bridge</title>
       <link>https://www.ft.com/content/40b96131-843e-41d2-9df9-d6a0c0643af5</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/55cb24c1-b5fa-42a3-9ff9-5151279ce595</guid>
       <description>The prizewinning author deploys language to devastating effect as she revisits her theme of women plagued by brittle relationships</description>
       <pubDate>Thu, 09 Apr 2026 11:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Am I, A Deer? — Polly Barton’s love letter to karaoke</title>
-      <link>https://www.ft.com/content/cd52a04b-f71f-4ef1-bc17-a6c930fef9d3</link>
-      <guid isPermaLink="true">https://www.ft.com/content/cd52a04b-f71f-4ef1-bc17-a6c930fef9d3</guid>
-      <description>The translator’s debut novel is a funny, moving and skilfully crafted story of obsession, performance and the fantasies that drive people to action</description>
-      <pubDate>Tue, 07 Apr 2026 16:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
