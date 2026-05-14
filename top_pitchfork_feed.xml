@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 12:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:14:36 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kevin Morby – Little Wide Open</title>
+      <link>https://pitchfork.com/reviews/albums/kevin-morby-little-wide-open/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kevin-morby-little-wide-open/</guid>
+      <description>A review by Will Hermes</description>
+      <author>Will Hermes</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Broken Social Scene – Remember the Humans</title>
       <link>https://pitchfork.com/reviews/albums/broken-social-scene-remember-the-humans/</link>
@@ -238,14 +246,6 @@
       <description>A review by Walden Green</description>
       <author>Walden Green</author>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patrice Rushen – Straight From the Heart</title>
-      <link>https://pitchfork.com/reviews/albums/patrice-rushen-straight-from-the-heart/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/patrice-rushen-straight-from-the-heart/</guid>
-      <description>A review by Matthew Ritchie</description>
-      <author>Matthew Ritchie</author>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 12:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:14:58 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Maybe the World Will Muddle Through Somehow</title>
+      <link>https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</guid>
+      <description>AI overlord Demis Hassabis is the anti–Sam Altman. Does it matter?</description>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Consummating Our Incomplete Nation</title>
@@ -35,17 +42,17 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Being Eugène Atget</title>
       <link>https://lareviewofbooks.org/article/eugene-atget-making-reputation-berenice-abbott-modern-photography/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/eugene-atget-making-reputation-berenice-abbott-modern-photography/</guid>
       <description>The new exhibition of Eugène Atget’s photography demands what we are getting worse at giving: time, stillness, and the willingness to see.</description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Back to the Canadian Future</title>
@@ -95,12 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</guid>
       <description>Simon Armitage’s new verse translation of the ‘Epic of Gilgamesh’ is unhurried and resplendent, archaizing without being antiquated.</description>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Specters and Right-Wing Fever Dreams</title>
-      <link>https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/cultural-marxism-conspiracy-aja-woods-right-frankfurt-school/</guid>
-      <description>A. J. A. Woods’s new book explores how the Right’s obsession with Cultural Marxism emerged from the backlash against the 1960s.</description>
     </item>
   </channel>
 </rss>
