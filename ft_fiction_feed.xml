@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 14 May 2026 11:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:05:23 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uprising — Tahmima Anam’s novel of rebellion is her finest to date</title>
+      <link>https://www.ft.com/content/f6555252-3aaa-4b83-b43f-cbdfb873c185</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f6555252-3aaa-4b83-b43f-cbdfb873c185</guid>
+      <description>Seen through children’s eyes, this fable of oppression draws on one of Bangladesh’s real-life exploitative brothels as well as its revolutions</description>
+      <pubDate>Thu, 14 May 2026 12:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>Hunger &amp; Thirst — Claire Fuller goes darker</title>
       <link>https://www.ft.com/content/7f641fa7-ae9f-4576-b7bb-6e214ddfaa57</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/92487f84-e527-4550-b78c-caaf0895637d</guid>
       <description>Rene Karabash’s tale of a ‘sworn virgin’ in a remote corner of Albania is a worthy shortlistee for the International Booker Prize</description>
       <pubDate>Fri, 10 Apr 2026 04:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Palm House — Gwendoline Riley’s novel of toxic men and flawed mothers</title>
-      <link>https://www.ft.com/content/55cb24c1-b5fa-42a3-9ff9-5151279ce595</link>
-      <guid isPermaLink="true">https://www.ft.com/content/55cb24c1-b5fa-42a3-9ff9-5151279ce595</guid>
-      <description>The prizewinning author deploys language to devastating effect as she revisits her theme of women plagued by brittle relationships</description>
-      <pubDate>Thu, 09 Apr 2026 11:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
