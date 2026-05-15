@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 12:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:22:31 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Naomi Scott – F.I.G</title>
+      <link>https://pitchfork.com/reviews/albums/naomi-scott-fig/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/naomi-scott-fig/</guid>
+      <description>A review by Kiana Mickles</description>
+      <author>Kiana Mickles</author>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kevin Morby – Little Wide Open</title>
       <link>https://pitchfork.com/reviews/albums/kevin-morby-little-wide-open/</link>
@@ -238,14 +246,6 @@
       <description>A review by Grayson Haver Currin</description>
       <author>Grayson Haver Currin</author>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>underscores – U</title>
-      <link>https://pitchfork.com/reviews/albums/underscores-u/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/underscores-u/</guid>
-      <description>A review by Walden Green</description>
-      <author>Walden Green</author>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

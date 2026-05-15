@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 12:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:22:53 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Aquatic Southern Gothic</title>
+      <link>https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</guid>
+      <description>Erin McCoy’s debut novel draws out the uncanny nature of environmental histories of the American South.</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Maybe the World Will Muddle Through Somehow</title>
@@ -35,17 +42,17 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>The Hedgehog and the Holocaust</title>
       <link>https://lareviewofbooks.org/article/world-enemy-no-1-jochen-hellbeck-judeo-bolshevism/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/world-enemy-no-1-jochen-hellbeck-judeo-bolshevism/</guid>
       <description>Jochen Hellbeck’s recent history of the Eastern Front gets caught up in hyperfixating on its one big argument, at the cost of oversimplification.</description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Being Eugène Atget</title>
@@ -95,13 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/positive-obsession-h-is-for-horse-octavia-butler/</guid>
       <description>Two recent biographies of Octavia Butler, drawing on her archive at the Huntington Library, ‘challenge us to reflect upon what it means to study a writer’s archive.’</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Epic of the Fear of Death</title>
-      <link>https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/gilgamesh-new-verse-translation-simon-armitage-hero-epic/</guid>
-      <description>Simon Armitage’s new verse translation of the ‘Epic of Gilgamesh’ is unhurried and resplendent, archaizing without being antiquated.</description>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
