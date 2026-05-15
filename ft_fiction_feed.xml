@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 May 2026 11:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:06:43 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From the building of America to Weimar Germany and life in the Georgian era. Plus Erica Wagner’s Brooklyn Bridge novel, Tahmina Anam’s Bangladeshi fable — and Suzi Feay’s pick of poetry</description>
+      <pubDate>Fri, 15 May 2026 11:53:46 +0000</pubDate>
+    </item>
     <item>
       <title>Uprising — Tahmima Anam’s novel of rebellion is her finest to date</title>
       <link>https://www.ft.com/content/f6555252-3aaa-4b83-b43f-cbdfb873c185</link>
@@ -27,13 +34,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/40b96131-843e-41d2-9df9-d6a0c0643af5</guid>
       <description>A poignant fictional account of the life of Washington Roebling and the engineering feat that dominates the New York cityscape</description>
       <pubDate>Mon, 11 May 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Russia’s poisoned minds to the puzzle of human beliefs and policy in the best-governed nations. Plus much-maligned managers, the love letters of Albert Camus, fiction by Melissa Harrison, Rupert Thomson and more — and Adam LeBor’s pick of thrillers</description>
-      <pubDate>Fri, 08 May 2026 11:57:57 +0000</pubDate>
     </item>
     <item>
       <title>Dark is the Morning by Rupert Thomson — a question of infidelity</title>
