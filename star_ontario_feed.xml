@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 16 May 2026 09:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 11:18:45 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Power grab or public good? Why Doug Ford’s ‘strong’ regional chair scheme is so controversial</title>
+      <link>https://www.thestar.com/politics/provincial/power-grab-or-public-good-why-doug-fords-strong-regional-chair-scheme-is-so-controversial/article_0b085df0-7734-4d20-8a89-76eb013a6f63.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/power-grab-or-public-good-why-doug-fords-strong-regional-chair-scheme-is-so-controversial/article_0b085df0-7734-4d20-8a89-76eb013a6f63.html</guid>
+      <description>The province has new or expanded authority to hire and fire the chairs of eight regions, controversially granting them &quot;strong&quot; powers and shr…</description>
+      <pubDate>Sat, 16 May 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Doug Ford under fire over extra costs for returned private jet</title>
       <link>https://www.thestar.com/politics/provincial/doug-ford-under-fire-over-extra-costs-for-returned-private-jet/article_62c68533-3a0a-4648-8dab-349cd7b73357.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-under-fire-over-extra-costs-for-returned-private-jet/article_62c68533-3a0a-4648-8dab-349cd7b73357.html</guid>
-      <description>Pressure is mounting on Premier Doug Ford to force his Progressive Conservative party to pay the nearly $200,000 in hidden costs associated wi…</description>
+      <description></description>
       <pubDate>Thu, 14 May 2026 18:15:18 +0000</pubDate>
     </item>
     <item>
@@ -39,7 +46,7 @@
       <title>Dozens of Ontario school boards spending $400 million more on special education than they receive in funding: auditor general</title>
       <link>https://www.thestar.com/news/ontario/ontario-school-boards-spending-380m-more-on-special-education-than-they-receive-in-funding-auditor-general/article_c1f8dcc1-79d5-4805-b91f-197798eb8e4a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontario-school-boards-spending-380m-more-on-special-education-than-they-receive-in-funding-auditor-general/article_c1f8dcc1-79d5-4805-b91f-197798eb8e4a.html</guid>
-      <description></description>
+      <description>The province&apos;s auditor general&apos;s report also urges the government to address long wait-lists for assessments as well as create consistent leve…</description>
       <pubDate>Wed, 13 May 2026 16:31:20 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/nate-erskine-smith-appeals-liberal-nomination-loss-in-scarborough/article_b1934ea8-b071-4b4f-b3fb-0aef62b1e91c.html</guid>
       <description>Nate Erskine-Smith is appealing last weekend&apos;s high-stakes Liberal nomination vote in Scarborough Southwest, which he lost by 19 votes.</description>
       <pubDate>Fri, 15 May 2026 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario’s child support system failing families to the tune of $2.1 billion, auditor general says</title>
-      <link>https://www.thestar.com/politics/provincial/ontarios-child-support-system-failing-families-to-the-tune-of-21-billion-auditor-general-says/article_5313276f-2989-4e33-a064-3469d63b345c.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ontarios-child-support-system-failing-families-to-the-tune-of-21-billion-auditor-general-says/article_5313276f-2989-4e33-a064-3469d63b345c.html</guid>
-      <description>Families are owed $2.1 billion in overdue child and spousal support from Ontario&apos;s Family Responsibility Office because of enforcement problem…</description>
-      <pubDate>Wed, 13 May 2026 11:04:01 +0000</pubDate>
     </item>
     <item>
       <title>Carney government commits $6 billion to boost skilled trades</title>
@@ -78,6 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 16:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>Ontario’s child support system failing families to the tune of $2.1 billion, auditor general says</title>
+      <link>https://www.thestar.com/politics/provincial/ontarios-child-support-system-failing-families-to-the-tune-of-21-billion-auditor-general-says/article_5313276f-2989-4e33-a064-3469d63b345c.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ontarios-child-support-system-failing-families-to-the-tune-of-21-billion-auditor-general-says/article_5313276f-2989-4e33-a064-3469d63b345c.html</guid>
+      <description></description>
+      <pubDate>Wed, 13 May 2026 11:04:01 +0000</pubDate>
+    </item>
+    <item>
       <title>‘AI hallucinations’ in doctors’ notes flagged by Ontario auditor’s report</title>
       <link>https://www.thestar.com/politics/provincial/ai-hallucinations-in-doctors-notes-flagged-by-ontario-auditors-report/article_f05deb24-55b0-4f27-ae6d-484cc830019a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ai-hallucinations-in-doctors-notes-flagged-by-ontario-auditors-report/article_f05deb24-55b0-4f27-ae6d-484cc830019a.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/tdsb-to-cut-218-central-staff-positions-eliminate-91-vacant-roles/article_2a7687ca-b531-5a28-a62f-701bc5fecbe5.html</guid>
       <description></description>
       <pubDate>Tue, 12 May 2026 20:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doug Ford says he won’t attack other bids in his push for Toronto as defence bank HQ</title>
-      <link>https://www.thestar.com/business/doug-ford-says-he-wont-attack-other-bids-in-his-push-for-toronto-as-defence-bank-hq/article_638c92ed-ef92-59aa-8e2f-7b74dbbd4f96.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/business/doug-ford-says-he-wont-attack-other-bids-in-his-push-for-toronto-as-defence-bank-hq/article_638c92ed-ef92-59aa-8e2f-7b74dbbd4f96.html</guid>
-      <description></description>
-      <pubDate>Tue, 12 May 2026 16:51:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
