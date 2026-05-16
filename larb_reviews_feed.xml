@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 12:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:29:39 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>This Explains Everything</title>
+      <link>https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</guid>
+      <description>The Grateful Dead, professional wrestling, and the vertigo of the pop culture microhistory.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Aquatic Southern Gothic</title>
@@ -35,17 +42,17 @@
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>This Possible Grain of Light</title>
       <link>https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</guid>
       <description>Fanny Howe’s posthumous epic poem reads like an intercepted signal that explores what is ‘Unlocatable and Hidden.’</description>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>The Hedgehog and the Holocaust</title>
@@ -94,13 +101,6 @@
       <link>https://lareviewofbooks.org/article/weapons-amy-madigan-zach-cregger-hagsploitation-aunt-gladys/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/weapons-amy-madigan-zach-cregger-hagsploitation-aunt-gladys/</guid>
       <description>On Zach Cregger’s ‘Weapons’ and the figure of the hag.</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Archives of Desire</title>
-      <link>https://lareviewofbooks.org/article/positive-obsession-h-is-for-horse-octavia-butler/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/positive-obsession-h-is-for-horse-octavia-butler/</guid>
-      <description>Two recent biographies of Octavia Butler, drawing on her archive at the Huntington Library, ‘challenge us to reflect upon what it means to study a writer’s archive.’</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

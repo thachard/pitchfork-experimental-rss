@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 12:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:29:17 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeff Parker / ETA IVtet – Happy Today</title>
+      <link>https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/</guid>
+      <description>A review by Dash Lewis</description>
+      <author>Dash Lewis</author>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Naomi Scott – F.I.G</title>
       <link>https://pitchfork.com/reviews/albums/naomi-scott-fig/</link>
@@ -238,14 +246,6 @@
       <description>A review by David Glickman</description>
       <author>David Glickman</author>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neurosis – An Undying Love for a Burning World</title>
-      <link>https://pitchfork.com/reviews/albums/neurosis-an-undying-love-for-a-burning-world/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/neurosis-an-undying-love-for-a-burning-world/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

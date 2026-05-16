@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 May 2026 12:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:28:12 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Interview.Douglas Stuart: ‘I write to make sense of my nation’</title>
+      <link>https://www.ft.com/content/e2fa3603-d52a-4672-a541-c9e0f4ecd73b</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e2fa3603-d52a-4672-a541-c9e0f4ecd73b</guid>
+      <description>The ‘Shuggie Bain’ author about his struggles growing up in Scotland and new novel ‘John of John’ that is packed with themes  of  love,  sexuality,  class  and  inheritance</description>
+      <pubDate>Sat, 16 May 2026 04:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/412ac1f5-3734-4445-a36d-ad186fbd643d</guid>
       <description>Why Naomi Mitchison’s Travel Light gets better with distance.</description>
       <pubDate>Sat, 11 Apr 2026 04:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>She Who Remains — rites and wrongs in the Accursed Mountains</title>
-      <link>https://www.ft.com/content/92487f84-e527-4550-b78c-caaf0895637d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/92487f84-e527-4550-b78c-caaf0895637d</guid>
-      <description>Rene Karabash’s tale of a ‘sworn virgin’ in a remote corner of Albania is a worthy shortlistee for the International Booker Prize</description>
-      <pubDate>Fri, 10 Apr 2026 04:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
