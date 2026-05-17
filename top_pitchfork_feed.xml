@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 11:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 09:46:57 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10,000 Maniacs – MTV Unplugged</title>
+      <link>https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/</guid>
+      <description>A review by Dan Kois</description>
+      <author>Dan Kois</author>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jeff Parker / ETA IVtet – Happy Today</title>
       <link>https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/</link>
@@ -238,14 +246,6 @@
       <description>A review by Jackson Howard</description>
       <author>Jackson Howard</author>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rocketship – A Certain Smile, A Certain Sadness</title>
-      <link>https://pitchfork.com/reviews/albums/rocketship-a-certain-smile-a-certain-sadness/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rocketship-a-certain-smile-a-certain-sadness/</guid>
-      <description>A review by David Glickman</description>
-      <author>David Glickman</author>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
