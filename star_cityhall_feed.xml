@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 18 May 2026 11:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:49:03 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>More affordable housing, declare independence — and praise the Jamaican patty: Here’s what these Torontonians would do if they were mayor</title>
@@ -99,6 +99,13 @@
       <pubDate>Thu, 12 Mar 2026 16:05:31 +0000</pubDate>
     </item>
     <item>
+      <title>Heat warning issued in Toronto as city opens up for May long weekend</title>
+      <link>https://www.thestar.com/news/gta/heat-warning-issued-in-toronto-as-city-opens-up-for-may-long-weekend/article_01f72bb9-837a-46df-b390-551993f95631.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/heat-warning-issued-in-toronto-as-city-opens-up-for-may-long-weekend/article_01f72bb9-837a-46df-b390-551993f95631.html</guid>
+      <description></description>
+      <pubDate>Mon, 18 May 2026 07:35:00 +0000</pubDate>
+    </item>
+    <item>
       <title>This Ontario Grade 12 credit could make the difference for university admission. How students are trying to get a leg up in an ultracompetitive course</title>
       <link>https://www.thestar.com/news/gta/this-ontario-grade-12-credit-could-make-the-difference-for-university-admission-how-students-are-trying-to-get-a-leg-up-in-an-ultracompetitive-course/article_f4313b47-49ef-44b3-b820-0a0116a6619b.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/this-ontario-grade-12-credit-could-make-the-difference-for-university-admission-how-students-are-trying-to-get-a-leg-up-in-an-ultracompetitive-course/article_f4313b47-49ef-44b3-b820-0a0116a6619b.html</guid>
@@ -132,13 +139,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/iraqi-man-accused-of-plotting-us-consulate-shooting-in-toronto-another-attack-at-a-synagogue-in-canada-we-have-our-guys/article_e043ce55-67e3-48be-beda-147cdb8ba22e.html</guid>
       <description></description>
       <pubDate>Sun, 17 May 2026 17:27:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto sees first heat warning of the season as temperatures soar</title>
-      <link>https://www.thestar.com/news/gta/a-sunny-sunday-in-toronto-as-summer-like-heat-arrives-for-victoria-day-weekend/article_ccc4f1ed-5a3d-475a-bc2b-a46d83df5073.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/a-sunny-sunday-in-toronto-as-summer-like-heat-arrives-for-victoria-day-weekend/article_ccc4f1ed-5a3d-475a-bc2b-a46d83df5073.html</guid>
-      <description></description>
-      <pubDate>Sun, 17 May 2026 19:22:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
