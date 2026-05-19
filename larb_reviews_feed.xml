@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 12:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:32:25 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Story Is Haunting</title>
+      <link>https://lareviewofbooks.org/article/ali-smith-glyph-gliff-scottish-puns-paradox-wordplay/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/ali-smith-glyph-gliff-scottish-puns-paradox-wordplay/</guid>
+      <description>Ali Smith’s new novel is less a story than a meditation on story.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Murky Effects</title>
@@ -35,17 +42,17 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Maybe the World Will Muddle Through Somehow</title>
       <link>https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</guid>
       <description>AI overlord Demis Hassabis is the anti–Sam Altman. Does it matter?</description>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Consummating Our Incomplete Nation</title>
@@ -95,13 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</guid>
       <description>Albert Camus has long been misunderstood, but a new translation of his complete notebooks offers a corrective.</description>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sitting Apart</title>
-      <link>https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</guid>
-      <description>Gal Beckerman’s new book offers a thoughtful catalog of social resistance, from Diogenes to Alexei Navalny.</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
