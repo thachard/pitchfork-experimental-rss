@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 18 May 2026 14:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:15:16 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Autobiography of Cotton by Cristina Rivera Garza — truths told through fact and fiction</title>
+      <link>https://www.ft.com/content/8c924938-d077-41db-a81f-7b4e54baf397</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8c924938-d077-41db-a81f-7b4e54baf397</guid>
+      <description>The Pulitzer-winning author weaves an account of a real-life cotton workers’ strike in Mexico in the 1930s with her own family history, memoir and invented tales</description>
+      <pubDate>Mon, 18 May 2026 16:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Interview.Douglas Stuart: ‘I write to make sense of my nation’</title>
       <link>https://www.ft.com/content/e2fa3603-d52a-4672-a541-c9e0f4ecd73b</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/9457bf8e-e3d2-4d27-bd3e-caa5fcf138ab</guid>
       <description>Four of the best new sci-fi novels chart a darker journey across America, including a Marvel reboot, a crime caper that fuses magic and linguistics, plus a philosophical view of a looming apocalypse</description>
       <pubDate>Mon, 13 Apr 2026 04:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>FT Magazine.The story behind an almost forgotten 1950s feminist fantasy classic</title>
-      <link>https://www.ft.com/content/412ac1f5-3734-4445-a36d-ad186fbd643d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/412ac1f5-3734-4445-a36d-ad186fbd643d</guid>
-      <description>Why Naomi Mitchison’s Travel Light gets better with distance.</description>
-      <pubDate>Sat, 11 Apr 2026 04:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

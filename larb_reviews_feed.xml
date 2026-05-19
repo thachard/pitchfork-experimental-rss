@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 14:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:17:12 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Murky Effects</title>
+      <link>https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
+      <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>This Explains Everything</title>
@@ -35,17 +42,17 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Consummating Our Incomplete Nation</title>
       <link>https://lareviewofbooks.org/article/minister-stefan-boskovic-montenegro-novel-will-firth-serbia/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/minister-stefan-boskovic-montenegro-novel-will-firth-serbia/</guid>
       <description>A newly translated Montenegrin novel combines dashes of Kafka, Kadare, and early Kundera with a style that is all Stefan Bošković’s own.</description>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>This Possible Grain of Light</title>
@@ -95,13 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/how-be-dissident-gal-beckerman-resistance-tiananmen-gulag/</guid>
       <description>Gal Beckerman’s new book offers a thoughtful catalog of social resistance, from Diogenes to Alexei Navalny.</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Ever Happened to Aunt Gladys?</title>
-      <link>https://lareviewofbooks.org/article/weapons-amy-madigan-zach-cregger-hagsploitation-aunt-gladys/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/weapons-amy-madigan-zach-cregger-hagsploitation-aunt-gladys/</guid>
-      <description>On Zach Cregger’s ‘Weapons’ and the figure of the hag.</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 14:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:16:51 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Drake – MAID OF HONOUR</title>
+      <link>https://pitchfork.com/reviews/albums/drake-maid-of-honour/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/drake-maid-of-honour/</guid>
+      <description>A review by Alphonse Pierre</description>
+      <author>Alphonse Pierre</author>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>10,000 Maniacs – MTV Unplugged</title>
       <link>https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/</link>
@@ -238,14 +246,6 @@
       <description>A review by Harry Tafoya</description>
       <author>Harry Tafoya</author>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brandy – Full Moon</title>
-      <link>https://pitchfork.com/reviews/albums/brandy-full-moon/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/brandy-full-moon/</guid>
-      <description>A review by Jackson Howard</description>
-      <author>Jackson Howard</author>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
