@@ -5,13 +5,20 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 13:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:51:40 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>The Failure of Bildungsroman</title>
+      <link>https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</guid>
+      <description>In Indonesian author Eka Kurniawan’s new novel, crime and its punishment are the ultimate grammar of collectivity.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Story Is Haunting</title>
@@ -35,17 +42,17 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>Aquatic Southern Gothic</title>
       <link>https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</guid>
       <description>Erin McCoy’s debut novel draws out the uncanny nature of environmental histories of the American South.</description>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Maybe the World Will Muddle Through Somehow</title>
@@ -95,13 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/christianity-atheism-ross-douthat-christopher-beha-catholicism-review/</guid>
       <description>Two sincere believers and noted public intellectuals make the case for God in a secular world.</description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fame! A Misunderstanding</title>
-      <link>https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/</guid>
-      <description>Albert Camus has long been misunderstood, but a new translation of his complete notebooks offers a corrective.</description>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 19 May 2026 13:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:49:35 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yáng Shuāng-zi and Lin King win the International Booker Prize</title>
+      <link>https://www.ft.com/content/26540753-563f-4f52-98c3-e4f981f273c0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/26540753-563f-4f52-98c3-e4f981f273c0</guid>
+      <description>A historical tale of travel, power and romance is the first Taiwanese novel to win the influential award for fiction in translation</description>
+      <pubDate>Tue, 19 May 2026 21:32:55 +0000</pubDate>
+    </item>
     <item>
       <title>Autobiography of Cotton by Cristina Rivera Garza — truths told through fact and fiction</title>
       <link>https://www.ft.com/content/8c924938-d077-41db-a81f-7b4e54baf397</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/93ee0e78-65ac-448f-bb66-09f799035a36</guid>
       <description>In a hybrid of fiction and essay, Jean-Noël Orengo explores how Albert Speer charmed Hitler and then laundered his own postwar reputation</description>
       <pubDate>Tue, 14 Apr 2026 11:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stories of superheroes, spellsmiths and southern gothic terror</title>
-      <link>https://www.ft.com/content/9457bf8e-e3d2-4d27-bd3e-caa5fcf138ab</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9457bf8e-e3d2-4d27-bd3e-caa5fcf138ab</guid>
-      <description>Four of the best new sci-fi novels chart a darker journey across America, including a Marvel reboot, a crime caper that fuses magic and linguistics, plus a philosophical view of a looming apocalypse</description>
-      <pubDate>Mon, 13 Apr 2026 04:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
