@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 12:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:20:34 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hiss Golden Messenger – I’m People</title>
+      <link>https://pitchfork.com/reviews/albums/hiss-golden-messenger-im-people/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hiss-golden-messenger-im-people/</guid>
+      <description>A review by Stephen M. Deusner</description>
+      <author>Stephen M. Deusner</author>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jesca Hoop – Long Wave Home</title>
       <link>https://pitchfork.com/reviews/albums/jesca-hoop-long-wave-home/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lucinda-williams-worlds-gone-wrong/</guid>
       <description>A review by Stephen Thomas Erlewine</description>
       <author>Stephen Thomas Erlewine</author>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jana Horn – Jana Horn</title>
-      <link>https://pitchfork.com/reviews/albums/jana-horn-jana-horn/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jana-horn-jana-horn/</guid>
-      <description>A review by Marissa Lorusso</description>
-      <author>Marissa Lorusso</author>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

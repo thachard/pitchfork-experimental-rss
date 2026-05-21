@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 20 May 2026 12:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:20:48 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Whistler — Ann Patchett’s story of family coming to terms with the past</title>
+      <link>https://www.ft.com/content/03bcb022-0d40-458c-bdc8-0460d5e888cb</link>
+      <guid isPermaLink="true">https://www.ft.com/content/03bcb022-0d40-458c-bdc8-0460d5e888cb</guid>
+      <description>The American author’s 10th novel is a compassionate saga of modern blended families with stepchildren and divorced parents</description>
+      <pubDate>Thu, 21 May 2026 11:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Yáng Shuāng-zi and Lin King win the International Booker Prize</title>
       <link>https://www.ft.com/content/26540753-563f-4f52-98c3-e4f981f273c0</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/3860b493-1312-4821-8717-2aa4263e6b53</guid>
       <description>To finish her semi-autobiographical ‘The Country of Others’ trilogy the French-Moroccan writer drew on deeply personal experiences of exile, prejudice and her father’s wrongful imprisonment</description>
       <pubDate>Wed, 15 Apr 2026 11:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>You Are the Führer’s Unrequited Love — the truth behind the ‘good Nazi’</title>
-      <link>https://www.ft.com/content/93ee0e78-65ac-448f-bb66-09f799035a36</link>
-      <guid isPermaLink="true">https://www.ft.com/content/93ee0e78-65ac-448f-bb66-09f799035a36</guid>
-      <description>In a hybrid of fiction and essay, Jean-Noël Orengo explores how Albert Speer charmed Hitler and then laundered his own postwar reputation</description>
-      <pubDate>Tue, 14 Apr 2026 11:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

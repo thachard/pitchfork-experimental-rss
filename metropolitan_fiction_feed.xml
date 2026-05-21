@@ -5,8 +5,15 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 12:40:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:22:42 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Straight Man</title>
+      <link>https://www.metropolitanreview.org/p/straight-man</link>
+      <guid isPermaLink="true">https://www.metropolitanreview.org/p/straight-man</guid>
+      <description>On Ben Lerner&apos;s &apos;Transcription&apos;</description>
+      <pubDate>Wed, 20 May 2026 16:30:10 +0000</pubDate>
+    </item>
     <item>
       <title>Cannibalism, Pederasty, and the Next Upgrade</title>
       <link>https://www.metropolitanreview.org/p/cannibalism-pederasty-and-the-next</link>
