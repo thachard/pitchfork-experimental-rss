@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 13:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 10:48:02 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Magic Tuber Stringband – Heavy Water</title>
+      <link>https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/</guid>
+      <description>A review by Lily Goldberg</description>
+      <author>Lily Goldberg</author>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hiss Golden Messenger – I’m People</title>
       <link>https://pitchfork.com/reviews/albums/hiss-golden-messenger-im-people/</link>
@@ -190,14 +198,6 @@
       <description>A review by Hannah Jocelyn</description>
       <author>Hannah Jocelyn</author>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lucinda Williams – World’s Gone Wrong</title>
-      <link>https://pitchfork.com/reviews/albums/lucinda-williams-worlds-gone-wrong/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lucinda-williams-worlds-gone-wrong/</guid>
-      <description>A review by Stephen Thomas Erlewine</description>
-      <author>Stephen Thomas Erlewine</author>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
