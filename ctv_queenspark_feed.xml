@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 22 May 2026 12:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:50:50 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Premier Doug Ford slams judge’s ruling on Ontario encampment</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/premier-doug-ford-slams-judges-ruling-on-ontario-encampment/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/premier-doug-ford-slams-judges-ruling-on-ontario-encampment/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 22 May 2026 22:28:42 +0000</pubDate>
+    </item>
     <item>
       <title>‘We don’t have room’: Tires again piling up around Ontario as critics call for changes to recycling rules</title>
       <link>https://www.ctvnews.ca/toronto/article/we-dont-have-room-tires-again-piling-up-around-ontario-as-critics-call-for-changes-to-recycling-rules/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/we-dont-have-room-tires-again-piling-up-around-ontario-as-critics-call-for-changes-to-recycling-rules/</guid>
-      <description>Video</description>
+      <description>Ontario’s tire recycling system appears to be under pressure, with complaints of tires piling up at dealers, mechanics and other collection sites for weeks.</description>
       <pubDate>Wed, 20 May 2026 22:50:46 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/commercial-trucker-training-and-licensing-problematic-in-ontario-auditor-general/</guid>
       <description>Ontario is not effectively monitoring commercial truck driver training and licensing regimes, leading to many unqualified drivers on the roads, the province’s auditor general found in a special report released Tuesday.</description>
       <pubDate>Tue, 12 May 2026 21:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doug Ford says he won’t attack other bids in his push for Toronto as defence bank HQ</title>
-      <link>https://www.ctvnews.ca/business/article/doug-ford-says-he-wont-attack-other-bids-in-his-push-for-toronto-as-defence-bank-hq/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/business/article/doug-ford-says-he-wont-attack-other-bids-in-his-push-for-toronto-as-defence-bank-hq/</guid>
-      <description>Ontario Premier Doug Ford on Tuesday defended Toronto’s bid to host a multinational defence bank, saying he did not believe in attacking rival campaigns by other Canadian cities.</description>
-      <pubDate>Tue, 12 May 2026 20:35:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

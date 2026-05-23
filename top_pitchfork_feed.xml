@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 12:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:51:40 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ted Lucas – Images of Life</title>
+      <link>https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Drake – MAID OF HONOUR</title>
       <link>https://pitchfork.com/reviews/albums/drake-maid-of-honour/</link>
@@ -238,14 +246,6 @@
       <description>A review by Christopher R. Weingarten</description>
       <author>Christopher R. Weingarten</author>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slayyyter – WOR$T GIRL IN AMERICA</title>
-      <link>https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/slayyyter-worst-girl-in-america/</guid>
-      <description>A review by Harry Tafoya</description>
-      <author>Harry Tafoya</author>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
