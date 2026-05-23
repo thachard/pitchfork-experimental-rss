@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 23 May 2026 09:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 10:45:21 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Are Toronto’s hospitals ready for an emergency during the FIFA World Cup? Some doctors have ‘major concerns’</title>
@@ -99,6 +99,13 @@
       <pubDate>Thu, 12 Mar 2026 16:05:31 +0000</pubDate>
     </item>
     <item>
+      <title>Accused tells Liberty Village murder trial he argued with victim over barbecue but denies killing him</title>
+      <link>https://www.thestar.com/news/gta/accused-tells-liberty-village-murder-trial-he-argued-with-victim-over-barbecue-but-denies-killing-him/article_fc817d6c-657c-4cd9-ba83-8b095aada50f.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/accused-tells-liberty-village-murder-trial-he-argued-with-victim-over-barbecue-but-denies-killing-him/article_fc817d6c-657c-4cd9-ba83-8b095aada50f.html</guid>
+      <description></description>
+      <pubDate>Sat, 23 May 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Man wanted after 8-year-old girl sexually assaulted in Scarborough store</title>
       <link>https://www.thestar.com/news/gta/man-wanted-after-eight-year-old-girl-sexually-assaulted-in-scarborough-store/article_fba45101-35f7-442a-93bb-25f1ca9b2c0a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/man-wanted-after-eight-year-old-girl-sexually-assaulted-in-scarborough-store/article_fba45101-35f7-442a-93bb-25f1ca9b2c0a.html</guid>
@@ -118,13 +125,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/fiery-crash-in-scugog-friday-leads-to-highway-12-closure/article_860162c2-a226-5364-8dbc-d32cc2d3851c.html</guid>
       <description></description>
       <pubDate>Fri, 22 May 2026 21:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Woman dead after being hit by driver of cement truck in Cabbagetown</title>
-      <link>https://www.thestar.com/news/gta/woman-seriously-injured-after-being-hit-by-truck-in-cabbagetown-police/article_4cec3246-7fd8-47c2-abe1-3ac288a31cc2.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-seriously-injured-after-being-hit-by-truck-in-cabbagetown-police/article_4cec3246-7fd8-47c2-abe1-3ac288a31cc2.html</guid>
-      <description></description>
-      <pubDate>Fri, 22 May 2026 20:42:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
