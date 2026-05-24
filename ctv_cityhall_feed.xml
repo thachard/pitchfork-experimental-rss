@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 24 May 2026 09:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:52:56 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto moving quickly to patch up parts of city ahead of FIFA; expert says it should be the norm</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-moving-quickly-to-patch-up-parts-of-city-ahead-of-fifa-expert-says-it-should-be-the-norm/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-moving-quickly-to-patch-up-parts-of-city-ahead-of-fifa-expert-says-it-should-be-the-norm/</guid>
+      <description></description>
+      <pubDate>Sun, 24 May 2026 10:03:13 +0000</pubDate>
+    </item>
     <item>
       <title>A ‘friend to many people’: Former Toronto councillor and TTC chair Howard Moscoe dead at 86</title>
       <link>https://www.ctvnews.ca/toronto/article/a-friend-to-many-people-former-toronto-councillor-and-ttc-chair-howard-moscoe-dead-at-86/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/a-friend-to-many-people-former-toronto-councillor-and-ttc-chair-howard-moscoe-dead-at-86/</guid>
-      <description>Video</description>
+      <description>Former Toronto councillor and TTC chair Howard Moscoe has died at the age of 86, Mayor Olivia Chow announced Saturday.</description>
       <pubDate>Sun, 24 May 2026 03:27:20 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-could-temporarily-close-additional-roads-during-fifa-world-cup/</guid>
       <description>A city bureaucrat may be granted new powers to temporarily close roads during the FIFA World Cup.</description>
       <pubDate>Wed, 08 Apr 2026 17:17:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI-controlled traffic lights coming to Yonge Street as part of Toronto’s plan to ease gridlock</title>
-      <link>https://www.ctvnews.ca/toronto/article/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ai-controlled-traffic-lights-coming-to-yonge-street-as-part-of-torontos-plan-to-ease-gridlock/</guid>
-      <description>The City of Toronto is turning to artificial intelligence to unclog its congested streets. After a recent test, intersections in North York are being equipped with smart traffic signals.</description>
-      <pubDate>Wed, 08 Apr 2026 01:58:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
