@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 11:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 09:54:15 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Laura Nyro – New York Tendaberry</title>
+      <link>https://pitchfork.com/reviews/albums/laura-nyro-new-york-tendaberry/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/laura-nyro-new-york-tendaberry/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ted Lucas – Images of Life</title>
       <link>https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</link>
@@ -238,14 +246,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Angine de Poitrine – Vol. II</title>
-      <link>https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii/</guid>
-      <description>A review by Christopher R. Weingarten</description>
-      <author>Christopher R. Weingarten</author>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
