@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 24 May 2026 11:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:51:43 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A puzzling death in London and a tradwife’s downfall — the best new audio books</title>
+      <link>https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</guid>
+      <description>Twists, turns and revelations feature in the tragic loss of a young man in ‘London Falling’, while ‘Yesteryear’ is one of this summer’s most talked-about debuts</description>
+      <pubDate>Mon, 25 May 2026 04:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/295111a1-0275-4b94-8a0e-749588d3a711</guid>
       <description>Plotto</description>
       <pubDate>Mon, 20 Apr 2026 12:42:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Shadow of the Object — Chloe Aridjis’s story of metamorphosis, mortality and magic lanterns</title>
-      <link>https://www.ft.com/content/664dc809-ad3e-4c48-b101-db26b163a0cd</link>
-      <guid isPermaLink="true">https://www.ft.com/content/664dc809-ad3e-4c48-b101-db26b163a0cd</guid>
-      <description>The novelist explores the realm between reality and imagination in a dreamlike tale journeying from Mexico to England</description>
-      <pubDate>Fri, 17 Apr 2026 11:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
