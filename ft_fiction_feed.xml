@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 May 2026 13:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:48:40 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI stories aren’t inevitably ‘not art’</title>
+      <link>https://www.ft.com/content/2d08b0c7-3ffe-49a8-9f89-ba204cb196f4</link>
+      <guid isPermaLink="true">https://www.ft.com/content/2d08b0c7-3ffe-49a8-9f89-ba204cb196f4</guid>
+      <description>Exercising our own judgment when it comes to quality is something we should not outsource to machines</description>
+      <pubDate>Tue, 26 May 2026 04:00:23 +0000</pubDate>
+    </item>
     <item>
       <title>A puzzling death in London and a tradwife’s downfall — the best new audio books</title>
       <link>https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/e8927be8-3be5-466c-86ea-ebaa9f06d1d8</guid>
       <description>Witty, observant and wildly original stories explore the difficulties of modern dating, dark goings-on in 1950s Chelsea — and a dog’s-eye view of the world</description>
       <pubDate>Mon, 20 Apr 2026 16:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alphaville.And the FTAV charts quiz winner is…</title>
-      <link>https://www.ft.com/content/295111a1-0275-4b94-8a0e-749588d3a711</link>
-      <guid isPermaLink="true">https://www.ft.com/content/295111a1-0275-4b94-8a0e-749588d3a711</guid>
-      <description>Plotto</description>
-      <pubDate>Mon, 20 Apr 2026 12:42:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

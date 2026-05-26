@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 13:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:48:21 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Duval Timothy / Carlos Niño – rain music</title>
+      <link>https://pitchfork.com/reviews/albums/duval-timothy-carlos-nino-rain-music/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/duval-timothy-carlos-nino-rain-music/</guid>
+      <description>A review by Dash Lewis</description>
+      <author>Dash Lewis</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Magic Tuber Stringband – Heavy Water</title>
       <link>https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/grrl-beetle/</guid>
       <description>A review by enny Sun</description>
       <author>enny Sun</author>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ana Tijoux / DJ Dacel – 97EP</title>
-      <link>https://pitchfork.com/reviews/albums/ana-tijoux-dj-dacel-97-ep/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ana-tijoux-dj-dacel-97-ep/</guid>
-      <description>A review by E.R. Pulgar</description>
-      <author>E.R. Pulgar</author>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

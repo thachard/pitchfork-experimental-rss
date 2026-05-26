@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 25 May 2026 13:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:49:15 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘There is more we can do’: Toronto Mayor Olivia Chow launches re-election bid</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/olivia-chow-confirms-she-is-running-for-second-term-as-toronto-mayor/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/olivia-chow-confirms-she-is-running-for-second-term-as-toronto-mayor/</guid>
+      <description>Video</description>
+      <pubDate>Mon, 25 May 2026 19:35:44 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto moving quickly to patch up parts of city ahead of FIFA; expert says it should be the norm</title>
       <link>https://www.ctvnews.ca/toronto/article/toronto-moving-quickly-to-patch-up-parts-of-city-ahead-of-fifa-expert-says-it-should-be-the-norm/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-moving-quickly-to-patch-up-parts-of-city-ahead-of-fifa-expert-says-it-should-be-the-norm/</guid>
-      <description></description>
+      <description>The City of Toronto has been quietly working to move quickly on a number of infrastructure repairs ahead of the FIFA World Cup, “mindful” of getting the work done ahead of a deadline that will limit construction.</description>
       <pubDate>Sun, 24 May 2026 22:25:13 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/scarborough-cant-be-left-out-chow-bradford-unveil-duelling-lrt-plans/</guid>
       <description>A growing divide over how to advance Scarborough transit came into focus Thursday, as Mayor Olivia Chow and Coun. Brad Bradford unveiled competing plans for the same long-delayed LRT line.</description>
       <pubDate>Fri, 10 Apr 2026 12:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto could temporarily close additional roads during FIFA World Cup</title>
-      <link>https://www.ctvnews.ca/toronto/article/toronto-could-temporarily-close-additional-roads-during-fifa-world-cup/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-could-temporarily-close-additional-roads-during-fifa-world-cup/</guid>
-      <description>A city bureaucrat may be granted new powers to temporarily close roads during the FIFA World Cup.</description>
-      <pubDate>Wed, 08 Apr 2026 17:17:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

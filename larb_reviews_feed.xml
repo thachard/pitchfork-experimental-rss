@@ -5,13 +5,27 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 13:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:49:51 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>A Life Less Governed by Death</title>
+      <link>https://lareviewofbooks.org/article/electric-shamans-festival-sun-monica-ojeda-sarah-booker/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/electric-shamans-festival-sun-monica-ojeda-sarah-booker/</guid>
+      <description>Ecuadoran author Mónica Ojeda’s new novel is a celebration of the transfiguring power of dance, music, and neo-shamanistic knowledge.</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Only Fact</title>
+      <link>https://lareviewofbooks.org/article/wellwater-karen-solie-canada-ecological-poetry-wallace-stevens/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/wellwater-karen-solie-canada-ecological-poetry-wallace-stevens/</guid>
+      <description>Karen Solie’s new collection explores how to live with nature, rather than against it.</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Museum Gone to Pot</title>
@@ -28,6 +42,12 @@
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>The Failure of Bildungsroman</title>
       <link>https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</guid>
@@ -40,12 +60,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ali-smith-glyph-gliff-scottish-puns-paradox-wordplay/</guid>
       <description>Ali Smith’s new novel is less a story than a meditation on story.</description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>Murky Effects</title>
@@ -88,20 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</guid>
       <description>Fanny Howe’s posthumous epic poem reads like an intercepted signal that explores what is ‘Unlocatable and Hidden.’</description>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hedgehog and the Holocaust</title>
-      <link>https://lareviewofbooks.org/article/world-enemy-no-1-jochen-hellbeck-judeo-bolshevism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/world-enemy-no-1-jochen-hellbeck-judeo-bolshevism/</guid>
-      <description>Jochen Hellbeck’s recent history of the Eastern Front gets caught up in hyperfixating on its one big argument, at the cost of oversimplification.</description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Being Eugène Atget</title>
-      <link>https://lareviewofbooks.org/article/eugene-atget-making-reputation-berenice-abbott-modern-photography/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/eugene-atget-making-reputation-berenice-abbott-modern-photography/</guid>
-      <description>The new exhibition of Eugène Atget’s photography demands what we are getting worse at giving: time, stillness, and the willingness to see.</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

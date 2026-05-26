@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 13:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:48:26 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marisa Anderson – The Anthology of UnAmerican Folk Music</title>
+      <link>https://pitchfork.com/reviews/albums/marisa-anderson-the-anthology-of-unamerican-folk-music/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/marisa-anderson-the-anthology-of-unamerican-folk-music/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ted Lucas – Images of Life</title>
       <link>https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</link>
@@ -190,14 +198,6 @@
       <description>A review by Millan Verma</description>
       <author>Millan Verma</author>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Barry Walker Jr. – Paleo Sol</title>
-      <link>https://pitchfork.com/reviews/albums/barry-walker-jr-paleo-sol/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/barry-walker-jr-paleo-sol/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
