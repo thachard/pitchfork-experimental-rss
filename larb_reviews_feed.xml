@@ -5,13 +5,27 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 12:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:49:14 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Love Transmuted into Archive</title>
       <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
       <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+    </item>
+    <item>
+      <title>Man out of Time</title>
+      <link>https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/</guid>
+      <description>The travels and ecstasies of a Russian aesthete.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Going Back (Again) to the East Village</title>
+      <link>https://lareviewofbooks.org/article/waiting-friend-natalie-adler-east-village-aids-crisis/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/waiting-friend-natalie-adler-east-village-aids-crisis/</guid>
+      <description>Natalie Adler’s debut novel depicts the haunting transition of New York’s East Village during the AIDS crisis, from queer avant-garde to gentrified graveyard.</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Life Less Governed by Death</title>
@@ -28,6 +42,12 @@
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
+      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
+      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
+    </item>
+    <item>
       <title>A Museum Gone to Pot</title>
       <link>https://lareviewofbooks.org/article/rose-simpson-lexicon-counterculture-de-young-lowrider-pottery/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/rose-simpson-lexicon-counterculture-de-young-lowrider-pottery/</guid>
@@ -40,12 +60,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/rabbit-test-stories-samantha-mills-dystopia-sf-nebula/</guid>
       <description>Samantha Mills’s stories hold a mirror up to our society and reveal all the ways it is deeply and fundamentally broken.</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>The Failure of Bildungsroman</title>
@@ -88,20 +102,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</guid>
       <description>AI overlord Demis Hassabis is the anti–Sam Altman. Does it matter?</description>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consummating Our Incomplete Nation</title>
-      <link>https://lareviewofbooks.org/article/minister-stefan-boskovic-montenegro-novel-will-firth-serbia/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/minister-stefan-boskovic-montenegro-novel-will-firth-serbia/</guid>
-      <description>A newly translated Montenegrin novel combines dashes of Kafka, Kadare, and early Kundera with a style that is all Stefan Bošković’s own.</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Possible Grain of Light</title>
-      <link>https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/this-poor-book-fanny-howe-posthumous-epic-poetry/</guid>
-      <description>Fanny Howe’s posthumous epic poem reads like an intercepted signal that explores what is ‘Unlocatable and Hidden.’</description>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 26 May 2026 12:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:47:28 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Home of the Drowned — a saga of Sámi people and the battle to preserve their past</title>
+      <link>https://www.ft.com/content/bd62fd57-ad1b-43da-bea0-ea338141115d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/bd62fd57-ad1b-43da-bea0-ea338141115d</guid>
+      <description>Elin Anna Labba’s powerful fiction debut explores memory, marginalisation and what happens when collective wisdom is washed away by modernity</description>
+      <pubDate>Tue, 26 May 2026 16:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>AI stories aren’t inevitably ‘not art’</title>
       <link>https://www.ft.com/content/2d08b0c7-3ffe-49a8-9f89-ba204cb196f4</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/f061d4fe-1428-4229-98e8-22a23a015408</guid>
       <description>The story of a young girl in 1960s Calcutta who claims to have lived before shows the difficulties of grappling with climate politics in literary fiction</description>
       <pubDate>Tue, 21 Apr 2026 12:29:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sex, lies and the trials of being Gen Z — the best new debut novels</title>
-      <link>https://www.ft.com/content/e8927be8-3be5-466c-86ea-ebaa9f06d1d8</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e8927be8-3be5-466c-86ea-ebaa9f06d1d8</guid>
-      <description>Witty, observant and wildly original stories explore the difficulties of modern dating, dark goings-on in 1950s Chelsea — and a dog’s-eye view of the world</description>
-      <pubDate>Mon, 20 Apr 2026 16:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
