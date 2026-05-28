@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 27 May 2026 13:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:36:32 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Land — Maggie O’Farrell’s ambitious novel of family, Ireland and empire</title>
+      <link>https://www.ft.com/content/c6cc5145-0fea-4590-8ccc-0a7d750707c8</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c6cc5145-0fea-4590-8ccc-0a7d750707c8</guid>
+      <description>The acclaimed ‘Hamnet’ author revisits themes of strife and loss but on an epic canvas spanning centuries and continents</description>
+      <pubDate>Thu, 28 May 2026 10:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>My five lessons from judging this year’s International Booker Prize</title>
+      <link>https://www.ft.com/content/ef72d7cc-11ac-4f48-8788-f17ef62f8c0f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ef72d7cc-11ac-4f48-8788-f17ef62f8c0f</guid>
+      <description>Reading 128 books in eight months was a privilege — and a lasting education in making time, embracing difference and building literary muscle</description>
+      <pubDate>Wed, 27 May 2026 16:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>The Home of the Drowned — a saga of Sámi people and the battle to preserve their past</title>
       <link>https://www.ft.com/content/bd62fd57-ad1b-43da-bea0-ea338141115d</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/eaf4186a-4095-4f13-9503-99612478e1cb</guid>
       <description>A hunt for meaning unites the eight tales from one of the best practitioners of the short form</description>
       <pubDate>Thu, 23 Apr 2026 11:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The full and interesting lives of writers’ alter egos</title>
-      <link>https://www.ft.com/content/9da8e51b-ca2a-4a48-a50d-1785c494c9b0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9da8e51b-ca2a-4a48-a50d-1785c494c9b0</guid>
-      <description>Doctors, dairy farmers, failed novelists — how authors’ fictional selves take on an identity all their own, distinct from their creators</description>
-      <pubDate>Wed, 22 Apr 2026 16:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ghost-Eye — Amitav Ghosh’s ambitious novel about climate change and reincarnation</title>
-      <link>https://www.ft.com/content/f061d4fe-1428-4229-98e8-22a23a015408</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f061d4fe-1428-4229-98e8-22a23a015408</guid>
-      <description>The story of a young girl in 1960s Calcutta who claims to have lived before shows the difficulties of grappling with climate politics in literary fiction</description>
-      <pubDate>Tue, 21 Apr 2026 12:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
