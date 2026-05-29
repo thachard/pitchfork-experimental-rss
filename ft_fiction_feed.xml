@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 29 May 2026 11:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:28:50 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From America’s role in the making of Europe to Kissinger’s phone calls and Josef Koudelka’s diaries. Plus Maggie O’Farrell’s epic new novel, our pick of audio books — and Nilanjana Roy’s five lessons on how we can all read more</description>
+      <pubDate>Fri, 29 May 2026 11:42:18 +0000</pubDate>
+    </item>
     <item>
       <title>Ambivalence by Brian Dillon — a ‘coming-to-be’ memoir of ideas</title>
       <link>https://www.ft.com/content/0e8c1537-26e1-4393-9c1e-ef5b12192c7b</link>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</guid>
       <description>Twists, turns and revelations feature in the tragic loss of a young man in ‘London Falling’, while ‘Yesteryear’ is one of this summer’s most talked-about debuts</description>
       <pubDate>Mon, 25 May 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From the Cambridge spies to dying languages and life in Tudor England. Plus novels by Ann Patchett and Willy Vlautin, Miranda Green’s pick of politics titles — and our interview with International Booker winner Yáng Shuāng-zi</description>
-      <pubDate>Fri, 22 May 2026 11:57:04 +0000</pubDate>
     </item>
     <item>
       <title>The Left and the Lucky — Willy Vlautin’s hymn to blue-collar American grit</title>
