@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 14:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:26:07 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Discovery Zone – Library Copy Do Not Remove</title>
+      <link>https://pitchfork.com/reviews/albums/discovery-zone-library-copy-do-not-remove/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/discovery-zone-library-copy-do-not-remove/</guid>
+      <description>A review by Raphael Helfand</description>
+      <author>Raphael Helfand</author>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>leroy – status update music</title>
       <link>https://pitchfork.com/reviews/albums/leroy-status-update-music/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lauren-auder-whole-world-as-vigil/</guid>
       <description>A review by Hannah Jocelyn</description>
       <author>Hannah Jocelyn</author>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foote/Dickow – High Cube</title>
-      <link>https://pitchfork.com/reviews/albums/brian-foote-paul-dickow-high-cube/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/brian-foote-paul-dickow-high-cube/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

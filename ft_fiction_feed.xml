@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 28 May 2026 14:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:26:26 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ambivalence by Brian Dillon — a ‘coming-to-be’ memoir of ideas</title>
+      <link>https://www.ft.com/content/0e8c1537-26e1-4393-9c1e-ef5b12192c7b</link>
+      <guid isPermaLink="true">https://www.ft.com/content/0e8c1537-26e1-4393-9c1e-ef5b12192c7b</guid>
+      <description>Covering the writer’s late teens and early twenties, this pleasurable read is an elegant account of self-development through art</description>
+      <pubDate>Fri, 29 May 2026 11:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Land — Maggie O’Farrell’s ambitious novel of family, Ireland and empire</title>
       <link>https://www.ft.com/content/c6cc5145-0fea-4590-8ccc-0a7d750707c8</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/27503d5b-1897-43df-8250-09d51b7f60b1</guid>
       <description>A romance scam takes an unexpected turn in Martina Hefter’s German Book Prize-winning novel, her first translated into English</description>
       <pubDate>Fri, 24 Apr 2026 11:46:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Devotions by Lucy Caldwell — stories that wrestle with the biggest question of all</title>
-      <link>https://www.ft.com/content/eaf4186a-4095-4f13-9503-99612478e1cb</link>
-      <guid isPermaLink="true">https://www.ft.com/content/eaf4186a-4095-4f13-9503-99612478e1cb</guid>
-      <description>A hunt for meaning unites the eight tales from one of the best practitioners of the short form</description>
-      <pubDate>Thu, 23 Apr 2026 11:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

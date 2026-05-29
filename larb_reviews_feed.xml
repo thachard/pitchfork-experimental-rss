@@ -5,13 +5,21 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 14:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:28:12 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Love Transmuted into Archive</title>
-      <link>https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/museum-innocence-orhan-parmuk-zeynep-gunay-netflix-review/</guid>
-      <description>Netflix’s latest Istanbul melodrama adapts Orhan Pamuk’s 2008 novel into a multilayered exploration of class and gender tensions, memory curation, and tragic limerence.</description>
+      <title>Murky Effects</title>
+      <link>https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
+      <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Competing Visions of China’s Distant Past</title>
+      <link>https://lareviewofbooks.org/article/ancient-china-brian-lander-jessica-rawson-civilization-environment/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/ancient-china-brian-lander-jessica-rawson-civilization-environment/</guid>
+      <description>Through examinations of ecological impacts or material objects, two books about China’s ancient past offer very different perspectives on its place in the world today.</description>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Man out of Time</title>
@@ -35,17 +43,17 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
       <title>Only Fact</title>
       <link>https://lareviewofbooks.org/article/wellwater-karen-solie-canada-ecological-poetry-wallace-stevens/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/wellwater-karen-solie-canada-ecological-poetry-wallace-stevens/</guid>
       <description>Karen Solie’s new collection explores how to live with nature, rather than against it.</description>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spectacles of Repression: On Netflix’s “Beef”</title>
-      <link>https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/spectacles-of-repression-on-netflixs-beef/</guid>
-      <description>Amanda Walujono reviews Netflix’s new dramedy “Beef.”</description>
     </item>
     <item>
       <title>A Museum Gone to Pot</title>
@@ -76,13 +84,6 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Murky Effects</title>
-      <link>https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
-      <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>This Explains Everything</title>
       <link>https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</guid>
@@ -95,13 +96,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</guid>
       <description>Erin McCoy’s debut novel draws out the uncanny nature of environmental histories of the American South.</description>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maybe the World Will Muddle Through Somehow</title>
-      <link>https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/infinity-machine-demis-hassabis-google-deepmind-sebastian-mallaby/</guid>
-      <description>AI overlord Demis Hassabis is the anti–Sam Altman. Does it matter?</description>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
