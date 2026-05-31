@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 11:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 10:14:54 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Miles Davis – Filles de Kilimanjaro</title>
+      <link>https://pitchfork.com/reviews/albums/miles-davis-filles-de-kilimanjaro/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/miles-davis-filles-de-kilimanjaro/</guid>
+      <description>A review by Andy Beta</description>
+      <author>Andy Beta</author>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Boards of Canada – Inferno</title>
       <link>https://pitchfork.com/reviews/albums/boards-of-canada-inferno/</link>
@@ -238,14 +246,6 @@
       <description>A review by Sasha Geffen</description>
       <author>Sasha Geffen</author>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wendy Eisenberg – Wendy Eisenberg</title>
-      <link>https://pitchfork.com/reviews/albums/wendy-eisenberg-wendy-eisenberg/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/wendy-eisenberg-wendy-eisenberg/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

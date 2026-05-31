@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 11:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 10:15:16 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Embodiment of Lena Dunham</title>
+      <link>https://lareviewofbooks.org/article/lena-dunham-famesick-memoir-girls-celebrity-chronic-illness/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/lena-dunham-famesick-memoir-girls-celebrity-chronic-illness/</guid>
+      <description>Lena Dunham’s memoir shows the distorting effects of fame on her intimate relationships, especially with herself.</description>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Competing Visions of China’s Distant Past</title>
@@ -36,17 +43,17 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
       <title>A Life Less Governed by Death</title>
       <link>https://lareviewofbooks.org/article/electric-shamans-festival-sun-monica-ojeda-sarah-booker/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/electric-shamans-festival-sun-monica-ojeda-sarah-booker/</guid>
       <description>Ecuadoran author Mónica Ojeda’s new novel is a celebration of the transfiguring power of dance, music, and neo-shamanistic knowledge.</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
     </item>
     <item>
       <title>Only Fact</title>
@@ -89,13 +96,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</guid>
       <description>The Grateful Dead, professional wrestling, and the vertigo of the pop culture microhistory.</description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aquatic Southern Gothic</title>
-      <link>https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/underlake-erin-mccoy-drowned-towns-southern-gothic-novel/</guid>
-      <description>Erin McCoy’s debut novel draws out the uncanny nature of environmental histories of the American South.</description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
