@@ -5,20 +5,13 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 01 Jun 2026 15:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 16:18:17 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>New York mayor secured $50 World Cup tickets for residents. Why didn’t Toronto do the same?</title>
-      <link>https://www.thestar.com/news/gta/new-york-mayor-secured-50-world-cup-tickets-for-residents-why-didnt-toronto-do-the-same/article_329414f5-fad7-4b0f-aa94-365c329b1fba.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/new-york-mayor-secured-50-world-cup-tickets-for-residents-why-didnt-toronto-do-the-same/article_329414f5-fad7-4b0f-aa94-365c329b1fba.html</guid>
-      <description>FIFA’s ticket-sale process and pricing model has frustrated fans worldwide and prompted investigations by the attorneys general in New York an…</description>
-      <pubDate>Mon, 01 Jun 2026 05:00:00 +0000</pubDate>
-    </item>
     <item>
       <title>Some Ontario mayors love their new superpowers from Doug Ford. Others treat them like Kryptonite</title>
       <link>https://www.thestar.com/news/gta/some-ontario-mayors-love-their-new-superpowers-from-doug-ford-others-treat-them-like-kryptonite/article_939fd873-08cc-4f38-ac8f-3c56972df6a9.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/some-ontario-mayors-love-their-new-superpowers-from-doug-ford-others-treat-them-like-kryptonite/article_939fd873-08cc-4f38-ac8f-3c56972df6a9.html</guid>
-      <description>Mayors from across Ontario explain why they find strong-mayor powers useful — or why they avoid using them at all.</description>
+      <description></description>
       <pubDate>Mon, 01 Jun 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
@@ -27,6 +20,13 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/these-e-bike-loving-parents-have-been-breaking-the-law-for-school-drop-off-why-the-province-is-finally-shifting-gears/article_8c0d086c-9430-4851-a62d-9f54ceb7ef6c.html</guid>
       <description>For years, the most dangerous e-bikes were allowed, while smaller, safer ones — used by many parents to take their kids to school — were illeg…</description>
       <pubDate>Mon, 01 Jun 2026 11:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York mayor secured $50 World Cup tickets for residents. Why didn’t Toronto do the same?</title>
+      <link>https://www.thestar.com/news/gta/new-york-mayor-secured-50-world-cup-tickets-for-residents-why-didnt-toronto-do-the-same/article_329414f5-fad7-4b0f-aa94-365c329b1fba.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/new-york-mayor-secured-50-world-cup-tickets-for-residents-why-didnt-toronto-do-the-same/article_329414f5-fad7-4b0f-aa94-365c329b1fba.html</guid>
+      <description>FIFA’s ticket-sale process and pricing model has frustrated fans worldwide and prompted investigations by the attorneys general in New York an…</description>
+      <pubDate>Mon, 01 Jun 2026 11:19:30 +0000</pubDate>
     </item>
     <item>
       <title>Toronto’s historic Amsterdam Bridge to Harbourfront reopens in time for World Cup bump</title>
@@ -117,7 +117,7 @@
       <link>https://www.thestar.com/news/gta/woman-charged-after-infant-found-dead-in-brampton-home/article_89fd4c91-3b22-46fd-ad96-d9e3f5ce5246.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-charged-after-infant-found-dead-in-brampton-home/article_89fd4c91-3b22-46fd-ad96-d9e3f5ce5246.html</guid>
       <description></description>
-      <pubDate>Mon, 01 Jun 2026 09:33:36 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 12:00:40 +0000</pubDate>
     </item>
     <item>
       <title>Court tosses another case due to conduct of Toronto Crown attorney Marnie Goldenberg. Judge cites ‘unacceptable negligence’</title>
