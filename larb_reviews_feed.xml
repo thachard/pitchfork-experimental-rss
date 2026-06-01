@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 11:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:35:28 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plants in Focus</title>
+      <link>https://lareviewofbooks.org/article/silent-friend-ildiko-enyedi-tony-leung-plants-technology/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/silent-friend-ildiko-enyedi-tony-leung-plants-technology/</guid>
+      <description>Ildikó Enyedi’s film ‘Silent Friend’ daringly manipulates slow time to center a gingko tree protagonist among several generations of human companions.</description>
     </item>
     <item>
       <title>The Embodiment of Lena Dunham</title>
@@ -36,17 +42,17 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
       <title>Going Back (Again) to the East Village</title>
       <link>https://lareviewofbooks.org/article/waiting-friend-natalie-adler-east-village-aids-crisis/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/waiting-friend-natalie-adler-east-village-aids-crisis/</guid>
       <description>Natalie Adler’s debut novel depicts the haunting transition of New York’s East Village during the AIDS crisis, from queer avant-garde to gentrified graveyard.</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
     </item>
     <item>
       <title>A Life Less Governed by Death</title>
@@ -89,13 +95,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ali-smith-glyph-gliff-scottish-puns-paradox-wordplay/</guid>
       <description>Ali Smith’s new novel is less a story than a meditation on story.</description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Explains Everything</title>
-      <link>https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jerry-garcia-grateful-dead-wrestling-new-world-order/</guid>
-      <description>The Grateful Dead, professional wrestling, and the vertigo of the pop culture microhistory.</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

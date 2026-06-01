@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 11:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:35:05 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Feeble Little Horse – bitknot</title>
+      <link>https://pitchfork.com/reviews/albums/feeble-little-horse-bitknot/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/feeble-little-horse-bitknot/</guid>
+      <description>A review by Sadie Sartini Garner</description>
+      <author>Sadie Sartini Garner</author>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miles Davis – Filles de Kilimanjaro</title>
       <link>https://pitchfork.com/reviews/albums/miles-davis-filles-de-kilimanjaro/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/my-new-band-believe-my-new-band-believe/</guid>
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Los Thuthanaka – Wak’aEP</title>
-      <link>https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/</guid>
-      <description>A review by Sasha Geffen</description>
-      <author>Sasha Geffen</author>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 11:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:33:45 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shye Ben Tzur / Jonny Greenwood / The Rajasthan Express – Ranjha</title>
+      <link>https://pitchfork.com/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/</guid>
+      <description>A review by Arman Khan</description>
+      <author>Arman Khan</author>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Discovery Zone – Library Copy Do Not Remove</title>
       <link>https://pitchfork.com/reviews/albums/discovery-zone-library-copy-do-not-remove/</link>
@@ -190,14 +198,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lauren Auder – Whole World as Vigil</title>
-      <link>https://pitchfork.com/reviews/albums/lauren-auder-whole-world-as-vigil/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lauren-auder-whole-world-as-vigil/</guid>
-      <description>A review by Hannah Jocelyn</description>
-      <author>Hannah Jocelyn</author>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 31 May 2026 11:50:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:34:05 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From Patricia Cornwell’s memoir to Simenon and a whodunnit at sea</title>
+      <link>https://www.ft.com/content/16a2bebe-17fb-4621-8c4e-8139b92c8eb5</link>
+      <guid isPermaLink="true">https://www.ft.com/content/16a2bebe-17fb-4621-8c4e-8139b92c8eb5</guid>
+      <description>A crop of top crime titles feature a professional housebreaker, a troubled detective, a determined lawyer and a French classic</description>
+      <pubDate>Mon, 01 Jun 2026 04:00:20 +0000</pubDate>
+    </item>
     <item>
       <title>What are your favourite books of 2026 so far?</title>
       <link>https://www.ft.com/content/68e1a286-fbb6-41dd-aa3f-d59ba88a8a77</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/53599eca-0b6c-49bf-8a77-0e6c261ee829</guid>
       <description>A new tale about the power of secrets by the Pulitzer Prize-winning author of ‘Olive Kitteridge’</description>
       <pubDate>Thu, 30 Apr 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Other People’s Children by Ben Faccini — an accomplished tale of families, biological or blended</title>
-      <link>https://www.ft.com/content/3c55747d-921b-4419-a8be-d301ae6eab27</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3c55747d-921b-4419-a8be-d301ae6eab27</guid>
-      <description>In a beautifully balanced novel, a man tries to bond with his partner’s young sons while grappling with his own inherited history</description>
-      <pubDate>Mon, 27 Apr 2026 11:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
