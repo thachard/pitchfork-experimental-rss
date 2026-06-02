@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:54:40 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get Rid of the Question Marks</title>
+      <link>https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</guid>
+      <description>Deborah Levy’s latest novel offers potent musings on Gertrude Stein, modernism, and feminism.</description>
     </item>
     <item>
       <title>Off, and Back On, with Her Head</title>
@@ -34,17 +40,17 @@
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
       <title>Competing Visions of China’s Distant Past</title>
       <link>https://lareviewofbooks.org/article/ancient-china-brian-lander-jessica-rawson-civilization-environment/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ancient-china-brian-lander-jessica-rawson-civilization-environment/</guid>
       <description>Through examinations of ecological impacts or material objects, two books about China’s ancient past offer very different perspectives on its place in the world today.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
     </item>
     <item>
       <title>Man out of Time</title>
@@ -93,13 +99,6 @@
       <link>https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</guid>
       <description>In Indonesian author Eka Kurniawan’s new novel, crime and its punishment are the ultimate grammar of collectivity.</description>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Story Is Haunting</title>
-      <link>https://lareviewofbooks.org/article/ali-smith-glyph-gliff-scottish-puns-paradox-wordplay/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/ali-smith-glyph-gliff-scottish-puns-paradox-wordplay/</guid>
-      <description>Ali Smith’s new novel is less a story than a meditation on story.</description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
