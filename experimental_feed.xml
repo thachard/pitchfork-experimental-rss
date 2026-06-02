@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2026 16:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:02:10 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mabe Fratti / Bill Orcutt – Almost Waking</title>
+      <link>https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shye Ben Tzur / Jonny Greenwood / The Rajasthan Express – Ranjha</title>
       <link>https://pitchfork.com/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/</link>
@@ -190,14 +198,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunn O))) – Sunn O)))</title>
-      <link>https://pitchfork.com/reviews/albums/sunn-o-sunn-o/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sunn-o-sunn-o/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
