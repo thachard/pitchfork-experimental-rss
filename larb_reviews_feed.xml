@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 14:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:41:52 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Better World Is Not Possible</title>
+      <link>https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/</guid>
+      <description>Did the Weather Underground have a point?</description>
     </item>
     <item>
       <title>Get Rid of the Question Marks</title>
@@ -33,17 +39,17 @@
       <description>Ildikó Enyedi’s film ‘Silent Friend’ daringly manipulates slow time to center a gingko tree protagonist among several generations of human companions.</description>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
       <title>The Embodiment of Lena Dunham</title>
       <link>https://lareviewofbooks.org/article/lena-dunham-famesick-memoir-girls-celebrity-chronic-illness/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/lena-dunham-famesick-memoir-girls-celebrity-chronic-illness/</guid>
       <description>Lena Dunham’s memoir shows the distorting effects of fame on her intimate relationships, especially with herself.</description>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
     </item>
     <item>
       <title>Competing Visions of China’s Distant Past</title>
@@ -93,13 +99,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/rabbit-test-stories-samantha-mills-dystopia-sf-nebula/</guid>
       <description>Samantha Mills’s stories hold a mirror up to our society and reveal all the ways it is deeply and fundamentally broken.</description>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Failure of Bildungsroman</title>
-      <link>https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dog-meows-cat-barks-eka-kurniawan-indonesia-bildungsroman/</guid>
-      <description>In Indonesian author Eka Kurniawan’s new novel, crime and its punishment are the ultimate grammar of collectivity.</description>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

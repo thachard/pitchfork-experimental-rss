@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 02 Jun 2026 14:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:40:21 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Villa Coco — Andrew Sean Greer piles on the charm</title>
+      <link>https://www.ft.com/content/4a9871cf-c930-4b72-a37c-372df96cedd6</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4a9871cf-c930-4b72-a37c-372df96cedd6</guid>
+      <description>The Pulitzer winner’s latest novel builds a richly quirky world, at times excessively so, around a friendship in Tuscany</description>
+      <pubDate>Tue, 02 Jun 2026 16:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>From Patricia Cornwell’s memoir to Simenon and a whodunnit at sea</title>
       <link>https://www.ft.com/content/16a2bebe-17fb-4621-8c4e-8139b92c8eb5</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/4f0b16cf-2f89-43e8-9411-46cf5cf3648e</guid>
       <description>Reading for both pleasure and betterment endures — even if unquestioning faith in literary canons and critical authority is gone</description>
       <pubDate>Fri, 01 May 2026 04:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Things We Never Say by Elizabeth Strout — profound and resplendent</title>
-      <link>https://www.ft.com/content/53599eca-0b6c-49bf-8a77-0e6c261ee829</link>
-      <guid isPermaLink="true">https://www.ft.com/content/53599eca-0b6c-49bf-8a77-0e6c261ee829</guid>
-      <description>A new tale about the power of secrets by the Pulitzer Prize-winning author of ‘Olive Kitteridge’</description>
-      <pubDate>Thu, 30 Apr 2026 11:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
