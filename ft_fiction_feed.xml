@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:15:05 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Typing Lady — short stories distil the essence of Ruth Ozeki’s fiction</title>
+      <link>https://www.ft.com/content/91238e71-ad06-4f09-a21b-02cacc2f6a7d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/91238e71-ad06-4f09-a21b-02cacc2f6a7d</guid>
+      <description>An ambitious and playful first collection from the novelist ranges from the auto-fictional to the surreal</description>
+      <pubDate>Thu, 04 Jun 2026 04:00:14 +0000</pubDate>
+    </item>
     <item>
       <title>Villa Coco — Andrew Sean Greer piles on the charm</title>
       <link>https://www.ft.com/content/4a9871cf-c930-4b72-a37c-372df96cedd6</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/e67250ae-b7ad-4841-9441-65a9629376fa</guid>
       <description>A lonely teenager lodges with his father’s cousin in this story of substitute love and male friendship</description>
       <pubDate>Fri, 01 May 2026 11:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Lady Chatterley to Marilyn to Dua Lipa, books are in rude health</title>
-      <link>https://www.ft.com/content/4f0b16cf-2f89-43e8-9411-46cf5cf3648e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4f0b16cf-2f89-43e8-9411-46cf5cf3648e</guid>
-      <description>Reading for both pleasure and betterment endures — even if unquestioning faith in literary canons and critical authority is gone</description>
-      <pubDate>Fri, 01 May 2026 04:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
