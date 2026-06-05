@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 05 Jun 2026 12:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:50:40 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Toronto Humber Yacht Club’s bid for a legal lifeline dismissed</title>
@@ -92,6 +92,13 @@
       <pubDate>Thu, 12 Mar 2026 16:05:31 +0000</pubDate>
     </item>
     <item>
+      <title>Multiple homes evacuated due to Markham fire</title>
+      <link>https://www.thestar.com/news/gta/multiple-homes-evacuated-following-markham-fire/article_03e12807-cefb-4930-b4cd-5e7a782e1cd0.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/multiple-homes-evacuated-following-markham-fire/article_03e12807-cefb-4930-b4cd-5e7a782e1cd0.html</guid>
+      <description></description>
+      <pubDate>Fri, 05 Jun 2026 08:05:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Man gets life for ‘out of character’ murder of Toronto bricklayer. Victim shot after ‘arming’ himself with garden lamp</title>
       <link>https://www.thestar.com/news/gta/man-gets-life-for-out-of-character-murder-of-toronto-bricklayer-victim-shot-after-arming-himself-with-garden-lamp/article_e32da416-88aa-4c81-87fb-e516b243a144.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/man-gets-life-for-out-of-character-murder-of-toronto-bricklayer-victim-shot-after-arming-himself-with-garden-lamp/article_e32da416-88aa-4c81-87fb-e516b243a144.html</guid>
@@ -125,13 +132,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-police-officer-charged-with-sexual-assault-of-female-youth/article_30ca0a18-917e-4fb8-b673-074ae773a3ab.html</guid>
       <description></description>
       <pubDate>Thu, 04 Jun 2026 17:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Road, TTC and GO closures this weekend will cause chaotic commuting. Here’s what you need to know</title>
-      <link>https://www.thestar.com/news/gta/road-ttc-and-go-closures-this-weekend-will-make-for-chaotic-commuting-heres-what-you-need-to-know/article_cdf23f14-98d2-47b2-ba30-a053cac01421.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/road-ttc-and-go-closures-this-weekend-will-make-for-chaotic-commuting-heres-what-you-need-to-know/article_cdf23f14-98d2-47b2-ba30-a053cac01421.html</guid>
-      <description></description>
-      <pubDate>Fri, 05 Jun 2026 06:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
