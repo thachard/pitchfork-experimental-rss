@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:27:41 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Report says Billy Bishop airport expansion could impact thousands of homes along waterfront</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/report-says-billy-bishop-expansion-could-impact-thousands-of-homes-along-waterfront/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/report-says-billy-bishop-expansion-could-impact-thousands-of-homes-along-waterfront/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 05 Jun 2026 01:05:34 +0000</pubDate>
+    </item>
     <item>
       <title>‘There is more we can do’: Toronto Mayor Olivia Chow launches re-election bid</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/olivia-chow-confirms-she-is-running-for-second-term-as-toronto-mayor/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/olivia-chow-confirms-she-is-running-for-second-term-as-toronto-mayor/</guid>
-      <description>Video</description>
+      <description>Olivia Chow says she is running for another term as Toronto’s mayor.</description>
       <pubDate>Mon, 25 May 2026 19:35:44 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/first-ever-recipient-of-torontos-edge-incentive-program-funding-revealed/</guid>
       <description>The City of Toronto has approved the first company as part of a program encouraging local businesses to build in expand in Toronto.</description>
       <pubDate>Tue, 14 Apr 2026 21:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Scarborough can’t be left out’: Chow, Bradford unveil duelling LRT plans</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/scarborough-cant-be-left-out-chow-bradford-unveil-duelling-lrt-plans/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/scarborough-cant-be-left-out-chow-bradford-unveil-duelling-lrt-plans/</guid>
-      <description>A growing divide over how to advance Scarborough transit came into focus Thursday, as Mayor Olivia Chow and Coun. Brad Bradford unveiled competing plans for the same long-delayed LRT line.</description>
-      <pubDate>Fri, 10 Apr 2026 12:22:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

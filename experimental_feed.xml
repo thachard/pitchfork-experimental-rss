@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:26:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tara Clerkin Trio – Somewhere Good</title>
+      <link>https://pitchfork.com/reviews/albums/tara-clerkin-trio-somewhere-good/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tara-clerkin-trio-somewhere-good/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mabe Fratti / Bill Orcutt – Almost Waking</title>
       <link>https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/</link>
@@ -190,14 +198,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daryl Groetsch – Fathoms</title>
-      <link>https://pitchfork.com/reviews/albums/daryl-groetsch-fathoms/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/daryl-groetsch-fathoms/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
