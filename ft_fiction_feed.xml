@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:21:06 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From the crash of 1873 to our ‘might is right’ world order and a fan’s paean to George Michael. Plus dinosaurs, Andrew Sean Greer’s new novel, short stories by Ruth Ozeki — and Barry Forshaw’s pick of crime fiction</description>
+      <pubDate>Fri, 05 Jun 2026 11:57:03 +0000</pubDate>
+    </item>
     <item>
       <title>The Typing Lady — short stories distil the essence of Ruth Ozeki’s fiction</title>
       <link>https://www.ft.com/content/91238e71-ad06-4f09-a21b-02cacc2f6a7d</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/68e1a286-fbb6-41dd-aa3f-d59ba88a8a77</guid>
       <description>This year’s much-anticipated Summer Books series is almost upon us — and, as ever, we want to hear from you</description>
       <pubDate>Sat, 30 May 2026 04:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From America’s role in the making of Europe to Kissinger’s phone calls and Josef Koudelka’s diaries. Plus Maggie O’Farrell’s epic new novel, our pick of audio books — and Nilanjana Roy’s five lessons on how we can all read more</description>
-      <pubDate>Fri, 29 May 2026 11:42:18 +0000</pubDate>
     </item>
     <item>
       <title>Ambivalence by Brian Dillon — a ‘coming-to-be’ memoir of ideas</title>
