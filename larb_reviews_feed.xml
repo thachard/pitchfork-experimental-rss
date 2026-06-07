@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 11:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:29:01 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reductio Trad Absurdum</title>
+      <link>https://lareviewofbooks.org/article/yesteryear-caro-claire-burke-tradwives-girlboss-feminism-farm/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/yesteryear-caro-claire-burke-tradwives-girlboss-feminism-farm/</guid>
+      <description>The matrix of discontent gives birth (naturally, no epidural) to the girlboss’s perfect foil: the online tradwife.</description>
     </item>
     <item>
       <title>The Decline and Fall of the Football Empire</title>
@@ -33,16 +39,16 @@
       <description>Did the Weather Underground have a point?</description>
     </item>
     <item>
-      <title>Get Rid of the Question Marks</title>
-      <link>https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</guid>
-      <description>Deborah Levy’s latest novel offers potent musings on Gertrude Stein, modernism, and feminism.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Get Rid of the Question Marks</title>
+      <link>https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</guid>
+      <description>Deborah Levy’s latest novel offers potent musings on Gertrude Stein, modernism, and feminism.</description>
     </item>
     <item>
       <title>Off, and Back On, with Her Head</title>
@@ -90,13 +96,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/electric-shamans-festival-sun-monica-ojeda-sarah-booker/</guid>
       <description>Ecuadoran author Mónica Ojeda’s new novel is a celebration of the transfiguring power of dance, music, and neo-shamanistic knowledge.</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Only Fact</title>
-      <link>https://lareviewofbooks.org/article/wellwater-karen-solie-canada-ecological-poetry-wallace-stevens/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/wellwater-karen-solie-canada-ecological-poetry-wallace-stevens/</guid>
-      <description>Karen Solie’s new collection explores how to live with nature, rather than against it.</description>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
