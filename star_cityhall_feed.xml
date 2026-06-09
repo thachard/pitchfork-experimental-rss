@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:50:50 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Fighter jet training exercise in downtown Toronto, near Billy Bishop airport, postponed to Tuesday</title>
@@ -78,6 +78,13 @@
       <pubDate>Mon, 08 Jun 2026 16:23:05 +0000</pubDate>
     </item>
     <item>
+      <title>Third man charged with murder in death of Toronto senior in December</title>
+      <link>https://www.thestar.com/news/gta/third-person-arrested-by-toronto-police-in-homicide-from-december/article_da0eed8e-c534-417e-946d-62abee0a0fa8.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/third-person-arrested-by-toronto-police-in-homicide-from-december/article_da0eed8e-c534-417e-946d-62abee0a0fa8.html</guid>
+      <description></description>
+      <pubDate>Tue, 09 Jun 2026 08:28:48 +0000</pubDate>
+    </item>
+    <item>
       <title>York Region Transit fares to increase July 1</title>
       <link>https://www.thestar.com/news/gta/york-region-transit-fares-to-increase-july-1/article_ba4fa89f-cc15-4c98-ba81-61392ed6fab2.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/york-region-transit-fares-to-increase-july-1/article_ba4fa89f-cc15-4c98-ba81-61392ed6fab2.html</guid>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/this-church-wellesley-park-is-in-a-state-of-crisis-a-push-to-close-it-overnight-has-a-community-divided/article_004e9e5c-f5f6-4662-a27b-5a3b3cab856c.html</guid>
       <description></description>
       <pubDate>Tue, 09 Jun 2026 06:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Third person arrested by Toronto police in homicide from December</title>
-      <link>https://www.thestar.com/news/gta/third-person-arrested-by-toronto-police-in-homicide-from-december/article_da0eed8e-c534-417e-946d-62abee0a0fa8.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/third-person-arrested-by-toronto-police-in-homicide-from-december/article_da0eed8e-c534-417e-946d-62abee0a0fa8.html</guid>
-      <description></description>
-      <pubDate>Mon, 08 Jun 2026 22:34:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
