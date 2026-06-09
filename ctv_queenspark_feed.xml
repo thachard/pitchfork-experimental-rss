@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 08 Jun 2026 14:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:59:16 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Federal government launches public consultations on Billy Bishop airport</title>
+      <link>https://www.ctvnews.ca/toronto/article/federal-government-launches-public-consultations-on-billy-bishop-airport/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/federal-government-launches-public-consultations-on-billy-bishop-airport/</guid>
+      <description></description>
+      <pubDate>Mon, 08 Jun 2026 22:31:30 +0000</pubDate>
+    </item>
     <item>
       <title>Most OSAP growth came from career college students, documents show</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/most-osap-growth-came-from-career-college-students-documents-show/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/most-osap-growth-came-from-career-college-students-documents-show/</guid>
-      <description></description>
+      <description>When Ontario Premier Doug Ford’s government drastically cut student assistance grants earlier this year, it cited “unsustainable” costs, but new figures show nearly all of the recent growth was among career college students.</description>
       <pubDate>Fri, 05 Jun 2026 16:20:26 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/northern-ontario/article/vaping-is-not-for-kids-bill-advances-at-queens-park/</guid>
       <description>NDP MPP France Gélinas’s bill to curb youth vaping passed its first reading. The bill would ban promotions, restrict flavours, raise the purchase age to 21 and fund public education about product risks.</description>
       <pubDate>Sat, 30 May 2026 12:51:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario Liberal caucus member Rob Cerjanec enters party leadership race</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-liberal-caucus-member-rob-cerjanec-enters-party-leadership-race/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-liberal-caucus-member-rob-cerjanec-enters-party-leadership-race/</guid>
-      <description>Ontario Liberal caucus member Rob Cerjanec has tossed his hat into the party’s leadership race.</description>
-      <pubDate>Thu, 28 May 2026 15:49:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

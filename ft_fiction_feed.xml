@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Jun 2026 14:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:58:54 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sail Away Land — weird tales of work, loss and loneliness</title>
+      <link>https://www.ft.com/content/bc88c472-5efb-492f-a38c-d94880075e7f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/bc88c472-5efb-492f-a38c-d94880075e7f</guid>
+      <description>The strangeness of Ben Pester’s writing is not just decorative — it exposes how bizarre ordinary life already is</description>
+      <pubDate>Mon, 08 Jun 2026 16:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atonement — ambitious adaptation can’t match Ian McEwan’s masterpiece</title>
+      <link>https://www.ft.com/content/bb0d7367-4424-46c8-bfa9-0c2d901693c6</link>
+      <guid isPermaLink="true">https://www.ft.com/content/bb0d7367-4424-46c8-bfa9-0c2d901693c6</guid>
+      <description>The Chichester Festival Theatre production has inventive touches but lacks intensity</description>
+      <pubDate>Mon, 08 Jun 2026 16:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/18497568-ecb3-4cee-96c7-04e0d5330905</guid>
       <description>Over shifting timelines, the Irish author’s third novel unpicks the fracturing relationships of a group of thirty-somethings</description>
       <pubDate>Wed, 06 May 2026 15:57:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Last Movement — a beautiful portrait of Mahler, a genius all at sea</title>
-      <link>https://www.ft.com/content/c635b379-0751-4edb-b1fa-208cd35e6e66</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c635b379-0751-4edb-b1fa-208cd35e6e66</guid>
-      <description>Robert Seethaler’s gem of a novella mixes the dying composer’s reflections with real-life history and imaginative flourishes</description>
-      <pubDate>Mon, 04 May 2026 11:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hey Man by Andrew Meehan — from bromance to the brotherhood</title>
-      <link>https://www.ft.com/content/e67250ae-b7ad-4841-9441-65a9629376fa</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e67250ae-b7ad-4841-9441-65a9629376fa</guid>
-      <description>A lonely teenager lodges with his father’s cousin in this story of substitute love and male friendship</description>
-      <pubDate>Fri, 01 May 2026 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

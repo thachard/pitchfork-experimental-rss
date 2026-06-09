@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 14:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:00:40 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friendship as a Way of Life</title>
+      <link>https://lareviewofbooks.org/article/peter-hujar-paul-thek-wonderful-world-almost-was/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/peter-hujar-paul-thek-wonderful-world-almost-was/</guid>
+      <description>Art, love, and a dense web of friendships in a double biography and richly textured history of Downtown Manhattan from the 1960s to the ’80s.</description>
     </item>
     <item>
       <title>Long Live Poetry</title>
@@ -33,16 +39,16 @@
       <description>An apologia for America’s favorite sport fails to recognize the precariousness of its cultural dominance.</description>
     </item>
     <item>
-      <title>The Revolution Will Not Be Digitized</title>
-      <link>https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</guid>
-      <description>How employees in the tech sector see the world, themselves, and the (im)possibility of change.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>The Revolution Will Not Be Digitized</title>
+      <link>https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</guid>
+      <description>How employees in the tech sector see the world, themselves, and the (im)possibility of change.</description>
     </item>
     <item>
       <title>A Better World Is Not Possible</title>
@@ -88,13 +94,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/</guid>
       <description>The travels and ecstasies of a Russian aesthete.</description>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Going Back (Again) to the East Village</title>
-      <link>https://lareviewofbooks.org/article/waiting-friend-natalie-adler-east-village-aids-crisis/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/waiting-friend-natalie-adler-east-village-aids-crisis/</guid>
-      <description>Natalie Adler’s debut novel depicts the haunting transition of New York’s East Village during the AIDS crisis, from queer avant-garde to gentrified graveyard.</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 14:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:00:17 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>B0YG1RL / Novagang – EXIT 2B</title>
+      <link>https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/</guid>
+      <description>A review by Olivier Lafontant</description>
+      <author>Olivier Lafontant</author>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Theo Parrish – First Floor</title>
       <link>https://pitchfork.com/reviews/albums/theo-parrish-first-floor/</link>
@@ -238,14 +246,6 @@
       <description>A review by E.R. Pulgar</description>
       <author>E.R. Pulgar</author>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cancer House – The Moth</title>
-      <link>https://pitchfork.com/reviews/albums/cancer-house-the-moth/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cancer-house-the-moth/</guid>
-      <description>A review by Joshua Minsoo Kim</description>
-      <author>Joshua Minsoo Kim</author>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
