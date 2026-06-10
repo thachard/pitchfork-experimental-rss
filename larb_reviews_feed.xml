@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:39:06 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looking Backward, Looking Outward</title>
+      <link>https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</guid>
+      <description>Ian Frazier’s late-career collection showcases his numerous skills as an essayist, but also the pitfalls of revisiting outdated cultural observations.</description>
     </item>
     <item>
       <title>Friendship as a Way of Life</title>
@@ -33,16 +39,16 @@
       <description>The matrix of discontent gives birth (naturally, no epidural) to the girlboss’s perfect foil: the online tradwife.</description>
     </item>
     <item>
-      <title>The Decline and Fall of the Football Empire</title>
-      <link>https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</guid>
-      <description>An apologia for America’s favorite sport fails to recognize the precariousness of its cultural dominance.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>The Decline and Fall of the Football Empire</title>
+      <link>https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</guid>
+      <description>An apologia for America’s favorite sport fails to recognize the precariousness of its cultural dominance.</description>
     </item>
     <item>
       <title>The Revolution Will Not Be Digitized</title>
@@ -87,13 +93,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ancient-china-brian-lander-jessica-rawson-civilization-environment/</guid>
       <description>Through examinations of ecological impacts or material objects, two books about China’s ancient past offer very different perspectives on its place in the world today.</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man out of Time</title>
-      <link>https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/</guid>
-      <description>The travels and ecstasies of a Russian aesthete.</description>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
