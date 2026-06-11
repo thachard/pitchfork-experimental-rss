@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 13:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:09:27 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>YHWH Nailgun – Magazine</title>
+      <link>https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>B0YG1RL / Novagang – EXIT 2B</title>
       <link>https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/</link>
@@ -238,14 +246,6 @@
       <description>A review by Alphonse Pierre</description>
       <author>Alphonse Pierre</author>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tokischa – AMOR &amp; DROGA</title>
-      <link>https://pitchfork.com/reviews/albums/tokischa-amor-y-droga/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tokischa-amor-y-droga/</guid>
-      <description>A review by E.R. Pulgar</description>
-      <author>E.R. Pulgar</author>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
