@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 11 Jun 2026 14:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:42:22 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Contrapposto by Dave Eggers — in defence of art without ambition</title>
+      <link>https://www.ft.com/content/864614ac-64eb-48f3-82f4-eef1881b4d58</link>
+      <guid isPermaLink="true">https://www.ft.com/content/864614ac-64eb-48f3-82f4-eef1881b4d58</guid>
+      <description>Eggers explores the rewards of the creative life and the compromises of artistic success in this unashamedly old-fashioned novel</description>
+      <pubDate>Fri, 12 Jun 2026 11:10:03 +0000</pubDate>
+    </item>
     <item>
       <title>The Vivisectors — campus novel meets omen of environmental doom</title>
       <link>https://www.ft.com/content/69a6f64c-8acb-4669-b374-87e433f2c912</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/909229a7-de85-4ee0-b722-9a2cb7295ac3</guid>
       <description>An Abruzzo-set tale about a man’s psychological unravelling is a surprising, skilfully wrought novel for a long, sweltering afternoon</description>
       <pubDate>Fri, 08 May 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best new thrillers — five pacy tales of money, mafiosi and betrayal</title>
-      <link>https://www.ft.com/content/c78c5c8a-7651-4b57-89ec-073219cec9ea</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c78c5c8a-7651-4b57-89ec-073219cec9ea</guid>
-      <description>A Sopranos-style story of drugs and family in Bogotá, an interpreter finds that a little knowledge is a dangerous thing, Bond is back — and more</description>
-      <pubDate>Fri, 08 May 2026 04:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

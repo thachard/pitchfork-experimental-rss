@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 14:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:44:05 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Everybody Wants This</title>
+      <link>https://lareviewofbooks.org/article/devil-wears-prada-2-review-miranda-media/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/devil-wears-prada-2-review-miranda-media/</guid>
+      <description>‘The Devil Wears Prada 2’ wants to rehabilitate the fashion industry’s brutal early 2000s workplace culture, but it can’t quite hide how much it misses it.</description>
     </item>
     <item>
       <title>I Need a Hero</title>
@@ -33,16 +39,16 @@
       <description>Art, love, and a dense web of friendships in a double biography and richly textured history of Downtown Manhattan from the 1960s to the ’80s.</description>
     </item>
     <item>
-      <title>Long Live Poetry</title>
-      <link>https://lareviewofbooks.org/article/paul-celan-life-letters-gisele-conversation-mountains-poetry/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/paul-celan-life-letters-gisele-conversation-mountains-poetry/</guid>
-      <description>Three new books by and about Romanian poet Paul Celan demonstrate that he was a problematic figure in many ways.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Long Live Poetry</title>
+      <link>https://lareviewofbooks.org/article/paul-celan-life-letters-gisele-conversation-mountains-poetry/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/paul-celan-life-letters-gisele-conversation-mountains-poetry/</guid>
+      <description>Three new books by and about Romanian poet Paul Celan demonstrate that he was a problematic figure in many ways.</description>
     </item>
     <item>
       <title>Reductio Trad Absurdum</title>
@@ -85,13 +91,6 @@
       <link>https://lareviewofbooks.org/article/silent-friend-ildiko-enyedi-tony-leung-plants-technology/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/silent-friend-ildiko-enyedi-tony-leung-plants-technology/</guid>
       <description>Ildikó Enyedi’s film ‘Silent Friend’ daringly manipulates slow time to center a gingko tree protagonist among several generations of human companions.</description>
-    </item>
-    <item>
-      <title>The Embodiment of Lena Dunham</title>
-      <link>https://lareviewofbooks.org/article/lena-dunham-famesick-memoir-girls-celebrity-chronic-illness/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/lena-dunham-famesick-memoir-girls-celebrity-chronic-illness/</guid>
-      <description>Lena Dunham’s memoir shows the distorting effects of fame on her intimate relationships, especially with herself.</description>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
