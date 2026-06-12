@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:33:16 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Iran to ‘dad bods’ and Jeremy Hunt on UK growth. Plus Stanford’s ties to Big Tech, Marcel Theroux on Cambodia’s looted art — and Pilita Clark’s pick of environment titles</description>
+      <pubDate>Fri, 12 Jun 2026 12:02:28 +0000</pubDate>
+    </item>
     <item>
       <title>Contrapposto by Dave Eggers — in defence of art without ambition</title>
       <link>https://www.ft.com/content/864614ac-64eb-48f3-82f4-eef1881b4d58</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/bb0d7367-4424-46c8-bfa9-0c2d901693c6</guid>
       <description>The Chichester Festival Theatre production has inventive touches but lacks intensity</description>
       <pubDate>Mon, 08 Jun 2026 16:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From the crash of 1873 to our ‘might is right’ world order and a fan’s paean to George Michael. Plus dinosaurs, Andrew Sean Greer’s new novel, short stories by Ruth Ozeki — and Barry Forshaw’s pick of crime fiction</description>
-      <pubDate>Fri, 05 Jun 2026 11:57:03 +0000</pubDate>
     </item>
     <item>
       <title>The Typing Lady — short stories distil the essence of Ruth Ozeki’s fiction</title>
