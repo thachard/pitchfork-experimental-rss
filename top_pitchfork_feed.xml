@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 12:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 10:48:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hole – Celebrity Skin</title>
+      <link>https://pitchfork.com/reviews/albums/hole-celebrity-skin/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hole-celebrity-skin/</guid>
+      <description>A review by Quinn Moreland</description>
+      <author>Quinn Moreland</author>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Olivia Rodrigo – you seem pretty sad for a girl so in love</title>
       <link>https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/</link>
@@ -238,14 +246,6 @@
       <description>A review by Andrew Ryce</description>
       <author>Andrew Ryce</author>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Book of Love – Book of Love</title>
-      <link>https://pitchfork.com/reviews/albums/book-of-love-book-of-love/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/book-of-love-book-of-love/</guid>
-      <description>A review by illie Bugara</description>
-      <author>illie Bugara</author>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
