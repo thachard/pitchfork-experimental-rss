@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 15:27:24 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exquisite Objects, Exquisite Creature</title>
+      <link>https://lareviewofbooks.org/article/sweet-dove-died-barbara-pym-reissue-victorian-appraisers/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/sweet-dove-died-barbara-pym-reissue-victorian-appraisers/</guid>
+      <description>On Barbara Pym’s reissued novel of desire, aging, possession, and antiques.</description>
     </item>
     <item>
       <title>Glowing and Mundane</title>
@@ -33,16 +39,16 @@
       <description>What the music of ‘A Knight of the Seven Kingdoms’ tells us about heroism.</description>
     </item>
     <item>
-      <title>Looking Backward, Looking Outward</title>
-      <link>https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</guid>
-      <description>Ian Frazier’s late-career collection showcases his numerous skills as an essayist, but also the pitfalls of revisiting outdated cultural observations.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Looking Backward, Looking Outward</title>
+      <link>https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</guid>
+      <description>Ian Frazier’s late-career collection showcases his numerous skills as an essayist, but also the pitfalls of revisiting outdated cultural observations.</description>
     </item>
     <item>
       <title>Friendship as a Way of Life</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/my-year-paris-gertrude-stein-fiction-deborah-levy/</guid>
       <description>Deborah Levy’s latest novel offers potent musings on Gertrude Stein, modernism, and feminism.</description>
-    </item>
-    <item>
-      <title>Off, and Back On, with Her Head</title>
-      <link>https://lareviewofbooks.org/article/beheading-game-anne-boleyn-rebecca-lehmann-henry-viii/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/beheading-game-anne-boleyn-rebecca-lehmann-henry-viii/</guid>
-      <description>Rebecca Lehmann’s debut novel gives Anne Boleyn a new lease on decapitated life.</description>
     </item>
   </channel>
 </rss>
