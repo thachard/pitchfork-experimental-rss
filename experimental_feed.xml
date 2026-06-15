@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:52:33 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kelsey Lu – So Help Me God</title>
+      <link>https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/</guid>
+      <description>A review by Kiana Mickles</description>
+      <author>Kiana Mickles</author>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soli City – Poetics of a New Estate</title>
+      <link>https://pitchfork.com/reviews/albums/soli-city-poetics-of-a-new-estate/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/soli-city-poetics-of-a-new-estate/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ali Sethi / Gregory Rogove – Room Jhoom</title>
       <link>https://pitchfork.com/reviews/albums/ali-sethi-gregory-rogove-room-jhoom/</link>
@@ -182,22 +198,6 @@
       <description>A review by Ian Cohen</description>
       <author>Ian Cohen</author>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HYPER GAL – Our Hyper</title>
-      <link>https://pitchfork.com/reviews/albums/hyper-gal-our-hyper/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hyper-gal-our-hyper/</guid>
-      <description>A review by Jude Noel</description>
-      <author>Jude Noel</author>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>upsammy / Valentina Magaletti – Seismo</title>
-      <link>https://pitchfork.com/reviews/albums/upsammy-valentina-magaletti-seismo/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/upsammy-valentina-magaletti-seismo/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

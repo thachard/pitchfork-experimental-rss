@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:52:56 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best audiobooks to listen to this summer</title>
+      <link>https://www.ft.com/content/ef38974a-fc08-4aa5-8908-cbcd524d040e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ef38974a-fc08-4aa5-8908-cbcd524d040e</guid>
+      <description>Alex Clark selects her best mid-year titles to listen to</description>
+      <pubDate>Mon, 15 Jun 2026 04:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>The best crime and thriller books to read so far this year</title>
+      <link>https://www.ft.com/content/e50dfb16-6bb4-463f-b259-07fbaed144b9</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e50dfb16-6bb4-463f-b259-07fbaed144b9</guid>
+      <description>Barry Forshaw and Adam LeBor select their best mid-year reads</description>
+      <pubDate>Mon, 15 Jun 2026 04:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/7f641fa7-ae9f-4576-b7bb-6e214ddfaa57</guid>
       <description>A 1980s-set tale of childhood trauma and female friendship explores the unsettling space between real and imagined terrors</description>
       <pubDate>Tue, 12 May 2026 16:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wash by Erica Wagner — the man behind the Brooklyn Bridge</title>
-      <link>https://www.ft.com/content/40b96131-843e-41d2-9df9-d6a0c0643af5</link>
-      <guid isPermaLink="true">https://www.ft.com/content/40b96131-843e-41d2-9df9-d6a0c0643af5</guid>
-      <description>A poignant fictional account of the life of Washington Roebling and the engineering feat that dominates the New York cityscape</description>
-      <pubDate>Mon, 11 May 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dark is the Morning by Rupert Thomson — a question of infidelity</title>
-      <link>https://www.ft.com/content/909229a7-de85-4ee0-b722-9a2cb7295ac3</link>
-      <guid isPermaLink="true">https://www.ft.com/content/909229a7-de85-4ee0-b722-9a2cb7295ac3</guid>
-      <description>An Abruzzo-set tale about a man’s psychological unravelling is a surprising, skilfully wrought novel for a long, sweltering afternoon</description>
-      <pubDate>Fri, 08 May 2026 11:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

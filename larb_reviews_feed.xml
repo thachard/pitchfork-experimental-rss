@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:54:31 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glowing and Mundane</title>
+      <link>https://lareviewofbooks.org/article/fred-reichman-koan-house-seiko-california-modernism-minimalist/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/fred-reichman-koan-house-seiko-california-modernism-minimalist/</guid>
+      <description>Exploring an exhibition of paintings by Fred Reichman, a Bay Area bohemian who blended modernism and Zen in works of calligraphic spareness.</description>
     </item>
     <item>
       <title>Everybody Wants This</title>
@@ -33,16 +39,16 @@
       <description>Ian Frazier’s late-career collection showcases his numerous skills as an essayist, but also the pitfalls of revisiting outdated cultural observations.</description>
     </item>
     <item>
-      <title>Friendship as a Way of Life</title>
-      <link>https://lareviewofbooks.org/article/peter-hujar-paul-thek-wonderful-world-almost-was/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/peter-hujar-paul-thek-wonderful-world-almost-was/</guid>
-      <description>Art, love, and a dense web of friendships in a double biography and richly textured history of Downtown Manhattan from the 1960s to the ’80s.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Friendship as a Way of Life</title>
+      <link>https://lareviewofbooks.org/article/peter-hujar-paul-thek-wonderful-world-almost-was/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/peter-hujar-paul-thek-wonderful-world-almost-was/</guid>
+      <description>Art, love, and a dense web of friendships in a double biography and richly textured history of Downtown Manhattan from the 1960s to the ’80s.</description>
     </item>
     <item>
       <title>Long Live Poetry</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/beheading-game-anne-boleyn-rebecca-lehmann-henry-viii/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/beheading-game-anne-boleyn-rebecca-lehmann-henry-viii/</guid>
       <description>Rebecca Lehmann’s debut novel gives Anne Boleyn a new lease on decapitated life.</description>
-    </item>
-    <item>
-      <title>Plants in Focus</title>
-      <link>https://lareviewofbooks.org/article/silent-friend-ildiko-enyedi-tony-leung-plants-technology/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/silent-friend-ildiko-enyedi-tony-leung-plants-technology/</guid>
-      <description>Ildikó Enyedi’s film ‘Silent Friend’ daringly manipulates slow time to center a gingko tree protagonist among several generations of human companions.</description>
     </item>
   </channel>
 </rss>
