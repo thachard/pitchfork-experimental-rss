@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:53:15 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ruth Garbus – Profound</title>
+      <link>https://pitchfork.com/reviews/albums/ruth-garbus-profound/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ruth-garbus-profound/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hole – Celebrity Skin</title>
       <link>https://pitchfork.com/reviews/albums/hole-celebrity-skin/</link>
@@ -238,14 +246,6 @@
       <description>A review by Marissa Lorusso</description>
       <author>Marissa Lorusso</author>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yu Su – Foundry</title>
-      <link>https://pitchfork.com/reviews/albums/yu-su-foundry/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/yu-su-foundry/</guid>
-      <description>A review by Andrew Ryce</description>
-      <author>Andrew Ryce</author>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

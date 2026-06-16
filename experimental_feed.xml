@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:51:21 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Horse Lords – Demand to Be Taken to Heaven Alive!</title>
+      <link>https://pitchfork.com/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Booker Stardrum / Evan Shornstein – OOPS!</title>
+      <link>https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops/</guid>
+      <description>A review by Dash Lewis</description>
+      <author>Dash Lewis</author>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kelsey Lu – So Help Me God</title>
       <link>https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/</link>
@@ -182,22 +198,6 @@
       <description>A review by Marc Masters</description>
       <author>Marc Masters</author>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Handle – COLLIDE</title>
-      <link>https://pitchfork.com/reviews/albums/handle-collide/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/handle-collide/</guid>
-      <description>A review by Shaad D’Souza</description>
-      <author>Shaad D’Souza</author>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WU LYF – A Wave That Will Never Break</title>
-      <link>https://pitchfork.com/reviews/albums/wu-lyf-a-wave-that-will-never-break/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/wu-lyf-a-wave-that-will-never-break/</guid>
-      <description>A review by Ian Cohen</description>
-      <author>Ian Cohen</author>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
