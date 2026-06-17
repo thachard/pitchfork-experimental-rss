@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 15:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:15:43 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RaiNao – Macría</title>
+      <link>https://pitchfork.com/reviews/albums/rainao-macria/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rainao-macria/</guid>
+      <description>A review by Tatiana Lee Rodriguez</description>
+      <author>Tatiana Lee Rodriguez</author>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ruth Garbus – Profound</title>
       <link>https://pitchfork.com/reviews/albums/ruth-garbus-profound/</link>
@@ -238,14 +246,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fanny – Fanny Hill</title>
-      <link>https://pitchfork.com/reviews/albums/fanny-fanny-hill/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/fanny-fanny-hill/</guid>
-      <description>A review by Marissa Lorusso</description>
-      <author>Marissa Lorusso</author>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
