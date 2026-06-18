@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:34:54 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What the ‘Footprint’ Forgets</title>
+      <link>https://lareviewofbooks.org/article/footprint-four-itineraries-radhika-subramaniam-walking-colonial-erasure/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/footprint-four-itineraries-radhika-subramaniam-walking-colonial-erasure/</guid>
+      <description>Radhika Subramaniam unsettles the Anthropocene’s dominant metaphor for humans’ impact on the earth.</description>
     </item>
     <item>
       <title>Trauma Is a Narrative Problem</title>
@@ -33,16 +39,16 @@
       <description>Exploring an exhibition of paintings by Fred Reichman, a Bay Area bohemian who blended modernism and Zen in works of calligraphic spareness.</description>
     </item>
     <item>
-      <title>Everybody Wants This</title>
-      <link>https://lareviewofbooks.org/article/devil-wears-prada-2-review-miranda-media/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/devil-wears-prada-2-review-miranda-media/</guid>
-      <description>‘The Devil Wears Prada 2’ wants to rehabilitate the fashion industry’s brutal early 2000s workplace culture, but it can’t quite hide how much it misses it.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Everybody Wants This</title>
+      <link>https://lareviewofbooks.org/article/devil-wears-prada-2-review-miranda-media/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/devil-wears-prada-2-review-miranda-media/</guid>
+      <description>‘The Devil Wears Prada 2’ wants to rehabilitate the fashion industry’s brutal early 2000s workplace culture, but it can’t quite hide how much it misses it.</description>
     </item>
     <item>
       <title>I Need a Hero</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</guid>
       <description>How employees in the tech sector see the world, themselves, and the (im)possibility of change.</description>
-    </item>
-    <item>
-      <title>A Better World Is Not Possible</title>
-      <link>https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/</guid>
-      <description>Did the Weather Underground have a point?</description>
     </item>
   </channel>
 </rss>
