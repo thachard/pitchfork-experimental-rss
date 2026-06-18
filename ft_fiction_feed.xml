@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 17 Jun 2026 13:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:49:39 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best fiction and fiction in translation to read this summer</title>
+      <link>https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce</link>
+      <guid isPermaLink="true">https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce</guid>
+      <description>Maria Crawford and Ángel Gurría-Quintana select their best mid-year reads</description>
+      <pubDate>Thu, 18 Jun 2026 04:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The best science fiction and graphic novels to read this summer</title>
+      <link>https://www.ft.com/content/ca03faf7-f50f-48d3-a7d0-3648409870eb</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ca03faf7-f50f-48d3-a7d0-3648409870eb</guid>
+      <description>James Lovegrove and Lucy Scholes select their best mid-year reads</description>
+      <pubDate>Wed, 17 Jun 2026 14:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best literary non-fiction and poetry to read this summer</title>
       <link>https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8c924938-d077-41db-a81f-7b4e54baf397</guid>
       <description>The Pulitzer-winning author weaves an account of a real-life cotton workers’ strike in Mexico in the 1930s with her own family history, memoir and invented tales</description>
       <pubDate>Mon, 18 May 2026 16:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interview.Douglas Stuart: ‘I write to make sense of my nation’</title>
-      <link>https://www.ft.com/content/e2fa3603-d52a-4672-a541-c9e0f4ecd73b</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e2fa3603-d52a-4672-a541-c9e0f4ecd73b</guid>
-      <description>The ‘Shuggie Bain’ author about his struggles growing up in Scotland and new novel ‘John of John’ that is packed with themes  of  love,  sexuality,  class  and  inheritance</description>
-      <pubDate>Sat, 16 May 2026 04:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uprising — Tahmima Anam’s novel of rebellion is her finest to date</title>
-      <link>https://www.ft.com/content/f6555252-3aaa-4b83-b43f-cbdfb873c185</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f6555252-3aaa-4b83-b43f-cbdfb873c185</guid>
-      <description>Seen through children’s eyes, this fable of oppression draws on a real-life ‘floating brothel’ in Bangladesh, as well as the country’s revolutions</description>
-      <pubDate>Thu, 14 May 2026 12:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
