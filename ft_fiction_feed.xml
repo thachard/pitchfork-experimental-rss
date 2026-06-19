@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 18 Jun 2026 13:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:04:16 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books for children and young adults to read this summer</title>
+      <link>https://www.ft.com/content/a91b7b64-0828-4374-87db-083469e045f1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a91b7b64-0828-4374-87db-083469e045f1</guid>
+      <description>James Lovegrove and Suzi Feay select their best mid-year reads</description>
+      <pubDate>Thu, 18 Jun 2026 14:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>The best fiction and fiction in translation to read this summer</title>
       <link>https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/26540753-563f-4f52-98c3-e4f981f273c0</guid>
       <description>A historical tale of travel, power and romance is the first Taiwanese novel to win the influential award for fiction in translation</description>
       <pubDate>Tue, 19 May 2026 21:32:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autobiography of Cotton by Cristina Rivera Garza — truths told through fact and fiction</title>
-      <link>https://www.ft.com/content/8c924938-d077-41db-a81f-7b4e54baf397</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8c924938-d077-41db-a81f-7b4e54baf397</guid>
-      <description>The Pulitzer-winning author weaves an account of a real-life cotton workers’ strike in Mexico in the 1930s with her own family history, memoir and invented tales</description>
-      <pubDate>Mon, 18 May 2026 16:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

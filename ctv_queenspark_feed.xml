@@ -5,7 +5,7 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 18 Jun 2026 13:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:04:45 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ontario signs critical minerals agreement with the UK</title>
@@ -92,13 +92,6 @@
       <pubDate>Mon, 08 Jun 2026 22:31:30 +0000</pubDate>
     </item>
     <item>
-      <title>Most OSAP growth came from career college students, documents show</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/most-osap-growth-came-from-career-college-students-documents-show/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/most-osap-growth-came-from-career-college-students-documents-show/</guid>
-      <description>When Ontario Premier Doug Ford’s government drastically cut student assistance grants earlier this year, it cited “unsustainable” costs, but new figures show nearly all of the recent growth was among career college students.</description>
-      <pubDate>Fri, 05 Jun 2026 16:20:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Unionized workers in Ontario rally for lost wages, transparency on $1B spent on privately administered government programs</title>
       <link>https://www.ctvnews.ca/toronto/article/unionized-workers-rally-for-lost-wages-transparency-on-1b-spent-on-privately-administered-government-programs/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/unionized-workers-rally-for-lost-wages-transparency-on-1b-spent-on-privately-administered-government-programs/</guid>
@@ -111,6 +104,13 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/report-says-billy-bishop-expansion-could-impact-thousands-of-homes-along-waterfront/</guid>
       <description>A new report from city staff is warning that any expansion of Billy Bishop airport could result in major adverse impacts on housing, congestion, the environment and the waterfront as a whole.</description>
       <pubDate>Fri, 05 Jun 2026 01:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carney has not formed opinion on Ford&apos;s island airport expansion vision in Toronto</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/carney-has-not-formed-opinion-on-fords-island-airport-expansion-vision-in-toronto/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/carney-has-not-formed-opinion-on-fords-island-airport-expansion-vision-in-toronto/</guid>
+      <description>Prime Minister Mark Carney says he has not formed an opinion on Ontario Premier Doug Ford’s plan to expand Toronto’s island airport.</description>
+      <pubDate>Thu, 04 Jun 2026 20:07:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

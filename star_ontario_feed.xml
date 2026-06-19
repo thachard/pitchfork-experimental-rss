@@ -5,14 +5,21 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 18 Jun 2026 13:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:05:21 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ford government nominees will face opposition throughout summer break, Speaker rules</title>
+      <link>https://www.thestar.com/politics/provincial/ford-government-nominees-will-face-opposition-throughout-summer-break-speaker-rules/article_1df72212-6571-42a7-ba9b-0bb7fff1d65e.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ford-government-nominees-will-face-opposition-throughout-summer-break-speaker-rules/article_1df72212-6571-42a7-ba9b-0bb7fff1d65e.html</guid>
+      <description>There will be no rubber-stamping of Premier Doug Ford&apos;s nominees to roles on influential agencies, boards and commissions during the Ontario l…</description>
+      <pubDate>Fri, 19 Jun 2026 06:41:49 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario needs 60,000 more university grads in these key areas over next decade</title>
       <link>https://www.thestar.com/politics/ontario-needs-60000-more-university-grads-in-these-key-areas-over-next-decade-report/article_3a13e53d-7168-4d6d-9693-7bfe18b88bda.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/ontario-needs-60000-more-university-grads-in-these-key-areas-over-next-decade-report/article_3a13e53d-7168-4d6d-9693-7bfe18b88bda.html</guid>
-      <description>Science/technology, health care and business are the biggest needs in analysis from Stokes Economics, commissioned by Council of Ontario Universities.</description>
-      <pubDate>Thu, 18 Jun 2026 09:26:39 +0000</pubDate>
+      <description></description>
+      <pubDate>Thu, 18 Jun 2026 10:56:41 +0000</pubDate>
     </item>
     <item>
       <title>Navdeep Bains plans to run for the Liberals regardless of whether he wins the leadership</title>
@@ -39,7 +46,7 @@
       <title>Doug Ford is getting a ‘free ride’ on the economy and is ‘detached’ from reality, says Navdeep Bains</title>
       <link>https://www.thestar.com/politics/provincial/doug-ford-is-getting-free-ride-on-economy-and-is-detached-from-reality-says-navdeep-bains/article_7cff25f9-f83d-49bd-8c66-cf54174e63a3.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-is-getting-free-ride-on-economy-and-is-detached-from-reality-says-navdeep-bains/article_7cff25f9-f83d-49bd-8c66-cf54174e63a3.html</guid>
-      <description></description>
+      <description>In his first interview since joining the race, Bains said Ford&apos;s Conservatives &quot;are not focusing on the real ... challenges that people are facing.&quot;</description>
       <pubDate>Mon, 15 Jun 2026 18:30:04 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/political-opinion/navdeep-bains-says-his-strength-is-doug-fords-weakness/article_1afa89c4-d524-449d-a2a7-79f4dca73fd5.html</guid>
       <description>The former cabinet minister who dropped out of federal politics five years ago is now the presumed front-runner in the race to be Ontario’s ne…</description>
       <pubDate>Mon, 15 Jun 2026 22:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dates set for Ontario teacher contract talks with Ford government</title>
-      <link>https://www.thestar.com/politics/provincial/dates-set-for-ontario-teacher-contract-talks-with-ford-government/article_3c0e419b-8aa2-4f6d-aedb-d748d49d2f23.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/dates-set-for-ontario-teacher-contract-talks-with-ford-government/article_3c0e419b-8aa2-4f6d-aedb-d748d49d2f23.html</guid>
-      <description>This is the first round of bargaining under legislative changes, removing English public trustees from provincial talks.</description>
-      <pubDate>Fri, 12 Jun 2026 20:23:20 +0000</pubDate>
     </item>
     <item>
       <title>Carney government commits $6 billion to boost skilled trades</title>
@@ -78,6 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 16:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>Dates set for Ontario teacher contract talks with Ford government</title>
+      <link>https://www.thestar.com/politics/provincial/dates-set-for-ontario-teacher-contract-talks-with-ford-government/article_3c0e419b-8aa2-4f6d-aedb-d748d49d2f23.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/dates-set-for-ontario-teacher-contract-talks-with-ford-government/article_3c0e419b-8aa2-4f6d-aedb-d748d49d2f23.html</guid>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2026 20:23:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Environmental groups cheer Ontario’s addition of battery storage to electricity grid</title>
       <link>https://www.thestar.com/news/ontario/environmental-groups-cheer-ontarios-addition-of-battery-storage-to-electricity-grid/article_65289533-c659-5de7-b49a-97b10700813b.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/environmental-groups-cheer-ontarios-addition-of-battery-storage-to-electricity-grid/article_65289533-c659-5de7-b49a-97b10700813b.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/tories-challenge-ruling-allowing-scrutiny-of-ontario-government-appointments/article_0746e091-7910-478c-93d8-70cec2c7e379.html</guid>
       <description></description>
       <pubDate>Thu, 11 Jun 2026 18:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>$198M contract awarded for Ontario Place parking garage</title>
-      <link>https://www.thestar.com/politics/provincial/198m-contract-awarded-for-ontario-place-parking-garage/article_5cd77b2a-a9a3-471c-b1f5-5535ea027e15.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/198m-contract-awarded-for-ontario-place-parking-garage/article_5cd77b2a-a9a3-471c-b1f5-5535ea027e15.html</guid>
-      <description></description>
-      <pubDate>Fri, 12 Jun 2026 09:31:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

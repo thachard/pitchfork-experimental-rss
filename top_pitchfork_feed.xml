@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 13:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:05:30 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Miles Davis – Miles ’56: The Prestige Recordings</title>
+      <link>https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/</guid>
+      <description>A review by Natalie Weiner</description>
+      <author>Natalie Weiner</author>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>RaiNao – Marcriá</title>
       <link>https://pitchfork.com/reviews/albums/rainao-macria/</link>
@@ -238,14 +246,6 @@
       <description>A review by Delilah Friedler</description>
       <author>Delilah Friedler</author>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>American Football – American Football (LP4)</title>
-      <link>https://pitchfork.com/reviews/albums/american-football-american-football-lp4/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/american-football-american-football-lp4/</guid>
-      <description>A review by Sam Sodomsky</description>
-      <author>Sam Sodomsky</author>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
