@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 19 Jun 2026 13:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:31:13 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FT readers’ favourite books of 2026 so far</title>
+      <link>https://www.ft.com/content/b07183bf-afd2-4659-9d7a-e98c95197403</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b07183bf-afd2-4659-9d7a-e98c95197403</guid>
+      <description>We asked you to share with us your favourite reads of the year so far — and here is what you told us</description>
+      <pubDate>Fri, 19 Jun 2026 16:43:07 +0000</pubDate>
+    </item>
     <item>
       <title>The best books for children and young adults to read this summer</title>
       <link>https://www.ft.com/content/a91b7b64-0828-4374-87db-083469e045f1</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/03bcb022-0d40-458c-bdc8-0460d5e888cb</guid>
       <description>The American author’s 10th novel is a compassionate portrait of a blended family in the aftermath of an unexpected reunion</description>
       <pubDate>Thu, 21 May 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yáng Shuāng-zi and Lin King win the International Booker Prize</title>
-      <link>https://www.ft.com/content/26540753-563f-4f52-98c3-e4f981f273c0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/26540753-563f-4f52-98c3-e4f981f273c0</guid>
-      <description>A historical tale of travel, power and romance is the first Taiwanese novel to win the influential award for fiction in translation</description>
-      <pubDate>Tue, 19 May 2026 21:32:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
