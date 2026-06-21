@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 11:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:23:38 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>Life on a Tube Filled With Seamen</title>
@@ -27,13 +27,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/straight-man</guid>
       <description>On Ben Lerner&apos;s &apos;Transcription&apos;</description>
       <pubDate>Wed, 20 May 2026 16:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cannibalism, Pederasty, and the Next Upgrade</title>
-      <link>https://www.metropolitanreview.org/p/cannibalism-pederasty-and-the-next</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/cannibalism-pederasty-and-the-next</guid>
-      <description>On Sibylle Berg&amp;#8217;s &amp;#8216;Grime&amp;#8217;</description>
-      <pubDate>Wed, 13 May 2026 15:07:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
