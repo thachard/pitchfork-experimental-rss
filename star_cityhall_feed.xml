@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 21 Jun 2026 11:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 11:58:03 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>What does it take to raise a World Cup athlete? Team Canada dads say it’s sacrifice, encouragement — and love</title>
@@ -78,6 +78,13 @@
       <pubDate>Sat, 23 May 2026 14:53:08 +0000</pubDate>
     </item>
     <item>
+      <title>Eastbound Hwy. 401 closed at Kipling after multi-vehicle crash</title>
+      <link>https://www.thestar.com/news/gta/eastbound-hwy-401-closed-at-kipling-after-multi-vehicle-crash/article_f4f04ffb-4221-4b18-9908-b791cf82f6a2.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/eastbound-hwy-401-closed-at-kipling-after-multi-vehicle-crash/article_f4f04ffb-4221-4b18-9908-b791cf82f6a2.html</guid>
+      <description></description>
+      <pubDate>Sun, 21 Jun 2026 07:48:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Police identify man found fatally shot in laneway near Keele and Eglinton</title>
       <link>https://www.thestar.com/news/gta/police-identify-man-found-fatally-shot-in-laneway-near-keele-and-eglinton/article_664f5ce6-a199-41f6-83e9-05a8d4a3f87b.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/police-identify-man-found-fatally-shot-in-laneway-near-keele-and-eglinton/article_664f5ce6-a199-41f6-83e9-05a8d4a3f87b.html</guid>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-critically-injured-in-downtown-toronto-apartment-shooting/article_8deca375-0aa2-45ce-9ae2-46db928ff682.html</guid>
       <description></description>
       <pubDate>Sat, 20 Jun 2026 19:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>More drones caught by police near restricted World Cup sites in Toronto</title>
-      <link>https://www.thestar.com/news/gta/8th-drone-intercepted-near-world-cup-fan-fest-in-toronto/article_1a1c048b-15c9-4f87-a261-82b9df25c3ce.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/8th-drone-intercepted-near-world-cup-fan-fest-in-toronto/article_1a1c048b-15c9-4f87-a261-82b9df25c3ce.html</guid>
-      <description></description>
-      <pubDate>Sat, 20 Jun 2026 21:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
