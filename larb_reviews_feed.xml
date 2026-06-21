@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 12:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 11:17:22 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The University as Giant App</title>
+      <link>https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/</guid>
+      <description>Theo Baker’s book about Stanford offers a shockingly frank look at a campus that is as tightly governed as a Siberian labor camp—one perhaps designed by Sergey Brin.</description>
     </item>
     <item>
       <title>What the ‘Footprint’ Forgets</title>
@@ -33,16 +39,16 @@
       <description>On Barbara Pym’s reissued novel of desire, aging, possession, and antiques.</description>
     </item>
     <item>
-      <title>Glowing and Mundane</title>
-      <link>https://lareviewofbooks.org/article/fred-reichman-koan-house-seiko-california-modernism-minimalist/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/fred-reichman-koan-house-seiko-california-modernism-minimalist/</guid>
-      <description>Exploring an exhibition of paintings by Fred Reichman, a Bay Area bohemian who blended modernism and Zen in works of calligraphic spareness.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Glowing and Mundane</title>
+      <link>https://lareviewofbooks.org/article/fred-reichman-koan-house-seiko-california-modernism-minimalist/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/fred-reichman-koan-house-seiko-california-modernism-minimalist/</guid>
+      <description>Exploring an exhibition of paintings by Fred Reichman, a Bay Area bohemian who blended modernism and Zen in works of calligraphic spareness.</description>
     </item>
     <item>
       <title>Everybody Wants This</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</guid>
       <description>An apologia for America’s favorite sport fails to recognize the precariousness of its cultural dominance.</description>
-    </item>
-    <item>
-      <title>The Revolution Will Not Be Digitized</title>
-      <link>https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/social-codes-tech-workers-class-identity-digital-capitalism/</guid>
-      <description>How employees in the tech sector see the world, themselves, and the (im)possibility of change.</description>
     </item>
   </channel>
 </rss>
