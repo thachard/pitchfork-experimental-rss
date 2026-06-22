@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:04:43 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poem on Fire</title>
+      <link>https://lareviewofbooks.org/article/swirl-vortex-collected-poems-larry-levis-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/swirl-vortex-collected-poems-larry-levis-california/</guid>
+      <description>Larry Levis’s collected poems tell the present moment to go to hell.</description>
     </item>
     <item>
       <title>Traces of Looking and Feeling</title>
@@ -33,16 +39,16 @@
       <description>Radhika Subramaniam unsettles the Anthropocene’s dominant metaphor for humans’ impact on the earth.</description>
     </item>
     <item>
-      <title>Trauma Is a Narrative Problem</title>
-      <link>https://lareviewofbooks.org/article/dog-days-emily-labarge-trauma-memoir-psychology-philosophy/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dog-days-emily-labarge-trauma-memoir-psychology-philosophy/</guid>
-      <description>In Emily LaBarge’s new memoir, trauma’s intensity and unknowable nature impel her to try to communicate it.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Trauma Is a Narrative Problem</title>
+      <link>https://lareviewofbooks.org/article/dog-days-emily-labarge-trauma-memoir-psychology-philosophy/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dog-days-emily-labarge-trauma-memoir-psychology-philosophy/</guid>
+      <description>In Emily LaBarge’s new memoir, trauma’s intensity and unknowable nature impel her to try to communicate it.</description>
     </item>
     <item>
       <title>Exquisite Objects, Exquisite Creature</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/paul-celan-life-letters-gisele-conversation-mountains-poetry/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/paul-celan-life-letters-gisele-conversation-mountains-poetry/</guid>
       <description>Three new books by and about Romanian poet Paul Celan demonstrate that he was a problematic figure in many ways.</description>
-    </item>
-    <item>
-      <title>Reductio Trad Absurdum</title>
-      <link>https://lareviewofbooks.org/article/yesteryear-caro-claire-burke-tradwives-girlboss-feminism-farm/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/yesteryear-caro-claire-burke-tradwives-girlboss-feminism-farm/</guid>
-      <description>The matrix of discontent gives birth (naturally, no epidural) to the girlboss’s perfect foil: the online tradwife.</description>
     </item>
   </channel>
 </rss>
