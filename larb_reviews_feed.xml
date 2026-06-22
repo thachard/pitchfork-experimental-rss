@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:36:29 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traces of Looking and Feeling</title>
+      <link>https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</guid>
+      <description>A George Whitmore reissue translates the historical feeling of queer coming-of-age in the 1950s for contemporary readers without slipping into exploitation.</description>
     </item>
     <item>
       <title>The University as Giant App</title>
@@ -33,16 +39,16 @@
       <description>In Emily LaBarge’s new memoir, trauma’s intensity and unknowable nature impel her to try to communicate it.</description>
     </item>
     <item>
-      <title>Exquisite Objects, Exquisite Creature</title>
-      <link>https://lareviewofbooks.org/article/sweet-dove-died-barbara-pym-reissue-victorian-appraisers/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/sweet-dove-died-barbara-pym-reissue-victorian-appraisers/</guid>
-      <description>On Barbara Pym’s reissued novel of desire, aging, possession, and antiques.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Exquisite Objects, Exquisite Creature</title>
+      <link>https://lareviewofbooks.org/article/sweet-dove-died-barbara-pym-reissue-victorian-appraisers/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/sweet-dove-died-barbara-pym-reissue-victorian-appraisers/</guid>
+      <description>On Barbara Pym’s reissued novel of desire, aging, possession, and antiques.</description>
     </item>
     <item>
       <title>Glowing and Mundane</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/yesteryear-caro-claire-burke-tradwives-girlboss-feminism-farm/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/yesteryear-caro-claire-burke-tradwives-girlboss-feminism-farm/</guid>
       <description>The matrix of discontent gives birth (naturally, no epidural) to the girlboss’s perfect foil: the online tradwife.</description>
-    </item>
-    <item>
-      <title>The Decline and Fall of the Football Empire</title>
-      <link>https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/football-chuck-klosterman-sports-betting-cte-grand-narrative/</guid>
-      <description>An apologia for America’s favorite sport fails to recognize the precariousness of its cultural dominance.</description>
     </item>
   </channel>
 </rss>
