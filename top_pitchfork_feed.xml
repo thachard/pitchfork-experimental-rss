@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:42:16 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaeychino – IF YOU KNEW</title>
+      <link>https://pitchfork.com/reviews/albums/jaeychino-if-you-knew/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jaeychino-if-you-knew/</guid>
+      <description>A review by Olivier Lafontant</description>
+      <author>Olivier Lafontant</author>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tyshawn Sorey – Members… Don’t!</title>
+      <link>https://pitchfork.com/reviews/albums/tyshawn-sorey-members-dont/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tyshawn-sorey-members-dont/</guid>
+      <description>A review by Rae-Aila Crumble</description>
+      <author>Rae-Aila Crumble</author>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miles Davis – Miles ’56: The Prestige Recordings</title>
       <link>https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/</link>
@@ -230,22 +246,6 @@
       <description>A review by Philip Sherburne</description>
       <author>Philip Sherburne</author>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ana Roxanne – Poem 1</title>
-      <link>https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Octo Octa – Sigils for Survival</title>
-      <link>https://pitchfork.com/reviews/albums/octo-octa-sigils-for-survival/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/octo-octa-sigils-for-survival/</guid>
-      <description>A review by Delilah Friedler</description>
-      <author>Delilah Friedler</author>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

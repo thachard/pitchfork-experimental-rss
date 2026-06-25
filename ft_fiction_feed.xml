@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:39:46 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Exhibition — the uneasy boundary between art, identity and class</title>
+      <link>https://www.ft.com/content/1aa92f04-382d-423c-8cac-5c716fbab765</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1aa92f04-382d-423c-8cac-5c716fbab765</guid>
+      <description>Alex Hyde’s novel about the relationship between a photographer and an artist with parallels to Tracey Emin raises questions about who gets to be seen as a genius</description>
+      <pubDate>Wed, 24 Jun 2026 16:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Long Wave — lost mothers and missing children</title>
       <link>https://www.ft.com/content/0522d994-87ec-4c75-91b6-7224939a5fbe</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8066e5bd-35ff-40aa-8a3b-afdda733b84e</guid>
       <description>From an author who pens songs of masculinity and working-class strife comes a pitch-perfect novel that may be his finest yet</description>
       <pubDate>Fri, 22 May 2026 11:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interview.International Booker Prize winner Yáng Shuāng-zi: ‘We still live under a colonial regime’</title>
-      <link>https://www.ft.com/content/5365f36a-5981-456f-8a8b-33618b1ed92e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/5365f36a-5981-456f-8a8b-33618b1ed92e</guid>
-      <description>The writer, along with her translator Lin King, on using the power of fiction to bring Taiwan out of the shadow of China</description>
-      <pubDate>Thu, 21 May 2026 18:02:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
