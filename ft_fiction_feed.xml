@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:39:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:57:30 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The End of Everything by M John Harrison — a dark vision of Britain’s decline</title>
+      <link>https://www.ft.com/content/270700cc-0fa8-45dc-8a3d-708f2ce11cbe</link>
+      <guid isPermaLink="true">https://www.ft.com/content/270700cc-0fa8-45dc-8a3d-708f2ce11cbe</guid>
+      <description>A characteristically apocalyptic novel is both a horrifying and compassionate view of an isolated nation where yuppie super-aliens live among dislocated humans</description>
+      <pubDate>Thu, 25 Jun 2026 11:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>Exhibition — the uneasy boundary between art, identity and class</title>
       <link>https://www.ft.com/content/1aa92f04-382d-423c-8cac-5c716fbab765</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</guid>
       <description>Twists, turns and revelations feature in the tragic loss of a young man in ‘London Falling’, while ‘Yesteryear’ is one of this summer’s most talked-about debuts</description>
       <pubDate>Mon, 25 May 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Left and the Lucky — Willy Vlautin’s hymn to blue-collar American grit</title>
-      <link>https://www.ft.com/content/8066e5bd-35ff-40aa-8a3b-afdda733b84e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8066e5bd-35ff-40aa-8a3b-afdda733b84e</guid>
-      <description>From an author who pens songs of masculinity and working-class strife comes a pitch-perfect novel that may be his finest yet</description>
-      <pubDate>Fri, 22 May 2026 11:50:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
