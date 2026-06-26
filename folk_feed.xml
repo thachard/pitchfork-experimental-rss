@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:48:57 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>River Shook – River Shook</title>
+      <link>https://pitchfork.com/reviews/albums/river-shook-river-shook/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/river-shook-river-shook/</guid>
+      <description>A review by rad Sanders</description>
+      <author>rad Sanders</author>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tucker Zimmerman – Dream Me a Dream</title>
       <link>https://pitchfork.com/reviews/albums/tucker-zimmerman-dream-me-a-dream/</link>
@@ -190,14 +198,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iron &amp; Wine – Hen’s Teeth</title>
-      <link>https://pitchfork.com/reviews/albums/iron-and-wine-hens-teeth/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/iron-and-wine-hens-teeth/</guid>
-      <description>A review by Stephen Thomas Erlewine</description>
-      <author>Stephen Thomas Erlewine</author>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

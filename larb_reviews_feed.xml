@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:52:39 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dancing in Shackles</title>
+      <link>https://lareviewofbooks.org/article/wall-dancers-china-liu-millennial-north-korea-kim/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/wall-dancers-china-liu-millennial-north-korea-kim/</guid>
+      <description>Two new books about internet control in China and North Korea address the potent question of what it means to be free online.</description>
     </item>
     <item>
       <title>The Deadline Dickens</title>
@@ -33,16 +39,16 @@
       <description>Larry Levis’s collected poems tell the present moment to go to hell.</description>
     </item>
     <item>
-      <title>Traces of Looking and Feeling</title>
-      <link>https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</guid>
-      <description>A George Whitmore reissue translates the historical feeling of queer coming-of-age in the 1950s for contemporary readers without slipping into exploitation.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Traces of Looking and Feeling</title>
+      <link>https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</guid>
+      <description>A George Whitmore reissue translates the historical feeling of queer coming-of-age in the 1950s for contemporary readers without slipping into exploitation.</description>
     </item>
     <item>
       <title>The University as Giant App</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/game-thrones-knight-seven-kingdoms-music-score-dunk/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/game-thrones-knight-seven-kingdoms-music-score-dunk/</guid>
       <description>What the music of ‘A Knight of the Seven Kingdoms’ tells us about heroism.</description>
-    </item>
-    <item>
-      <title>Looking Backward, Looking Outward</title>
-      <link>https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/snakes-that-ate-florida-ian-frazier-humorist-essays/</guid>
-      <description>Ian Frazier’s late-career collection showcases his numerous skills as an essayist, but also the pitfalls of revisiting outdated cultural observations.</description>
     </item>
   </channel>
 </rss>

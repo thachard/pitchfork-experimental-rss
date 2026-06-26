@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:48:51 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Félicia Atkinson – SANS VISAGE</title>
+      <link>https://pitchfork.com/reviews/albums/felicia-atkinson-sans-visage/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/felicia-atkinson-sans-visage/</guid>
+      <description>A review by Vanessa Ague</description>
+      <author>Vanessa Ague</author>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>BASIC – BASIC</title>
       <link>https://pitchfork.com/reviews/albums/basic-basic/</link>
@@ -190,14 +198,6 @@
       <description>A review by Jesse Jarnow</description>
       <author>Jesse Jarnow</author>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gobby – i guess bro</title>
-      <link>https://pitchfork.com/reviews/albums/gobby-i-guess-bro/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gobby-i-guess-bro/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
