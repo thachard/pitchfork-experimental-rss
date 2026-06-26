@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 12:25:58 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From 250 years of US independence to Trump’s second term, from Ceauşescu’s Romania to the Nord Stream bombing. Plus David Thomson’s life in movies, novels about aliens and YBAs — and Tej Parikh’s pick of economics titles</description>
+      <pubDate>Fri, 26 Jun 2026 11:59:13 +0000</pubDate>
+    </item>
     <item>
       <title>The End of Everything by M John Harrison — a dark vision of Britain’s decline</title>
       <link>https://www.ft.com/content/270700cc-0fa8-45dc-8a3d-708f2ce11cbe</link>
@@ -76,13 +83,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/e50dfb16-6bb4-463f-b259-07fbaed144b9</guid>
       <description>Barry Forshaw and Adam LeBor select their best mid-year reads</description>
       <pubDate>Mon, 15 Jun 2026 04:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Iran to ‘dad bods’ and Jeremy Hunt on UK growth. Plus Stanford’s ties to Big Tech, Marcel Theroux on Cambodia’s looted art — and Pilita Clark’s pick of environment titles</description>
-      <pubDate>Fri, 12 Jun 2026 12:02:28 +0000</pubDate>
     </item>
     <item>
       <title>Contrapposto by Dave Eggers — in defence of art without ambition</title>
