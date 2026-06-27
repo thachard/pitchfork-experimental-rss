@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 27 Jun 2026 10:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:07:27 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Will the third time be the charm for the NDP candidate in Scarborough Southwest?</title>
+      <link>https://www.thestar.com/politics/provincial/will-the-third-time-be-the-charm-for-the-ndp-candidate-in-scarborough-southwest/article_91bbcf0f-d7aa-4970-babc-5da91cf43520.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/will-the-third-time-be-the-charm-for-the-ndp-candidate-in-scarborough-southwest/article_91bbcf0f-d7aa-4970-babc-5da91cf43520.html</guid>
+      <description>After defeats in the most recent provincial and federal elections, Fatima Shaban believes she has momentum on her side this time.</description>
+      <pubDate>Sat, 27 Jun 2026 07:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nate Erskine-Smith rules out bid for provincial Liberal leadership, still considering run for city office</title>
       <link>https://www.thestar.com/politics/provincial/nate-erskine-smith-rules-out-bid-for-provincial-liberal-leadership-still-considering-run-for-city-office/article_988e6b2d-dfe3-4cf6-96de-92f288e53204.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/nate-erskine-smith-rules-out-bid-for-provincial-liberal-leadership-still-considering-run-for-city-office/article_988e6b2d-dfe3-4cf6-96de-92f288e53204.html</guid>
-      <description>On Thursday, Erskine-Smith said he&apos;s ruled out provincial ambitions after losing the Scarborough Southwest Liberal nomination. “Having gone th…</description>
+      <description></description>
       <pubDate>Fri, 26 Jun 2026 10:35:41 +0000</pubDate>
     </item>
     <item>
@@ -39,7 +46,7 @@
       <title>Doug Ford says he isn’t going anywhere</title>
       <link>https://www.thestar.com/politics/provincial/doug-ford-says-he-isnt-going-anywhere/article_4df6cea1-fc33-4e85-9205-c02324459383.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-says-he-isnt-going-anywhere/article_4df6cea1-fc33-4e85-9205-c02324459383.html</guid>
-      <description></description>
+      <description>&quot;If the election was held today, we wouldn&apos;t just form a majority, we would form another … supermajority,&quot; Ontario&apos;s premier said.</description>
       <pubDate>Tue, 23 Jun 2026 19:36:15 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/doug-fords-office-offers-explanation-about-edited-ford-fest-photo-experts-say-they-are-skeptical/article_0ffc2b3c-e4ab-4ae3-9492-e2bdf73469c5.html</guid>
       <description>Progressive Conservative Party MPPs posted photos to social media that appeared to be edited to make protesters at Ford Fest look like fans.</description>
       <pubDate>Tue, 23 Jun 2026 19:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario reveals new high school exam requirements — including gym. Critics say it’s a ‘one-size-fits-all’ approach</title>
-      <link>https://www.thestar.com/news/ontario/ontario-reveals-new-high-school-exam-requirements-docked-marks-for-unexcused-absences/article_6b9e6ed7-7098-4b5a-a6cb-cce9d4bcb40e.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontario-reveals-new-high-school-exam-requirements-docked-marks-for-unexcused-absences/article_6b9e6ed7-7098-4b5a-a6cb-cce9d4bcb40e.html</guid>
-      <description>Students must write exams in almost all subjects starting this fall — including gym, art and tech — Education Minister Paul Calandra said.</description>
-      <pubDate>Tue, 23 Jun 2026 15:14:13 +0000</pubDate>
     </item>
     <item>
       <title>Carney government commits $6 billion to boost skilled trades</title>
@@ -78,6 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 16:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>Ontario reveals new high school exam requirements — including gym. Critics say it’s a ‘one-size-fits-all’ approach</title>
+      <link>https://www.thestar.com/news/ontario/ontario-reveals-new-high-school-exam-requirements-docked-marks-for-unexcused-absences/article_6b9e6ed7-7098-4b5a-a6cb-cce9d4bcb40e.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontario-reveals-new-high-school-exam-requirements-docked-marks-for-unexcused-absences/article_6b9e6ed7-7098-4b5a-a6cb-cce9d4bcb40e.html</guid>
+      <description></description>
+      <pubDate>Tue, 23 Jun 2026 15:14:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Doug Ford names PC candidate for York—Simcoe byelection</title>
       <link>https://www.thestar.com/politics/provincial/doug-ford-names-pc-candidate-for-yorksimcoe-byelection/article_53dd5268-fe58-416e-aff8-7ae517d5ecdb.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-names-pc-candidate-for-yorksimcoe-byelection/article_53dd5268-fe58-416e-aff8-7ae517d5ecdb.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-says-hes-sticking-around-that-hasnt-stopped-speculation-about-his-successoras-pc-leader/article_cca5df60-1ac0-4b9e-aa00-d784ed269335.html</guid>
       <description></description>
       <pubDate>Thu, 25 Jun 2026 06:44:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expanded HST rebate on new Ontario homes launches Monday after three-month wait</title>
-      <link>https://www.thestar.com/real-estate/expanded-hst-rebate-in-ontario-set-to-take-effect-monday-after-three-month-wait/article_70d6f1dd-5a64-46f9-8670-cfabe1a19bb2.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/real-estate/expanded-hst-rebate-in-ontario-set-to-take-effect-monday-after-three-month-wait/article_70d6f1dd-5a64-46f9-8670-cfabe1a19bb2.html</guid>
-      <description></description>
-      <pubDate>Wed, 24 Jun 2026 13:03:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
