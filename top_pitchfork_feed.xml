@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 11:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:28:00 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bryan Ferry – Boys and Girls</title>
+      <link>https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/</guid>
+      <description>A review by Daniel Felsenthal</description>
+      <author>Daniel Felsenthal</author>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Charanjit Singh – Synthesizing: Ten Ragas to a Disco Beat</title>
       <link>https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/</link>
@@ -238,14 +246,6 @@
       <description>A review by illie Bugara</description>
       <author>illie Bugara</author>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aldous Harding – Train on the Island</title>
-      <link>https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
