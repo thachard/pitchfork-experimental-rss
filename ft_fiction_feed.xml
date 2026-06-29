@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 28 Jun 2026 11:58:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:29:20 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A cold war-set debut, plus a superhero satire turns savage — the best new science-fiction books</title>
+      <link>https://www.ft.com/content/40abef4f-d32a-477a-bf3f-0e7eb6d4ca53</link>
+      <guid isPermaLink="true">https://www.ft.com/content/40abef4f-d32a-477a-bf3f-0e7eb6d4ca53</guid>
+      <description>A British spy on a deep-sea vessel confronts supernatural forces while a heroine assumes an unexpected role in taking on ghostly villains</description>
+      <pubDate>Mon, 29 Jun 2026 04:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/2d08b0c7-3ffe-49a8-9f89-ba204cb196f4</guid>
       <description>Exercising our own judgment when it comes to quality is something we should not outsource to machines</description>
       <pubDate>Tue, 26 May 2026 04:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>A puzzling death in London and a tradwife’s downfall — the best new audio books</title>
-      <link>https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/cd0a5079-1299-4705-aeae-bbc7e60fb9f1</guid>
-      <description>Twists, turns and revelations feature in the tragic loss of a young man in ‘London Falling’, while ‘Yesteryear’ is one of this summer’s most talked-about debuts</description>
-      <pubDate>Mon, 25 May 2026 04:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
