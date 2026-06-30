@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:57:54 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SML – Spontaneous Music Live</title>
+      <link>https://pitchfork.com/reviews/albums/sml-spontaneous-music-live/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sml-spontaneous-music-live/</guid>
+      <description>A review by Sam Goldner</description>
+      <author>Sam Goldner</author>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bryan Ferry – Boys and Girls</title>
       <link>https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/</link>
@@ -238,14 +246,6 @@
       <description>A review by Mark Richardson</description>
       <author>Mark Richardson</author>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mahito Yokota / Koji Kondo – Super Mario Galaxy / Super Mario Galaxy 2</title>
-      <link>https://pitchfork.com/reviews/albums/mahito-yokota-koji-kondo-super-mario-galaxy-super-mario-galaxy-2/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mahito-yokota-koji-kondo-super-mario-galaxy-super-mario-galaxy-2/</guid>
-      <description>A review by illie Bugara</description>
-      <author>illie Bugara</author>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

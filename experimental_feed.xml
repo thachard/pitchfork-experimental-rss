@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:54:45 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prophetic Justice Ministry – Key to World Peace</title>
+      <link>https://pitchfork.com/reviews/albums/prophetic-justice-ministry-key-to-world-peace/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/prophetic-justice-ministry-key-to-world-peace/</guid>
+      <description>A review by Shaad D’Souza</description>
+      <author>Shaad D’Souza</author>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Félicia Atkinson – SANS VISAGE</title>
       <link>https://pitchfork.com/reviews/albums/felicia-atkinson-sans-visage/</link>
@@ -190,14 +198,6 @@
       <description>A review by Jayson Greene</description>
       <author>Jayson Greene</author>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setting – Setting</title>
-      <link>https://pitchfork.com/reviews/albums/setting-setting/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/setting-setting/</guid>
-      <description>A review by Jesse Jarnow</description>
-      <author>Jesse Jarnow</author>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
