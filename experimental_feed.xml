@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:21:23 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Debit – Potpourri</title>
+      <link>https://pitchfork.com/reviews/albums/debit-potpourri/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/debit-potpourri/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Prophetic Justice Ministry – Key to World Peace</title>
       <link>https://pitchfork.com/reviews/albums/prophetic-justice-ministry-key-to-world-peace/</link>
@@ -190,14 +198,6 @@
       <description>A review by Ethan Beck</description>
       <author>Ethan Beck</author>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ana Roxanne – Poem 1</title>
-      <link>https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

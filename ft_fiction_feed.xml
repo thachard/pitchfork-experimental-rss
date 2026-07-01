@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:21:45 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Interview.Swiss novelist Christian Kracht: ‘I decided not to be a cynic any more’</title>
+      <link>https://www.ft.com/content/8eaa3421-607f-4f18-8cb3-2c88c2718f4c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8eaa3421-607f-4f18-8cb3-2c88c2718f4c</guid>
+      <description>With his breakthrough hit ‘Eurotrash’ set to appear on stage and screen, and new novel ‘Air’ out this month, the one-time enfant terrible is conquering the English-speaking world</description>
+      <pubDate>Wed, 01 Jul 2026 04:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>A cold war-set debut, plus a superhero satire turns savage — the best new science-fiction books</title>
       <link>https://www.ft.com/content/40abef4f-d32a-477a-bf3f-0e7eb6d4ca53</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/bd62fd57-ad1b-43da-bea0-ea338141115d</guid>
       <description>Elin Anna Labba’s powerful fiction debut explores memory, marginalisation and what happens when collective wisdom is washed away by modernity</description>
       <pubDate>Tue, 26 May 2026 16:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI stories aren’t inevitably ‘not art’</title>
-      <link>https://www.ft.com/content/2d08b0c7-3ffe-49a8-9f89-ba204cb196f4</link>
-      <guid isPermaLink="true">https://www.ft.com/content/2d08b0c7-3ffe-49a8-9f89-ba204cb196f4</guid>
-      <description>Exercising our own judgment when it comes to quality is something we should not outsource to machines</description>
-      <pubDate>Tue, 26 May 2026 04:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
