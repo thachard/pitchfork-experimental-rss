@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:44:18 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Anniversary — the messy reality of family and how to escape it</title>
+      <link>https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</guid>
+      <description>Andrea Bajani’s award-winning novel, newly translated from Italian, is a fearless, intimate tale of unhappy parents — and the release of leaving them behind</description>
+      <pubDate>Thu, 02 Jul 2026 11:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A tour of the world through bite-sized fiction</title>
+      <link>https://www.ft.com/content/128e1ac8-b247-4c72-95da-b8f3e00a16ce</link>
+      <guid isPermaLink="true">https://www.ft.com/content/128e1ac8-b247-4c72-95da-b8f3e00a16ce</guid>
+      <description>A new Penguin anthology celebrates the universal appeal of the short story with 34 fine examples from dozens of countries</description>
+      <pubDate>Thu, 02 Jul 2026 11:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Interview.Swiss novelist Christian Kracht: ‘I decided not to be a cynic any more’</title>
       <link>https://www.ft.com/content/8eaa3421-607f-4f18-8cb3-2c88c2718f4c</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c6cc5145-0fea-4590-8ccc-0a7d750707c8</guid>
       <description>The acclaimed ‘Hamnet’ author revisits themes of strife and loss but on an epic canvas spanning centuries and continents</description>
       <pubDate>Thu, 28 May 2026 10:59:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>My five lessons from judging this year’s International Booker Prize</title>
-      <link>https://www.ft.com/content/ef72d7cc-11ac-4f48-8788-f17ef62f8c0f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ef72d7cc-11ac-4f48-8788-f17ef62f8c0f</guid>
-      <description>Reading 128 books in eight months was a privilege — and a lasting education in making time, embracing difference and building literary muscle</description>
-      <pubDate>Wed, 27 May 2026 16:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Home of the Drowned — a saga of Sámi people and the battle to preserve their past</title>
-      <link>https://www.ft.com/content/bd62fd57-ad1b-43da-bea0-ea338141115d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/bd62fd57-ad1b-43da-bea0-ea338141115d</guid>
-      <description>Elin Anna Labba’s powerful fiction debut explores memory, marginalisation and what happens when collective wisdom is washed away by modernity</description>
-      <pubDate>Tue, 26 May 2026 16:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
