@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:34:10 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TDSB, TCDSB approve budgets with multi-million-dollar deficits despite staff and program cuts</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/tdsb-tcdsb-approve-budgets-with-multi-million-dollar-deficits-despite-staff-and-program-cuts/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/tdsb-tcdsb-approve-budgets-with-multi-million-dollar-deficits-despite-staff-and-program-cuts/</guid>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 22:44:05 +0000</pubDate>
+    </item>
     <item>
       <title>‘The time to do something is now’: Ontario looking at changes to online gambling ads</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/the-time-to-do-something-is-now-ontario-looking-at-changes-to-online-gambling-ads/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/the-time-to-do-something-is-now-ontario-looking-at-changes-to-online-gambling-ads/</guid>
-      <description></description>
+      <description>Ontario’s minister responsible for gambling says potential changes to the laws governing ads for online gambling are coming soon.</description>
       <pubDate>Tue, 30 Jun 2026 13:29:00 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ndp-calls-for-audit-into-1-billion-given-to-private-administrators-of-public-services/</guid>
       <description>Ontario’s opposition NDP is calling for the province’s Auditor General to audit three private companies who together got $1 billion to administer public services, including employment services and disability support.</description>
       <pubDate>Tue, 16 Jun 2026 01:53:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario adds 2 major ticket resale sites to consumer watchlist</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-adds-2-major-ticket-resale-sites-to-consumer-watchlist/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-adds-2-major-ticket-resale-sites-to-consumer-watchlist/</guid>
-      <description>A day after they were added to a provincially run consumer safety watchlist, Ticket resale sites SeatGeek and StubHub are saying the government has failed to provide them with enough clarity around a new law banning the resale of tickets above face value.</description>
-      <pubDate>Fri, 12 Jun 2026 11:27:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

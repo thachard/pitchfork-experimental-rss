@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:35:37 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Madonna – CONFESSIONS II</title>
+      <link>https://pitchfork.com/reviews/albums/madonna-confessions-ii/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/madonna-confessions-ii/</guid>
+      <description>A review by Shaad D’Souza</description>
+      <author>Shaad D’Souza</author>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SML – Spontaneous Music Live</title>
       <link>https://pitchfork.com/reviews/albums/sml-spontaneous-music-live/</link>
@@ -238,14 +246,6 @@
       <description>A review by Levi Dayan</description>
       <author>Levi Dayan</author>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Santana – Caravanserai</title>
-      <link>https://pitchfork.com/reviews/albums/santana-caravanserai/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/santana-caravanserai/</guid>
-      <description>A review by Mark Richardson</description>
-      <author>Mark Richardson</author>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
