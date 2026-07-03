@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 03 Jul 2026 10:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:42:40 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Christian Kracht on cynicism to a Confucian comeback in China and the fight for San Francisco’s soul. Plus Andrea Bajani’s novel of family and how to escape it, how Elizabeth I got her pearls, a view from the treetops — and more</description>
+      <pubDate>Fri, 03 Jul 2026 11:06:24 +0000</pubDate>
+    </item>
     <item>
       <title>The Anniversary — the messy reality of family and how to escape it</title>
       <link>https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/40abef4f-d32a-477a-bf3f-0e7eb6d4ca53</guid>
       <description>A British spy on a deep-sea vessel confronts supernatural forces while a heroine assumes an unexpected role in taking on ghostly villains</description>
       <pubDate>Mon, 29 Jun 2026 04:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From 250 years of US independence to Trump’s second term, from Ceauşescu’s Romania to the Nord Stream bombing. Plus David Thomson’s life in movies, novels about aliens and YBAs — and Tej Parikh’s pick of economics titles</description>
-      <pubDate>Fri, 26 Jun 2026 11:59:13 +0000</pubDate>
     </item>
     <item>
       <title>The End of Everything by M John Harrison — a dark vision of Britain’s decline</title>
