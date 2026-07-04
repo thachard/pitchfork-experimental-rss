@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 03 Jul 2026 12:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:08:34 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>No apparent fines yet for ticket resellers under Ontario price-cap law</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/no-apparent-fines-yet-for-ticket-resellers-under-ontario-price-cap-law/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/no-apparent-fines-yet-for-ticket-resellers-under-ontario-price-cap-law/</guid>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 19:49:09 +0000</pubDate>
+    </item>
     <item>
       <title>TDSB, TCDSB approve budgets with multi-million-dollar deficits despite staff and program cuts</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/tdsb-tcdsb-approve-budgets-with-multi-million-dollar-deficits-despite-staff-and-program-cuts/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/tdsb-tcdsb-approve-budgets-with-multi-million-dollar-deficits-despite-staff-and-program-cuts/</guid>
-      <description></description>
+      <description>Despite some program cuts, Toronto’s two public school boards, which are under provincial supervision, approved their budgets with projected deficits in millions of dollars.</description>
       <pubDate>Thu, 02 Jul 2026 22:44:05 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-families-struggling-as-community-and-social-service-workers-strike-enters-fourth-week/</guid>
       <description>For the last three weeks, Toronto resident Owen Rees has filled notebooks with pleas to return home to his roomful of records, his friends down the hall, and a dance party every Friday.</description>
       <pubDate>Tue, 16 Jun 2026 11:52:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>NDP calls for audit into $1 billion given to private administrators of public services</title>
-      <link>https://www.ctvnews.ca/toronto/article/ndp-calls-for-audit-into-1-billion-given-to-private-administrators-of-public-services/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ndp-calls-for-audit-into-1-billion-given-to-private-administrators-of-public-services/</guid>
-      <description>Ontario’s opposition NDP is calling for the province’s Auditor General to audit three private companies who together got $1 billion to administer public services, including employment services and disability support.</description>
-      <pubDate>Tue, 16 Jun 2026 01:53:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
