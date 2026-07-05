@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:12:48 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Declaration Alone Can’t Save Us</title>
+      <link>https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</guid>
+      <description>Danielle Allen’s rereleased reading of our founding document is surprisingly, and often maddeningly, ahistorical.</description>
     </item>
     <item>
       <title>At the Very Least We Should Know Your Name</title>
@@ -33,16 +39,16 @@
       <description>The small-town West comes to life in John M. Glionna’s recent essay collection.</description>
     </item>
     <item>
-      <title>Love Is Stronger than Death</title>
-      <link>https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</guid>
-      <description>Jesmyn Ward’s new essay collection touches on familiar topics from her fiction: coastal Mississippi, poverty, the ravages of racism, and the power of storytelling.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Love Is Stronger than Death</title>
+      <link>https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</guid>
+      <description>Jesmyn Ward’s new essay collection touches on familiar topics from her fiction: coastal Mississippi, poverty, the ravages of racism, and the power of storytelling.</description>
     </item>
     <item>
       <title>Red-Pilling Speculation</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/</guid>
       <description>Theo Baker’s book about Stanford offers a shockingly frank look at a campus that is as tightly governed as a Siberian labor camp—one perhaps designed by Sergey Brin.</description>
-    </item>
-    <item>
-      <title>What the ‘Footprint’ Forgets</title>
-      <link>https://lareviewofbooks.org/article/footprint-four-itineraries-radhika-subramaniam-walking-colonial-erasure/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/footprint-four-itineraries-radhika-subramaniam-walking-colonial-erasure/</guid>
-      <description>Radhika Subramaniam unsettles the Anthropocene’s dominant metaphor for humans’ impact on the earth.</description>
     </item>
   </channel>
 </rss>
