@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 05 Jul 2026 11:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:02:45 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Five of the best debut novels — lust, longing and a wild night out on the Curry Mile</title>
+      <link>https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</link>
+      <guid isPermaLink="true">https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</guid>
+      <description>First-time tales of romantic obsession and the problem with polyamory — plus sibling relationships, secrets and swagger in Manchester and a winning story of dog-racing</description>
+      <pubDate>Mon, 06 Jul 2026 04:00:23 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/0e8c1537-26e1-4393-9c1e-ef5b12192c7b</guid>
       <description>Covering the writer’s late teens and early twenties, this pleasurable read is an elegant account of self-development through art</description>
       <pubDate>Fri, 29 May 2026 11:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Land — Maggie O’Farrell’s ambitious novel of family, Ireland and empire</title>
-      <link>https://www.ft.com/content/c6cc5145-0fea-4590-8ccc-0a7d750707c8</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c6cc5145-0fea-4590-8ccc-0a7d750707c8</guid>
-      <description>The acclaimed ‘Hamnet’ author revisits themes of strife and loss but on an epic canvas spanning centuries and continents</description>
-      <pubDate>Thu, 28 May 2026 10:59:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
