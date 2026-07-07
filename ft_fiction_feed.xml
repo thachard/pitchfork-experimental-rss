@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:52:48 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>One Hundred Guinea Pigs by Gustavo Rodríguez — a surprisingly life-affirming tale of assisted dying</title>
+      <link>https://www.ft.com/content/4a379e6e-ed4a-4046-803d-0d3a463a3f8e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4a379e6e-ed4a-4046-803d-0d3a463a3f8e</guid>
+      <description>A bittersweet novel about ageing and end-of-life care set in conservative Peru, a country full of contradictions</description>
+      <pubDate>Tue, 07 Jul 2026 04:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>Five of the best debut novels — lust, longing and a wild night out on the Curry Mile</title>
       <link>https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/68e1a286-fbb6-41dd-aa3f-d59ba88a8a77</guid>
       <description>This year’s much-anticipated Summer Books series is almost upon us — and, as ever, we want to hear from you</description>
       <pubDate>Sat, 30 May 2026 04:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ambivalence by Brian Dillon — a ‘coming-to-be’ memoir of ideas</title>
-      <link>https://www.ft.com/content/0e8c1537-26e1-4393-9c1e-ef5b12192c7b</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0e8c1537-26e1-4393-9c1e-ef5b12192c7b</guid>
-      <description>Covering the writer’s late teens and early twenties, this pleasurable read is an elegant account of self-development through art</description>
-      <pubDate>Fri, 29 May 2026 11:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

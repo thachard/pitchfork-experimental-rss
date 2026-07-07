@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:54:36 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wrong Place, Wrong Time</title>
+      <link>https://lareviewofbooks.org/article/mercy-artificial-intelligence-justice-system-chris-pratt-statistics/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/mercy-artificial-intelligence-justice-system-chris-pratt-statistics/</guid>
+      <description>A new movie about AI judges serves to expose how film noir was always about a world of artificial intelligence.</description>
     </item>
     <item>
       <title>The Declaration Alone Can’t Save Us</title>
@@ -33,16 +39,16 @@
       <description>Beverly Gage takes a road trip through historic sites from 1776 to today, discovering optimism for our political future along the way.</description>
     </item>
     <item>
-      <title>Solitude and Survival in the Modern American West</title>
-      <link>https://lareviewofbooks.org/article/rebels-outliers-real-stories-american-west-glionna-desert/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/rebels-outliers-real-stories-american-west-glionna-desert/</guid>
-      <description>The small-town West comes to life in John M. Glionna’s recent essay collection.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>Solitude and Survival in the Modern American West</title>
+      <link>https://lareviewofbooks.org/article/rebels-outliers-real-stories-american-west-glionna-desert/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/rebels-outliers-real-stories-american-west-glionna-desert/</guid>
+      <description>The small-town West comes to life in John M. Glionna’s recent essay collection.</description>
     </item>
     <item>
       <title>Love Is Stronger than Death</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/george-whitmore-nebraska-grove-gay-fiction-song-cave/</guid>
       <description>A George Whitmore reissue translates the historical feeling of queer coming-of-age in the 1950s for contemporary readers without slipping into exploitation.</description>
-    </item>
-    <item>
-      <title>The University as Giant App</title>
-      <link>https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/</guid>
-      <description>Theo Baker’s book about Stanford offers a shockingly frank look at a campus that is as tightly governed as a Siberian labor camp—one perhaps designed by Sergey Brin.</description>
     </item>
   </channel>
 </rss>
