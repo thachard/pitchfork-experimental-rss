@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 07 Jul 2026 12:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:15:16 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Olivia Chow leading Brad Bradford in Toronto mayoral race but gap has tightened: poll</title>
+      <link>https://www.ctvnews.ca/toronto/article/olivia-chow-leading-brad-bradford-in-toronto-mayoral-race-but-gap-has-tightened-poll/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/olivia-chow-leading-brad-bradford-in-toronto-mayoral-race-but-gap-has-tightened-poll/</guid>
+      <description>Video</description>
+      <pubDate>Tue, 07 Jul 2026 20:25:30 +0000</pubDate>
+    </item>
     <item>
       <title>‘It’s dirty, it’s unsafe’: Toronto mayoral candidate Brad Bradford pitches cleaning up, renaming Sankofa Square</title>
       <link>https://www.ctvnews.ca/toronto/article/its-dirty-its-unsafe-toronto-mayoral-candidate-brad-bradford-pitches-cleaning-up-renaming-sankofa-square/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/its-dirty-its-unsafe-toronto-mayoral-candidate-brad-bradford-pitches-cleaning-up-renaming-sankofa-square/</guid>
-      <description>Video</description>
+      <description>Brad Bradford says Sankofa Square was once the epicentre of the city, the “Canadian version” of Times Square and a place where people would celebrate festivals and gather with friends for a night out.</description>
       <pubDate>Mon, 29 Jun 2026 17:05:51 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-coun-parthi-kandavel-says-hes-being-investigated-by-the-opp/</guid>
       <description>A Toronto councillor says he’s the subject of an Ontario Provincial Police (OPP) probe and is working to find out more about the nature of the allegations.</description>
       <pubDate>Mon, 11 May 2026 13:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nominations for municipal elections open across the GTHA. Here’s who is running.</title>
-      <link>https://www.ctvnews.ca/toronto/article/nominations-for-municipal-elections-open-across-the-gtha-heres-who-is-running/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/nominations-for-municipal-elections-open-across-the-gtha-heres-who-is-running/</guid>
-      <description>The race to elect Toronto’s mayor is officially underway. Candidate nominations opened at 8:30 a.m. Friday morning. Those looking to throw their hat in the ring have until Aug. 21 to do so.</description>
-      <pubDate>Fri, 01 May 2026 18:48:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
