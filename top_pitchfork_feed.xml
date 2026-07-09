@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:53:12 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nirosta Steel – My Skyscraper</title>
+      <link>https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</guid>
+      <description>A review by Harry Tafoya</description>
+      <author>Harry Tafoya</author>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>GAS – November 89</title>
       <link>https://pitchfork.com/reviews/albums/gas-november-89/</link>
@@ -238,14 +246,6 @@
       <description>A review by Will Hermes</description>
       <author>Will Hermes</author>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broken Social Scene – Remember the Humans</title>
-      <link>https://pitchfork.com/reviews/albums/broken-social-scene-remember-the-humans/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/broken-social-scene-remember-the-humans/</guid>
-      <description>A review by Nina Corcoran</description>
-      <author>Nina Corcoran</author>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

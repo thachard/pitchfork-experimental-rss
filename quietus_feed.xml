@@ -5,8 +5,15 @@
     <link>https://thequietus.com/columns/quietus-reviews/album-of-the-week/</link>
     <description>Album of the Week reviews from The Quietus.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:52:08 +0000</lastBuildDate>
     <atom:link href="https://thequietus.com/columns/quietus-reviews/album-of-the-week/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Expanding Universe: New Avatar by Kelela</title>
+      <link>https://thequietus.com/quietus-reviews/album-of-the-week/the-expanding-universe-new-avatar-by-kelela/</link>
+      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/the-expanding-universe-new-avatar-by-kelela/</guid>
+      <description>The new album from the Washington DC-born singer makes a strong case for the argument that R&amp;B is the most versatile, wide-ranging genre on the block</description>
+      <pubDate>Thu, 09 Jul 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nature Boy: Driving Through Belgium by Anton Pearson</title>
       <link>https://thequietus.com/quietus-reviews/album-of-the-week/driving-through-belgium-anton-pearson-review/</link>
@@ -55,13 +62,6 @@
       <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/heavy-water-magic-tuber-stringband-review/</guid>
       <description>Magic Tuber Stringband’s first LP as a trio is a work of unruly beauty that doubles as a cautionary tale, says Bernie Brooks</description>
       <pubDate>Thu, 21 May 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shatterproof: Sam Hoyek’s Demonstration 01: Anomalous</title>
-      <link>https://thequietus.com/quietus-reviews/album-of-the-week/shatterproof-demonstration-01-anomalous-by-sam-hoyek/</link>
-      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/shatterproof-demonstration-01-anomalous-by-sam-hoyek/</guid>
-      <description>An album of sonic and metaphysical skirmishes from the Syrian-born, Montreal-based experimental musician</description>
-      <pubDate>Thu, 14 May 2026 05:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

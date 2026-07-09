@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:51:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nirosta Steel – My Skyscraper</title>
+      <link>https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</guid>
+      <description>A review by Harry Tafoya</description>
+      <author>Harry Tafoya</author>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Debit – Potpourri</title>
       <link>https://pitchfork.com/reviews/albums/debit-potpourri/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/suss-counting-sunsets/</guid>
       <description>A review by rian Howe</description>
       <author>rian Howe</author>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Croz Boyce / Avey Tare / Geologist – Croz Boyce</title>
-      <link>https://pitchfork.com/reviews/albums/croz-boyce-croz-boyce/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/croz-boyce-croz-boyce/</guid>
-      <description>A review by Ethan Beck</description>
-      <author>Ethan Beck</author>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

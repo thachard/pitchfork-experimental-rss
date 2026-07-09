@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:53:34 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Organizing Pessimism</title>
+      <link>https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/</guid>
+      <description>André Breton, necropolitics, and 100 years of surrealism.</description>
     </item>
     <item>
       <title>Sinking City</title>
@@ -33,16 +39,16 @@
       <description>Danielle Allen’s rereleased reading of our founding document is surprisingly, and often maddeningly, ahistorical.</description>
     </item>
     <item>
-      <title>At the Very Least We Should Know Your Name</title>
-      <link>https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</guid>
-      <description>Empire, language, violence, and metamorphosis in a kaleidoscopic novel of the Apache Wars.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>At the Very Least We Should Know Your Name</title>
+      <link>https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</guid>
+      <description>Empire, language, violence, and metamorphosis in a kaleidoscopic novel of the Apache Wars.</description>
     </item>
     <item>
       <title>The Expert as Tourist</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/sidetracked-exile-hollywood-alexander-voloshin-translation-boris-dralyuk/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sidetracked-exile-hollywood-alexander-voloshin-translation-boris-dralyuk/</guid>
       <description>Boris Dralyuk’s latest work of translation is Alexander Voloshin’s poetic epic about a Ukrainian exile lost in Hollywood.</description>
-    </item>
-    <item>
-      <title>Poem on Fire</title>
-      <link>https://lareviewofbooks.org/article/swirl-vortex-collected-poems-larry-levis-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/swirl-vortex-collected-poems-larry-levis-california/</guid>
-      <description>Larry Levis’s collected poems tell the present moment to go to hell.</description>
     </item>
   </channel>
 </rss>
