@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 12:16:46 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The First House by Avni Doshi — darkness in the domestic</title>
+      <link>https://www.ft.com/content/fbb37c11-3e88-4406-9b9d-278a4847b262</link>
+      <guid isPermaLink="true">https://www.ft.com/content/fbb37c11-3e88-4406-9b9d-278a4847b262</guid>
+      <description>When her marriage collapses, a woman seeks meaning in astrology, mythology and obsession in a fever-dream novel by the author of Booker-shortlisted ‘Burnt Sugar’</description>
+      <pubDate>Thu, 09 Jul 2026 11:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>Country People by Daniel Mason — freewheeling fun in the backwoods of Vermont</title>
       <link>https://www.ft.com/content/e17ad454-fb60-4f13-869f-493bda2e58b2</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/4a9871cf-c930-4b72-a37c-372df96cedd6</guid>
       <description>The Pulitzer winner’s latest novel builds a richly quirky world, at times excessively so, around a friendship in Tuscany</description>
       <pubDate>Tue, 02 Jun 2026 16:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Patricia Cornwell’s memoir to Simenon and a whodunnit at sea</title>
-      <link>https://www.ft.com/content/16a2bebe-17fb-4621-8c4e-8139b92c8eb5</link>
-      <guid isPermaLink="true">https://www.ft.com/content/16a2bebe-17fb-4621-8c4e-8139b92c8eb5</guid>
-      <description>A crop of top crime titles feature a professional housebreaker, a troubled detective, a determined lawyer and a French classic</description>
-      <pubDate>Mon, 01 Jun 2026 04:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
