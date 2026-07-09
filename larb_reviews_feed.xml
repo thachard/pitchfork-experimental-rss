@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 12:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:35:02 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,12 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Estranged Worlds of J. G. Ballard</title>
+      <link>https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</guid>
+      <description>An incisive and moving new critical biography of one of the nuclear age’s greatest visionaries.</description>
     </item>
     <item>
       <title>Organizing Pessimism</title>
@@ -33,16 +39,16 @@
       <description>A new movie about AI judges serves to expose how film noir was always about a world of artificial intelligence.</description>
     </item>
     <item>
-      <title>The Declaration Alone Can’t Save Us</title>
-      <link>https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</guid>
-      <description>Danielle Allen’s rereleased reading of our founding document is surprisingly, and often maddeningly, ahistorical.</description>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+    </item>
+    <item>
+      <title>The Declaration Alone Can’t Save Us</title>
+      <link>https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</guid>
+      <description>Danielle Allen’s rereleased reading of our founding document is surprisingly, and often maddeningly, ahistorical.</description>
     </item>
     <item>
       <title>At the Very Least We Should Know Your Name</title>
@@ -85,12 +91,6 @@
       <link>https://lareviewofbooks.org/article/garry-trudeau-doonesbury-political-comic-strip-baby-boomers/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/garry-trudeau-doonesbury-political-comic-strip-baby-boomers/</guid>
       <description>A new biography of Garry Trudeau offers a wealth of detail but fails to come to grips with the limits of his comic strip’s satire.</description>
-    </item>
-    <item>
-      <title>An Epic of Displacement</title>
-      <link>https://lareviewofbooks.org/article/sidetracked-exile-hollywood-alexander-voloshin-translation-boris-dralyuk/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/sidetracked-exile-hollywood-alexander-voloshin-translation-boris-dralyuk/</guid>
-      <description>Boris Dralyuk’s latest work of translation is Alexander Voloshin’s poetic epic about a Ukrainian exile lost in Hollywood.</description>
     </item>
   </channel>
 </rss>
