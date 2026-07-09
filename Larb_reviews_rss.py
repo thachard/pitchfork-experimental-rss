@@ -99,8 +99,8 @@ def fetch_articles():
         # Debug: print container text so we can see date format
         print(f"  Card text: {text[:200]}", file=sys.stderr)
         m = re.search(
-            r'(January|February|March|April|May|June|July|August|'
-            r'September|October|November|December)\s+\d{1,2}(?:,\s+\d{4})?',
+            r'(January|February|March|April|May|June|July|August|September|October|November|December|'
+            r'Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2}(?:,\s+\d{4})?',
             text
         )
         if m:
@@ -131,8 +131,8 @@ def format_date(pub):
         return ""
     # Add current year if missing
     if not re.search(r'\d{4}', pub):
-        pub = pub + f", {datetime.now().year}"
-    for fmt in ["%B %d, %Y", "%B %d %Y"]:
+        pub = pub.strip() + f", {datetime.now().year}"
+    for fmt in ["%B %d, %Y", "%B %d %Y", "%b %d, %Y", "%b %d %Y"]:
         try:
             dt = datetime.strptime(pub.strip(), fmt)
             return dt.replace(tzinfo=timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
