@@ -96,6 +96,8 @@ def fetch_articles():
         # Date: scan container text for date pattern
         pub_date = ""
         text = container.get_text(" ", strip=True)
+        # Debug: print container text so we can see date format
+        print(f"  Card text: {text[:200]}", file=sys.stderr)
         m = re.search(
             r'(January|February|March|April|May|June|July|August|'
             r'September|October|November|December)\s+\d{1,2}(?:,\s+\d{4})?',
