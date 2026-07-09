@@ -92,6 +92,14 @@ jobs:
         continue-on-error: true
         run: python bandcamp_jazz_rss.py
 
+      - name: Run Radwanski scraper
+        continue-on-error: true
+        run: python star_radwanski_rss.py
+
+      - name: Run Star Contributors scraper
+        continue-on-error: true
+        run: python star_contributors_rss.py
+
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
