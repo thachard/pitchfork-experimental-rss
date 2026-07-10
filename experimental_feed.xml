@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:50:31 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tran Uy Duc – ByyShh</title>
+      <link>https://pitchfork.com/reviews/albums/tran-uy-duc-byyshh/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tran-uy-duc-byyshh/</guid>
+      <description>A review by H.D. Angel</description>
+      <author>H.D. Angel</author>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nirosta Steel – My Skyscraper</title>
       <link>https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</link>
@@ -190,14 +198,6 @@
       <description>A review by Elise Soutar</description>
       <author>Elise Soutar</author>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SUSS – Counting Sunsets</title>
-      <link>https://pitchfork.com/reviews/albums/suss-counting-sunsets/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/suss-counting-sunsets/</guid>
-      <description>A review by rian Howe</description>
-      <author>rian Howe</author>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
