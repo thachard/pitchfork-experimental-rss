@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:45:29 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Vance vs Pence to Big Tech, Garry Sobers and King Juan Carlos. Plus novels by Avni Doshi and Daniel Mason, ’80s and ’90s music journalism — and Suzi Feay’s pick of debut fiction</description>
+      <pubDate>Fri, 10 Jul 2026 12:26:19 +0000</pubDate>
+    </item>
     <item>
       <title>The Mulai — an extraplanetary experiment in language and identity</title>
       <link>https://www.ft.com/content/dfbd58ca-9680-4de5-b873-4830bac0509d</link>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</guid>
       <description>First-time tales of romantic obsession and the problem with polyamory — plus sibling relationships, secrets and swagger in Manchester and a winning story of dog-racing</description>
       <pubDate>Mon, 06 Jul 2026 04:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Christian Kracht on cynicism to a Confucian comeback in China and the fight for San Francisco’s soul. Plus Andrea Bajani’s novel of family and how to escape it, how Elizabeth I got her pearls, a view from the treetops — and more</description>
-      <pubDate>Fri, 03 Jul 2026 11:06:24 +0000</pubDate>
     </item>
     <item>
       <title>The Anniversary — the messy reality of family and how to escape it</title>
