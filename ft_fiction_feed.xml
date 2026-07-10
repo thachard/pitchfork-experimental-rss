@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:09:34 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Mulai — an extraplanetary experiment in language and identity</title>
+      <link>https://www.ft.com/content/dfbd58ca-9680-4de5-b873-4830bac0509d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/dfbd58ca-9680-4de5-b873-4830bac0509d</guid>
+      <description>Munir Hachemi’s playful, hedonistic novel on descendants of colonisers from Earth offers a daring exercise in translation</description>
+      <pubDate>Fri, 10 Jul 2026 11:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>The First House by Avni Doshi — darkness in the domestic</title>
       <link>https://www.ft.com/content/fbb37c11-3e88-4406-9b9d-278a4847b262</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/91238e71-ad06-4f09-a21b-02cacc2f6a7d</guid>
       <description>An ambitious and playful first collection from the novelist ranges from the auto-fictional to the surreal</description>
       <pubDate>Thu, 04 Jun 2026 04:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Villa Coco — Andrew Sean Greer piles on the charm</title>
-      <link>https://www.ft.com/content/4a9871cf-c930-4b72-a37c-372df96cedd6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4a9871cf-c930-4b72-a37c-372df96cedd6</guid>
-      <description>The Pulitzer winner’s latest novel builds a richly quirky world, at times excessively so, around a friendship in Tuscany</description>
-      <pubDate>Tue, 02 Jun 2026 16:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
