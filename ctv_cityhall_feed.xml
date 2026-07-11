@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:27:21 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto is looking to have more pedestrian-friendly streets. What could that look like?</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-is-looking-to-have-more-pedestrian-friendly-streets-what-could-that-look-like/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-is-looking-to-have-more-pedestrian-friendly-streets-what-could-that-look-like/</guid>
+      <description>Video</description>
+      <pubDate>Sat, 11 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Olivia Chow leading Brad Bradford in Toronto mayoral race but gap has tightened: poll</title>
       <link>https://www.ctvnews.ca/toronto/article/olivia-chow-leading-brad-bradford-in-toronto-mayoral-race-but-gap-has-tightened-poll/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/olivia-chow-leading-brad-bradford-in-toronto-mayoral-race-but-gap-has-tightened-poll/</guid>
-      <description>Video</description>
+      <description>A new poll shows that Olivia Chow is maintaining her lead in the Toronto mayoral race against contender Brad Bradford, but the east end councillor is gaining ground.</description>
       <pubDate>Tue, 07 Jul 2026 20:25:30 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/natalie-johnson-longtime-ctv-news-journalist-to-run-for-city-council/</guid>
       <description>A longtime CTV News journalist has joined the race to replace Brad Bradford as the city councillor for Beaches-East York.</description>
       <pubDate>Mon, 11 May 2026 18:18:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto city councillor reveals he’s being investigated by Ontario Provincial Police</title>
-      <link>https://www.ctvnews.ca/toronto/article/toronto-coun-parthi-kandavel-says-hes-being-investigated-by-the-opp/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-coun-parthi-kandavel-says-hes-being-investigated-by-the-opp/</guid>
-      <description>A Toronto councillor says he’s the subject of an Ontario Provincial Police (OPP) probe and is working to find out more about the nature of the allegations.</description>
-      <pubDate>Mon, 11 May 2026 13:50:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

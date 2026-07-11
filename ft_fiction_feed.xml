@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:26:18 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FT Magazine.Must a novel’s hero be good company?</title>
+      <link>https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</guid>
+      <description>Readers are falling into a ‘likeability’ trap. But fiction was never meant to be a charm contest</description>
+      <pubDate>Sat, 11 Jul 2026 04:00:18 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/bb0d7367-4424-46c8-bfa9-0c2d901693c6</guid>
       <description>The Chichester Festival Theatre production has inventive touches but lacks intensity</description>
       <pubDate>Mon, 08 Jun 2026 16:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Typing Lady — short stories distil the essence of Ruth Ozeki’s fiction</title>
-      <link>https://www.ft.com/content/91238e71-ad06-4f09-a21b-02cacc2f6a7d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/91238e71-ad06-4f09-a21b-02cacc2f6a7d</guid>
-      <description>An ambitious and playful first collection from the novelist ranges from the auto-fictional to the surreal</description>
-      <pubDate>Thu, 04 Jun 2026 04:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
