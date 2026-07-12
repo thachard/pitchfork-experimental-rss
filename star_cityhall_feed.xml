@@ -5,20 +5,27 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 11 Jul 2026 11:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:48:50 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Two dead, four injured in shooting near Salsa on St. Clair festival in Toronto</title>
+      <link>https://www.thestar.com/news/gta/two-dead-four-injured-in-shooting-near-salsa-on-st-clair-festival-in-toronto/article_ad80591a-cbd4-456d-88ee-03db20bfb055.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/two-dead-four-injured-in-shooting-near-salsa-on-st-clair-festival-in-toronto/article_ad80591a-cbd4-456d-88ee-03db20bfb055.html</guid>
+      <description>The shooting broke out Saturday night at the annual festival, sending thousands fleeing in panic.</description>
+      <pubDate>Sun, 12 Jul 2026 01:16:02 +0000</pubDate>
+    </item>
     <item>
       <title>Inside the fight for Sneaky Dee’s: How a group of punks, a city councillor and a bank helped save a bar</title>
       <link>https://www.thestar.com/news/gta/inside-the-fight-for-sneaky-dees-how-a-group-of-punks-a-city-councillor-and-a-bank-helped-save-a-bar/article_8ba5596e-aa17-4110-a1bb-cf852e75239f.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/inside-the-fight-for-sneaky-dees-how-a-group-of-punks-a-city-councillor-and-a-bank-helped-save-a-bar/article_8ba5596e-aa17-4110-a1bb-cf852e75239f.html</guid>
-      <description>The battle between this bar and potential redevelopment has captured the imagination of many Torontonians. But is it over?</description>
-      <pubDate>Sat, 11 Jul 2026 07:00:00 +0000</pubDate>
+      <description></description>
+      <pubDate>Sat, 11 Jul 2026 20:24:00 +0000</pubDate>
     </item>
     <item>
       <title>TCHC audit reveals rising staff expenses, including an 800 per cent increase for its CEO</title>
       <link>https://www.thestar.com/news/gta/city-hall/tchc-audit-reveals-rising-staff-expenses-including-an-800-per-cent-increase-for-its-ceo/article_d6af83c4-9221-467d-b0d8-6ab71e4f85af.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/tchc-audit-reveals-rising-staff-expenses-including-an-800-per-cent-increase-for-its-ceo/article_d6af83c4-9221-467d-b0d8-6ab71e4f85af.html</guid>
-      <description></description>
+      <description>The rise in expenses comes as TCHC continues to struggle with funding challenges, where they foresee half of its homes falling into critical c…</description>
       <pubDate>Sat, 11 Jul 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
@@ -32,7 +39,7 @@
       <title>Chris Alexander, former Conservative immigration minister, considering a run for Toronto mayor</title>
       <link>https://www.thestar.com/news/gta/chris-alexander-former-conservative-immigration-minister-considering-a-run-for-toronto-mayor/article_7b9f32ef-8afa-41fe-b399-c246aa1b2798.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/chris-alexander-former-conservative-immigration-minister-considering-a-run-for-toronto-mayor/article_7b9f32ef-8afa-41fe-b399-c246aa1b2798.html</guid>
-      <description>The former Ajax-Pickering MP said he was encouraged to run by several people he&apos;d spoken to, but has yet to make a decision.</description>
+      <description></description>
       <pubDate>Fri, 10 Jul 2026 19:49:48 +0000</pubDate>
     </item>
     <item>
@@ -85,13 +92,6 @@
       <pubDate>Tue, 07 Jul 2026 19:04:59 +0000</pubDate>
     </item>
     <item>
-      <title>Memories and moments as Toronto’s three wild World Cup weeks draw to an end</title>
-      <link>https://www.thestar.com/news/gta/memories-and-moments-as-torontos-wild-three-world-cup-weeks-draw-to-an-end/article_bee2e50d-3778-46be-9992-ebaa5d6507c8.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/memories-and-moments-as-torontos-wild-three-world-cup-weeks-draw-to-an-end/article_bee2e50d-3778-46be-9992-ebaa5d6507c8.html</guid>
-      <description></description>
-      <pubDate>Sat, 04 Jul 2026 08:53:31 +0000</pubDate>
-    </item>
-    <item>
       <title>John Tory and Olivia Chow sparred for years over Toronto hosting the FIFA World Cup. At kickoff they found a common goal</title>
       <link>https://www.thestar.com/news/gta/john-tory-and-olivia-chow-sparred-for-years-over-toronto-hosting-the-fifa-world-cup-at-kickoff-they-found-a-common-goal/article_5178c258-dc75-441a-84b4-b1fc9dbf8ca4.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/john-tory-and-olivia-chow-sparred-for-years-over-toronto-hosting-the-fifa-world-cup-at-kickoff-they-found-a-common-goal/article_5178c258-dc75-441a-84b4-b1fc9dbf8ca4.html</guid>
@@ -113,18 +113,46 @@
       <pubDate>Sat, 23 May 2026 14:53:08 +0000</pubDate>
     </item>
     <item>
-      <title>This cop allegedly searched a police database on behalf of a suspected criminal. Why wasn’t he charged?</title>
-      <link>https://www.thestar.com/news/investigations/this-cop-allegedly-searched-a-police-database-on-behalf-of-a-suspected-criminal-why-wasnt-he-charged/article_46ca5740-bdf3-4a73-a40d-9a1760502f47.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/investigations/this-cop-allegedly-searched-a-police-database-on-behalf-of-a-suspected-criminal-why-wasnt-he-charged/article_46ca5740-bdf3-4a73-a40d-9a1760502f47.html</guid>
+      <title>St. Clair shooting recap: Two killed and multiple injured in shooting near annual street festival</title>
+      <link>https://www.thestar.com/news/gta/multiple-injuries-reported-in-active-shooting-in-torontos-west-end/article_1541efce-7a0b-4f73-a9dd-fc24bf0fc2b1.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/multiple-injuries-reported-in-active-shooting-in-torontos-west-end/article_1541efce-7a0b-4f73-a9dd-fc24bf0fc2b1.html</guid>
       <description></description>
-      <pubDate>Sat, 11 Jul 2026 07:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 01:34:13 +0000</pubDate>
     </item>
     <item>
-      <title>Tens of thousands expected at Canada’s largest annual Muslim conference in Mississauga</title>
-      <link>https://www.thestar.com/news/gta/tens-of-thousands-expected-at-canadas-largest-annual-muslim-conference-in-mississauga/article_0f4003d1-8ad3-4318-aec9-fbfe06528cfc.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/tens-of-thousands-expected-at-canadas-largest-annual-muslim-conference-in-mississauga/article_0f4003d1-8ad3-4318-aec9-fbfe06528cfc.html</guid>
+      <title>Toronto Zoo says goodbye to senior goat Niles after a ‘long and remarkable life’</title>
+      <link>https://www.thestar.com/news/gta/toronto-zoo-says-goodbye-to-senior-goat-niles-after-a-long-and-remarkable-life/article_13d2676b-1823-42fb-a008-6f67cd880322.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-zoo-says-goodbye-to-senior-goat-niles-after-a-long-and-remarkable-life/article_13d2676b-1823-42fb-a008-6f67cd880322.html</guid>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 21:35:46 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 20:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cheering on England in the World Cup? This beloved Cabbagetown pub has some of the best food in town</title>
+      <link>https://www.thestar.com/news/gta/cheering-on-england-in-the-world-cup-this-beloved-cabbagetown-pub-has-some-of-the-best-food-in-town/article_85bf6b3c-75f6-4f09-8138-b087aac17f28.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/cheering-on-england-in-the-world-cup-this-beloved-cabbagetown-pub-has-some-of-the-best-food-in-town/article_85bf6b3c-75f6-4f09-8138-b087aac17f28.html</guid>
+      <description></description>
+      <pubDate>Sat, 11 Jul 2026 23:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>All signs point to Honest Ed’s as Mirvish Village redevelopment takes shape</title>
+      <link>https://www.thestar.com/news/gta/all-signs-point-to-honest-eds-as-mirvish-village-redevelopment-takes-shape/article_185bbaa8-8cf5-438d-87ca-06d0fdab05ed.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/all-signs-point-to-honest-eds-as-mirvish-village-redevelopment-takes-shape/article_185bbaa8-8cf5-438d-87ca-06d0fdab05ed.html</guid>
+      <description></description>
+      <pubDate>Sat, 11 Jul 2026 17:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Own this recalled Cuisinart gas grill? You could be eligible for a refund</title>
+      <link>https://www.thestar.com/news/gta/own-this-recalled-cuisinart-gas-grill-you-could-be-eligible-for-a-refund/article_b6044ed1-4ade-4836-b6d4-5844eccafa17.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/own-this-recalled-cuisinart-gas-grill-you-could-be-eligible-for-a-refund/article_b6044ed1-4ade-4836-b6d4-5844eccafa17.html</guid>
+      <description></description>
+      <pubDate>Sat, 11 Jul 2026 16:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Possible measles exposures on 2 flights at Pearson Airport, Peel Public Health warns</title>
+      <link>https://www.thestar.com/news/gta/possible-measles-exposures-on-two-flights-at-pearson-airport-peel-public-health-warns/article_e1e56da0-dd10-4b43-b0d3-8454ae23c824.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/possible-measles-exposures-on-two-flights-at-pearson-airport-peel-public-health-warns/article_e1e56da0-dd10-4b43-b0d3-8454ae23c824.html</guid>
+      <description></description>
+      <pubDate>Sat, 11 Jul 2026 17:42:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

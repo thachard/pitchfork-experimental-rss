@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 11:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:50:04 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rush – Power Windows</title>
+      <link>https://pitchfork.com/reviews/albums/rush-power-windows/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rush-power-windows/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pixies – Complete B Sides: 1988-97 (Remaster)</title>
       <link>https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/</link>
@@ -238,14 +246,6 @@
       <description>A review by Dash Lewis</description>
       <author>Dash Lewis</author>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naomi Scott – F.I.G</title>
-      <link>https://pitchfork.com/reviews/albums/naomi-scott-fig/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/naomi-scott-fig/</guid>
-      <description>A review by Kiana Mickles</description>
-      <author>Kiana Mickles</author>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
