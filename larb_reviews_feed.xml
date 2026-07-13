@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 12:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:43:38 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Femicide in Saudi Arabia</title>
+      <link>https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</guid>
+      <description>Haifaa Al-Mansour’s recent film explores the new liberties available to women in her home country.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>All Humanity Now Stands on the Edge of the Abyss</title>
@@ -36,18 +43,18 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sinking City</title>
-      <link>https://lareviewofbooks.org/article/city-like-water-dorothy-tse-hong-kong-protests/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/city-like-water-dorothy-tse-hong-kong-protests/</guid>
-      <description>Dorothy Tse’s new novel is a dystopian parable of Hong Kong subsiding out of memory.</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sinking City</title>
+      <link>https://lareviewofbooks.org/article/city-like-water-dorothy-tse-hong-kong-protests/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/city-like-water-dorothy-tse-hong-kong-protests/</guid>
+      <description>Dorothy Tse’s new novel is a dystopian parable of Hong Kong subsiding out of memory.</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wrong Place, Wrong Time</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/reactionary-worldbuilding-speculative-imagination-political-practice-conspiracy-qanon/</guid>
       <description>From Ayn Rand to QAnon, a new anthology explores how reactionary world-building becomes reactionary world-making.</description>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dancing in Shackles</title>
-      <link>https://lareviewofbooks.org/article/wall-dancers-china-liu-millennial-north-korea-kim/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/wall-dancers-china-liu-millennial-north-korea-kim/</guid>
-      <description>Two new books about internet control in China and North Korea address the potent question of what it means to be free online.</description>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
