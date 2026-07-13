@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:59:09 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Akusmi – Terra Incognita</title>
+      <link>https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</guid>
+      <description>A review by Dash Lewis</description>
+      <author>Dash Lewis</author>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rush – Power Windows</title>
       <link>https://pitchfork.com/reviews/albums/rush-power-windows/</link>
@@ -238,14 +246,6 @@
       <description>A review by Dan Kois</description>
       <author>Dan Kois</author>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeff Parker / ETA IVtet – Happy Today</title>
-      <link>https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/</guid>
-      <description>A review by Dash Lewis</description>
-      <author>Dash Lewis</author>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:57:41 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Akusmi – Terra Incognita</title>
+      <link>https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</guid>
+      <description>A review by Dash Lewis</description>
+      <author>Dash Lewis</author>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tran Uy Duc – ByyShh</title>
       <link>https://pitchfork.com/reviews/albums/tran-uy-duc-byyshh/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/fire-toolz-lavender-networks/</guid>
       <description>A review by Andrew Ryce</description>
       <author>Andrew Ryce</author>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lucy Liyou – MR COBRA</title>
-      <link>https://pitchfork.com/reviews/albums/lucy-liyou-mr-cobra/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lucy-liyou-mr-cobra/</guid>
-      <description>A review by Elise Soutar</description>
-      <author>Elise Soutar</author>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

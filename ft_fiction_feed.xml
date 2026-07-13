@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 12 Jul 2026 09:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:58:04 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A life-changing bond and a pulpy space opera — our new graphic novels round-up</title>
+      <link>https://www.ft.com/content/dd9f36d4-32b4-4995-8867-7bb7bf5ea4e8</link>
+      <guid isPermaLink="true">https://www.ft.com/content/dd9f36d4-32b4-4995-8867-7bb7bf5ea4e8</guid>
+      <description>A bond forms between a girl and a man dying of Aids in The Nightingales, and culture flourishes in a Nazi concentration camp in Sophie Herxheimer’s Ode to Joy</description>
+      <pubDate>Mon, 13 Jul 2026 04:00:24 +0000</pubDate>
+    </item>
     <item>
       <title>FT Magazine.Must a novel’s hero be good company?</title>
       <link>https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</link>
@@ -173,13 +180,6 @@
       <link>https://www.ft.com/content/bc88c472-5efb-492f-a38c-d94880075e7f</link>
       <guid isPermaLink="true">https://www.ft.com/content/bc88c472-5efb-492f-a38c-d94880075e7f</guid>
       <description>The strangeness of Ben Pester’s writing is not just decorative — it exposes how bizarre ordinary life already is</description>
-      <pubDate>Mon, 08 Jun 2026 16:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atonement — ambitious adaptation can’t match Ian McEwan’s masterpiece</title>
-      <link>https://www.ft.com/content/bb0d7367-4424-46c8-bfa9-0c2d901693c6</link>
-      <guid isPermaLink="true">https://www.ft.com/content/bb0d7367-4424-46c8-bfa9-0c2d901693c6</guid>
-      <description>The Chichester Festival Theatre production has inventive touches but lacks intensity</description>
       <pubDate>Mon, 08 Jun 2026 16:00:07 +0000</pubDate>
     </item>
   </channel>
