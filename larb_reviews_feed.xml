@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 12:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:57:12 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saint Alito</title>
+      <link>https://lareviewofbooks.org/article/alito-conservative-justice-reshaped-supreme-court-mollie-hemingway/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/alito-conservative-justice-reshaped-supreme-court-mollie-hemingway/</guid>
+      <description>Mollie Hemingway offers up an uncritical biography of Justice Samuel Alito, the Supreme Court’s most conservative jurist.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Femicide in Saudi Arabia</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Organizing Pessimism</title>
-      <link>https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/</guid>
-      <description>André Breton, necropolitics, and 100 years of surrealism.</description>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Organizing Pessimism</title>
+      <link>https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/</guid>
+      <description>André Breton, necropolitics, and 100 years of surrealism.</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sinking City</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</guid>
       <description>Jesmyn Ward’s new essay collection touches on familiar topics from her fiction: coastal Mississippi, poverty, the ravages of racism, and the power of storytelling.</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red-Pilling Speculation</title>
-      <link>https://lareviewofbooks.org/article/reactionary-worldbuilding-speculative-imagination-political-practice-conspiracy-qanon/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/reactionary-worldbuilding-speculative-imagination-political-practice-conspiracy-qanon/</guid>
-      <description>From Ayn Rand to QAnon, a new anthology explores how reactionary world-building becomes reactionary world-making.</description>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
