@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:02:09 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Tantrum Literature</title>
+      <link>https://lareviewofbooks.org/article/tantrum-literature-drew-basile-ada-mark-haber/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/tantrum-literature-drew-basile-ada-mark-haber/</guid>
+      <description>In Mark Haber’s new book, we encounter the tantrum novel in metafictional extremis—a hysterical literalization of the form’s essential nature.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Saint Alito</title>
@@ -36,18 +43,18 @@
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Estranged Worlds of J. G. Ballard</title>
-      <link>https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</guid>
-      <description>An incisive and moving new critical biography of one of the nuclear age’s greatest visionaries.</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Estranged Worlds of J. G. Ballard</title>
+      <link>https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</guid>
+      <description>An incisive and moving new critical biography of one of the nuclear age’s greatest visionaries.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Organizing Pessimism</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/rebels-outliers-real-stories-american-west-glionna-desert/</guid>
       <description>The small-town West comes to life in John M. Glionna’s recent essay collection.</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Love Is Stronger than Death</title>
-      <link>https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/witness-respair-essays-jesmyn-ward-southern-racism-poverty/</guid>
-      <description>Jesmyn Ward’s new essay collection touches on familiar topics from her fiction: coastal Mississippi, poverty, the ravages of racism, and the power of storytelling.</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

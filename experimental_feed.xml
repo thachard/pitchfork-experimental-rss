@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:59:35 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>M. Geddes Gengras – Guest List</title>
+      <link>https://pitchfork.com/reviews/albums/m-geddes-gengras-guest-list/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/m-geddes-gengras-guest-list/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Akusmi – Terra Incognita</title>
       <link>https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</link>
@@ -190,14 +198,6 @@
       <description>A review by Grayson Haver Currin</description>
       <author>Grayson Haver Currin</author>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fire-Toolz – Lavender Networks</title>
-      <link>https://pitchfork.com/reviews/albums/fire-toolz-lavender-networks/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/fire-toolz-lavender-networks/</guid>
-      <description>A review by Andrew Ryce</description>
-      <author>Andrew Ryce</author>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
