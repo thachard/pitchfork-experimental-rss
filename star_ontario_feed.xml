@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:07:45 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ford government to scrap perk that let Toronto-area MPPs bill taxpayers thousands for hotel rooms</title>
+      <link>https://www.thestar.com/politics/provincial/ford-government-to-close-loophole-that-let-toronto-area-mpps-bill-taxpayers-thousands-for-hotel-rooms/article_0b87eb16-0900-42bc-a929-5ac02b1520fe.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ford-government-to-close-loophole-that-let-toronto-area-mpps-bill-taxpayers-thousands-for-hotel-rooms/article_0b87eb16-0900-42bc-a929-5ac02b1520fe.html</guid>
+      <description>The motion would scrap a provision that lets local MPPs to book hotels if there are night sittings at the legislature or inclement weather.</description>
+      <pubDate>Wed, 15 Jul 2026 20:55:04 +0000</pubDate>
+    </item>
     <item>
       <title>Stan Cho, tourism minister and Toronto MPP, to repay $16K in city hotel expenses</title>
       <link>https://www.thestar.com/news/ontario/stan-cho-tourism-minister-and-toronto-mpp-to-repay-16k-in-city-hotel-expenses/article_e275965f-0c23-533e-a1bf-ecafe8f5ce83.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/stan-cho-tourism-minister-and-toronto-mpp-to-repay-16k-in-city-hotel-expenses/article_e275965f-0c23-533e-a1bf-ecafe8f5ce83.html</guid>
-      <description>TORONTO - An Ontario cabinet minister who represents a north Toronto riding promised Tuesday to reimburse more than $16,000 in Toronto hotel e…</description>
+      <description></description>
       <pubDate>Tue, 14 Jul 2026 22:19:19 +0000</pubDate>
     </item>
     <item>
@@ -39,7 +46,7 @@
       <title>Doug Ford poised to call byelections in Scarborough and York Region</title>
       <link>https://www.thestar.com/politics/provincial/doug-ford-poised-to-call-byelections-in-scarborough-and-york-region/article_5ea9fdf4-971c-40b9-a310-3899a0bb9e8a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-poised-to-call-byelections-in-scarborough-and-york-region/article_5ea9fdf4-971c-40b9-a310-3899a0bb9e8a.html</guid>
-      <description></description>
+      <description>Ford&apos;s Progressive Conservatives finally selected a candidate in Scarborough Southwest with family physician Dr. Noor Tarun winning a conteste…</description>
       <pubDate>Fri, 10 Jul 2026 19:51:03 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/investigations/tooniebet-is-on-a-hot-streak-in-ontarios-online-betting-market-its-parent-company-is-linked-to-a-1b-network-of-blacklisted-casinos/article_b70c44ef-3fc7-4ad1-aef7-f3ad32bb8cf6.html</guid>
       <description>Soft2Bet denies wrongdoing and says it takes compliance &quot;extremely seriously.&quot; Ontario&apos;s gambling regulator says it is investigating.</description>
       <pubDate>Sat, 11 Jul 2026 12:19:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Democrats hope Greenbelt scandal haunts Doug Ford in byelections</title>
-      <link>https://www.thestar.com/politics/provincial/new-democrats-hope-greenbelt-scandal-haunts-doug-ford-in-byelections/article_eb9068d3-66f3-4465-a15a-bb652df7a57f.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/new-democrats-hope-greenbelt-scandal-haunts-doug-ford-in-byelections/article_eb9068d3-66f3-4465-a15a-bb652df7a57f.html</guid>
-      <description>NDP Leader Marit Stiles marked 1,000 days since the RCMP began a criminal probe into the $8.28-billion land swap scandal.</description>
-      <pubDate>Thu, 09 Jul 2026 05:22:22 +0000</pubDate>
     </item>
     <item>
       <title>Carney government commits $6 billion to boost skilled trades</title>
@@ -78,6 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 16:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>New Democrats hope Greenbelt scandal haunts Doug Ford in byelections</title>
+      <link>https://www.thestar.com/politics/provincial/new-democrats-hope-greenbelt-scandal-haunts-doug-ford-in-byelections/article_eb9068d3-66f3-4465-a15a-bb652df7a57f.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/new-democrats-hope-greenbelt-scandal-haunts-doug-ford-in-byelections/article_eb9068d3-66f3-4465-a15a-bb652df7a57f.html</guid>
+      <description></description>
+      <pubDate>Thu, 09 Jul 2026 05:22:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Doug Ford’s pipeline dream faces immediate headwinds</title>
       <link>https://www.thestar.com/politics/provincial/doug-fords-pipeline-dream-faces-immediate-headwinds/article_d5a049bf-7464-4d8a-bcb7-4194255714f3.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-fords-pipeline-dream-faces-immediate-headwinds/article_d5a049bf-7464-4d8a-bcb7-4194255714f3.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/former-ontario-integrity-commissioner-who-wrote-greenbelt-report-dies/article_e3997b4f-2beb-5f7e-96e0-685b8e3aba26.html</guid>
       <description></description>
       <pubDate>Tue, 07 Jul 2026 20:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marit Stiles says out loud what many Ontarians are thinking. So why won’t they vote for her?</title>
-      <link>https://www.thestar.com/politics/provincial/marit-stiles-says-out-loud-what-many-ontarians-are-thinking-so-why-wont-they-vote-for-her/article_9c4d7518-5079-4434-bdce-8605abf0a460.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/marit-stiles-says-out-loud-what-many-ontarians-are-thinking-so-why-wont-they-vote-for-her/article_9c4d7518-5079-4434-bdce-8605abf0a460.html</guid>
-      <description></description>
-      <pubDate>Wed, 08 Jul 2026 16:43:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

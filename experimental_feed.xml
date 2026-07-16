@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:06:07 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Standing on the Corner – Standing on the Corner II</title>
+      <link>https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</guid>
+      <description>A review by Matthew Ritchie</description>
+      <author>Matthew Ritchie</author>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>M. Geddes Gengras – Guest List</title>
       <link>https://pitchfork.com/reviews/albums/m-geddes-gengras-guest-list/</link>
@@ -190,14 +198,6 @@
       <description>A review by Eli Enis</description>
       <author>Eli Enis</author>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Father Dionysios Tabakis – Paradise Metal</title>
-      <link>https://pitchfork.com/reviews/albums/father-dionysios-tabakis-paradise-metal/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/father-dionysios-tabakis-paradise-metal/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

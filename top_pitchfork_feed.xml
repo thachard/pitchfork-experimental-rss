@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:07:53 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kelela – new avatar</title>
+      <link>https://pitchfork.com/reviews/albums/kelela-new-avatar/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kelela-new-avatar/</guid>
+      <description>A review by Lawrence Burney</description>
+      <author>Lawrence Burney</author>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Akusmi – Terra Incognita</title>
       <link>https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</link>
@@ -238,14 +246,6 @@
       <description>A review by Alphonse Pierre</description>
       <author>Alphonse Pierre</author>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10,000 Maniacs – MTV Unplugged</title>
-      <link>https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/</guid>
-      <description>A review by Dan Kois</description>
-      <author>Dan Kois</author>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
