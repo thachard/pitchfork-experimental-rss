@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:56:08 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Imagining New Ways to Live</title>
+      <link>https://lareviewofbooks.org/article/living-together-reimaging-community-disconnection-samantha-paige-rosen/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/living-together-reimaging-community-disconnection-samantha-paige-rosen/</guid>
+      <description>A new essay anthology offers a portrait of communal life that is far more expansive than popular representations often allow.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Correctional Facility: A Response to Jonathan Basile’s ‘Natural Election’</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Femicide in Saudi Arabia</title>
-      <link>https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</guid>
-      <description>Haifaa Al-Mansour’s recent film explores the new liberties available to women in her home country.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Femicide in Saudi Arabia</title>
+      <link>https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</guid>
+      <description>Haifaa Al-Mansour’s recent film explores the new liberties available to women in her home country.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>All Humanity Now Stands on the Edge of the Abyss</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</guid>
       <description>Empire, language, violence, and metamorphosis in a kaleidoscopic novel of the Apache Wars.</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Expert as Tourist</title>
-      <link>https://lareviewofbooks.org/article/this-land-is-your-land-beverly-gage-history/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/this-land-is-your-land-beverly-gage-history/</guid>
-      <description>Beverly Gage takes a road trip through historic sites from 1776 to today, discovering optimism for our political future along the way.</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
