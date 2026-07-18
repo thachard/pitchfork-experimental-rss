@@ -5,12 +5,26 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:22:01 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
     <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Oxbridge dons to sports betting and Charles Manson, plus short stories by Sigrid Nunez, James Ellroy’s noir vision of America, our pick of graphic novels — and Nilanjana Roy on unseen wildlife</description>
+      <pubDate>Fri, 17 Jul 2026 14:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>It Will Come Back to You by Sigrid Nunez — tales from her brilliant career</title>
+      <link>https://www.ft.com/content/6a229e23-dfb6-4ff1-a086-351b877342cc</link>
+      <guid isPermaLink="true">https://www.ft.com/content/6a229e23-dfb6-4ff1-a086-351b877342cc</guid>
+      <description>Perceptive, funny and unsettling, a collection of short stories from the writer of ‘The Friend’ shows the emergence of her distinctive voice</description>
+      <pubDate>Thu, 16 Jul 2026 12:40:12 +0000</pubDate>
+    </item>
+    <item>
       <title>The Past Pursues Us Like Detectives, Debt Collectors, Thieves — a noir tale of small-town Mexico</title>
-      <link>https://www.ft.com/content/1a9fe09b-b56d-4b69-8b77-dedcb8d27546</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1a9fe09b-b56d-4b69-8b77-dedcb8d27546</guid>
+      <link>https://www.ft.com/content/1a9fe09b-b56d-4b69-8b77-dedcb8d27546?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1a9fe09b-b56d-4b69-8b77-dedcb8d27546?syn-25a6b1a6=1</guid>
       <description>Juan Pablo Villalobos’s unsettling sixth novel blurs fact and fiction, and past and present in a setting where crime hovers at the fringes</description>
       <pubDate>Wed, 15 Jul 2026 10:53:43 +0000</pubDate>
     </item>
@@ -34,13 +48,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</guid>
       <description>Readers are falling into a ‘likeability’ trap. But fiction was never meant to be a charm contest</description>
       <pubDate>Sat, 11 Jul 2026 04:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Vance vs Pence to Big Tech, Garry Sobers and King Juan Carlos. Plus novels by Avni Doshi and Daniel Mason, ’80s and ’90s music journalism — and Suzi Feay’s pick of debut fiction</description>
-      <pubDate>Fri, 10 Jul 2026 12:26:19 +0000</pubDate>
     </item>
     <item>
       <title>The Mulai — an extraplanetary experiment in language and identity</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/e50dfb16-6bb4-463f-b259-07fbaed144b9</guid>
       <description>Barry Forshaw and Adam LeBor select their best mid-year reads</description>
       <pubDate>Mon, 15 Jun 2026 04:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Contrapposto by Dave Eggers — in defence of art without ambition</title>
-      <link>https://www.ft.com/content/864614ac-64eb-48f3-82f4-eef1881b4d58</link>
-      <guid isPermaLink="true">https://www.ft.com/content/864614ac-64eb-48f3-82f4-eef1881b4d58</guid>
-      <description>Eggers explores the rewards of the creative life and the compromises of artistic success in this unashamedly old-fashioned novel</description>
-      <pubDate>Fri, 12 Jun 2026 11:10:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
