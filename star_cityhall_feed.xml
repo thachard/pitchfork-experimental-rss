@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 19 Jul 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:21:38 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The World Cup is almost over. Was Toronto’s stint as host a success?</title>
+      <link>https://www.thestar.com/news/gta/the-world-cup-is-almost-over-was-torontos-stint-as-host-a-success/article_5602c962-6a77-452a-9a62-d346af807f96.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/the-world-cup-is-almost-over-was-torontos-stint-as-host-a-success/article_5602c962-6a77-452a-9a62-d346af807f96.html</guid>
+      <description>The city was a fun place to be but restaurants and hotels didn&apos;t see the boom they hoped for</description>
+      <pubDate>Sun, 19 Jul 2026 07:01:53 +0000</pubDate>
+    </item>
     <item>
       <title>Frances Nunziata registers to run for ninth Toronto city council term. ‘I’ve been waiting four years for this rematch,’ opponent says</title>
       <link>https://www.thestar.com/news/gta/city-hall/frances-nunziata-registers-to-run-for-ninth-toronto-city-council-term-ive-been-waiting-four-years-for-this-rematch-opponent-says/article_e2736cea-503c-46a6-890a-c0cdfe109c4f.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/frances-nunziata-registers-to-run-for-ninth-toronto-city-council-term-ive-been-waiting-four-years-for-this-rematch-opponent-says/article_e2736cea-503c-46a6-890a-c0cdfe109c4f.html</guid>
-      <description></description>
+      <description>Nunziata beat Chiara Padovani in the last election in York South-Weston by just 94 votes.</description>
       <pubDate>Sat, 18 Jul 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
@@ -57,13 +64,6 @@
       <pubDate>Tue, 14 Jul 2026 12:46:55 +0000</pubDate>
     </item>
     <item>
-      <title>2 dead, 4 injured in shooting near Salsa on St. Clair festival in Toronto</title>
-      <link>https://www.thestar.com/news/gta/two-dead-four-injured-in-shooting-near-salsa-on-st-clair-festival-in-toronto/article_ad80591a-cbd4-456d-88ee-03db20bfb055.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/two-dead-four-injured-in-shooting-near-salsa-on-st-clair-festival-in-toronto/article_ad80591a-cbd4-456d-88ee-03db20bfb055.html</guid>
-      <description></description>
-      <pubDate>Mon, 13 Jul 2026 15:54:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Salsa on St. Clair shooting has Toronto asking these four key questions about its street festivals</title>
       <link>https://www.thestar.com/news/gta/salsa-on-st-clair-shooting-has-toronto-asking-these-four-key-questions-about-its-street-festivals/article_fdaac046-8908-4b30-93e7-fc53fb5a2732.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/salsa-on-st-clair-shooting-has-toronto-asking-these-four-key-questions-about-its-street-festivals/article_fdaac046-8908-4b30-93e7-fc53fb5a2732.html</guid>
@@ -92,6 +92,20 @@
       <pubDate>Sat, 23 May 2026 14:53:08 +0000</pubDate>
     </item>
     <item>
+      <title>After two-plus years, here’s what we now know about the Indigenous remains found at Withrow Avenue — as questions remain</title>
+      <link>https://www.thestar.com/news/gta/after-two-plus-years-heres-what-we-now-know-about-the-indigenous-remains-found-at-withrow-avenue--as-questions-remain/article_7c38026d-e59f-4a3c-9c6e-61a2bd751d38.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/after-two-plus-years-heres-what-we-now-know-about-the-indigenous-remains-found-at-withrow-avenue--as-questions-remain/article_7c38026d-e59f-4a3c-9c6e-61a2bd751d38.html</guid>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prosecutors appear to drop some charges against Toronto cops, others as most serious allegations in corruption case head to trial</title>
+      <link>https://www.thestar.com/news/investigations/several-charges-appear-to-be-dropped-against-toronto-cops-accused-conspirators-in-project-south-corruption-case/article_156ae807-bb8b-4424-84a0-7a28623f06f6.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/investigations/several-charges-appear-to-be-dropped-against-toronto-cops-accused-conspirators-in-project-south-corruption-case/article_156ae807-bb8b-4424-84a0-7a28623f06f6.html</guid>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>At Salsa on St. Clair, how a night of dancing turned deadly — and why witnesses face ‘wounds that can’t always be seen’</title>
       <link>https://www.thestar.com/news/gta/at-salsa-on-st-clair-how-a-night-of-dancing-turned-deadly--and-why-witnesses-face-wounds-that-cant-always-be-seen/article_b2419f56-7e8f-475e-8306-468e404384af.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/at-salsa-on-st-clair-how-a-night-of-dancing-turned-deadly--and-why-witnesses-face-wounds-that-cant-always-be-seen/article_b2419f56-7e8f-475e-8306-468e404384af.html</guid>
@@ -118,20 +132,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/ontario-wildfire-map-smoke-has-turned-torontos-sky-orange-use-our-tool-to-see-where-its-spreading/article_75d264d7-a0bd-4605-ae2f-85dfdfe65ac1.html</guid>
       <description></description>
       <pubDate>Sat, 18 Jul 2026 22:35:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Woman dead, suspect sought after stabbing in North York residence</title>
-      <link>https://www.thestar.com/news/gta/woman-injured-suspect-outstanding-after-stabbing-in-north-york-residence/article_edf29477-5fef-4e86-bc02-13e8df29baa2.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-injured-suspect-outstanding-after-stabbing-in-north-york-residence/article_edf29477-5fef-4e86-bc02-13e8df29baa2.html</guid>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 19:02:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doug Ford slams Donald Trump’s attack on Canada over wildfire smoke as ‘unacceptable’</title>
-      <link>https://www.thestar.com/news/canada/ford-slams-trumps-attack-on-canada-over-wildfire-smoke-as-unacceptable/article_2183542d-59f1-403d-ac5e-d2e28e981981.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/canada/ford-slams-trumps-attack-on-canada-over-wildfire-smoke-as-unacceptable/article_2183542d-59f1-403d-ac5e-d2e28e981981.html</guid>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 21:49:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
