@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:50:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Opeth – Damnation</title>
+      <link>https://pitchfork.com/reviews/albums/opeth-damnation/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/opeth-damnation/</guid>
+      <description>A review by Sam Goldner</description>
+      <author>Sam Goldner</author>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Four Tet – ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͘ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ l̡̡̡ ̡͌ Ɵʅ͡͡͡͡͡͡͡͡͡͡͡(̸</title>
       <link>https://pitchfork.com/reviews/albums/four-tet-wingdings-2026/</link>
@@ -238,14 +246,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ted Lucas – Images of Life</title>
-      <link>https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
