@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:48:56 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Eartheater – Heavenly Body: If I’m the Bottle You’re the Message</title>
+      <link>https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/</guid>
+      <description>A review by Colin Joyce</description>
+      <author>Colin Joyce</author>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Standing on the Corner – Standing on the Corner II</title>
       <link>https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</link>
@@ -190,14 +198,6 @@
       <description>A review by Lily Goldberg</description>
       <author>Lily Goldberg</author>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salem – Red Dragon</title>
-      <link>https://pitchfork.com/reviews/albums/salem-red-dragon/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/salem-red-dragon/</guid>
-      <description>A review by Eli Enis</description>
-      <author>Eli Enis</author>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

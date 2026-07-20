@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 18 Jul 2026 09:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:49:18 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Best new thrillers — a journalist in peril, a spy in WW1 and thrills of the chase</title>
+      <link>https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</guid>
+      <description>Charles Cumming returns with his Box 88 series, an impressive debut from Connor Martin in ‘The Silver Fish’ and more</description>
+      <pubDate>Mon, 20 Jul 2026 04:00:19 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -149,8 +156,8 @@
     </item>
     <item>
       <title>The best fiction and fiction in translation to read this summer</title>
-      <link>https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce</link>
-      <guid isPermaLink="true">https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce</guid>
+      <link>https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce?syn-25a6b1a6=1</guid>
       <description>Maria Crawford and Ángel Gurría-Quintana select their best mid-year reads</description>
       <pubDate>Thu, 18 Jun 2026 04:00:05 +0000</pubDate>
     </item>
@@ -163,8 +170,8 @@
     </item>
     <item>
       <title>The best literary non-fiction and poetry to read this summer</title>
-      <link>https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908</guid>
+      <link>https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908?syn-25a6b1a6=1</guid>
       <description>Carl Wilkinson and Maria Crawford select their best mid-year reads</description>
       <pubDate>Tue, 16 Jun 2026 11:00:05 +0000</pubDate>
     </item>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/ef38974a-fc08-4aa5-8908-cbcd524d040e</guid>
       <description>Alex Clark selects her best mid-year titles to listen to</description>
       <pubDate>Mon, 15 Jun 2026 04:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best crime and thriller books to read so far this year</title>
-      <link>https://www.ft.com/content/e50dfb16-6bb4-463f-b259-07fbaed144b9</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e50dfb16-6bb4-463f-b259-07fbaed144b9</guid>
-      <description>Barry Forshaw and Adam LeBor select their best mid-year reads</description>
-      <pubDate>Mon, 15 Jun 2026 04:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
