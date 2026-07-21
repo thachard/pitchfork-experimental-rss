@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:23:10 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Luluc – Sweet Thief</title>
+      <link>https://pitchfork.com/reviews/albums/luluc-sweet-thief/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/luluc-sweet-thief/</guid>
+      <description>A review by rian Howe</description>
+      <author>rian Howe</author>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Evil Graham Lee – I Think I’m Alone Now</title>
       <link>https://pitchfork.com/reviews/albums/evil-graham-lee-i-think-im-alone-now/</link>
@@ -190,14 +198,6 @@
       <description>A review by en Cardew</description>
       <author>en Cardew</author>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dagmar Zuniga – in filth your mystery is kingdom / far smile peasant in yellow music</title>
-      <link>https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dagmar-zuniga-in-filth-your-mystery-is-kingdom-far-smile-peasant-in-yellow-music/</guid>
-      <description>A review by Vrinda Jagota</description>
-      <author>Vrinda Jagota</author>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:24:01 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Will Stan Cho remain in PC caucus following hotel expense claim scandal? Doug Ford won’t say</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-premier-wont-say-if-ex-minister-will-remain-in-pc-caucus/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-premier-wont-say-if-ex-minister-will-remain-in-pc-caucus/</guid>
+      <description>Video</description>
+      <pubDate>Mon, 20 Jul 2026 20:39:40 +0000</pubDate>
+    </item>
     <item>
       <title>‘I made a mistake:’ Stan Cho resigns from Ford cabinet over Toronto hotel expense claims</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/i-made-a-mistake-stan-cho-resigns-from-ford-cabinet-over-toronto-hotel-expense-claims/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/i-made-a-mistake-stan-cho-resigns-from-ford-cabinet-over-toronto-hotel-expense-claims/</guid>
-      <description></description>
+      <description>Ontario Tourism, Culture and Gaming Minister Stan Cho has resigned from Premier Doug Ford’s cabinet, saying he made “a mistake” by claiming accommodation expenses for overnight stays in Toronto.</description>
       <pubDate>Fri, 17 Jul 2026 16:19:58 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/the-time-to-do-something-is-now-ontario-looking-at-changes-to-online-gambling-ads/</guid>
       <description>Ontario’s minister responsible for gambling says potential changes to the laws governing ads for online gambling are coming soon.</description>
       <pubDate>Tue, 30 Jun 2026 13:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario education minister urges parents not to pull kids from school for sports</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-education-minister-urges-parents-not-to-pull-kids-from-school-for-sports/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-education-minister-urges-parents-not-to-pull-kids-from-school-for-sports/</guid>
-      <description>Ontario Education Minister Paul Calandra is urging parents not to pull their kids out of school for sports tournaments next year, when new attendance rules begin.</description>
-      <pubDate>Mon, 29 Jun 2026 19:57:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

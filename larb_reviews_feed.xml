@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:25:22 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doing It Wrong</title>
+      <link>https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</guid>
+      <description>Antonio Moresco’s newly translated novel is a series of a non-epiphanies played out against a background of static malaise.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>To Touch the Music That Touches You</title>
+      <link>https://lareviewofbooks.org/article/poetry-jennifer-clarvoe-piano-piano-susan-stewart-bramble/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/poetry-jennifer-clarvoe-piano-piano-susan-stewart-bramble/</guid>
+      <description>On the music of new poetry collections from Jennifer Clarvoe and Susan Stewart.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Imagining New Ways to Live</title>
@@ -29,6 +43,13 @@
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>On Tantrum Literature</title>
       <link>https://lareviewofbooks.org/article/tantrum-literature-drew-basile-ada-mark-haber/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/tantrum-literature-drew-basile-ada-mark-haber/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/alito-conservative-justice-reshaped-supreme-court-mollie-hemingway/</guid>
       <description>Mollie Hemingway offers up an uncritical biography of Justice Samuel Alito, the Supreme Court’s most conservative jurist.</description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Femicide in Saudi Arabia</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/mercy-artificial-intelligence-justice-system-chris-pratt-statistics/</guid>
       <description>A new movie about AI judges serves to expose how film noir was always about a world of artificial intelligence.</description>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Declaration Alone Can’t Save Us</title>
-      <link>https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/our-declaration-independence-america-defense-equality-danielle-allen/</guid>
-      <description>Danielle Allen’s rereleased reading of our founding document is surprisingly, and often maddeningly, ahistorical.</description>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>At the Very Least We Should Know Your Name</title>
-      <link>https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/now-i-surrender-alvaro-enrigue-geronimo-apacheria-displacement/</guid>
-      <description>Empire, language, violence, and metamorphosis in a kaleidoscopic novel of the Apache Wars.</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
