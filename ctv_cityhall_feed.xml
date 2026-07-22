@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:24:13 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto could ban ‘surveillance pricing’ for groceries. Here is what that means.</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-could-ban-surveillance-pricing-for-groceries/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-could-ban-surveillance-pricing-for-groceries/</guid>
+      <description>Video</description>
+      <pubDate>Tue, 21 Jul 2026 19:05:35 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto is looking to have more pedestrian-friendly streets. What could that look like?</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-is-looking-to-have-more-pedestrian-friendly-streets-what-could-that-look-like/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-is-looking-to-have-more-pedestrian-friendly-streets-what-could-that-look-like/</guid>
-      <description>Video</description>
+      <description>Toronto is looking at having more pedestrian-friendly streets throughout the city, where people can walk arm-in-arm from store to restaurant without worrying about oncoming traffic or waiting for street lights to change.</description>
       <pubDate>Sat, 11 Jul 2026 11:02:31 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-councillor-asked-for-considerable-amount-of-money-to-move-developments-forward-source-allegations/</guid>
       <description>Developers of two Scarborough properties raised concerns about a Toronto councillor asking them to pay a “considerable amount&quot; of money to get their proposals through city processes, sources tell CTV News Toronto.</description>
       <pubDate>Tue, 12 May 2026 17:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Natalie Johnson, longtime CTV News journalist, to run for city council</title>
-      <link>https://www.ctvnews.ca/toronto/article/natalie-johnson-longtime-ctv-news-journalist-to-run-for-city-council/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/natalie-johnson-longtime-ctv-news-journalist-to-run-for-city-council/</guid>
-      <description>A longtime CTV News journalist has joined the race to replace Brad Bradford as the city councillor for Beaches-East York.</description>
-      <pubDate>Mon, 11 May 2026 18:18:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:24:26 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sofie Birch – Bivabippabualukka</title>
+      <link>https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/</guid>
+      <description>A review by Shaad D’Souza</description>
+      <author>Shaad D’Souza</author>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Opeth – Damnation</title>
       <link>https://pitchfork.com/reviews/albums/opeth-damnation/</link>
@@ -238,14 +246,6 @@
       <description>A review by Stephen Kearse</description>
       <author>Stephen Kearse</author>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laura Nyro – New York Tendaberry</title>
-      <link>https://pitchfork.com/reviews/albums/laura-nyro-new-york-tendaberry/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/laura-nyro-new-york-tendaberry/</guid>
-      <description>A review by Sam Sodomsky</description>
-      <author>Sam Sodomsky</author>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

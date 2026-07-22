@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:58:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:22:51 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sofie Birch – Bivabippabualukka</title>
+      <link>https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/</guid>
+      <description>A review by Shaad D’Souza</description>
+      <author>Shaad D’Souza</author>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Eartheater – Heavenly Body: If I’m the Bottle You’re the Message</title>
       <link>https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/</link>
@@ -190,14 +198,6 @@
       <description>A review by Dash Lewis</description>
       <author>Dash Lewis</author>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Magic Tuber Stringband – Heavy Water</title>
-      <link>https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/magic-tuber-stringband-heavy-water/</guid>
-      <description>A review by Lily Goldberg</description>
-      <author>Lily Goldberg</author>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
