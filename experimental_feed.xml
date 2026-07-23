@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 12:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:19:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nu Jazz – Un Jazz</title>
+      <link>https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nu-jazz-un-jazz/</guid>
+      <description>A review by Sam Goldner</description>
+      <author>Sam Goldner</author>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sofie Birch – Bivabippabualukka</title>
       <link>https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/</link>
@@ -190,14 +198,6 @@
       <description>A review by Kieran Press-Reynolds</description>
       <author>Kieran Press-Reynolds</author>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Duval Timothy / Carlos Niño – rain music</title>
-      <link>https://pitchfork.com/reviews/albums/duval-timothy-carlos-nino-rain-music/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/duval-timothy-carlos-nino-rain-music/</guid>
-      <description>A review by Dash Lewis</description>
-      <author>Dash Lewis</author>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
