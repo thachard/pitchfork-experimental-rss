@@ -5,8 +5,29 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 22 Jul 2026 12:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:21:40 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Beginning Middle End — memory, motherhood and starting over</title>
+      <link>https://www.ft.com/content/30011203-d3cc-4b60-bb10-61910cdcccbc</link>
+      <guid isPermaLink="true">https://www.ft.com/content/30011203-d3cc-4b60-bb10-61910cdcccbc</guid>
+      <description>A shape-shifting sea god anchors Valeria Luiselli’s playful, searching novel of broken families and second chances</description>
+      <pubDate>Thu, 23 Jul 2026 11:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Passage by Colin Thubron — a mesmerising exploration of marriage and the mind</title>
+      <link>https://www.ft.com/content/73692dbb-e4c7-4a10-bd61-73be946c319a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/73692dbb-e4c7-4a10-bd61-73be946c319a</guid>
+      <description>Set in the Valley of the Kings, this haunting novel shows the writer at the summit of his powers</description>
+      <pubDate>Wed, 22 Jul 2026 14:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cool Machine — Colson Whitehead’s Harlem trilogy reaches its reckoning</title>
+      <link>https://www.ft.com/content/56edf2d1-9686-47f4-8a1e-49d50e28a18e</link>
+      <guid isPermaLink="true">https://www.ft.com/content/56edf2d1-9686-47f4-8a1e-49d50e28a18e</guid>
+      <description>The writer powerfully uses crime fiction to explore Black aspiration, family loyalty and the forces that reshaped New York from the civil rights era to Reaganomics</description>
+      <pubDate>Wed, 22 Jul 2026 12:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>Best new thrillers — a journalist in peril, a spy in WW1 and thrills of the chase</title>
       <link>https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</link>
@@ -160,27 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce?syn-25a6b1a6=1</guid>
       <description>Maria Crawford and Ángel Gurría-Quintana select their best mid-year reads</description>
       <pubDate>Thu, 18 Jun 2026 04:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best science fiction and graphic novels to read this summer</title>
-      <link>https://www.ft.com/content/ca03faf7-f50f-48d3-a7d0-3648409870eb</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ca03faf7-f50f-48d3-a7d0-3648409870eb</guid>
-      <description>James Lovegrove and Lucy Scholes select their best mid-year reads</description>
-      <pubDate>Wed, 17 Jun 2026 14:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best literary non-fiction and poetry to read this summer</title>
-      <link>https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6921a7c4-4b63-4c49-8476-b6b20ea6b908?syn-25a6b1a6=1</guid>
-      <description>Carl Wilkinson and Maria Crawford select their best mid-year reads</description>
-      <pubDate>Tue, 16 Jun 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best audiobooks to listen to this summer</title>
-      <link>https://www.ft.com/content/ef38974a-fc08-4aa5-8908-cbcd524d040e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ef38974a-fc08-4aa5-8908-cbcd524d040e</guid>
-      <description>Alex Clark selects her best mid-year titles to listen to</description>
-      <pubDate>Mon, 15 Jun 2026 04:00:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
