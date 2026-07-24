@@ -5,13 +5,27 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:55:24 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From the finale of Colson Whitehead’s Harlem trilogy to the rules of punctuation and Nigeria’s romance scammers. Plus: a garbageman’s memoir, novels by Valeria Luiselli and Colin Thubron — and Adam LeBor’s pick of spy and action thrillers</description>
+      <pubDate>Fri, 24 Jul 2026 11:52:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Earth 7 — an eccentric, comic elegy for a dying planet</title>
+      <link>https://www.ft.com/content/d0697d10-a2f1-44b8-a025-2d27658cb040</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d0697d10-a2f1-44b8-a025-2d27658cb040</guid>
+      <description>Deb Olin Unferth’s sci-fi novel is a wild ride through time and space — and a love story for a broken world</description>
+      <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Beginning Middle End — memory, motherhood and starting over</title>
       <link>https://www.ft.com/content/30011203-d3cc-4b60-bb10-61910cdcccbc</link>
       <guid isPermaLink="true">https://www.ft.com/content/30011203-d3cc-4b60-bb10-61910cdcccbc</guid>
-      <description>A shape-shifting sea god anchors Valeria Luiselli’s playful, searching novel of broken families and second chances</description>
+      <description>A shape-shifting sea god anchors Valeria Luiselli’s impressive, searching novel of broken families and second chances</description>
       <pubDate>Thu, 23 Jul 2026 11:00:06 +0000</pubDate>
     </item>
     <item>
@@ -34,13 +48,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</guid>
       <description>Charles Cumming returns with his Box 88 series, an impressive debut from Connor Martin in ‘The Silver Fish’ and more</description>
       <pubDate>Mon, 20 Jul 2026 04:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Oxbridge dons to sports betting and Charles Manson, plus short stories by Sigrid Nunez, James Ellroy’s noir vision of America, our pick of graphic novels — and Nilanjana Roy on unseen wildlife</description>
-      <pubDate>Fri, 17 Jul 2026 14:42:28 +0000</pubDate>
     </item>
     <item>
       <title>It Will Come Back to You by Sigrid Nunez — tales from her brilliant career</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/a91b7b64-0828-4374-87db-083469e045f1</guid>
       <description>James Lovegrove and Suzi Feay select their best mid-year reads</description>
       <pubDate>Thu, 18 Jun 2026 14:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best fiction and fiction in translation to read this summer</title>
-      <link>https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/eeab0a5d-85cc-4b95-a137-cb45471db8ce?syn-25a6b1a6=1</guid>
-      <description>Maria Crawford and Ángel Gurría-Quintana select their best mid-year reads</description>
-      <pubDate>Thu, 18 Jun 2026 04:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
