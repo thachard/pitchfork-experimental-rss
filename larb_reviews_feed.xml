@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:45:34 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Know Your Own Men</title>
+      <link>https://lareviewofbooks.org/article/odyssey-christopher-nolan-women-circe-athena-calypso-penelope/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/odyssey-christopher-nolan-women-circe-athena-calypso-penelope/</guid>
+      <description>Some say that Christopher Nolan has finally transformed into a women’s director, but the gender dynamics in his new mythology epic are actually much more complicated.</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lights in the Sky</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Doing It Wrong</title>
-      <link>https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</guid>
-      <description>Antonio Moresco’s newly translated novel is a series of a non-epiphanies played out against a background of static malaise.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doing It Wrong</title>
+      <link>https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</guid>
+      <description>Antonio Moresco’s newly translated novel is a series of a non-epiphanies played out against a background of static malaise.</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>To Touch the Music That Touches You</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/vasily-grossman-from-front-line-stalingrad-treblinka-reporting/</guid>
       <description>Vasily Grossman’s fearless and compelling war journalism demonstrates his courage and integrity as a writer and a man.</description>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Estranged Worlds of J. G. Ballard</title>
-      <link>https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/</guid>
-      <description>An incisive and moving new critical biography of one of the nuclear age’s greatest visionaries.</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
