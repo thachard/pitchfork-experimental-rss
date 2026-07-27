@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 11:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:19:27 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Picture – Uuuuuuuu</title>
+      <link>https://pitchfork.com/reviews/albums/picture-uuuuuuuu/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/picture-uuuuuuuu/</guid>
+      <description>A review by H.D. Angel</description>
+      <author>H.D. Angel</author>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dux Content – Lifestyle</title>
+      <link>https://pitchfork.com/reviews/albums/dux-content-lifestyle/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dux-content-lifestyle/</guid>
+      <description>A review by illie Bugara</description>
+      <author>illie Bugara</author>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sofie Birch – Bivabippabualukka</title>
       <link>https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/</link>
@@ -222,22 +238,6 @@
       <description>A review by Andy Beta</description>
       <author>Andy Beta</author>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boards of Canada – Inferno</title>
-      <link>https://pitchfork.com/reviews/albums/boards-of-canada-inferno/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/boards-of-canada-inferno/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Greg Mendez – Beauty Land</title>
-      <link>https://pitchfork.com/reviews/albums/greg-mendez-beauty-land/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/greg-mendez-beauty-land/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
