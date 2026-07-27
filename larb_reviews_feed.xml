@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:40:26 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Echo, a Movement</title>
+      <link>https://lareviewofbooks.org/article/echo-city-kx-song-everyday-movement-gigi-leung/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/echo-city-kx-song-everyday-movement-gigi-leung/</guid>
+      <description>Two recent novels tackle the complex aftermath of the 2019–20 Hong Kong protests.</description>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Reign of Silence</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Capitalism’s ‘Metabolic Rift’</title>
-      <link>https://lareviewofbooks.org/article/kohei-saito-capital-from-zero/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/kohei-saito-capital-from-zero/</guid>
-      <description>Kohei Saito’s new book offers a compelling account of Marx’s development as an ecosocialist thinker.</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capitalism’s ‘Metabolic Rift’</title>
+      <link>https://lareviewofbooks.org/article/kohei-saito-capital-from-zero/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/kohei-saito-capital-from-zero/</guid>
+      <description>Kohei Saito’s new book offers a compelling account of Marx’s development as an ecosocialist thinker.</description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How a Democratic Republic Dies</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/alito-conservative-justice-reshaped-supreme-court-mollie-hemingway/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/alito-conservative-justice-reshaped-supreme-court-mollie-hemingway/</guid>
       <description>Mollie Hemingway offers up an uncritical biography of Justice Samuel Alito, the Supreme Court’s most conservative jurist.</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Femicide in Saudi Arabia</title>
-      <link>https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/haifaa-al-mansour-unidentified-saudi-arabia-noir-femicide/</guid>
-      <description>Haifaa Al-Mansour’s recent film explores the new liberties available to women in her home country.</description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
