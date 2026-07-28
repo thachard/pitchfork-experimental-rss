@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:32:01 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Ontario giving its transit officers new arresting powers has got the attention of other Canadian cities</title>
+      <link>https://www.ctvnews.ca/canada/article/why-ontario-giving-its-transit-officers-new-arresting-powers-has-got-the-attention-of-other-canadian-cities/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/canada/article/why-ontario-giving-its-transit-officers-new-arresting-powers-has-got-the-attention-of-other-canadian-cities/</guid>
+      <description>Video</description>
+      <pubDate>Mon, 27 Jul 2026 18:44:44 +0000</pubDate>
+    </item>
     <item>
       <title>More than 7 out of 10 Ontarians disapprove of the job Doug Ford is doing as premier, survey suggests</title>
       <link>https://www.ctvnews.ca/toronto/article/fewer-than-1-in-4-ontarians-approve-of-job-doug-ford-is-doing-as-liberals-lead-survey/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/fewer-than-1-in-4-ontarians-approve-of-job-doug-ford-is-doing-as-liberals-lead-survey/</guid>
-      <description>Video</description>
+      <description>Ontario Premier Doug Ford’s approval rating continues to slip amid a hotel expense scandal that has dogged his government  and at least one new survey now suggests that the Liberals have opened up a narrow lead over the Progressive Conservative party.</description>
       <pubDate>Fri, 24 Jul 2026 17:53:03 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ajax-mpp-drops-out-of-ontario-liberal-leadership-race/</guid>
       <description>Ontario Liberal MPP Rob Cerjanec has dropped his bid to become the next leader of the party.</description>
       <pubDate>Mon, 06 Jul 2026 00:35:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>No apparent fines yet for ticket resellers under Ontario price-cap law</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/no-apparent-fines-yet-for-ticket-resellers-under-ontario-price-cap-law/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/no-apparent-fines-yet-for-ticket-resellers-under-ontario-price-cap-law/</guid>
-      <description>Ontario’s World Cup matches have come and gone with ticket resale platforms running afoul of a new price cap law but seemingly facing no penalties from the province.</description>
-      <pubDate>Fri, 03 Jul 2026 19:49:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
