@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:17:46 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to Make a Woman —  a tale of two friendships, heartbreakingly observed</title>
+      <link>https://www.ft.com/content/9c0d8476-37a6-4911-a962-8a65fe92b438</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9c0d8476-37a6-4911-a962-8a65fe92b438</guid>
+      <description>Perceptive and poignant, Marie Darrieussecq’s novel traces the diverging lives of two female friends from childhood to adulthood</description>
+      <pubDate>Wed, 29 Jul 2026 12:01:52 +0000</pubDate>
+    </item>
     <item>
       <title>Children of Wolves — a thrilling tangle of scheming and sexual tension in Istanbul</title>
       <link>https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/0522d994-87ec-4c75-91b6-7224939a5fbe</guid>
       <description>Daisy Johnson’s engaging yet elusive novel sets longing and trauma against a landscape of rivers, islands and unreliable memory</description>
       <pubDate>Tue, 23 Jun 2026 12:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>FT readers’ favourite books of 2026 so far</title>
-      <link>https://www.ft.com/content/b07183bf-afd2-4659-9d7a-e98c95197403</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b07183bf-afd2-4659-9d7a-e98c95197403</guid>
-      <description>We asked you to share with us your favourite reads of the year so far — and here is what you told us</description>
-      <pubDate>Fri, 19 Jun 2026 16:43:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
