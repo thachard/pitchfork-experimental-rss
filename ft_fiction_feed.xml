@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:35:57 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Children of Wolves — a thrilling tangle of scheming and sexual tension in Istanbul</title>
+      <link>https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</guid>
+      <description>Lawrence Osborne’s atmospheric page-turner is a tale of sleuthing, rebellious rich kids and darker truths</description>
+      <pubDate>Tue, 28 Jul 2026 16:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/b07183bf-afd2-4659-9d7a-e98c95197403</guid>
       <description>We asked you to share with us your favourite reads of the year so far — and here is what you told us</description>
       <pubDate>Fri, 19 Jun 2026 16:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books for children and young adults to read this summer</title>
-      <link>https://www.ft.com/content/a91b7b64-0828-4374-87db-083469e045f1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a91b7b64-0828-4374-87db-083469e045f1</guid>
-      <description>James Lovegrove and Suzi Feay select their best mid-year reads</description>
-      <pubDate>Thu, 18 Jun 2026 14:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

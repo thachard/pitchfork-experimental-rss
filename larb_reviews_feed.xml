@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:37:41 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anarcho-Thumbelina</title>
+      <link>https://lareviewofbooks.org/article/astronaut-oana-aristide-romanian-novel-dictatorship/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/astronaut-oana-aristide-romanian-novel-dictatorship/</guid>
+      <description>Romanian author Oana Aristide’s new novel is an entertaining fable of serial murder, killer bears, and revolution.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drowning Airplanes Give You So Much More</title>
+      <link>https://lareviewofbooks.org/article/megan-mi-ai-lee-small-fortune-tiffanys-townsend/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/megan-mi-ai-lee-small-fortune-tiffanys-townsend/</guid>
+      <description>On Megan Mi-Ai Lee at Tiffany’s in Los Angeles.</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Animator’s New Groove</title>
@@ -29,6 +43,13 @@
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A Reign of Silence</title>
       <link>https://lareviewofbooks.org/article/queen-birgitta-trotzig-swedish-modernist-deportee-novel-weil/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/queen-birgitta-trotzig-swedish-modernist-deportee-novel-weil/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/odyssey-christopher-nolan-women-circe-athena-calypso-penelope/</guid>
       <description>Some say that Christopher Nolan has finally transformed into a women’s director, but the gender dynamics in his new mythology epic are actually much more complicated.</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lights in the Sky</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/living-together-reimaging-community-disconnection-samantha-paige-rosen/</guid>
       <description>A new essay anthology offers a portrait of communal life that is far more expansive than popular representations often allow.</description>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correctional Facility: A Response to Jonathan Basile’s ‘Natural Election’</title>
-      <link>https://lareviewofbooks.org/article/kathryn-harden-original-sin-mike-fortun-jonathan-basile/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/kathryn-harden-original-sin-mike-fortun-jonathan-basile/</guid>
-      <description>How could a UC Irvine anthropology professor and his fellow science studies scholar have such different responses to Kathryn Paige Harden’s recent book?</description>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On Tantrum Literature</title>
-      <link>https://lareviewofbooks.org/article/tantrum-literature-drew-basile-ada-mark-haber/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/tantrum-literature-drew-basile-ada-mark-haber/</guid>
-      <description>In Mark Haber’s new book, we encounter the tantrum novel in metafictional extremis—a hysterical literalization of the form’s essential nature.</description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
