@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:22:13 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Durutti Column – Renascent</title>
+      <link>https://pitchfork.com/reviews/albums/the-durutti-column-renascent/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-durutti-column-renascent/</guid>
+      <description>A review by Jazz Monroe</description>
+      <author>Jazz Monroe</author>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Foodman – HIKARIGASASHIKOMU</title>
       <link>https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/</link>
@@ -190,14 +198,6 @@
       <description>A review by Arman Khan</description>
       <author>Arman Khan</author>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discovery Zone – Library Copy Do Not Remove</title>
-      <link>https://pitchfork.com/reviews/albums/discovery-zone-library-copy-do-not-remove/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/discovery-zone-library-copy-do-not-remove/</guid>
-      <description>A review by Raphael Helfand</description>
-      <author>Raphael Helfand</author>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://thequietus.com/columns/quietus-reviews/album-of-the-week/</link>
     <description>Album of the Week reviews from The Quietus.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:22:30 +0000</lastBuildDate>
     <atom:link href="https://thequietus.com/columns/quietus-reviews/album-of-the-week/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scream of the Crop: XXXXX by Arca</title>
+      <link>https://thequietus.com/quietus-reviews/album-of-the-week/xxxxx-arca-review/</link>
+      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/xxxxx-arca-review/</guid>
+      <description>Her first album since the KICK pentalogy began life as a mixtape and still retains the rough energy of that looser, freer format</description>
+      <pubDate>Thu, 30 Jul 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Goo Place: My Heart is Running Backwards! A Martial Artist! With a Closed Fist! Woof! by Nick Granata</title>
       <link>https://thequietus.com/quietus-reviews/album-of-the-week/my-heart-is-running-backwards-a-martial-artist-with-a-closed-fist-woof-nick-granata-review/</link>
@@ -55,13 +62,6 @@
       <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/society-of-the-spectacles-demand-to-be-taken-to-heaven-alive-by-horse-lords/</guid>
       <description>Baltimore avant-rock group propose a revolution in everyday life, reconstructing American vernacular traditions from the ground up</description>
       <pubDate>Thu, 11 Jun 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Lasts is Consciousness: All Gates Open – the Original Motion Picture Soundtrack by Blood Incantation</title>
-      <link>https://thequietus.com/quietus-reviews/album-of-the-week/blood-incantation-all-gates-open-ost-review/</link>
-      <guid isPermaLink="true">https://thequietus.com/quietus-reviews/album-of-the-week/blood-incantation-all-gates-open-ost-review/</guid>
-      <description>The soundtrack to a new film about the Denver heavy metal four-piece takes the listener deep into an exploration of outer – and inner – space</description>
-      <pubDate>Thu, 04 Jun 2026 05:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
