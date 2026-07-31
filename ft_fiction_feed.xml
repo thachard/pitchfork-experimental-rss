@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:36:21 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Château Rouge — Amit Chaudhuri’s vivid vignettes of living in Paris</title>
+      <link>https://www.ft.com/content/a379ea89-8dc4-42d8-8c8b-28e89278aec0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a379ea89-8dc4-42d8-8c8b-28e89278aec0</guid>
+      <description>In a non-linear novel ripe with wit and writerly ambition, profound insights emerge amid evocations of the prosaic</description>
+      <pubDate>Thu, 30 Jul 2026 12:09:05 +0000</pubDate>
+    </item>
     <item>
       <title>How to Make a Woman —  a tale of two friendships, heartbreakingly observed</title>
       <link>https://www.ft.com/content/9c0d8476-37a6-4911-a962-8a65fe92b438</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/1aa92f04-382d-423c-8cac-5c716fbab765</guid>
       <description>Alex Hyde’s novel about the relationship between a photographer and an artist with parallels to Tracey Emin raises questions about who gets to be seen as a genius</description>
       <pubDate>Wed, 24 Jun 2026 16:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Long Wave — lost mothers and missing children</title>
-      <link>https://www.ft.com/content/0522d994-87ec-4c75-91b6-7224939a5fbe</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0522d994-87ec-4c75-91b6-7224939a5fbe</guid>
-      <description>Daisy Johnson’s engaging yet elusive novel sets longing and trauma against a landscape of rivers, islands and unreliable memory</description>
-      <pubDate>Tue, 23 Jun 2026 12:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

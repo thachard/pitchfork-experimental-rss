@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:37:55 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anything Could Become a Battleground</title>
+      <link>https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</guid>
+      <description>Isaac Butler’s new book mixes history and personal testimony to examine the ‘culture wars’ that shaped the 1980s—conflicts that differed in striking ways from the ones we’re witnessing today.</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fate of China’s Muslims</title>
+      <link>https://lareviewofbooks.org/article/islamic-china-rian-thum-muslim-transnationalism-hale-eroglu/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/islamic-china-rian-thum-muslim-transnationalism-hale-eroglu/</guid>
+      <description>Two recent books track the history of China’s Muslim minority during a period of suspicion and suppression.</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anarcho-Thumbelina</title>
@@ -29,6 +43,13 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Animator’s New Groove</title>
       <link>https://lareviewofbooks.org/article/disney-drawing-life-back-into-animation-tom-sito/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/disney-drawing-life-back-into-animation-tom-sito/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/echo-city-kx-song-everyday-movement-gigi-leung/</guid>
       <description>Two recent novels tackle the complex aftermath of the 2019–20 Hong Kong protests.</description>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Reign of Silence</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/beginnings-antonio-moresco-translation-max-lawton-francesco-pacifico/</guid>
       <description>Antonio Moresco’s newly translated novel is a series of a non-epiphanies played out against a background of static malaise.</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>To Touch the Music That Touches You</title>
-      <link>https://lareviewofbooks.org/article/poetry-jennifer-clarvoe-piano-piano-susan-stewart-bramble/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/poetry-jennifer-clarvoe-piano-piano-susan-stewart-bramble/</guid>
-      <description>On the music of new poetry collections from Jennifer Clarvoe and Susan Stewart.</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Imagining New Ways to Live</title>
-      <link>https://lareviewofbooks.org/article/living-together-reimaging-community-disconnection-samantha-paige-rosen/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/living-together-reimaging-community-disconnection-samantha-paige-rosen/</guid>
-      <description>A new essay anthology offers a portrait of communal life that is far more expansive than popular representations often allow.</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
