@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 12:14:50 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From graphic novels to the hounding of royal women and a foray into crime-scene forensics. Plus: French philosophers, a standout Bulgarian debut, Lawrence Osborne’s page-turner, a novel of female friendship — and Pilita Clark’s pick of environment titles</description>
+      <pubDate>Fri, 31 Jul 2026 11:49:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Born of Guilt — the heavy baggage of migration</title>
+      <link>https://www.ft.com/content/b3603329-2d31-4c90-82ae-205e6b4ae946</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b3603329-2d31-4c90-82ae-205e6b4ae946</guid>
+      <description>In Joanna Elmy’s award-winning debut novel, moving from post-communist Bulgaria to the US fails to upend the hardship a young woman’s life</description>
+      <pubDate>Fri, 31 Jul 2026 11:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>Château Rouge — Amit Chaudhuri’s vivid vignettes of living in Paris</title>
       <link>https://www.ft.com/content/a379ea89-8dc4-42d8-8c8b-28e89278aec0</link>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</guid>
       <description>Lawrence Osborne’s atmospheric page-turner is a tale of sleuthing, rebellious rich kids and darker truths</description>
       <pubDate>Tue, 28 Jul 2026 16:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From the finale of Colson Whitehead’s Harlem trilogy to the rules of punctuation and Nigeria’s romance scammers. Plus: a garbageman’s memoir, novels by Valeria Luiselli and Colin Thubron — and Adam LeBor’s pick of spy and action thrillers</description>
-      <pubDate>Fri, 24 Jul 2026 11:55:37 +0000</pubDate>
     </item>
     <item>
       <title>Earth 7 — an eccentric, comic elegy for a dying planet</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/270700cc-0fa8-45dc-8a3d-708f2ce11cbe</guid>
       <description>A characteristically apocalyptic novel is both a horrifying and compassionate view of an isolated nation where yuppie super-aliens live among humans</description>
       <pubDate>Thu, 25 Jun 2026 11:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exhibition — the uneasy boundary between art, identity and class</title>
-      <link>https://www.ft.com/content/1aa92f04-382d-423c-8cac-5c716fbab765</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1aa92f04-382d-423c-8cac-5c716fbab765</guid>
-      <description>Alex Hyde’s novel about the relationship between a photographer and an artist with parallels to Tracey Emin raises questions about who gets to be seen as a genius</description>
-      <pubDate>Wed, 24 Jun 2026 16:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
