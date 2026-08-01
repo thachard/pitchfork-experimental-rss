@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 31 Jul 2026 12:15:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:56:50 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>First poll since Chris Alexander’s entrance into the Toronto mayoral race released. Here is what it reveals</title>
+      <link>https://www.ctvnews.ca/toronto/article/first-toronto-mayoral-poll-with-chris-alexander-suggests-his-candidacy-hurts-bradford/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/first-toronto-mayoral-poll-with-chris-alexander-suggests-his-candidacy-hurts-bradford/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 31 Jul 2026 15:55:44 +0000</pubDate>
+    </item>
     <item>
       <title>Former federal cabinet minister enters Toronto mayor’s race, Bradford says he has ‘never heard’ of him</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/former-mp-chris-alexander-says-toronto-is-slightly-adrift-as-he-officially-launches-mayoral-bid/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/former-mp-chris-alexander-says-toronto-is-slightly-adrift-as-he-officially-launches-mayoral-bid/</guid>
-      <description></description>
+      <description>Former federal Conservative cabinet minister Chris Alexander has officially entered Toronto’s mayoral race, pitching himself as the “outsider” needed to get a city he says is “slightly adrift” back on track.</description>
       <pubDate>Wed, 29 Jul 2026 17:45:06 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/report-says-billy-bishop-expansion-could-impact-thousands-of-homes-along-waterfront/</guid>
       <description>A new report from city staff is warning that any expansion of Billy Bishop airport could result in major adverse impacts on housing, congestion, the environment and the waterfront as a whole.</description>
       <pubDate>Fri, 05 Jun 2026 01:05:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘There is more we can do’: Toronto Mayor Olivia Chow launches re-election bid</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/olivia-chow-confirms-she-is-running-for-second-term-as-toronto-mayor/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/olivia-chow-confirms-she-is-running-for-second-term-as-toronto-mayor/</guid>
-      <description>Olivia Chow says she is running for another term as Toronto’s mayor.</description>
-      <pubDate>Mon, 25 May 2026 19:35:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
