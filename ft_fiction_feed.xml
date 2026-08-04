@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 04 Aug 2026 10:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:34:39 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Great Granny Webster — Caroline Blackwood’s twisted, aristocratic fairy tale</title>
+      <link>https://www.ft.com/content/a9895756-ed05-4dd1-9861-68b9a5f6b777</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a9895756-ed05-4dd1-9861-68b9a5f6b777</guid>
+      <description>This Booker-shortlisted 1977 novel, now reissued by Virago Modern Classics, reads like a memoir refracted through gothic fantasy</description>
+      <pubDate>Tue, 04 Aug 2026 11:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Top chills, gritty thrills and sailing with serial killers — best new crime mysteries</title>
       <link>https://www.ft.com/content/74fd77d3-06d7-40dc-9a05-ff7a79067796</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8eaa3421-607f-4f18-8cb3-2c88c2718f4c</guid>
       <description>With his breakthrough hit ‘Eurotrash’ set to appear on stage and screen, and new novel ‘Air’ out this month, the one-time enfant terrible is conquering the English-speaking world</description>
       <pubDate>Wed, 01 Jul 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>A cold war-set debut, plus a superhero satire turns savage — the best new science-fiction books</title>
-      <link>https://www.ft.com/content/40abef4f-d32a-477a-bf3f-0e7eb6d4ca53</link>
-      <guid isPermaLink="true">https://www.ft.com/content/40abef4f-d32a-477a-bf3f-0e7eb6d4ca53</guid>
-      <description>A British spy on a deep-sea vessel confronts supernatural forces while a heroine assumes an unexpected role in taking on ghostly villains</description>
-      <pubDate>Mon, 29 Jun 2026 04:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
