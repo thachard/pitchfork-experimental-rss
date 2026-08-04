@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:34:59 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arca – XXXXX</title>
+      <link>https://pitchfork.com/reviews/albums/arca-xxxxx/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/arca-xxxxx/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parts &amp; Labor – Set of All Sets</title>
+      <link>https://pitchfork.com/reviews/albums/parts-and-labor-set-of-all-sets/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/parts-and-labor-set-of-all-sets/</guid>
+      <description>A review by Arman Khan</description>
+      <author>Arman Khan</author>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Durutti Column – Renascent</title>
       <link>https://pitchfork.com/reviews/albums/the-durutti-column-renascent/</link>
@@ -182,22 +198,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mabe Fratti / Bill Orcutt – Almost Waking</title>
-      <link>https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mabe-fratti-bill-orcutt-almost-waking/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shye Ben Tzur / Jonny Greenwood / The Rajasthan Express – Ranjha</title>
-      <link>https://pitchfork.com/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shye-ben-tzur-jonny-greenwood-the-rajasthan-express-ranjha/</guid>
-      <description>A review by Arman Khan</description>
-      <author>Arman Khan</author>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
