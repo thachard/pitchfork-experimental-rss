@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 12:18:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:33:06 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trashcan Sinatras – Ever the Optimist</title>
+      <link>https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/</guid>
+      <description>A review by Stephen Thomas Erlewine</description>
+      <author>Stephen Thomas Erlewine</author>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ween – 12 Golden Country Greats (Deluxe Edition)</title>
       <link>https://pitchfork.com/reviews/albums/ween-12-golden-country-greats-deluxe-edition/</link>
@@ -230,14 +238,6 @@
       <description>A review by Dash Lewis</description>
       <author>Dash Lewis</author>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tara Clerkin Trio – Somewhere Good</title>
-      <link>https://pitchfork.com/reviews/albums/tara-clerkin-trio-somewhere-good/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tara-clerkin-trio-somewhere-good/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

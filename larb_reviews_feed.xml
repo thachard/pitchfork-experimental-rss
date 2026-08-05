@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:33:27 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sowing the Seeds of Apology</title>
+      <link>https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</guid>
+      <description>Roland Orzabal of Tears for Fears makes amends in his new ‘astrological memoir.’</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bending the Arc of History</title>
+      <link>https://lareviewofbooks.org/article/bending-the-arc-of-history/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/bending-the-arc-of-history/</guid>
+      <description>A new biography of Howard Zinn functions less as a detailed portrait of a man than as an inspirational manual for contemporary endurance.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Uncommitted Man</title>
@@ -29,6 +43,13 @@
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Filmography That Launched a Thousand Ships</title>
       <link>https://lareviewofbooks.org/article/homer-odyssey-christopher-nolan-career-retrospective-memory-adaptation/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/homer-odyssey-christopher-nolan-career-retrospective-memory-adaptation/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</guid>
       <description>Isaac Butler’s new book mixes history and personal testimony to examine the ‘culture wars’ that shaped the 1980s—conflicts that differed in striking ways from the ones we’re witnessing today.</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Fate of China’s Muslims</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/queen-birgitta-trotzig-swedish-modernist-deportee-novel-weil/</guid>
       <description>The first novel to appear in English from a Swedish modern master.</description>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Know Your Own Men</title>
-      <link>https://lareviewofbooks.org/article/odyssey-christopher-nolan-women-circe-athena-calypso-penelope/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/odyssey-christopher-nolan-women-circe-athena-calypso-penelope/</guid>
-      <description>Some say that Christopher Nolan has finally transformed into a women’s director, but the gender dynamics in his new mythology epic are actually much more complicated.</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lights in the Sky</title>
-      <link>https://lareviewofbooks.org/article/disclosure-day-hodges-spielberg/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/disclosure-day-hodges-spielberg/</guid>
-      <description>Considering Steven Spielberg’s ‘Disclosure Day’ and his magic-of-movies persona.</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
