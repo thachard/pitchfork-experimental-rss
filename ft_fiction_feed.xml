@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 05 Aug 2026 10:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:31:26 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Old Man by the Sea — memory and make-believe merge in a comic beachside stroll</title>
+      <link>https://www.ft.com/content/5a8f6dbf-44a5-4164-9373-31bcfd2dd900</link>
+      <guid isPermaLink="true">https://www.ft.com/content/5a8f6dbf-44a5-4164-9373-31bcfd2dd900</guid>
+      <description>Award-winning Italian author Domenico Starnone’s elegantly translated novel is a mischievous blurring of past and present</description>
+      <pubDate>Wed, 05 Aug 2026 10:56:37 +0000</pubDate>
+    </item>
     <item>
       <title>Great Granny Webster — Caroline Blackwood’s twisted, aristocratic fairy tale</title>
       <link>https://www.ft.com/content/a9895756-ed05-4dd1-9861-68b9a5f6b777</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/128e1ac8-b247-4c72-95da-b8f3e00a16ce</guid>
       <description>A new Penguin anthology celebrates the universal appeal of the short story with 34 fine examples from dozens of countries</description>
       <pubDate>Thu, 02 Jul 2026 11:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interview.Swiss novelist Christian Kracht: ‘I decided not to be a cynic any more’</title>
-      <link>https://www.ft.com/content/8eaa3421-607f-4f18-8cb3-2c88c2718f4c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8eaa3421-607f-4f18-8cb3-2c88c2718f4c</guid>
-      <description>With his breakthrough hit ‘Eurotrash’ set to appear on stage and screen, and new novel ‘Air’ out this month, the one-time enfant terrible is conquering the English-speaking world</description>
-      <pubDate>Wed, 01 Jul 2026 04:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
