@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:34:50 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why Toronto’s largest landlord is still struggling to respond to tenant safety calls</title>
@@ -120,11 +120,18 @@
       <pubDate>Thu, 06 Aug 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Mississauga shooting leaves man with life threatening injuries, SIU investigating</title>
+      <link>https://www.thestar.com/news/gta/mississauga-shooting-leaves-man-with-life-threatening-injuries-siu-investigating/article_f53f2a6e-65f3-404c-b253-8c330159cb8d.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/mississauga-shooting-leaves-man-with-life-threatening-injuries-siu-investigating/article_f53f2a6e-65f3-404c-b253-8c330159cb8d.html</guid>
+      <description></description>
+      <pubDate>Thu, 06 Aug 2026 07:16:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Ottawa announces last-minute funding boost for Taste of the Danforth</title>
       <link>https://www.thestar.com/news/gta/ottawa-announces-last-minute-funding-boost-for-taste-of-the-danforth/article_6d727198-1ef1-40ce-9797-ded13176c757.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/ottawa-announces-last-minute-funding-boost-for-taste-of-the-danforth/article_6d727198-1ef1-40ce-9797-ded13176c757.html</guid>
       <description></description>
-      <pubDate>Wed, 05 Aug 2026 22:12:45 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 07:13:38 +0000</pubDate>
     </item>
     <item>
       <title>TTC station supervisors vote for potential strike action</title>
@@ -132,13 +139,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/ttc-station-supervisors-vote-for-potential-strike-action/article_26863388-6e02-4cd9-bdf4-d84b14de94b7.html</guid>
       <description></description>
       <pubDate>Wed, 05 Aug 2026 20:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto police arrest over 500 in retail crime crackdown, including LCBO theft: ‘It’s steal to order’</title>
-      <link>https://www.thestar.com/news/gta/toronto-police-arrest-over-500-lay-4000-charges-in-organized-retail-crime-crackdown-including-lcbo-theft/article_3324391c-6fa7-462e-b4d5-5bd850bb057f.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-police-arrest-over-500-lay-4000-charges-in-organized-retail-crime-crackdown-including-lcbo-theft/article_3324391c-6fa7-462e-b4d5-5bd850bb057f.html</guid>
-      <description></description>
-      <pubDate>Wed, 05 Aug 2026 17:35:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

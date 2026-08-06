@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:34:45 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Where Are the Kings — Donal Ryan’s soul-piercing novel of adolescent grief</title>
+      <link>https://www.ft.com/content/cbb64101-4cfb-44b0-8ee8-793c40d0c2b2</link>
+      <guid isPermaLink="true">https://www.ft.com/content/cbb64101-4cfb-44b0-8ee8-793c40d0c2b2</guid>
+      <description>In his story of a family wracked by loss, the prizewinning Irish author’s incisive prose and flashes of humour keep mawkish sentiment in check</description>
+      <pubDate>Thu, 06 Aug 2026 11:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>The Old Man by the Sea — memory and make-believe merge in a beachside stroll</title>
       <link>https://www.ft.com/content/5a8f6dbf-44a5-4164-9373-31bcfd2dd900</link>
@@ -173,13 +180,6 @@
       <link>https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</link>
       <guid isPermaLink="true">https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</guid>
       <description>Andrea Bajani’s award-winning novel, newly translated from Italian, is a fearless, intimate tale of unhappy parents — and the release of leaving them behind</description>
-      <pubDate>Thu, 02 Jul 2026 11:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>A tour of the world through bite-sized fiction</title>
-      <link>https://www.ft.com/content/128e1ac8-b247-4c72-95da-b8f3e00a16ce</link>
-      <guid isPermaLink="true">https://www.ft.com/content/128e1ac8-b247-4c72-95da-b8f3e00a16ce</guid>
-      <description>A new Penguin anthology celebrates the universal appeal of the short story with 34 fine examples from dozens of countries</description>
       <pubDate>Thu, 02 Jul 2026 11:00:03 +0000</pubDate>
     </item>
   </channel>
