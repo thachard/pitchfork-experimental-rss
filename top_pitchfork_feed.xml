@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:37:11 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Melodies International presents Ariwa Sounds</title>
+      <link>https://pitchfork.com/reviews/albums/various-artists-melodies-international-presents-ariwa-sounds/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/various-artists-melodies-international-presents-ariwa-sounds/</guid>
+      <description>A review by Wayne Marshall</description>
+      <author>Wayne Marshall</author>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trashcan Sinatras – Ever the Optimist</title>
       <link>https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/</link>
@@ -230,14 +238,6 @@
       <description>A review by Olivier Lafontant</description>
       <author>Olivier Lafontant</author>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Theo Parrish – First Floor</title>
-      <link>https://pitchfork.com/reviews/albums/theo-parrish-first-floor/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/theo-parrish-first-floor/</guid>
-      <description>A review by Dash Lewis</description>
-      <author>Dash Lewis</author>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
