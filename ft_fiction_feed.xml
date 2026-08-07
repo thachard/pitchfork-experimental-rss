@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:56:08 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Middlemen by Laura B McGrath — literature’s power brokers</title>
+      <link>https://www.ft.com/content/45bd25fe-d403-4b20-ad22-aae5b840be1a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/45bd25fe-d403-4b20-ad22-aae5b840be1a</guid>
+      <description>An insider’s look at publishing argues that literary agents have shaped genres, global reputations and the economics of modern fiction</description>
+      <pubDate>Thu, 06 Aug 2026 16:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>Where Are the Kings — Donal Ryan’s soul-piercing novel of adolescent grief</title>
       <link>https://www.ft.com/content/cbb64101-4cfb-44b0-8ee8-793c40d0c2b2</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</guid>
       <description>First-time tales of romantic obsession and the problem with polyamory — plus sibling relationships, secrets and swagger in Manchester and a winning story of dog-racing</description>
       <pubDate>Mon, 06 Jul 2026 04:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Anniversary — the messy reality of family and how to escape it</title>
-      <link>https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3f4dc676-ffc8-4445-b889-e9ab2765ba6e</guid>
-      <description>Andrea Bajani’s award-winning novel, newly translated from Italian, is a fearless, intimate tale of unhappy parents — and the release of leaving them behind</description>
-      <pubDate>Thu, 02 Jul 2026 11:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
