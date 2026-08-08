@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 08:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:56:29 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Parthi Kandavel, Toronto councillor under police investigation, registers for re-election</title>
@@ -92,6 +92,13 @@
       <pubDate>Mon, 01 Jun 2026 10:53:47 +0000</pubDate>
     </item>
     <item>
+      <title>Cellphone-buying hoax spanning 5 years being probed by police</title>
+      <link>https://www.thestar.com/news/gta/cellphone-buying-hoax-spanning-5-years-being-probed-by-police/article_22da3a62-4fae-4866-be96-e7f9528bca23.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/cellphone-buying-hoax-spanning-5-years-being-probed-by-police/article_22da3a62-4fae-4866-be96-e7f9528bca23.html</guid>
+      <description></description>
+      <pubDate>Sat, 08 Aug 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>16-year-old boy accused of aiming loaded gun at officers during arrest</title>
       <link>https://www.thestar.com/news/gta/16-year-old-boy-accused-of-aiming-loaded-gun-at-officers-during-arrest/article_1f7b97bf-9b2d-4019-bb6e-fab1a92464af.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/16-year-old-boy-accused-of-aiming-loaded-gun-at-officers-during-arrest/article_1f7b97bf-9b2d-4019-bb6e-fab1a92464af.html</guid>
@@ -111,20 +118,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-police-to-provide-update-on-salsa-on-st-clair-shooting/article_c44df62d-6e10-4a5c-9df5-dae015146dfb.html</guid>
       <description></description>
       <pubDate>Fri, 07 Aug 2026 21:25:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ride operator accused of sexually assaulting youth at Vaughan amusement park</title>
-      <link>https://www.thestar.com/news/gta/ride-operator-accused-of-sexually-assaulting-youth-at-vaughan-amusement-park/article_1602d793-d075-4d21-aaa7-e36a3ff96dd1.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/ride-operator-accused-of-sexually-assaulting-youth-at-vaughan-amusement-park/article_1602d793-d075-4d21-aaa7-e36a3ff96dd1.html</guid>
-      <description></description>
-      <pubDate>Fri, 07 Aug 2026 22:04:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto Catholic school trustee found guilty of misconduct by Ontario College of Teachers</title>
-      <link>https://www.thestar.com/news/gta/toronto-catholic-school-trustee-found-guilty-of-misconduct-by-ontario-college-of-teachers/article_10104e53-7899-4d9f-9365-aad47657728d.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-catholic-school-trustee-found-guilty-of-misconduct-by-ontario-college-of-teachers/article_10104e53-7899-4d9f-9365-aad47657728d.html</guid>
-      <description></description>
-      <pubDate>Fri, 07 Aug 2026 12:33:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
