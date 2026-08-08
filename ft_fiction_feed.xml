@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:37:22 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Mario Vargas Llosa to literary agents, hormones and snow leopards. Plus: Donal Ryan’s novel of adolescent grief, a reissue of Caroline Blackwood’s ‘Great Granny Webster’ — and our pick of current crime fiction</description>
+      <pubDate>Fri, 07 Aug 2026 12:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>Middlemen by Laura B McGrath — literature’s power brokers</title>
       <link>https://www.ft.com/content/45bd25fe-d403-4b20-ad22-aae5b840be1a</link>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/74fd77d3-06d7-40dc-9a05-ff7a79067796</guid>
       <description>Eight twisty tales from Yrsa Sigurðardóttir, AA Dhand, Kate Rhodes, David Heska Wanbli Weiden and more</description>
       <pubDate>Mon, 03 Aug 2026 04:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From graphic novels to the hounding of royal women and crime-scene forensics. Plus: French philosophers, a standout Bulgarian debut, Lawrence Osborne’s page-turner, a novel of female friendship — and Pilita Clark’s pick of environment titles</description>
-      <pubDate>Fri, 31 Jul 2026 11:49:52 +0000</pubDate>
     </item>
     <item>
       <title>Born of Guilt — the heavy baggage of migration</title>
