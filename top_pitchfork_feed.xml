@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 10:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:39:31 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Cure – Mixed Up</title>
+      <link>https://pitchfork.com/reviews/albums/the-cure-mixed-up/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-cure-mixed-up/</guid>
+      <description>A review by Sadie Sartini Garner</description>
+      <author>Sadie Sartini Garner</author>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Melodies International presents Ariwa Sounds</title>
       <link>https://pitchfork.com/reviews/albums/various-artists-melodies-international-presents-ariwa-sounds/</link>
@@ -230,14 +238,6 @@
       <description>A review by Grayson Haver Currin</description>
       <author>Grayson Haver Currin</author>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>B0YG1RL / Novagang – EXIT 2B</title>
-      <link>https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/b0yg1rl-novagang-exit-2b/</guid>
-      <description>A review by Olivier Lafontant</description>
-      <author>Olivier Lafontant</author>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
