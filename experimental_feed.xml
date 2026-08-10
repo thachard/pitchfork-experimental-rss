@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 10:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:16:26 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Roy Montgomery / Martha Skye Murphy – Nebular</title>
+      <link>https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/</guid>
+      <description>A review by Elise Soutar</description>
+      <author>Elise Soutar</author>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sir Richard Bishop – Hillbilly Erotica</title>
       <link>https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</link>
@@ -190,14 +198,6 @@
       <description>A review by Harry Thorfinn-George</description>
       <author>Harry Thorfinn-George</author>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vanessa Rossetto – The Professional</title>
-      <link>https://pitchfork.com/reviews/albums/vanessa-rossetto-the-professional/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/vanessa-rossetto-the-professional/</guid>
-      <description>A review by Levi Dayan</description>
-      <author>Levi Dayan</author>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

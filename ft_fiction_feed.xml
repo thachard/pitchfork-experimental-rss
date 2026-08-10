@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Aug 2026 10:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:16:47 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Good aliens, bad aliens and wisecracking wisdom — the best new science fiction books</title>
+      <link>https://www.ft.com/content/34e3bac2-2414-457b-93ed-55d4e34f4a2f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/34e3bac2-2414-457b-93ed-55d4e34f4a2f</guid>
+      <description>YouTuber Sam A Miller reworks ‘Flowers for Algernon’ in a debut collection of future tales, while rebel groups hold out after Earth is invaded in ‘The Peace Child’</description>
+      <pubDate>Mon, 10 Aug 2026 04:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/4a379e6e-ed4a-4046-803d-0d3a463a3f8e</guid>
       <description>A bittersweet novel about ageing and end-of-life care set in conservative Peru, a country full of contradictions</description>
       <pubDate>Tue, 07 Jul 2026 04:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five of the best debut novels — lust, longing and a wild night out on the Curry Mile</title>
-      <link>https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</link>
-      <guid isPermaLink="true">https://www.ft.com/content/84ead41e-ba5f-4770-9170-ed2a5dd68780</guid>
-      <description>First-time tales of romantic obsession and the problem with polyamory — plus sibling relationships, secrets and swagger in Manchester and a winning story of dog-racing</description>
-      <pubDate>Mon, 06 Jul 2026 04:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
