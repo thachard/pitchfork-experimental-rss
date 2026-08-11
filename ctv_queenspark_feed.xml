@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:51:52 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Candidates in Ontario Liberal leadership debate value of having a seat</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/candidates-in-ontario-liberal-leadership-debate-value-of-having-a-seat/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/candidates-in-ontario-liberal-leadership-debate-value-of-having-a-seat/</guid>
+      <description></description>
+      <pubDate>Tue, 11 Aug 2026 00:32:29 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario launches reviews of large public agencies including Metrolinx, LCBO</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-launches-reviews-of-large-public-agencies-including-metrolinx-lcbo/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-launches-reviews-of-large-public-agencies-including-metrolinx-lcbo/</guid>
-      <description>Video</description>
+      <description>The Ontario government is putting several large public agencies under the microscope, launching reviews that will look at efficiency and productivity.</description>
       <pubDate>Thu, 06 Aug 2026 12:08:06 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/i-made-a-mistake-stan-cho-resigns-from-ford-cabinet-over-toronto-hotel-expense-claims/</guid>
       <description>Ontario Tourism, Culture and Gaming Minister Stan Cho has resigned from Premier Doug Ford’s cabinet, saying he made “a mistake” by claiming accommodation expenses for overnight stays in Toronto.</description>
       <pubDate>Fri, 17 Jul 2026 16:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario asks federal government for potential wildfire evacuation help in the north</title>
-      <link>https://www.ctvnews.ca/northern-ontario/article/ontario-asks-federal-government-for-potential-wildfire-evacuation-help-in-the-north/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/northern-ontario/article/ontario-asks-federal-government-for-potential-wildfire-evacuation-help-in-the-north/</guid>
-      <description>Ontario is requesting assistance from the federal government to get ready to evacuate communities across the north by aircraft as dozens of forest fires burn out of control.</description>
-      <pubDate>Fri, 17 Jul 2026 00:02:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

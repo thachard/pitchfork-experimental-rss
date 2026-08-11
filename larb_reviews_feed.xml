@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:53:07 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hell in a Go Bag</title>
+      <link>https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</guid>
+      <description>Jorie Graham takes a sparer approach to hell in her newest poetry collection.</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Female Power Versus Toxic Masculinity</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bending the Arc of History</title>
-      <link>https://lareviewofbooks.org/article/bending-the-arc-of-history/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/bending-the-arc-of-history/</guid>
-      <description>A new biography of Howard Zinn functions less as a detailed portrait of a man than as an inspirational manual for contemporary endurance.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bending the Arc of History</title>
+      <link>https://lareviewofbooks.org/article/bending-the-arc-of-history/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/bending-the-arc-of-history/</guid>
+      <description>A new biography of Howard Zinn functions less as a detailed portrait of a man than as an inspirational manual for contemporary endurance.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Uncommitted Man</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/megan-mi-ai-lee-small-fortune-tiffanys-townsend/</guid>
       <description>On Megan Mi-Ai Lee at Tiffany’s in Los Angeles.</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Animator’s New Groove</title>
-      <link>https://lareviewofbooks.org/article/disney-drawing-life-back-into-animation-tom-sito/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/disney-drawing-life-back-into-animation-tom-sito/</guid>
-      <description>A personal history of animation’s reconquest of Hollywood.</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
