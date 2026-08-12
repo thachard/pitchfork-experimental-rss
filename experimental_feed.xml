@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:08:12 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kevin Drumm – The Mild Temper</title>
+      <link>https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/</guid>
+      <description>A review by Levi Dayan</description>
+      <author>Levi Dayan</author>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Roy Montgomery / Martha Skye Murphy – Nebular</title>
       <link>https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/</link>
@@ -190,14 +198,6 @@
       <description>A review by Arman Khan</description>
       <author>Arman Khan</author>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kane Parsons /  Edo Van Breemen – Backrooms (Original Soundtrack)</title>
-      <link>https://pitchfork.com/reviews/albums/kane-parsons-edo-van-breemen-backrooms-original-soundtrack/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kane-parsons-edo-van-breemen-backrooms-original-soundtrack/</guid>
-      <description>A review by Harry Thorfinn-George</description>
-      <author>Harry Thorfinn-George</author>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

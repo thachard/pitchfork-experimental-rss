@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:10:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nino Paid – Somewhere Over the Rainbow</title>
+      <link>https://pitchfork.com/reviews/albums/nino-paid-somewhere-over-the-rainbow/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nino-paid-somewhere-over-the-rainbow/</guid>
+      <description>A review by Alphonse Pierre</description>
+      <author>Alphonse Pierre</author>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Cure – Mixed Up</title>
       <link>https://pitchfork.com/reviews/albums/the-cure-mixed-up/</link>
@@ -230,14 +238,6 @@
       <description>A review by Molly Mary O’Brien</description>
       <author>Molly Mary O’Brien</author>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YHWH Nailgun – Magazine</title>
-      <link>https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/yhwh-nailgun-magazine/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
