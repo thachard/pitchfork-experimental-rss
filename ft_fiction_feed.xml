@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:09:56 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Etna by Paul Yoon — the horrors of war through a dog’s eyes</title>
+      <link>https://www.ft.com/content/6c15eb0b-0cc2-4657-b0c1-8d628b3865ee</link>
+      <guid isPermaLink="true">https://www.ft.com/content/6c15eb0b-0cc2-4657-b0c1-8d628b3865ee</guid>
+      <description>The brutal world of a battle-weary canine narrator is a piercing classic of survival with the feel of a modern parable</description>
+      <pubDate>Thu, 13 Aug 2026 11:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>Sky City by Jacqueline Crooks — tuning into trauma</title>
       <link>https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</guid>
       <description>Readers are falling into a ‘likeability’ trap. But fiction was never meant to be a charm contest</description>
       <pubDate>Sat, 11 Jul 2026 04:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Mulai — an extraplanetary experiment in language and identity</title>
-      <link>https://www.ft.com/content/dfbd58ca-9680-4de5-b873-4830bac0509d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/dfbd58ca-9680-4de5-b873-4830bac0509d</guid>
-      <description>Munir Hachemi’s playful, hedonistic novel on descendants of colonisers from Earth offers a daring exercise in translation</description>
-      <pubDate>Fri, 10 Jul 2026 11:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
