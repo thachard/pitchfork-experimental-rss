@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:11:02 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>J. D. Vance’s Straussian Moment</title>
+      <link>https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</guid>
+      <description>The US vice president wrote his new book without citing his source—Peter Thiel.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hell in a Go Bag</title>
@@ -36,18 +43,18 @@
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sowing the Seeds of Apology</title>
-      <link>https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</guid>
-      <description>Roland Orzabal of Tears for Fears makes amends in his new ‘astrological memoir.’</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sowing the Seeds of Apology</title>
+      <link>https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</guid>
+      <description>Roland Orzabal of Tears for Fears makes amends in his new ‘astrological memoir.’</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bending the Arc of History</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/astronaut-oana-aristide-romanian-novel-dictatorship/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/astronaut-oana-aristide-romanian-novel-dictatorship/</guid>
       <description>Romanian author Oana Aristide’s new novel is an entertaining fable of serial murder, killer bears, and revolution.</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drowning Airplanes Give You So Much More</title>
-      <link>https://lareviewofbooks.org/article/megan-mi-ai-lee-small-fortune-tiffanys-townsend/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/megan-mi-ai-lee-small-fortune-tiffanys-townsend/</guid>
-      <description>On Megan Mi-Ai Lee at Tiffany’s in Los Angeles.</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

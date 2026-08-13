@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:08:55 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phoebe Bridgers – Lost Weekend</title>
+      <link>https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shaboozey – The Outlaw Cherie Lee &amp; Other Western Tales</title>
       <link>https://pitchfork.com/reviews/albums/shaboozey-the-outlaw-cherie-lee-and-other-western-tales/</link>
@@ -182,14 +190,6 @@
       <description>A review by Emma Madden</description>
       <author>Emma Madden</author>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cris Williamson – The Changer and the Changed</title>
-      <link>https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cris-williamson-the-changer-and-the-changed/</guid>
-      <description>A review by Emma Madden</description>
-      <author>Emma Madden</author>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
