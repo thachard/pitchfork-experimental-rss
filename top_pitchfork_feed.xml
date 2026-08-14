@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 11:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:06:18 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>L’Rain – fata morgana</title>
+      <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lrain-fata-morgana/</guid>
+      <description>A review by Stephen Kearse</description>
+      <author>Stephen Kearse</author>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Phoebe Bridgers – Lost Weekend</title>
       <link>https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/</link>
@@ -230,14 +238,6 @@
       <description>A review by Tatiana Lee Rodriguez</description>
       <author>Tatiana Lee Rodriguez</author>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruth Garbus – Profound</title>
-      <link>https://pitchfork.com/reviews/albums/ruth-garbus-profound/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ruth-garbus-profound/</guid>
-      <description>A review by Sam Sodomsky</description>
-      <author>Sam Sodomsky</author>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

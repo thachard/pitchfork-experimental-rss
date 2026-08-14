@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 11:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:04:21 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>L’Rain – fata morgana</title>
+      <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lrain-fata-morgana/</guid>
+      <description>A review by Stephen Kearse</description>
+      <author>Stephen Kearse</author>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>James Ellis Ford – Lost in Another World</title>
       <link>https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/</guid>
       <description>A review by Kiana Mickles</description>
       <author>Kiana Mickles</author>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soli City – Poetics of a New Estate</title>
-      <link>https://pitchfork.com/reviews/albums/soli-city-poetics-of-a-new-estate/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/soli-city-poetics-of-a-new-estate/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
