@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:07:34 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Irvine Welsh’s Can Nothing Save Us? — a family at war in Maga America</title>
+      <link>https://www.ft.com/content/8752dd4a-be00-483f-a7f1-0e3527eb14d7</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8752dd4a-be00-483f-a7f1-0e3527eb14d7</guid>
+      <description>The ‘Trainspotting’ author’s well-rounded cast tell a story of envy, violence and generational conflict against the backdrop of Trump’s presidency</description>
+      <pubDate>Fri, 14 Aug 2026 11:00:11 +0000</pubDate>
+    </item>
     <item>
       <title>Etna by Paul Yoon — the horrors of war through a dog’s eyes</title>
       <link>https://www.ft.com/content/6c15eb0b-0cc2-4657-b0c1-8d628b3865ee</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/dd9f36d4-32b4-4995-8867-7bb7bf5ea4e8</guid>
       <description>A bond forms between a girl and a man dying of Aids in The Nightingales, and culture flourishes in a Nazi concentration camp in Sophie Herxheimer’s Ode to Joy</description>
       <pubDate>Mon, 13 Jul 2026 04:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>FT Magazine.Must a novel’s hero be good company?</title>
-      <link>https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/11db08d3-1621-4d7f-854b-0100a08f644a</guid>
-      <description>Readers are falling into a ‘likeability’ trap. But fiction was never meant to be a charm contest</description>
-      <pubDate>Sat, 11 Jul 2026 04:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
