@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:25:56 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Petite Mort</title>
+      <link>https://lareviewofbooks.org/article/pillion-kink-bdsm-box-hill-a24-harry-lighton/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/pillion-kink-bdsm-box-hill-a24-harry-lighton/</guid>
+      <description>Harry Lighton’s film ‘Pillion’ offers a discreetly sanitized version of gay BDSM.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>J. D. Vance’s Straussian Moment</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Didn’t India Build Its Own Silicon Valley?</title>
-      <link>https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</guid>
-      <description>Dwaipayan Banerjee’s new book investigates India’s role in the history of 20th-century tech development, and what caused it always to seem a step behind the West.</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Didn’t India Build Its Own Silicon Valley?</title>
+      <link>https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</guid>
+      <description>Dwaipayan Banerjee’s new book investigates India’s role in the history of 20th-century tech development, and what caused it always to seem a step behind the West.</description>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sowing the Seeds of Apology</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/islamic-china-rian-thum-muslim-transnationalism-hale-eroglu/</guid>
       <description>Two recent books track the history of China’s Muslim minority during a period of suspicion and suppression.</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anarcho-Thumbelina</title>
-      <link>https://lareviewofbooks.org/article/astronaut-oana-aristide-romanian-novel-dictatorship/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/astronaut-oana-aristide-romanian-novel-dictatorship/</guid>
-      <description>Romanian author Oana Aristide’s new novel is an entertaining fable of serial murder, killer bears, and revolution.</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

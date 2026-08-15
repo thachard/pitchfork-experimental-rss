@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:23:46 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From democracy in peril to Putin’s Russia, Hockney and Guardiola. Plus: Paul Yoon’s modern parable of war, Irvine Welsh and Claudia Rankine on Trump’s America — and our science fiction round-up</description>
+      <pubDate>Fri, 14 Aug 2026 11:14:11 +0000</pubDate>
+    </item>
     <item>
       <title>Irvine Welsh’s Can Nothing Save Us? — a family at war in Maga America</title>
       <link>https://www.ft.com/content/8752dd4a-be00-483f-a7f1-0e3527eb14d7</link>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/34e3bac2-2414-457b-93ed-55d4e34f4a2f</guid>
       <description>YouTuber Sam A Miller reworks ‘Flowers for Algernon’ in a debut collection of future tales, while rebel groups hold out after Earth is invaded in ‘The Peace Child’</description>
       <pubDate>Mon, 10 Aug 2026 04:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Mario Vargas Llosa to literary agents, hormones and snow leopards. Plus: Donal Ryan’s novel of adolescent grief, a reissue of Caroline Blackwood’s ‘Great Granny Webster’ — and our pick of current crime fiction</description>
-      <pubDate>Fri, 07 Aug 2026 12:01:01 +0000</pubDate>
     </item>
     <item>
       <title>Middlemen by Laura B McGrath — literature’s power brokers</title>
