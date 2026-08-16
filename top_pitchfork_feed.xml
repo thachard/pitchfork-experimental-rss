@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 10:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:27:07 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Future – Monster</title>
+      <link>https://pitchfork.com/reviews/albums/future-monster/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/future-monster/</guid>
+      <description>A review by Olivier Lafontant</description>
+      <author>Olivier Lafontant</author>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>L’Rain – fata morgana</title>
       <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
@@ -230,14 +238,6 @@
       <description>A review by Natalie Weiner</description>
       <author>Natalie Weiner</author>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RaiNao – Marcriá</title>
-      <link>https://pitchfork.com/reviews/albums/rainao-macria/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rainao-macria/</guid>
-      <description>A review by Tatiana Lee Rodriguez</description>
-      <author>Tatiana Lee Rodriguez</author>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
