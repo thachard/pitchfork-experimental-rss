@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:40:25 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Djrum – I WanderEP</title>
+      <link>https://pitchfork.com/reviews/albums/djrum-i-wander/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/djrum-i-wander/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Future – Monster</title>
       <link>https://pitchfork.com/reviews/albums/future-monster/</link>
@@ -230,14 +238,6 @@
       <description>A review by Rae-Aila Crumble</description>
       <author>Rae-Aila Crumble</author>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miles Davis – Miles ’56: The Prestige Recordings</title>
-      <link>https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/miles-davis-miles-56-the-prestige-recordings/</guid>
-      <description>A review by Natalie Weiner</description>
-      <author>Natalie Weiner</author>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

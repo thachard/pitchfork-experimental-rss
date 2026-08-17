@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:40:36 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>Revolutionary Blues</title>
@@ -34,13 +34,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/between-life-and-death</guid>
       <description>On Tom Howard&amp;#8217;s &amp;#8216;Invisibilia&amp;#8217;</description>
       <pubDate>Wed, 22 Jul 2026 19:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lunar Caustic</title>
-      <link>https://www.metropolitanreview.org/p/lunar-caustic</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/lunar-caustic</guid>
-      <description>On Emmalea Russo&amp;#8217;s &amp;#8216;The Moon Papers&amp;#8217;</description>
-      <pubDate>Thu, 09 Jul 2026 11:51:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

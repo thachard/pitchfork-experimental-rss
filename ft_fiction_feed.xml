@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 16 Aug 2026 10:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:38:59 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Élisabeth by Éric Rohmer — the novel that foretold the films</title>
+      <link>https://www.ft.com/content/8a23d074-fc1e-4f36-ad30-e9e6531ec520</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8a23d074-fc1e-4f36-ad30-e9e6531ec520</guid>
+      <description>Newly translated, the director’s 1946 story of flirting, swimming and bickering in the French countryside heralds the screen classics to come</description>
+      <pubDate>Mon, 17 Aug 2026 04:00:20 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/83c36505-0573-4c14-bec9-e8013c99832d</guid>
       <description>Set in 1962 Los Angeles, the follow-up to ‘The Enchanters’ is a mesmerising crime thriller full of corruption, cynicism and sleaze</description>
       <pubDate>Tue, 14 Jul 2026 04:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>A life-changing bond and a pulpy space opera — our new graphic novels round-up</title>
-      <link>https://www.ft.com/content/dd9f36d4-32b4-4995-8867-7bb7bf5ea4e8</link>
-      <guid isPermaLink="true">https://www.ft.com/content/dd9f36d4-32b4-4995-8867-7bb7bf5ea4e8</guid>
-      <description>A bond forms between a girl and a man dying of Aids in The Nightingales, and culture flourishes in a Nazi concentration camp in Sophie Herxheimer’s Ode to Joy</description>
-      <pubDate>Mon, 13 Jul 2026 04:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
