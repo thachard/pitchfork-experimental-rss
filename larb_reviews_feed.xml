@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:56:42 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Lose More Slowly</title>
+      <link>https://lareviewofbooks.org/article/self-sabotage-todd-mcgowan-freud-death-drive-pleasure/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/self-sabotage-todd-mcgowan-freud-death-drive-pleasure/</guid>
+      <description>Finding freedom through the death drive.</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La Petite Mort</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Female Power Versus Toxic Masculinity</title>
-      <link>https://lareviewofbooks.org/article/jacqueline-harpman-we-were-forbidden-vichy-france-morocco/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jacqueline-harpman-we-were-forbidden-vichy-france-morocco/</guid>
-      <description>The three newly translated novellas in Belgian author Jacqueline Harpman’s ‘We Were Forbidden’ display a storytelling skill that seems magically effortless.</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Female Power Versus Toxic Masculinity</title>
+      <link>https://lareviewofbooks.org/article/jacqueline-harpman-we-were-forbidden-vichy-france-morocco/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jacqueline-harpman-we-were-forbidden-vichy-france-morocco/</guid>
+      <description>The three newly translated novellas in Belgian author Jacqueline Harpman’s ‘We Were Forbidden’ display a storytelling skill that seems magically effortless.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Didn’t India Build Its Own Silicon Valley?</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</guid>
       <description>Isaac Butler’s new book mixes history and personal testimony to examine the ‘culture wars’ that shaped the 1980s—conflicts that differed in striking ways from the ones we’re witnessing today.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Fate of China’s Muslims</title>
-      <link>https://lareviewofbooks.org/article/islamic-china-rian-thum-muslim-transnationalism-hale-eroglu/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/islamic-china-rian-thum-muslim-transnationalism-hale-eroglu/</guid>
-      <description>Two recent books track the history of China’s Muslim minority during a period of suspicion and suppression.</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

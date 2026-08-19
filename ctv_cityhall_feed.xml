@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:56:09 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mike Layton eyes return to Toronto city council</title>
+      <link>https://www.ctvnews.ca/toronto/article/mike-layton-eyes-return-to-toronto-city-council-in-october-election/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/mike-layton-eyes-return-to-toronto-city-council-in-october-election/</guid>
+      <description>Video</description>
+      <pubDate>Mon, 17 Aug 2026 13:52:22 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto councillor under OPP investigation seeking re-election</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-councillor-under-opp-investigation-seeking-re-election/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-councillor-under-opp-investigation-seeking-re-election/</guid>
-      <description></description>
+      <description>A Toronto councillor under police investigation is seeking re-election. Parthi Kandavel, who represents Ward 20 Scarborough Southwest, registered to run on Friday, according to the city’s elections page.</description>
       <pubDate>Sat, 08 Aug 2026 19:25:14 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/drivers-speeding-well-above-posted-limit-has-surged-nearly-400-per-cent-since-removal-of-automated-cameras/</guid>
       <description>Speeding in Toronto school and community safety zones has surged since the province ordered the removal of automated speed enforcement cameras, with the number of drivers travelling at least 16 km/h over the limit increasing by nearly 400 per cent, according to a new city report.</description>
       <pubDate>Wed, 24 Jun 2026 15:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Municipal election could be turning point for non-profits fighting gentrification</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/municipal-election-could-be-turning-point-for-non-profits-fighting-gentrification/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/municipal-election-could-be-turning-point-for-non-profits-fighting-gentrification/</guid>
-      <description>A handful of Toronto community groups buying properties across the city in an effort to keep rents low say the upcoming municipal election could determine whether they’re able to secure thousands more units in the years to come as the ongoing demand for housing shifts focus.</description>
-      <pubDate>Mon, 22 Jun 2026 11:10:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
