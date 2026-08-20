@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:35:51 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>730turk – Trapculinary vol.2 (the recipe)</title>
+      <link>https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/</guid>
+      <description>A review by Mano Sundaresan</description>
+      <author>Mano Sundaresan</author>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Djrum – I WanderEP</title>
       <link>https://pitchfork.com/reviews/albums/djrum-i-wander/</link>
@@ -229,14 +237,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jaeychino-if-you-knew/</guid>
       <description>A review by Olivier Lafontant</description>
       <author>Olivier Lafontant</author>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tyshawn Sorey – Members… Don’t!</title>
-      <link>https://pitchfork.com/reviews/albums/tyshawn-sorey-members-dont/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tyshawn-sorey-members-dont/</guid>
-      <description>A review by Rae-Aila Crumble</description>
-      <author>Rae-Aila Crumble</author>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
