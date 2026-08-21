@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:37:53 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario teachers will be without a contract as school returns but education minister ‘very optimistic’</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-teachers-will-be-without-a-contract-as-school-returns-but-education-minister-very-optimistic/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-teachers-will-be-without-a-contract-as-school-returns-but-education-minister-very-optimistic/</guid>
+      <description>Video</description>
+      <pubDate>Thu, 20 Aug 2026 17:07:22 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario teachers’ union slams ‘broken system’ that they say has stalled talks on new contract</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/system-itself-is-the-problem-osstf-calls-for-repeal-of-bargaining-law-as-negotiations-remain-stalled/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/system-itself-is-the-problem-osstf-calls-for-repeal-of-bargaining-law-as-negotiations-remain-stalled/</guid>
-      <description>Video</description>
+      <description>The union representing Ontario’s secondary school teachers is calling for the repeal of a “broken system” that it says has stalled negotiations weeks prior to the expiration of teacher contracts.</description>
       <pubDate>Wed, 19 Aug 2026 23:55:40 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-cabinet-minister-calls-for-all-out-ban-on-ai-deepfakes-and-impersonations/</guid>
       <description>An Ontario cabinet minister is calling on the federal government to enact “an all-out ban on AI deepfakes and impersonations.”</description>
       <pubDate>Wed, 12 Aug 2026 14:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario Line costs reach $34B, more than triple the original budget</title>
-      <link>https://www.ctvnews.ca/toronto/article/ontario-line-costs-reach-34b-more-than-triple-the-original-budget/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-line-costs-reach-34b-more-than-triple-the-original-budget/</guid>
-      <description>The cost of building the Ontario Line has risen once again and Metrolinx CEO Michael Lindsay says that the total budget will remain “under pressure” amid “one of the worst supply chain shocks” in decades.</description>
-      <pubDate>Wed, 12 Aug 2026 01:48:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

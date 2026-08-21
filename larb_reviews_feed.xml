@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:39:09 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Byron Comes to Warsaw</title>
+      <link>https://lareviewofbooks.org/article/erupcja-pete-ohs-charli-xcx-mount-etna-warsaw/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/erupcja-pete-ohs-charli-xcx-mount-etna-warsaw/</guid>
+      <description>Eruptions and disruptions break Charli XCX and her friends in the new film from Pete Ohs.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose More Slowly</title>
@@ -36,18 +43,18 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Hell in a Go Bag</title>
-      <link>https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</guid>
-      <description>Jorie Graham takes a sparer approach to hell in her newest poetry collection.</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hell in a Go Bag</title>
+      <link>https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</guid>
+      <description>Jorie Graham takes a sparer approach to hell in her newest poetry collection.</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Female Power Versus Toxic Masculinity</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/homer-odyssey-christopher-nolan-career-retrospective-memory-adaptation/</guid>
       <description>Decentering Homer and reflecting on the self-referential nature of Christopher Nolan’s ‘The Odyssey.’</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anything Could Become a Battleground</title>
-      <link>https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/</guid>
-      <description>Isaac Butler’s new book mixes history and personal testimony to examine the ‘culture wars’ that shaped the 1980s—conflicts that differed in striking ways from the ones we’re witnessing today.</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
