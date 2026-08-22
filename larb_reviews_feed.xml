@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:27:25 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beds and Tombstones</title>
+      <link>https://lareviewofbooks.org/article/sophie-calle-overshare-herve-guibert-photography-langson-museum/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/sophie-calle-overshare-herve-guibert-photography-langson-museum/</guid>
+      <description>Viewing Sophie Calle’s survey at the Langson museum through the work of Hervé Guibert.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>When Byron Comes to Warsaw</title>
@@ -36,18 +43,18 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>J. D. Vance’s Straussian Moment</title>
-      <link>https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</guid>
-      <description>The US vice president wrote his new book without citing his source—Peter Thiel.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>J. D. Vance’s Straussian Moment</title>
+      <link>https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</guid>
+      <description>The US vice president wrote his new book without citing his source—Peter Thiel.</description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hell in a Go Bag</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/romans-2000-year-history-edward-watts-political-historiography/</guid>
       <description>Edward J. Watts’s history of the long Roman Empire is a traditional, top-down political narrative.</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Filmography That Launched a Thousand Ships</title>
-      <link>https://lareviewofbooks.org/article/homer-odyssey-christopher-nolan-career-retrospective-memory-adaptation/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/homer-odyssey-christopher-nolan-career-retrospective-memory-adaptation/</guid>
-      <description>Decentering Homer and reflecting on the self-referential nature of Christopher Nolan’s ‘The Odyssey.’</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

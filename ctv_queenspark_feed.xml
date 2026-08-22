@@ -5,13 +5,27 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:26:21 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nominations to run in Ontario’s fall municipal elections now closed</title>
+      <link>https://www.ctvnews.ca/toronto/article/nominations-to-run-in-ontarios-fall-municipal-elections-now-closed/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/nominations-to-run-in-ontarios-fall-municipal-elections-now-closed/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 21 Aug 2026 20:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ontario raises speed limits on several highways effective Friday, including stretches of Hwy. 400</title>
+      <link>https://www.ctvnews.ca/toronto/article/ontario-raises-speed-limits-on-several-highways-effective-friday/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-raises-speed-limits-on-several-highways-effective-friday/</guid>
+      <description>Drivers across the province will soon be able to travel faster as speed limits increase on numerous highways, including some stretches of Hwy. 400.</description>
+      <pubDate>Fri, 21 Aug 2026 17:35:50 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario teachers will be without a contract as school returns but education minister ‘very optimistic’</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-teachers-will-be-without-a-contract-as-school-returns-but-education-minister-very-optimistic/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-teachers-will-be-without-a-contract-as-school-returns-but-education-minister-very-optimistic/</guid>
-      <description>Video</description>
+      <description>Ontario’s education minister says he’s hopeful the province can strike a deal with all of its teachers and education workers unions, pledging that schools will open “as usual” after Labour Day.</description>
       <pubDate>Thu, 20 Aug 2026 17:07:22 +0000</pubDate>
     </item>
     <item>
@@ -97,20 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-makes-changes-to-social-assistance-rules-based-on-immigration-status/</guid>
       <description>Ontario is enacting new rules for social assistance payments so people without legal immigration status in Canada cannot receive the benefits.</description>
       <pubDate>Thu, 13 Aug 2026 15:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario government invests nearly $11M in health-care training from Skills Development Fund</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-government-invests-nearly-11m-in-health-care-training-from-skills-development-fund/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-government-invests-nearly-11m-in-health-care-training-from-skills-development-fund/</guid>
-      <description>The Ontario government announced Wednesday it will invest $10.9 million in training programs for nurses and other health-care professions.</description>
-      <pubDate>Wed, 12 Aug 2026 22:02:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario cabinet minister calls for ‘all-out ban on AI deepfakes and impersonations’</title>
-      <link>https://www.ctvnews.ca/toronto/article/ontario-cabinet-minister-calls-for-all-out-ban-on-ai-deepfakes-and-impersonations/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-cabinet-minister-calls-for-all-out-ban-on-ai-deepfakes-and-impersonations/</guid>
-      <description>An Ontario cabinet minister is calling on the federal government to enact “an all-out ban on AI deepfakes and impersonations.”</description>
-      <pubDate>Wed, 12 Aug 2026 14:20:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

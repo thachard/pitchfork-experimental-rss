@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:44:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:25:35 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Mussolini to Rachel Cusk’s much-discussed new novel and Jon Ronson on the manosphere. Plus: Robert Harris returns to Rome, a compelling portrait of John Berger, and film-maker Éric Rohmer’s early foray into fiction</description>
+      <pubDate>Fri, 21 Aug 2026 11:29:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dèy by Edwidge Danticat — a family under fire</title>
+      <link>https://www.ft.com/content/a3181928-b808-4d8a-8d4f-6ab594da2fee</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a3181928-b808-4d8a-8d4f-6ab594da2fee</guid>
+      <description>After witnessing a mall shooting, a Haitian-American mother questions her past, her relationships and the fragile safety she has built for her daughter</description>
+      <pubDate>Fri, 21 Aug 2026 11:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Agrippa by Robert Harris — a triumphant return to Rome?</title>
       <link>https://www.ft.com/content/0ddf7be5-0879-4265-a092-0b2bc9fae1fb</link>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8a23d074-fc1e-4f36-ad30-e9e6531ec520</guid>
       <description>Newly translated, the director’s 1946 story of flirting, swimming and bickering in the French countryside heralds the screen classics to come</description>
       <pubDate>Mon, 17 Aug 2026 04:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From democracy in peril to Putin’s Russia, Hockney and Guardiola. Plus: Paul Yoon’s modern parable of war, Irvine Welsh and Claudia Rankine on Trump’s America — and our science fiction round-up</description>
-      <pubDate>Fri, 14 Aug 2026 11:14:11 +0000</pubDate>
     </item>
     <item>
       <title>Irvine Welsh’s Can Nothing Save Us? — a family at war in Maga America</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</guid>
       <description>Charles Cumming returns with his Box 88 series, an impressive debut from Connor Martin in ‘The Silver Fish’ and more</description>
       <pubDate>Mon, 20 Jul 2026 04:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>It Will Come Back to You by Sigrid Nunez — tales from her brilliant career</title>
-      <link>https://www.ft.com/content/6a229e23-dfb6-4ff1-a086-351b877342cc</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6a229e23-dfb6-4ff1-a086-351b877342cc</guid>
-      <description>Perceptive, funny and unsettling, a collection of short stories from the writer of ‘The Friend’ shows the emergence of her distinctive voice</description>
-      <pubDate>Thu, 16 Jul 2026 12:40:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
