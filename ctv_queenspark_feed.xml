@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 22 Aug 2026 10:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:26:11 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ford wants Ontario to hit back after Trump’s latest tariffs on Canada</title>
+      <link>https://www.ctvnews.ca/toronto/article/no-deal-is-better-than-a-bad-deal-ford-urges-carney-to-stand-firm-on-us-tariffs/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/no-deal-is-better-than-a-bad-deal-ford-urges-carney-to-stand-firm-on-us-tariffs/</guid>
+      <description>Video</description>
+      <pubDate>Sat, 22 Aug 2026 21:24:20 +0000</pubDate>
+    </item>
     <item>
       <title>Nominations to run in Ontario’s fall municipal elections now closed</title>
       <link>https://www.ctvnews.ca/toronto/article/nominations-to-run-in-ontarios-fall-municipal-elections-now-closed/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/nominations-to-run-in-ontarios-fall-municipal-elections-now-closed/</guid>
-      <description>Video</description>
+      <description>Ontarians now have a clearer picture of the choices they’ll face at the ballot box this fall, with nominations for thousands of municipal roles locked down after a final burst of declarations.</description>
       <pubDate>Fri, 21 Aug 2026 20:06:16 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/local/niagara/article/ontario-moves-to-make-room-for-more-casinos-in-niagara-region/</guid>
       <description>More casinos may be coming to the Niagara Region in the future, as the Ontario government has announced a deal to end existing exclusivity rights.</description>
       <pubDate>Sat, 15 Aug 2026 16:45:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>People in Canada illegally will no longer be eligible for social assistance in Ontario</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-makes-changes-to-social-assistance-rules-based-on-immigration-status/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-makes-changes-to-social-assistance-rules-based-on-immigration-status/</guid>
-      <description>Ontario is enacting new rules for social assistance payments so people without legal immigration status in Canada cannot receive the benefits.</description>
-      <pubDate>Thu, 13 Aug 2026 15:18:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
