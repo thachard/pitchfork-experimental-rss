@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 23 Aug 2026 10:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:43:47 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Black September by Sandro Veronesi — a boy’s own story</title>
+      <link>https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</guid>
+      <description>The multi-award-winning Italian writer turns memory into drama in this warm, teasing account of an early-1970s adolescence</description>
+      <pubDate>Mon, 24 Aug 2026 04:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/56edf2d1-9686-47f4-8a1e-49d50e28a18e</guid>
       <description>The writer powerfully uses crime fiction to explore Black aspiration, family loyalty and the forces that reshaped New York from the civil rights era to Reaganomics</description>
       <pubDate>Wed, 22 Jul 2026 12:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best new thrillers — a journalist in peril, a spy in WW1 and thrills of the chase</title>
-      <link>https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ac39231e-89d1-4392-a5a7-4ffbe3090619</guid>
-      <description>Charles Cumming returns with his Box 88 series, an impressive debut from Connor Martin in ‘The Silver Fish’ and more</description>
-      <pubDate>Mon, 20 Jul 2026 04:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
