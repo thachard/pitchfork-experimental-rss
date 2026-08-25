@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:38:27 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cold Sunset — the entertaining return of William Boyd’s reluctant spy</title>
+      <link>https://www.ft.com/content/f1727461-4923-4893-a625-8c63a0714d2a</link>
+      <guid isPermaLink="true">https://www.ft.com/content/f1727461-4923-4893-a625-8c63a0714d2a</guid>
+      <description>The third instalment in the Gabriel Dax series combines psychological tension and paranoia with irony and humour</description>
+      <pubDate>Mon, 24 Aug 2026 11:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Black September by Sandro Veronesi — a boy’s own story</title>
       <link>https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/73692dbb-e4c7-4a10-bd61-73be946c319a</guid>
       <description>Set in the Valley of the Kings, this haunting novel shows the writer at the summit of his powers</description>
       <pubDate>Wed, 22 Jul 2026 14:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cool Machine — Colson Whitehead’s Harlem trilogy reaches its reckoning</title>
-      <link>https://www.ft.com/content/56edf2d1-9686-47f4-8a1e-49d50e28a18e</link>
-      <guid isPermaLink="true">https://www.ft.com/content/56edf2d1-9686-47f4-8a1e-49d50e28a18e</guid>
-      <description>The writer powerfully uses crime fiction to explore Black aspiration, family loyalty and the forces that reshaped New York from the civil rights era to Reaganomics</description>
-      <pubDate>Wed, 22 Jul 2026 12:40:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

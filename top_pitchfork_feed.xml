@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:40:03 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lambchop – Punching the Clown</title>
+      <link>https://pitchfork.com/reviews/albums/lambchop-punching-the-clown/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lambchop-punching-the-clown/</guid>
+      <description>A review by Sam Sodomsky</description>
+      <author>Sam Sodomsky</author>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Paradis – Recto Verso</title>
       <link>https://pitchfork.com/reviews/albums/paradis-recto-verso/</link>
@@ -230,14 +238,6 @@
       <description>A review by Daniel Felsenthal</description>
       <author>Daniel Felsenthal</author>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Charanjit Singh – Synthesizing: Ten Ragas to a Disco Beat</title>
-      <link>https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/</guid>
-      <description>A review by Vrinda Jagota</description>
-      <author>Vrinda Jagota</author>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

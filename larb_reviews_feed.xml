@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:40:24 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance, a Love Story</title>
+      <link>https://lareviewofbooks.org/article/one-night-only-fascist-sex-dystopia-rom-com/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/one-night-only-fascist-sex-dystopia-rom-com/</guid>
+      <description>‘One Night Only’ gets it all wrong.</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Everything You Wanted to Know About the Constitution but Were Afraid to Ask</title>
+      <link>https://lareviewofbooks.org/article/constitution-comprehensive-annotated-guide-melissa-murray-amendments-rights/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/constitution-comprehensive-annotated-guide-melissa-murray-amendments-rights/</guid>
+      <description>Melissa Murray’s new book offers an invaluable primer on the structure, history, and meaning of US law’s most important document.</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>To Be Femme</title>
@@ -29,6 +43,13 @@
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Beds and Tombstones</title>
       <link>https://lareviewofbooks.org/article/sophie-calle-overshare-herve-guibert-photography-langson-museum/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sophie-calle-overshare-herve-guibert-photography-langson-museum/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/erupcja-pete-ohs-charli-xcx-mount-etna-warsaw/</guid>
       <description>Eruptions and disruptions break Charli XCX and her friends in the new film from Pete Ohs.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Lose More Slowly</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</guid>
       <description>Dwaipayan Banerjee’s new book investigates India’s role in the history of 20th-century tech development, and what caused it always to seem a step behind the West.</description>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sowing the Seeds of Apology</title>
-      <link>https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/roland-orzabal-tears-fears-welcome-your-life-memoir/</guid>
-      <description>Roland Orzabal of Tears for Fears makes amends in his new ‘astrological memoir.’</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bending the Arc of History</title>
-      <link>https://lareviewofbooks.org/article/bending-the-arc-of-history/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/bending-the-arc-of-history/</guid>
-      <description>A new biography of Howard Zinn functions less as a detailed portrait of a man than as an inspirational manual for contemporary endurance.</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
