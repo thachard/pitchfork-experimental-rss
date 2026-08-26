@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:41:07 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sleight-of-Hand Soul</title>
+      <link>https://lareviewofbooks.org/article/did-you-find-everything-donna-masini-poetry-death/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/did-you-find-everything-donna-masini-poetry-death/</guid>
+      <description>Donna Masini’s new collection mixes dread and inanity to explore death and the weirdness of language.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Can Answer for Ourselves</title>
+      <link>https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</guid>
+      <description>Susan Eva O’Donovan argues that the political building blocks of freedom were inherent in the project of slavery itself.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compliance, a Love Story</title>
@@ -29,6 +43,13 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>To Be Femme</title>
       <link>https://lareviewofbooks.org/article/femme-feminism-lori-marso-sophie-lewis-eileen-gsell/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/femme-feminism-lori-marso-sophie-lewis-eileen-gsell/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/teenage-sex-death-camp-miasma-jane-schoenbrun-slashers/</guid>
       <description>Losing ourselves to teenage horror and stimulation in Jane Schoenbrun’s slasher love letter.</description>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Beds and Tombstones</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</guid>
       <description>Jorie Graham takes a sparer approach to hell in her newest poetry collection.</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Female Power Versus Toxic Masculinity</title>
-      <link>https://lareviewofbooks.org/article/jacqueline-harpman-we-were-forbidden-vichy-france-morocco/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jacqueline-harpman-we-were-forbidden-vichy-france-morocco/</guid>
-      <description>The three newly translated novellas in Belgian author Jacqueline Harpman’s ‘We Were Forbidden’ display a storytelling skill that seems magically effortless.</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Didn’t India Build Its Own Silicon Valley?</title>
-      <link>https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/computing-age-decolonization-india-silicon-valley-nehru-bhabha/</guid>
-      <description>Dwaipayan Banerjee’s new book investigates India’s role in the history of 20th-century tech development, and what caused it always to seem a step behind the West.</description>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

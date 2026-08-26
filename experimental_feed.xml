@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:38:58 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Julia Holter – Materia</title>
+      <link>https://pitchfork.com/reviews/albums/julia-holter-materia/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/julia-holter-materia/</guid>
+      <description>A review by Linnie Greene</description>
+      <author>Linnie Greene</author>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>L’Rain – fata morgana</title>
       <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
@@ -190,14 +198,6 @@
       <description>A review by Dash Lewis</description>
       <author>Dash Lewis</author>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kelsey Lu – So Help Me God</title>
-      <link>https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kelsey-lu-so-help-me-god/</guid>
-      <description>A review by Kiana Mickles</description>
-      <author>Kiana Mickles</author>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
