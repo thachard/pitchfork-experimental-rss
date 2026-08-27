@@ -5,14 +5,21 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:54:33 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Canada is retaliating with tariffs on specific U.S. goods. Here’s what it covers</title>
+      <link>https://www.thestar.com/business/canada-is-retaliating-with-tariffs-on-specific-us-goods-heres-what-it-covers/article_dc3641a6-7ece-5246-95ca-3aaf6da805d6.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/business/canada-is-retaliating-with-tariffs-on-specific-us-goods-heres-what-it-covers/article_dc3641a6-7ece-5246-95ca-3aaf6da805d6.html</guid>
+      <description>The federal government says these retaliatory levies are targeted at sectors that are most affected by the Trump administration&apos;s tariffs.</description>
+      <pubDate>Thu, 27 Aug 2026 15:19:16 +0000</pubDate>
+    </item>
     <item>
       <title>Donald Trump signs order renaming Lake Ontario as ‘Lake America’</title>
       <link>https://www.thestar.com/politics/federal/donald-trump-signs-order-renaming-lake-ontario-as-lake-america/article_0cd06214-bbb4-454e-94c5-b084b8b7d8ff.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/donald-trump-signs-order-renaming-lake-ontario-as-lake-america/article_0cd06214-bbb4-454e-94c5-b084b8b7d8ff.html</guid>
-      <description>The U.S. president made good on his threat after the collapse of trade talks and in retaliation for Canadian counter-tariffs against American imports.</description>
-      <pubDate>Thu, 27 Aug 2026 14:27:03 +0000</pubDate>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 15:19:44 +0000</pubDate>
     </item>
     <item>
       <title>Champagne defends reversal on seafood tariffs against U.S.</title>
@@ -26,21 +33,14 @@
       <link>https://www.thestar.com/politics/federal/most-canadians-support-suspension-of-us-trade-talks-poll-suggests/article_fca860e8-2709-46f2-8d27-1ffa4d2148a0.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/most-canadians-support-suspension-of-us-trade-talks-poll-suggests/article_fca860e8-2709-46f2-8d27-1ffa4d2148a0.html</guid>
       <description></description>
-      <pubDate>Thu, 27 Aug 2026 10:54:00 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 15:19:16 +0000</pubDate>
     </item>
     <item>
       <title>Conflict screen excludes Mark Carney from eight more government decisions</title>
       <link>https://www.thestar.com/politics/federal/conflict-screen-excludes-mark-carney-from-eight-more-government-decisions/article_2edf9c3b-771f-438f-9a76-4f5703e02e62.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/conflict-screen-excludes-mark-carney-from-eight-more-government-decisions/article_2edf9c3b-771f-438f-9a76-4f5703e02e62.html</guid>
       <description></description>
-      <pubDate>Thu, 27 Aug 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Champagne touts deepening economic ties in visit with Indian counterpart</title>
-      <link>https://www.thestar.com/politics/federal/finance-minister-to-meet-with-indian-counterpart-today/article_b095383d-9697-5574-8d60-2196579674a7.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/finance-minister-to-meet-with-indian-counterpart-today/article_b095383d-9697-5574-8d60-2196579674a7.html</guid>
-      <description></description>
-      <pubDate>Thu, 27 Aug 2026 13:15:05 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 15:09:32 +0000</pubDate>
     </item>
     <item>
       <title>U.S. confirms language, culture protection won’t be subject to trade actions: LeBlanc</title>
@@ -68,7 +68,7 @@
       <link>https://www.thestar.com/politics/federal/polls-suggest-mark-carney-would-increase-majority-if-election-held-now/article_9d07eb3f-6c3b-4010-9239-1d41cb265aa5.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/polls-suggest-mark-carney-would-increase-majority-if-election-held-now/article_9d07eb3f-6c3b-4010-9239-1d41cb265aa5.html</guid>
       <description></description>
-      <pubDate>Mon, 17 Aug 2026 12:31:18 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 15:06:05 +0000</pubDate>
     </item>
     <item>
       <title>Just how popular are Carney’s Liberals with Canadian voters? Here’s what the polls show right now</title>
@@ -85,10 +85,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Champagne touts deepening economic ties in visit with Indian counterpart</title>
+      <link>https://www.thestar.com/politics/federal/finance-minister-to-meet-with-indian-counterpart-today/article_b095383d-9697-5574-8d60-2196579674a7.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/finance-minister-to-meet-with-indian-counterpart-today/article_b095383d-9697-5574-8d60-2196579674a7.html</guid>
+      <description>TORONTO - Finance Minister François-Philippe Champagne said he&apos;s looking at ways to streamline payments between Canada and India as part of a …</description>
+      <pubDate>Thu, 27 Aug 2026 15:05:55 +0000</pubDate>
+    </item>
+    <item>
       <title>The president says the U.S. doesn’t need anything from Canada. Exports say otherwise.</title>
       <link>https://www.thestar.com/politics/federal/the-president-says-the-us-doesnt-need-anything-from-canada-exports-say-otherwise/article_9c5d620e-eeee-5c5f-abdb-27f06d393992.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/the-president-says-the-us-doesnt-need-anything-from-canada-exports-say-otherwise/article_9c5d620e-eeee-5c5f-abdb-27f06d393992.html</guid>
-      <description>OTTAWA - &quot;WE DON&apos;T NEED CANADA, THEY NEED US!&quot; U.S. President Donald Trump&apos;s social media post this week was a continuation on a theme he&apos;s ma…</description>
+      <description></description>
       <pubDate>Wed, 26 Aug 2026 19:11:51 +0000</pubDate>
     </item>
     <item>
@@ -109,15 +116,15 @@
       <title>Canadian Army looking for surveillance, cargo-drop drone suppliers</title>
       <link>https://www.thestar.com/politics/federal/canadian-army-looking-for-surveillance-cargo-drop-drone-suppliers/article_d884b61a-f9e0-57a9-860e-fc02687ee2c5.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/canadian-army-looking-for-surveillance-cargo-drop-drone-suppliers/article_d884b61a-f9e0-57a9-860e-fc02687ee2c5.html</guid>
-      <description></description>
+      <description>OTTAWA - The federal government has put out a small shopping list for new drones for the Canadian Army, which includes land and aerial drones …</description>
       <pubDate>Wed, 26 Aug 2026 18:25:05 +0000</pubDate>
     </item>
     <item>
-      <title>Western premiers push back against using potash, oil in retaliation against Trump</title>
+      <title>Why Western premiers are fighting Doug Ford’s proposal to cut off Donald Trump’s potash</title>
       <link>https://www.thestar.com/politics/federal/donald-trump-insists-the-us-could-get-by-without-any-canadian-imports/article_37230ba2-5b77-4f8b-a982-dd663c59bc6e.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/donald-trump-insists-the-us-could-get-by-without-any-canadian-imports/article_37230ba2-5b77-4f8b-a982-dd663c59bc6e.html</guid>
-      <description>Saskatchewan Premier Scott Moe says he supports the dollar-for-dollar countermeasures, but the goal must be to get back to the negotiating tab…</description>
-      <pubDate>Wed, 26 Aug 2026 23:26:36 +0000</pubDate>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 15:42:49 +0000</pubDate>
     </item>
     <item>
       <title>Former NDP MP Boulerice officially exits Parliament to run in Quebec election</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/canada/mark-carney-to-attend-eu-state-of-the-union-address-as-canada-us-trade-talks-falter-report/article_3cc8b68f-a8fb-498b-9500-87f8eff46118.html</guid>
       <description></description>
       <pubDate>Wed, 26 Aug 2026 16:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fact File: Trump makes misleading claims about Canada-U.S. trade, economy</title>
-      <link>https://www.thestar.com/news/fact-file-trump-makes-misleading-claims-about-canada-us-trade-economy/article_3f2c8596-7185-5594-851e-b871ad6a9362.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/fact-file-trump-makes-misleading-claims-about-canada-us-trade-economy/article_3f2c8596-7185-5594-851e-b871ad6a9362.html</guid>
-      <description></description>
-      <pubDate>Tue, 25 Aug 2026 19:48:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
