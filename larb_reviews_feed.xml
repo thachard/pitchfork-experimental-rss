@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:50:52 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stranger, Love Your Life</title>
+      <link>https://lareviewofbooks.org/article/franz-wright-axe-blossom-last-poems-fragments-posthumous/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/franz-wright-axe-blossom-last-poems-fragments-posthumous/</guid>
+      <description>The final collection from one of contemporary poetry’s essential voices.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have Moviegoers Been Suckered?</title>
+      <link>https://lareviewofbooks.org/article/david-thomson-sudden-flicker-light-film-history-revisionist/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/david-thomson-sudden-flicker-light-film-history-revisionist/</guid>
+      <description>Eminent film historian David Thomson fears that the medium has finally tricked him.</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sleight-of-Hand Soul</title>
@@ -29,6 +43,13 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance, a Love Story</title>
       <link>https://lareviewofbooks.org/article/one-night-only-fascist-sex-dystopia-rom-com/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/one-night-only-fascist-sex-dystopia-rom-com/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/constitution-comprehensive-annotated-guide-melissa-murray-amendments-rights/</guid>
       <description>Melissa Murray’s new book offers an invaluable primer on the structure, history, and meaning of US law’s most important document.</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>To Be Femme</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/pillion-kink-bdsm-box-hill-a24-harry-lighton/</guid>
       <description>Harry Lighton’s film ‘Pillion’ offers a discreetly sanitized version of gay BDSM.</description>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>J. D. Vance’s Straussian Moment</title>
-      <link>https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jd-vance-communion-straussian-peter-thiel-plagiarism-maga/</guid>
-      <description>The US vice president wrote his new book without citing his source—Peter Thiel.</description>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hell in a Go Bag</title>
-      <link>https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jorie-graham-killing-spree-ecology-poetry-climate-disaster/</guid>
-      <description>Jorie Graham takes a sparer approach to hell in her newest poetry collection.</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

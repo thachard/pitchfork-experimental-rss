@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:48:43 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Elanor Moss – The Knife, The Needle</title>
+      <link>https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/</guid>
+      <description>A review by Vrinda Jagota</description>
+      <author>Vrinda Jagota</author>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Prairie Princess – Jewish American Prairie Princess</title>
       <link>https://pitchfork.com/reviews/albums/prairie-princess-jewish-american-prairie-princess/</link>
@@ -182,14 +190,6 @@
       <description>A review by Caitlin Wolper Phillips</description>
       <author>Caitlin Wolper Phillips</author>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kacey Musgraves – Middle of Nowhere</title>
-      <link>https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kacey-musgraves-middle-of-nowhere/</guid>
-      <description>A review by Molly Mary O’Brien</description>
-      <author>Molly Mary O’Brien</author>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

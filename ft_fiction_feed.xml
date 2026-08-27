@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:49:05 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Disappearers — Marlon James’s novel of righteous anger</title>
+      <link>https://www.ft.com/content/c4290257-4f76-4c1b-8c5a-dd7e49f9c197</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c4290257-4f76-4c1b-8c5a-dd7e49f9c197</guid>
+      <description>The Booker Prize-winning author turns a planned theatre production in Jamaica into a compelling examination of homophobia, erasure and survival</description>
+      <pubDate>Thu, 27 Aug 2026 14:28:35 +0000</pubDate>
+    </item>
     <item>
       <title>Primeval and Other Times — Olga Tokarczuk’s exhilarating, genre-defying fairy tale</title>
       <link>https://www.ft.com/content/5faad16a-0ac2-4310-9e39-4f66c5375bdd</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/d0697d10-a2f1-44b8-a025-2d27658cb040</guid>
       <description>Deb Olin Unferth’s sci-fi novel is a wild ride through time and space — and a love story for a broken world</description>
       <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beginning Middle End — memory, motherhood and starting over</title>
-      <link>https://www.ft.com/content/30011203-d3cc-4b60-bb10-61910cdcccbc</link>
-      <guid isPermaLink="true">https://www.ft.com/content/30011203-d3cc-4b60-bb10-61910cdcccbc</guid>
-      <description>A shape-shifting sea god anchors Valeria Luiselli’s impressive, searching novel of broken families and second chances</description>
-      <pubDate>Thu, 23 Jul 2026 11:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
