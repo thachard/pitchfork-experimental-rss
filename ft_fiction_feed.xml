@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:53:09 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Russia vs the west to Anthony Seldon on Sunak and Jared Diamond on what makes a leader. Plus: Marlon James’s visceral novel of Jamaican homophobia, Olga Tokarczuk’s portrait of a Polish village and William Boyd’s latest spy outing</description>
+      <pubDate>Fri, 28 Aug 2026 11:46:12 +0000</pubDate>
+    </item>
     <item>
       <title>The Disappearers — Marlon James’s novel of righteous anger</title>
       <link>https://www.ft.com/content/c4290257-4f76-4c1b-8c5a-dd7e49f9c197</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</guid>
       <description>The multi-award-winning Italian writer turns memory into drama in this warm, teasing account of an early-1970s adolescence</description>
       <pubDate>Mon, 24 Aug 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Mussolini to Rachel Cusk’s much-discussed new novel and Jon Ronson on the manosphere. Plus: Robert Harris returns to Rome, a compelling portrait of John Berger, and film-maker Éric Rohmer’s early foray into fiction</description>
-      <pubDate>Fri, 21 Aug 2026 11:29:23 +0000</pubDate>
     </item>
     <item>
       <title>Dèy by Edwidge Danticat — a family under fire</title>
