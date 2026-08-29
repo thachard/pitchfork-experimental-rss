@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:38:12 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toppling the Deportation Regime</title>
+      <link>https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</guid>
+      <description>John Washington’s new book excavates the historical origins and geographic scope of the Trump regime’s deportation agenda.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stranger, Love Your Life</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>We Can Answer for Ourselves</title>
-      <link>https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</guid>
-      <description>Susan Eva O’Donovan argues that the political building blocks of freedom were inherent in the project of slavery itself.</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Can Answer for Ourselves</title>
+      <link>https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</guid>
+      <description>Susan Eva O’Donovan argues that the political building blocks of freedom were inherent in the project of slavery itself.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compliance, a Love Story</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/self-sabotage-todd-mcgowan-freud-death-drive-pleasure/</guid>
       <description>Finding freedom through the death drive.</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Petite Mort</title>
-      <link>https://lareviewofbooks.org/article/pillion-kink-bdsm-box-hill-a24-harry-lighton/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/pillion-kink-bdsm-box-hill-a24-harry-lighton/</guid>
-      <description>Harry Lighton’s film ‘Pillion’ offers a discreetly sanitized version of gay BDSM.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

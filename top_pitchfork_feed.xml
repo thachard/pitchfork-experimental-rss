@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:37:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dinosaur Jr. – There Near</title>
+      <link>https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/</guid>
+      <description>A review by Jude Noel</description>
+      <author>Jude Noel</author>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lambchop – Punching the Clown</title>
       <link>https://pitchfork.com/reviews/albums/lambchop-punching-the-clown/</link>
@@ -230,14 +238,6 @@
       <description>A review by Sam Goldner</description>
       <author>Sam Goldner</author>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bryan Ferry – Boys and Girls</title>
-      <link>https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bryan-ferry-boys-and-girls/</guid>
-      <description>A review by Daniel Felsenthal</description>
-      <author>Daniel Felsenthal</author>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
