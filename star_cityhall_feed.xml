@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 30 Aug 2026 13:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:26:29 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why Donald Trump’s 50 per cent tariffs have Toronto’s mayoral rivals clashing over taxes</title>
@@ -92,6 +92,13 @@
       <pubDate>Thu, 27 Aug 2026 15:06:11 +0000</pubDate>
     </item>
     <item>
+      <title>Five people taken to hospital after crash in North York</title>
+      <link>https://www.thestar.com/news/gta/five-people-taken-to-hospital-after-crash-in-north-york/article_5d2dff4a-89c9-48b1-bcda-84389655cf6c.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/five-people-taken-to-hospital-after-crash-in-north-york/article_5d2dff4a-89c9-48b1-bcda-84389655cf6c.html</guid>
+      <description></description>
+      <pubDate>Sun, 30 Aug 2026 09:19:02 +0000</pubDate>
+    </item>
+    <item>
       <title>The Snowbirds are making their last flights over Toronto. Why the air show will be a bittersweet ‘ballet in the sky’</title>
       <link>https://www.thestar.com/news/canada/the-snowbirds-are-making-their-last-flights-over-toronto-why-the-air-show-will-be-a-bittersweet-ballet-in-the-sky/article_c61acbf8-1faa-4e69-a5ea-02ab0e397a76.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/canada/the-snowbirds-are-making-their-last-flights-over-toronto-why-the-air-show-will-be-a-bittersweet-ballet-in-the-sky/article_c61acbf8-1faa-4e69-a5ea-02ab0e397a76.html</guid>
@@ -125,13 +132,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/she-was-jane-doe-for-two-decades-after-a-toronto-crash-how-her-birth-daughters-dna-finally-solved-the-mystery/article_c0b12452-7da4-4508-8d9c-f98b75498c88.html</guid>
       <description></description>
       <pubDate>Sun, 30 Aug 2026 08:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI slop or the real deal? CNE to review use of AI-generated images in wake of debate over vendors’ promotional posters</title>
-      <link>https://www.thestar.com/news/gta/ai-slop-or-the-real-deal-cne-to-review-use-of-ai-generated-images-in-wake-of-debate-over-vendors-promotional-posters/article_e7c1a49c-91a2-4f75-b3e6-8c08aac33757.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/ai-slop-or-the-real-deal-cne-to-review-use-of-ai-generated-images-in-wake-of-debate-over-vendors-promotional-posters/article_e7c1a49c-91a2-4f75-b3e6-8c08aac33757.html</guid>
-      <description></description>
-      <pubDate>Sun, 30 Aug 2026 07:21:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
