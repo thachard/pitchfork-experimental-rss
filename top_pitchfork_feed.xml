@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 15:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:32:06 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Eagles – Their Greatest Hits (1971-1975)</title>
+      <link>https://pitchfork.com/reviews/albums/the-eagles-their-greatest-hits-1971-1975/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-eagles-their-greatest-hits-1971-1975/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dinosaur Jr. – There Near</title>
       <link>https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/</link>
@@ -230,14 +238,6 @@
       <description>A review by Shaad D’Souza</description>
       <author>Shaad D’Souza</author>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SML – Spontaneous Music Live</title>
-      <link>https://pitchfork.com/reviews/albums/sml-spontaneous-music-live/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sml-spontaneous-music-live/</guid>
-      <description>A review by Sam Goldner</description>
-      <author>Sam Goldner</author>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
