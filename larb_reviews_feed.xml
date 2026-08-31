@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:51:08 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaving Stone Mountain</title>
+      <link>https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</guid>
+      <description>Richard Russo’s new novel shows how regionalism’s advantages are always threatened by its liabilities.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Danger and Doikayt in the Time of Revolution</title>
+      <link>https://lareviewofbooks.org/article/radiant-stars-elaine-elinson-jewish-ukraine-russian-empire/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/radiant-stars-elaine-elinson-jewish-ukraine-russian-empire/</guid>
+      <description>Elaine Elinson’s new novel brings to light Jewish life in the Russian Empire.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Toppling the Deportation Regime</title>
@@ -29,6 +43,13 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Have Moviegoers Been Suckered?</title>
       <link>https://lareviewofbooks.org/article/david-thomson-sudden-flicker-light-film-history-revisionist/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/david-thomson-sudden-flicker-light-film-history-revisionist/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/did-you-find-everything-donna-masini-poetry-death/</guid>
       <description>Donna Masini’s new collection mixes dread and inanity to explore death and the weirdness of language.</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Can Answer for Ourselves</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sophie-calle-overshare-herve-guibert-photography-langson-museum/</guid>
       <description>Viewing Sophie Calle’s survey at the Langson museum through the work of Hervé Guibert.</description>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When Byron Comes to Warsaw</title>
-      <link>https://lareviewofbooks.org/article/erupcja-pete-ohs-charli-xcx-mount-etna-warsaw/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/erupcja-pete-ohs-charli-xcx-mount-etna-warsaw/</guid>
-      <description>Eruptions and disruptions break Charli XCX and her friends in the new film from Pete Ohs.</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Lose More Slowly</title>
-      <link>https://lareviewofbooks.org/article/self-sabotage-todd-mcgowan-freud-death-drive-pleasure/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/self-sabotage-todd-mcgowan-freud-death-drive-pleasure/</guid>
-      <description>Finding freedom through the death drive.</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
