@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:11:45 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ford government says it will move ahead with ripping out bike lanes on stretch of Bloor Street</title>
+      <link>https://www.ctvnews.ca/toronto/article/ford-government-says-it-will-move-ahead-with-ripping-out-bike-lanes-on-stretch-of-bloor-street/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ford-government-says-it-will-move-ahead-with-ripping-out-bike-lanes-on-stretch-of-bloor-street/</guid>
+      <description></description>
+      <pubDate>Tue, 01 Sep 2026 13:34:27 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario was warned of &apos;suspicious&apos; OSAP activity at a few career colleges: documents</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-was-warned-of-suspicious-osap-activity-at-a-few-career-colleges-documents/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-was-warned-of-suspicious-osap-activity-at-a-few-career-colleges-documents/</guid>
-      <description></description>
+      <description>The association representing career colleges in Ontario began warning the government about possible “suspicious” student financial aid activity at a few campuses three years ago, documents show.</description>
       <pubDate>Fri, 28 Aug 2026 19:03:20 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/system-itself-is-the-problem-osstf-calls-for-repeal-of-bargaining-law-as-negotiations-remain-stalled/</guid>
       <description>The union representing Ontario’s secondary school teachers is calling for the repeal of a “broken system” that it says has stalled negotiations weeks prior to the expiration of teacher contracts.</description>
       <pubDate>Wed, 19 Aug 2026 23:55:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RBC names former Ontario cabinet minister Caroline Mulroney as vice-chair</title>
-      <link>https://www.ctvnews.ca/business/article/rbc-names-former-ontario-cabinet-minister-caroline-mulroney-as-vice-chair/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/business/article/rbc-names-former-ontario-cabinet-minister-caroline-mulroney-as-vice-chair/</guid>
-      <description>Royal Bank of Canada has hired Caroline Mulroney as vice chair and she is to report to Derek Neldner, the head of capital markets, starting Sept. 14.</description>
-      <pubDate>Wed, 19 Aug 2026 21:40:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
