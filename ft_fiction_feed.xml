@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:31:27 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Obituary.Wendell Berry, writer and farmer, 1934-2026</title>
+      <link>https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</guid>
+      <description>The poet and essayist emerged from the 1960s counterculture movement to become a prominent voice in environmental activism and an outspoken critic of intensive agriculture</description>
+      <pubDate>Tue, 01 Sep 2026 17:12:20 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</guid>
       <description>Lawrence Osborne’s atmospheric page-turner is a tale of sleuthing, rebellious rich kids and darker truths</description>
       <pubDate>Tue, 28 Jul 2026 16:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Earth 7 — an eccentric, comic elegy for a dying planet</title>
-      <link>https://www.ft.com/content/d0697d10-a2f1-44b8-a025-2d27658cb040</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d0697d10-a2f1-44b8-a025-2d27658cb040</guid>
-      <description>Deb Olin Unferth’s sci-fi novel is a wild ride through time and space — and a love story for a broken world</description>
-      <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

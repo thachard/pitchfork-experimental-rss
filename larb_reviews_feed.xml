@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:52:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:33:23 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whither, Then, Are You Speeding, O Russia of Mine?</title>
+      <link>https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</guid>
+      <description>Two new books analyze Russia’s messianic civilizational mission under Putin.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Empire of Information</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Toppling the Deportation Regime</title>
-      <link>https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</guid>
-      <description>John Washington’s new book excavates the historical origins and geographic scope of the Trump regime’s deportation agenda.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toppling the Deportation Regime</title>
+      <link>https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</guid>
+      <description>John Washington’s new book excavates the historical origins and geographic scope of the Trump regime’s deportation agenda.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stranger, Love Your Life</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/femme-feminism-lori-marso-sophie-lewis-eileen-gsell/</guid>
       <description>Is ‘femme’ feminist?</description>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kill or Be Thrilled</title>
-      <link>https://lareviewofbooks.org/article/teenage-sex-death-camp-miasma-jane-schoenbrun-slashers/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/teenage-sex-death-camp-miasma-jane-schoenbrun-slashers/</guid>
-      <description>Losing ourselves to teenage horror and stimulation in Jane Schoenbrun’s slasher love letter.</description>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
