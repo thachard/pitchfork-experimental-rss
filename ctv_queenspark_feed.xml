@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:27:52 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario spent $25K on Doug Ford’s new ‘Lake Ontario’ sign</title>
+      <link>https://www.ctvnews.ca/toronto/article/ontario-spent-25k-on-doug-fords-new-lake-ontario-sign/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-spent-25k-on-doug-fords-new-lake-ontario-sign/</guid>
+      <description>Video</description>
+      <pubDate>Wed, 02 Sep 2026 14:22:25 +0000</pubDate>
+    </item>
     <item>
       <title>Ford government says it will move ahead with ripping out bike lanes on stretch of Bloor Street</title>
       <link>https://www.ctvnews.ca/toronto/article/ford-government-says-it-will-move-ahead-with-ripping-out-bike-lanes-on-stretch-of-bloor-street/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ford-government-says-it-will-move-ahead-with-ripping-out-bike-lanes-on-stretch-of-bloor-street/</guid>
-      <description>Video</description>
+      <description>The Ford government says it is immediately starting to remove bike lanes along a stretch of Bloor Street West and is moving forward with plans to strip lanes from two other major Toronto arteries.</description>
       <pubDate>Tue, 01 Sep 2026 18:45:33 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-raises-speed-limits-on-several-highways-effective-friday/</guid>
       <description>Drivers across the province will soon be able to travel faster as speed limits increase on numerous highways, including some stretches of Hwy. 400.</description>
       <pubDate>Fri, 21 Aug 2026 17:35:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario teachers will be without a contract as school returns but education minister ‘very optimistic’</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-teachers-will-be-without-a-contract-as-school-returns-but-education-minister-very-optimistic/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-teachers-will-be-without-a-contract-as-school-returns-but-education-minister-very-optimistic/</guid>
-      <description>Ontario’s education minister says he’s hopeful the province can strike a deal with all of its teachers and education workers unions, pledging that schools will open “as usual” after Labour Day.</description>
-      <pubDate>Thu, 20 Aug 2026 17:07:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
