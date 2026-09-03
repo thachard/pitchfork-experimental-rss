@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:26:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:34:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Billy Strings – So Much for Goodbyes</title>
+      <link>https://pitchfork.com/reviews/albums/billy-strings-so-much-for-goodbyes/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/billy-strings-so-much-for-goodbyes/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nina Winder-Lind – Wild Love</title>
+      <link>https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/</guid>
+      <description>A review by Grace Robins-Somerville</description>
+      <author>Grace Robins-Somerville</author>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Elanor Moss – The Knife, The Needle</title>
       <link>https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/</link>
@@ -174,22 +190,6 @@
       <description>A review by Daniel Bromfield</description>
       <author>Daniel Bromfield</author>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aldous Harding – Train on the Island</title>
-      <link>https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maya Hawke – MAITREYA CORSO</title>
-      <link>https://pitchfork.com/reviews/albums/maya-hawke-maitreya-corso/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/maya-hawke-maitreya-corso/</guid>
-      <description>A review by Caitlin Wolper Phillips</description>
-      <author>Caitlin Wolper Phillips</author>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

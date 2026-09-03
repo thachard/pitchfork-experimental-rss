@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:34:38 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Making mischief with du Maurier: Rose Tremain reimagines Rebecca</title>
+      <link>https://www.ft.com/content/d5cd8625-bf6f-4872-8383-c4968fac7ffa</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d5cd8625-bf6f-4872-8383-c4968fac7ffa</guid>
+      <description>‘The Housekeeper’ fictionalises the roots of Daphne du Maurier’s gothic masterpiece — while a memoir by her grandson tells the unique family history that shaped her work</description>
+      <pubDate>Thu, 03 Sep 2026 12:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Newer World — Sebastian Barry’s novel of the Black American slave experience</title>
+      <link>https://www.ft.com/content/a44220ed-f93a-47a6-8a06-9d8eb667c6aa</link>
+      <guid isPermaLink="true">https://www.ft.com/content/a44220ed-f93a-47a6-8a06-9d8eb667c6aa</guid>
+      <description>Set in the mid-1800s, the Irish author’s narrative blazes with an authenticity and poignancy that mitigates any risk of ‘cultural appropriation’</description>
+      <pubDate>Thu, 03 Sep 2026 04:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>Obituary.Wendell Berry, writer and farmer, 1934-2026</title>
       <link>https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/a379ea89-8dc4-42d8-8c8b-28e89278aec0</guid>
       <description>In a non-linear novel ripe with wit and writerly ambition, profound insights emerge amid evocations of the prosaic</description>
       <pubDate>Thu, 30 Jul 2026 12:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Make a Woman —  a tale of two friendships, heartbreakingly observed</title>
-      <link>https://www.ft.com/content/9c0d8476-37a6-4911-a962-8a65fe92b438</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9c0d8476-37a6-4911-a962-8a65fe92b438</guid>
-      <description>Perceptive and poignant, Marie Darrieussecq’s novel traces the diverging lives of two female friends from childhood to adulthood</description>
-      <pubDate>Wed, 29 Jul 2026 12:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Children of Wolves — a thrilling tangle of scheming and sexual tension in Istanbul</title>
-      <link>https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/842f9eee-2608-4ec9-92e6-8db30623b4b1</guid>
-      <description>Lawrence Osborne’s atmospheric page-turner is a tale of sleuthing, rebellious rich kids and darker truths</description>
-      <pubDate>Tue, 28 Jul 2026 16:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

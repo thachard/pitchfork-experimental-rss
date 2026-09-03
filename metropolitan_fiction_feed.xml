@@ -5,8 +5,15 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:36:25 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Smells Like Spirit</title>
+      <link>https://www.metropolitanreview.org/p/smells-like-spirit</link>
+      <guid isPermaLink="true">https://www.metropolitanreview.org/p/smells-like-spirit</guid>
+      <description>On Adam Voith&amp;#8217;s &amp;#8216;Recommended If You Like&amp;#8217;</description>
+      <pubDate>Wed, 02 Sep 2026 15:45:51 +0000</pubDate>
+    </item>
     <item>
       <title>You End Up Right Back Here</title>
       <link>https://www.metropolitanreview.org/p/you-end-up-right-back-here</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/a-world-without-people</guid>
       <description>On Will Self&apos;s &apos;The Quantity Theory of Morality&apos;</description>
       <pubDate>Fri, 07 Aug 2026 13:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Between Life and Death</title>
-      <link>https://www.metropolitanreview.org/p/between-life-and-death</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/between-life-and-death</guid>
-      <description>On Tom Howard&amp;#8217;s &amp;#8216;Invisibilia&amp;#8217;</description>
-      <pubDate>Wed, 22 Jul 2026 19:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:28:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:36:14 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lex Walton – Ultimate Love Forever</title>
+      <link>https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/</guid>
+      <description>A review by Hannah Jocelyn</description>
+      <author>Hannah Jocelyn</author>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nina Winder-Lind – Wild Love</title>
+      <link>https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/</guid>
+      <description>A review by Grace Robins-Somerville</description>
+      <author>Grace Robins-Somerville</author>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Asher White – Love Aggregates</title>
       <link>https://pitchfork.com/reviews/albums/asher-white-love-aggregates/</link>
@@ -222,22 +238,6 @@
       <description>A review by en Cardew</description>
       <author>en Cardew</author>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nirosta Steel – My Skyscraper</title>
-      <link>https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nirosta-steel-my-skyscraper/</guid>
-      <description>A review by Harry Tafoya</description>
-      <author>Harry Tafoya</author>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GAS – November 89</title>
-      <link>https://pitchfork.com/reviews/albums/gas-november-89/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/gas-november-89/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
