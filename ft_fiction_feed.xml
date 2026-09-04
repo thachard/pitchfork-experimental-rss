@@ -5,13 +5,27 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:29:14 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Making mischief with du Maurier: Rose Tremain reimagines Rebecca</title>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Francis Fukuyama on how the future disappeared to Freddie Mercury’s life in lyrics. Plus: Rose Tremain reimagines the roots of ‘Rebecca’, Sebastian Barry examines the Black American slave experience, Emma Cline talks about her Booker-longlisted novel ‘Switzy’, and more</description>
+      <pubDate>Fri, 04 Sep 2026 11:32:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interview.Emma Cline on Switzy — ‘How would you survive those days, knowing what’s coming?’</title>
+      <link>https://www.ft.com/content/8a5aaf24-00aa-4677-ade0-592fa9fce771</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8a5aaf24-00aa-4677-ade0-592fa9fce771</guid>
+      <description>The American novelist’s Booker-longlisted new novel follows a man with Alzheimer’s on his final journey to an assisted-dying clinic in Zurich</description>
+      <pubDate>Fri, 04 Sep 2026 04:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making mischief with du Maurier: Rose Tremain reimagines the roots of Rebecca</title>
       <link>https://www.ft.com/content/d5cd8625-bf6f-4872-8383-c4968fac7ffa</link>
       <guid isPermaLink="true">https://www.ft.com/content/d5cd8625-bf6f-4872-8383-c4968fac7ffa</guid>
-      <description>‘The Housekeeper’ fictionalises the roots of Daphne du Maurier’s gothic masterpiece — while a memoir by her grandson tells the unique family history that shaped her work</description>
+      <description>‘The Housekeeper’ fictionalises the story behind Daphne du Maurier’s gothic masterpiece — while a memoir by her grandson tells the unique family history that shaped her work</description>
       <pubDate>Thu, 03 Sep 2026 12:10:34 +0000</pubDate>
     </item>
     <item>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</guid>
       <description>The poet and essayist emerged from the 1960s counterculture movement to become a prominent voice in environmental activism and an outspoken critic of intensive agriculture</description>
       <pubDate>Tue, 01 Sep 2026 17:12:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Russia vs the west to Roy Cohn’s long shadow over US politics and Anthony Seldon on Sunak. Plus: Marlon James’s visceral novel of Jamaican homophobia, Olga Tokarczuk’s Polish village fable and William Boyd’s new spy yarn</description>
-      <pubDate>Fri, 28 Aug 2026 11:46:12 +0000</pubDate>
     </item>
     <item>
       <title>The Disappearers — Marlon James’s novel of righteous anger</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/b3603329-2d31-4c90-82ae-205e6b4ae946</guid>
       <description>In Joanna Elmy’s award-winning debut novel, moving from post-communist Bulgaria to the US fails to upend the hardship a young woman’s life</description>
       <pubDate>Fri, 31 Jul 2026 11:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Château Rouge — Amit Chaudhuri’s vivid vignettes of living in Paris</title>
-      <link>https://www.ft.com/content/a379ea89-8dc4-42d8-8c8b-28e89278aec0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a379ea89-8dc4-42d8-8c8b-28e89278aec0</guid>
-      <description>In a non-linear novel ripe with wit and writerly ambition, profound insights emerge amid evocations of the prosaic</description>
-      <pubDate>Thu, 30 Jul 2026 12:09:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

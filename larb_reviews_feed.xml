@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:31:02 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Magic of Sisterhood</title>
+      <link>https://lareviewofbooks.org/article/meg-howrey-body-language-sisters-mother-alzheimers-care/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/meg-howrey-body-language-sisters-mother-alzheimers-care/</guid>
+      <description>Meg Howrey discusses her new coming-of-middle-age novel about Alzheimer’s, three adult sisters, and grace in last requests.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Response to Mike Fortun Regarding ‘Original Sin’</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Leaving Stone Mountain</title>
-      <link>https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</guid>
-      <description>Richard Russo’s new novel shows how regionalism’s advantages are always threatened by its liabilities.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leaving Stone Mountain</title>
+      <link>https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</guid>
+      <description>Richard Russo’s new novel shows how regionalism’s advantages are always threatened by its liabilities.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Danger and Doikayt in the Time of Revolution</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/one-night-only-fascist-sex-dystopia-rom-com/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/one-night-only-fascist-sex-dystopia-rom-com/</guid>
       <description>‘One Night Only’ gets it all wrong.</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Everything You Wanted to Know About the Constitution but Were Afraid to Ask</title>
-      <link>https://lareviewofbooks.org/article/constitution-comprehensive-annotated-guide-melissa-murray-amendments-rights/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/constitution-comprehensive-annotated-guide-melissa-murray-amendments-rights/</guid>
-      <description>Melissa Murray’s new book offers an invaluable primer on the structure, history, and meaning of US law’s most important document.</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
