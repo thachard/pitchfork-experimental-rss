@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:58:26 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>She Wrote Me a Letter</title>
+      <link>https://lareviewofbooks.org/article/virginia-woolf-uncollected-letters-paul-delaney-modernism-correspondence/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/virginia-woolf-uncollected-letters-paul-delaney-modernism-correspondence/</guid>
+      <description>Do Virginia Woolf’s uncollected letters raise the author’s stature, or lower it?</description>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Old Dog Stays</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Whither, Then, Are You Speeding, O Russia of Mine?</title>
-      <link>https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</guid>
-      <description>Two new books analyze Russia’s messianic civilizational mission under Putin.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whither, Then, Are You Speeding, O Russia of Mine?</title>
+      <link>https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</guid>
+      <description>Two new books analyze Russia’s messianic civilizational mission under Putin.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Empire of Information</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/did-you-find-everything-donna-masini-poetry-death/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/did-you-find-everything-donna-masini-poetry-death/</guid>
       <description>Donna Masini’s new collection mixes dread and inanity to explore death and the weirdness of language.</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Can Answer for Ourselves</title>
-      <link>https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/moving-toward-freedom-susan-eva-odonovan-slavery-politics/</guid>
-      <description>Susan Eva O’Donovan argues that the political building blocks of freedom were inherent in the project of slavery itself.</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
