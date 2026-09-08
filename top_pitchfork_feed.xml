@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:38:15 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lily Seabird – Lightspheres on Their Way</title>
+      <link>https://pitchfork.com/reviews/albums/lily-seabird-lightspheres-on-their-way/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lily-seabird-lightspheres-on-their-way/</guid>
+      <description>A review by Marissa Lorusso</description>
+      <author>Marissa Lorusso</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lex Walton – Ultimate Love Forever</title>
       <link>https://pitchfork.com/reviews/albums/lex-walton-ultimate-love-forever/</link>
@@ -230,14 +238,6 @@
       <description>A review by Andrew Ryce</description>
       <author>Andrew Ryce</author>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pixies – Complete B Sides: 1988-97 (Remaster)</title>
-      <link>https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/</guid>
-      <description>A review by en Cardew</description>
-      <author>en Cardew</author>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

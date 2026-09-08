@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 15:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:36:27 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Carmen Villain – Memoria</title>
+      <link>https://pitchfork.com/reviews/albums/carmen-villain-memoria/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/carmen-villain-memoria/</guid>
+      <description>A review by Andrew Ryce</description>
+      <author>Andrew Ryce</author>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Julia Holter – Materia</title>
       <link>https://pitchfork.com/reviews/albums/julia-holter-materia/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/horse-lords-demand-to-be-taken-to-heaven-alive/</guid>
       <description>A review by Jayson Greene</description>
       <author>Jayson Greene</author>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booker Stardrum / Evan Shornstein – OOPS!</title>
-      <link>https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops/</guid>
-      <description>A review by Dash Lewis</description>
-      <author>Dash Lewis</author>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
