@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:45:24 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>War Bros</title>
+      <link>https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</guid>
+      <description>Sharon Weinberger’s new book exposes the extent to which the US government has bound itself to the ‘arsenal of the broligarchy.’</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nobody, Falling Through the Darkness</title>
+      <link>https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</guid>
+      <description>Emma Cline’s new novel chronicles the final days of a man who never knew himself.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What a Long, Strange Trip</title>
@@ -29,6 +43,13 @@
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Old Dog Stays</title>
       <link>https://lareviewofbooks.org/article/etna-paul-yoon-war-fiction-combat-dog-narrator/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/etna-paul-yoon-war-fiction-combat-dog-narrator/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/meg-howrey-body-language-sisters-mother-alzheimers-care/</guid>
       <description>Meg Howrey discusses her new coming-of-middle-age novel about Alzheimer’s, three adult sisters, and grace in last requests.</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Response to Mike Fortun Regarding ‘Original Sin’</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/john-washington-how-close-camp-ice-detention-resistance/</guid>
       <description>John Washington’s new book excavates the historical origins and geographic scope of the Trump regime’s deportation agenda.</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stranger, Love Your Life</title>
-      <link>https://lareviewofbooks.org/article/franz-wright-axe-blossom-last-poems-fragments-posthumous/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/franz-wright-axe-blossom-last-poems-fragments-posthumous/</guid>
-      <description>The final collection from one of contemporary poetry’s essential voices.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Have Moviegoers Been Suckered?</title>
-      <link>https://lareviewofbooks.org/article/david-thomson-sudden-flicker-light-film-history-revisionist/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/david-thomson-sudden-flicker-light-film-history-revisionist/</guid>
-      <description>Eminent film historian David Thomson fears that the medium has finally tricked him.</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
