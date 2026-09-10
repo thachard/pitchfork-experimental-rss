@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:41:34 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Exit Party by Emily St John Mandel — all-too-plausible visions of dystopia</title>
+      <link>https://www.ft.com/content/bfb9323d-2555-41b6-ba2c-a26335f94f95?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/bfb9323d-2555-41b6-ba2c-a26335f94f95?syn-25a6b1a6=1</guid>
+      <description>This beautifully written novel portrays two equally terrifying views of the world in 2031 — total anarchy or safety under a repressive state</description>
+      <pubDate>Thu, 10 Sep 2026 11:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark’s women on the edge: new fiction from Dorthe Nors and Helle Helle</title>
+      <link>https://www.ft.com/content/305b8f26-8413-486c-8c61-a0749bad8c5c</link>
+      <guid isPermaLink="true">https://www.ft.com/content/305b8f26-8413-486c-8c61-a0749bad8c5c</guid>
+      <description>Two newly translated novels exploring solitude, regret and lives not led are part of a compelling current wave of work from Danish female writers</description>
+      <pubDate>Thu, 10 Sep 2026 04:00:19 +0000</pubDate>
+    </item>
     <item>
       <title>Keeping it in the family — five books by debut authors</title>
       <link>https://www.ft.com/content/75e48a9a-32e2-4c08-a8d0-9226af46c6c5</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/5a8f6dbf-44a5-4164-9373-31bcfd2dd900</guid>
       <description>Award-winning Italian author Domenico Starnone’s elegantly translated novel is a mischievous blurring of past and present</description>
       <pubDate>Wed, 05 Aug 2026 10:56:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Great Granny Webster — Caroline Blackwood’s twisted, aristocratic fairy tale</title>
-      <link>https://www.ft.com/content/a9895756-ed05-4dd1-9861-68b9a5f6b777</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a9895756-ed05-4dd1-9861-68b9a5f6b777</guid>
-      <description>This Booker-shortlisted 1977 novel, now reissued by Virago Modern Classics, reads like a memoir refracted through gothic fantasy</description>
-      <pubDate>Tue, 04 Aug 2026 11:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top chills, gritty thrills and sailing with serial killers — best new crime mysteries</title>
-      <link>https://www.ft.com/content/74fd77d3-06d7-40dc-9a05-ff7a79067796</link>
-      <guid isPermaLink="true">https://www.ft.com/content/74fd77d3-06d7-40dc-9a05-ff7a79067796</guid>
-      <description>Eight twisty tales from Yrsa Sigurðardóttir, AA Dhand, Kate Rhodes, David Heska Wanbli Weiden and more</description>
-      <pubDate>Mon, 03 Aug 2026 04:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

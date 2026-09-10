@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:32:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:41:18 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Beyoncé – B’DAY (20th ANNIVERSARY EDITION)</title>
+      <link>https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/beyonce-bday-20th-anniversary-edition/</guid>
+      <description>A review by Alphonse Pierre</description>
+      <author>Alphonse Pierre</author>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Billy Strings – So Much for Goodbyes</title>
       <link>https://pitchfork.com/reviews/albums/billy-strings-so-much-for-goodbyes/</link>
@@ -182,14 +190,6 @@
       <description>A review by Philip Sherburne</description>
       <author>Philip Sherburne</author>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daughn Gibson – Lake Mary not mysterious</title>
-      <link>https://pitchfork.com/reviews/albums/daughn-gibson-lake-mary-not-mysterious/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/daughn-gibson-lake-mary-not-mysterious/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
