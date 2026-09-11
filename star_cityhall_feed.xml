@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:24:26 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Olivia Chow launches her campaign for re-election at Danforth Music Hall</title>
@@ -106,13 +106,6 @@
       <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Trump’s new tariffs pose a significant threat to 250,000 Toronto jobs</title>
-      <link>https://www.thestar.com/news/gta/why-trump-s-new-tariffs-pose-a-significant-threat-to-250-000-toronto-jobs/article_51a6f91a-2080-46c0-9273-a1b53673a577.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/why-trump-s-new-tariffs-pose-a-significant-threat-to-250-000-toronto-jobs/article_51a6f91a-2080-46c0-9273-a1b53673a577.html</guid>
-      <description></description>
-      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metrolinx report pulls back curtain on what led to GO train derailment outside Union Station</title>
       <link>https://www.thestar.com/news/gta/new-metrolinx-report-details-what-led-to-a-go-train-derailment-in-february/article_c98c0350-1184-40e7-94d5-d8ab9a7f6653.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/new-metrolinx-report-details-what-led-to-a-go-train-derailment-in-february/article_c98c0350-1184-40e7-94d5-d8ab9a7f6653.html</guid>
@@ -127,11 +120,18 @@
       <pubDate>Fri, 11 Sep 2026 08:08:50 +0000</pubDate>
     </item>
     <item>
+      <title>Why Trump’s new tariffs pose a significant threat to 250,000 Toronto jobs</title>
+      <link>https://www.thestar.com/news/gta/why-trump-s-new-tariffs-pose-a-significant-threat-to-250-000-toronto-jobs/article_51a6f91a-2080-46c0-9273-a1b53673a577.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/why-trump-s-new-tariffs-pose-a-significant-threat-to-250-000-toronto-jobs/article_51a6f91a-2080-46c0-9273-a1b53673a577.html</guid>
+      <description></description>
+      <pubDate>Fri, 11 Sep 2026 09:36:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Ontario Science Centre will have no science department as layoffs, restructuring announced</title>
       <link>https://www.thestar.com/news/gta/ontario-science-centre-will-have-no-science-department-as-layoffs-restructuring-announced/article_16217562-2f2c-4653-a0d4-7ae3169f7f2a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/ontario-science-centre-will-have-no-science-department-as-layoffs-restructuring-announced/article_16217562-2f2c-4653-a0d4-7ae3169f7f2a.html</guid>
       <description></description>
-      <pubDate>Fri, 11 Sep 2026 05:29:11 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2026 09:38:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
