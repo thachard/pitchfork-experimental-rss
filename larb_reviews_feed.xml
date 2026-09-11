@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:37:23 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence Isn’t Always Enough</title>
+      <link>https://lareviewofbooks.org/article/beyond-belief-evidence-what-really-works-helen-pearson/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/beyond-belief-evidence-what-really-works-helen-pearson/</guid>
+      <description>A new book explores the ‘evidence revolution,’ whose aim is to ground consequential decisions in evidence rather than opinion.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revelatory Life</title>
+      <link>https://lareviewofbooks.org/article/transcendence-for-beginners-biography-philosophy-spinoza-clare-carlisle/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/transcendence-for-beginners-biography-philosophy-spinoza-clare-carlisle/</guid>
+      <description>Clare Carlisle asks—what is the relationship between biography and philosophy?</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Such Sights to Show You</title>
@@ -29,6 +43,13 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nobody, Falling Through the Darkness</title>
       <link>https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/grace-krilanovich-acid-green-velvet-1800s-hippies-occupation/</guid>
       <description>Grace Krilanovich’s new novel reads as if the Summer of Love took a time machine back to the 19th century.</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>She Wrote Me a Letter</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/</guid>
       <description>Roopika Risam’s new book shows how various data regimes, from clay tablets in ancient Mesopotamia to today’s biometric databases, shaped human lives.</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaving Stone Mountain</title>
-      <link>https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/richard-russo-under-falls-upstate-new-york-racism/</guid>
-      <description>Richard Russo’s new novel shows how regionalism’s advantages are always threatened by its liabilities.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Danger and Doikayt in the Time of Revolution</title>
-      <link>https://lareviewofbooks.org/article/radiant-stars-elaine-elinson-jewish-ukraine-russian-empire/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/radiant-stars-elaine-elinson-jewish-ukraine-russian-empire/</guid>
-      <description>Elaine Elinson’s new novel brings to light Jewish life in the Russian Empire.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
