@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:55:50 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who’s Afraid of Sylvia Plath?</title>
+      <link>https://lareviewofbooks.org/article/poems-sylvia-plath-golden-kukil-faber-complete-edition/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/poems-sylvia-plath-golden-kukil-faber-complete-edition/</guid>
+      <description>Amanda Golden and Karen V. Kukil’s complete collection of Sylvia Plath’s poetry paints a more encompassing portrait of the artist than previous collections could.</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Evidence Isn’t Always Enough</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>War Bros</title>
-      <link>https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</guid>
-      <description>Sharon Weinberger’s new book exposes the extent to which the US government has bound itself to the ‘arsenal of the broligarchy.’</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>War Bros</title>
+      <link>https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</guid>
+      <description>Sharon Weinberger’s new book exposes the extent to which the US government has bound itself to the ‘arsenal of the broligarchy.’</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nobody, Falling Through the Darkness</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/putin-ideology-russias-new-imperialism-closing-russian-mind/</guid>
       <description>Two new books analyze Russia’s messianic civilizational mission under Putin.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Empire of Information</title>
-      <link>https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/</guid>
-      <description>Roopika Risam’s new book shows how various data regimes, from clay tablets in ancient Mesopotamia to today’s biometric databases, shaped human lives.</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
