@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:07:36 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Art of Noise – In Visible Silence</title>
+      <link>https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/</guid>
+      <description>A review by Andy Cush</description>
+      <author>Andy Cush</author>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>This Is Lorelei – The Singer in My Band</title>
       <link>https://pitchfork.com/reviews/albums/this-is-lorelei-the-singer-in-my-band/</link>
@@ -230,14 +238,6 @@
       <description>A review by Lawrence Burney</description>
       <author>Lawrence Burney</author>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Akusmi – Terra Incognita</title>
-      <link>https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/akusmi-terra-incognita/</guid>
-      <description>A review by Dash Lewis</description>
-      <author>Dash Lewis</author>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
