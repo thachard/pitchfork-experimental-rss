@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:56:04 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario minister pledges better communication during wildfire season</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-minister-pledges-better-communication-during-wildfire-season/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-minister-pledges-better-communication-during-wildfire-season/</guid>
+      <description></description>
+      <pubDate>Mon, 14 Sep 2026 15:23:57 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario Science Centre laying off entire science department</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-science-centre-laying-off-entire-science-department/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-science-centre-laying-off-entire-science-department/</guid>
-      <description>Video</description>
+      <description>The Ontario Science Centre has laid off 30 workers including the entire science department, The Canadian Press has learned. Science centre CEO Paul Kortenaar told employees at a meeting Thursday that the organization is being restructured.</description>
       <pubDate>Fri, 11 Sep 2026 11:36:48 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/trump-threatens-to-change-name-of-lake-ontario-amid-ongoing-trade-dispute/</guid>
       <description>U.S. President Donald Trump said he is considering changing the name of Lake Ontario amid the ongoing trade dispute between the U.S. and Canada.</description>
       <pubDate>Tue, 25 Aug 2026 23:40:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario government takes next step towards possible nuclear plant on America’s doorstep</title>
-      <link>https://www.ctvnews.ca/london/article/ontario-government-takes-next-step-towards-possible-nuclear-plant-on-americas-doorstep/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/london/article/ontario-government-takes-next-step-towards-possible-nuclear-plant-on-americas-doorstep/</guid>
-      <description>The Ontario government has taken the next step towards a potential nuclear power plant south of Sarnia, Ont., that could bring thousands of permanent and construction jobs.</description>
-      <pubDate>Wed, 26 Aug 2026 00:43:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
