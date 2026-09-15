@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:07:28 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Taipei Story — Rebecca F Kuang’s search for authenticity</title>
+      <link>https://www.ft.com/content/15a6fee6-f1bc-497b-b309-0e83d72478fb</link>
+      <guid isPermaLink="true">https://www.ft.com/content/15a6fee6-f1bc-497b-b309-0e83d72478fb</guid>
+      <description>The novelist’s exploration of Chinese-American identity sadly lacks the dynamism of her smash-hit ‘Yellowface’</description>
+      <pubDate>Tue, 15 Sep 2026 11:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kolkhoz by Emmanuel Carrère — the remarkable life of a literary grande dame</title>
+      <link>https://www.ft.com/content/ab992d40-96b4-4f6f-a56a-43a1701e3927</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ab992d40-96b4-4f6f-a56a-43a1701e3927</guid>
+      <description>The French author draws a fascinating portrait of his mother, from the Russian Revolution to the heart of the Paris establishment</description>
+      <pubDate>Tue, 15 Sep 2026 04:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>Battlefield realism and cosy espionage — our pick of the latest thrillers</title>
       <link>https://www.ft.com/content/a2266ebe-4bc4-4594-a1d6-deb1fa49113a</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/34e3bac2-2414-457b-93ed-55d4e34f4a2f</guid>
       <description>YouTuber Sam A Miller reworks ‘Flowers for Algernon’ in a debut collection of future tales, while rebel groups hold out after Earth is invaded in ‘The Peace Child’</description>
       <pubDate>Mon, 10 Aug 2026 04:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Middlemen by Laura B McGrath — literature’s power brokers</title>
-      <link>https://www.ft.com/content/45bd25fe-d403-4b20-ad22-aae5b840be1a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/45bd25fe-d403-4b20-ad22-aae5b840be1a</guid>
-      <description>An insider’s look at publishing argues that literary agents have shaped genres, global reputations and the economics of modern fiction</description>
-      <pubDate>Thu, 06 Aug 2026 16:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where Are the Kings — Donal Ryan’s soul-piercing novel of adolescent grief</title>
-      <link>https://www.ft.com/content/cbb64101-4cfb-44b0-8ee8-793c40d0c2b2</link>
-      <guid isPermaLink="true">https://www.ft.com/content/cbb64101-4cfb-44b0-8ee8-793c40d0c2b2</guid>
-      <description>In his story of a family wracked by loss, the prizewinning Irish author’s incisive prose and flashes of humour keep mawkish sentiment in check</description>
-      <pubDate>Thu, 06 Aug 2026 11:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

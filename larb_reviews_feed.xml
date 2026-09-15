@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:09:36 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wild Kingdom</title>
+      <link>https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</guid>
+      <description>Ryan Huling travels the world to discover how the human and animal kingdoms intersect.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Granite, Not Gridlock</title>
@@ -36,18 +43,18 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Evidence Isn’t Always Enough</title>
-      <link>https://lareviewofbooks.org/article/beyond-belief-evidence-what-really-works-helen-pearson/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/beyond-belief-evidence-what-really-works-helen-pearson/</guid>
-      <description>A new book explores the ‘evidence revolution,’ whose aim is to ground consequential decisions in evidence rather than opinion.</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evidence Isn’t Always Enough</title>
+      <link>https://lareviewofbooks.org/article/beyond-belief-evidence-what-really-works-helen-pearson/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/beyond-belief-evidence-what-really-works-helen-pearson/</guid>
+      <description>A new book explores the ‘evidence revolution,’ whose aim is to ground consequential decisions in evidence rather than opinion.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Revelatory Life</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/etna-paul-yoon-war-fiction-combat-dog-narrator/</guid>
       <description>War through the eyes of a soldier’s best friend.</description>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Magic of Sisterhood</title>
-      <link>https://lareviewofbooks.org/article/meg-howrey-body-language-sisters-mother-alzheimers-care/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/meg-howrey-body-language-sisters-mother-alzheimers-care/</guid>
-      <description>Meg Howrey discusses her new coming-of-middle-age novel about Alzheimer’s, three adult sisters, and grace in last requests.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
