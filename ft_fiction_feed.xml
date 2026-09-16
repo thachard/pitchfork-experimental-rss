@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:05:47 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Farewell to Eden by Sebastian Faulks — a plea for peace</title>
+      <link>https://www.ft.com/content/53839b23-b3dc-46b5-856f-22f5396fa5d0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/53839b23-b3dc-46b5-856f-22f5396fa5d0</guid>
+      <description>Tracing a life of trauma and war, this involving novel is a characteristic hybrid, mixing moral questions and a murder mystery</description>
+      <pubDate>Wed, 16 Sep 2026 11:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>Taipei Story — Rebecca F Kuang’s search for authenticity</title>
       <link>https://www.ft.com/content/15a6fee6-f1bc-497b-b309-0e83d72478fb</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/9e8c9d7d-2466-4689-bc3e-06c0f93cb663</guid>
       <description>An award-winning novel moves between France and Rwanda to explore a national trauma through exile, silences and family secrets</description>
       <pubDate>Mon, 10 Aug 2026 16:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Good aliens, bad aliens and wisecracking wisdom — the best new science fiction books</title>
-      <link>https://www.ft.com/content/34e3bac2-2414-457b-93ed-55d4e34f4a2f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/34e3bac2-2414-457b-93ed-55d4e34f4a2f</guid>
-      <description>YouTuber Sam A Miller reworks ‘Flowers for Algernon’ in a debut collection of future tales, while rebel groups hold out after Earth is invaded in ‘The Peace Child’</description>
-      <pubDate>Mon, 10 Aug 2026 04:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
