@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:01:20 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Between Potatoes and Barley</title>
+      <link>https://lareviewofbooks.org/article/hyperpolitics-anton-jager-extreme-politicization-without-political-consequences/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/hyperpolitics-anton-jager-extreme-politicization-without-political-consequences/</guid>
+      <description>An uncertain political pamphlet for uncertain times.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lord Knows What I Am</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Granite, Not Gridlock</title>
-      <link>https://lareviewofbooks.org/article/mountains-are-calling-national-parks-history-michael-childers/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/mountains-are-calling-national-parks-history-michael-childers/</guid>
-      <description>Michael W. Childers’s new book explores the devastations wrought by tourism at American national parks.</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Granite, Not Gridlock</title>
+      <link>https://lareviewofbooks.org/article/mountains-are-calling-national-parks-history-michael-childers/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/mountains-are-calling-national-parks-history-michael-childers/</guid>
+      <description>Michael W. Childers’s new book explores the devastations wrought by tourism at American national parks.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Interracial Desire in a Galaxy Far, Far Away</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</guid>
       <description>Emma Cline’s new novel chronicles the final days of a man who never knew himself.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a Long, Strange Trip</title>
-      <link>https://lareviewofbooks.org/article/grace-krilanovich-acid-green-velvet-1800s-hippies-occupation/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/grace-krilanovich-acid-green-velvet-1800s-hippies-occupation/</guid>
-      <description>Grace Krilanovich’s new novel reads as if the Summer of Love took a time machine back to the 19th century.</description>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
