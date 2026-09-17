@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:01:37 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Interview.Hernan Diaz on his novel Ply — ‘It’s not the book that was expected of me’</title>
+      <link>https://www.ft.com/content/eb43eaa4-5eef-425e-8b93-7c69a05e7944</link>
+      <guid isPermaLink="true">https://www.ft.com/content/eb43eaa4-5eef-425e-8b93-7c69a05e7944</guid>
+      <description>The Pulitzer winner’s third novel continues his exploration of the character of America, from geographical space to capital and now technology and human connection</description>
+      <pubDate>Thu, 17 Sep 2026 11:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Farewell to Eden by Sebastian Faulks — a plea for peace</title>
       <link>https://www.ft.com/content/53839b23-b3dc-46b5-856f-22f5396fa5d0</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/723a99bf-ed68-47d2-a573-f75bb214cd12</guid>
       <description>Gugu Mbatha-Raw leads this ambitious inheritance-dispute drama which takes on the legacy of colonialism</description>
       <pubDate>Tue, 11 Aug 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jacaranda by Gaël Faye — after the genocide</title>
-      <link>https://www.ft.com/content/9e8c9d7d-2466-4689-bc3e-06c0f93cb663</link>
-      <guid isPermaLink="true">https://www.ft.com/content/9e8c9d7d-2466-4689-bc3e-06c0f93cb663</guid>
-      <description>An award-winning novel moves between France and Rwanda to explore a national trauma through exile, silences and family secrets</description>
-      <pubDate>Mon, 10 Aug 2026 16:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

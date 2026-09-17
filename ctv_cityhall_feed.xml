@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:02:56 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Read between the lines’: Doug Ford offers support for Olivia Chow but stops short of endorsement</title>
+      <link>https://www.ctvnews.ca/toronto/article/premier-ford-stops-short-of-full-endorsement-but-says-chow-has-his-support/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/premier-ford-stops-short-of-full-endorsement-but-says-chow-has-his-support/</guid>
+      <description>Video</description>
+      <pubDate>Wed, 16 Sep 2026 20:47:21 +0000</pubDate>
+    </item>
     <item>
       <title>Weekly TTC fare cap of 10 paid rides proposed by Olivia Chow. Here is how it would work</title>
       <link>https://www.ctvnews.ca/toronto/article/olivia-chow-wants-to-make-the-ttc-free-after-10-paid-rides-a-week/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/olivia-chow-wants-to-make-the-ttc-free-after-10-paid-rides-a-week/</guid>
-      <description>Video</description>
+      <description>Mayoral candidate Olivia Chow is promising to make the TTC free after 10 paid rides in a week, arguing that &apos;families shouldn’t have to choose between rent, food and getting around.&apos;</description>
       <pubDate>Fri, 11 Sep 2026 20:45:15 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/former-conservative-mp-chris-alexander-to-run-for-toronto-mayor/</guid>
       <description>A former Conservative cabinet minister is throwing his name in the hat to be Toronto’s mayor.</description>
       <pubDate>Wed, 29 Jul 2026 12:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto mayor asks province to return island land after feds block airport expansion</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-mayor-asks-province-to-return-island-land-after-feds-block-airport-expansion/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-mayor-asks-province-to-return-island-land-after-feds-block-airport-expansion/</guid>
-      <description>Toronto Mayor Olivia Chow wants the land from the city’s islands back.</description>
-      <pubDate>Mon, 27 Jul 2026 20:32:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
