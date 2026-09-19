@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:17:09 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘The system isn’t working:’ Mayoral candidate wants to hike TTC fares to bring in millions in new revenue</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-mayoral-candidate-wants-to-hike-ttc-fares-to-fix-broken-system/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-mayoral-candidate-wants-to-hike-ttc-fares-to-fix-broken-system/</guid>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 21:10:17 +0000</pubDate>
+    </item>
     <item>
       <title>‘Read between the lines’: Doug Ford offers support for Olivia Chow but stops short of endorsement</title>
       <link>https://www.ctvnews.ca/toronto/article/premier-ford-stops-short-of-full-endorsement-but-says-chow-has-his-support/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/premier-ford-stops-short-of-full-endorsement-but-says-chow-has-his-support/</guid>
-      <description>Video</description>
+      <description>Ontario Premier Doug Ford may have stopped short of pinning an “Olivia Chow for Mayor” button on his suit lapel, but he made clear Wednesday he is backing her in the midst of her bid for re-election.</description>
       <pubDate>Wed, 16 Sep 2026 20:47:21 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/former-mp-chris-alexander-says-toronto-is-slightly-adrift-as-he-officially-launches-mayoral-bid/</guid>
       <description>Former federal Conservative cabinet minister Chris Alexander has officially entered Toronto’s mayoral race, pitching himself as the “outsider” needed to get a city he says is “slightly adrift” back on track.</description>
       <pubDate>Wed, 29 Jul 2026 17:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Conservative MP Chris Alexander to run for Toronto mayor</title>
-      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/former-conservative-mp-chris-alexander-to-run-for-toronto-mayor/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/former-conservative-mp-chris-alexander-to-run-for-toronto-mayor/</guid>
-      <description>A former Conservative cabinet minister is throwing his name in the hat to be Toronto’s mayor.</description>
-      <pubDate>Wed, 29 Jul 2026 12:43:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:17:47 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Slowed-Down Kind of Loving</title>
+      <link>https://lareviewofbooks.org/article/matter-still-life-carol-armstrong-ekphrasis-chardin-morandi/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/matter-still-life-carol-armstrong-ekphrasis-chardin-morandi/</guid>
+      <description>Carol Armstrong explores how we write about still life.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Between Potatoes and Barley</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Wild Kingdom</title>
-      <link>https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</guid>
-      <description>Ryan Huling travels the world to discover how the human and animal kingdoms intersect.</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wild Kingdom</title>
+      <link>https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</guid>
+      <description>Ryan Huling travels the world to discover how the human and animal kingdoms intersect.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Granite, Not Gridlock</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</guid>
       <description>Sharon Weinberger’s new book exposes the extent to which the US government has bound itself to the ‘arsenal of the broligarchy.’</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nobody, Falling Through the Darkness</title>
-      <link>https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/emma-cline-switzy-alzheimers-assisted-suicide-business-class/</guid>
-      <description>Emma Cline’s new novel chronicles the final days of a man who never knew himself.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
