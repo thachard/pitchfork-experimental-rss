@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:57:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:52:47 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generous Opacities</title>
+      <link>https://lareviewofbooks.org/article/theresa-hak-kyung-cha-multiple-offerings-art-language/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/theresa-hak-kyung-cha-multiple-offerings-art-language/</guid>
+      <description>Theresa Hak Kyung Cha’s wide-ranging art practice is on display in a traveling retrospective.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Slowed-Down Kind of Loving</title>
@@ -36,18 +43,18 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>I Am Not the Same as Another Mother</title>
-      <link>https://lareviewofbooks.org/article/dorothea-lasky-mother-poetry-horror-negligence-protection-birth/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dorothea-lasky-mother-poetry-horror-negligence-protection-birth/</guid>
-      <description>Dorothea Lasky’s new poetry collection explores ‘elemental motherhood’ in all its horror and transformativity.</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I Am Not the Same as Another Mother</title>
+      <link>https://lareviewofbooks.org/article/dorothea-lasky-mother-poetry-horror-negligence-protection-birth/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dorothea-lasky-mother-poetry-horror-negligence-protection-birth/</guid>
+      <description>Dorothea Lasky’s new poetry collection explores ‘elemental motherhood’ in all its horror and transformativity.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wild Kingdom</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/shintaro-kago-brain-damage-manga-erotic-grotesque-nonsense/</guid>
       <description>On Shintaro Kago, manga master of the ‘erotic grotesque nonsense’ genre.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>War Bros</title>
-      <link>https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/valley-death-big-tech-future-war-sharon-weinberger/</guid>
-      <description>Sharon Weinberger’s new book exposes the extent to which the US government has bound itself to the ‘arsenal of the broligarchy.’</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

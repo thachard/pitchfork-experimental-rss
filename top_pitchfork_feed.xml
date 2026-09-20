@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:57:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:52:24 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Easy Rider (Music From the Soundtrack)</title>
+      <link>https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/</guid>
+      <description>A review by Elizabeth Nelson</description>
+      <author>Elizabeth Nelson</author>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Haruomi Hosono – Yours Sincerely</title>
       <link>https://pitchfork.com/reviews/albums/haruomi-hosono-yours-sincerely/</link>
@@ -230,14 +238,6 @@
       <description>A review by Shaad D’Souza</description>
       <author>Shaad D’Souza</author>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opeth – Damnation</title>
-      <link>https://pitchfork.com/reviews/albums/opeth-damnation/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/opeth-damnation/</guid>
-      <description>A review by Sam Goldner</description>
-      <author>Sam Goldner</author>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

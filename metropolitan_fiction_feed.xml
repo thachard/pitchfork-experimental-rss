@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:57:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:52:35 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>When Autofiction Gets Violent</title>
@@ -62,13 +62,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/the-unrelenting-hoofbeats-of-the</guid>
       <description>On Caleb Caudell&amp;#8217;s &amp;#8216;The Quarrymen&amp;#8217;</description>
       <pubDate>Tue, 11 Aug 2026 12:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>A World Without People</title>
-      <link>https://www.metropolitanreview.org/p/a-world-without-people</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/a-world-without-people</guid>
-      <description>On Will Self&apos;s &apos;The Quantity Theory of Morality&apos;</description>
-      <pubDate>Fri, 07 Aug 2026 13:04:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
