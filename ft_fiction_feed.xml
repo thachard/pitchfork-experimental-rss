@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:49:45 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Strangers by Naomi Alderman — the monsters in the garden</title>
+      <link>https://www.ft.com/content/b1da7a99-bb1d-4ccd-bac8-12c3a2ca48ba</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b1da7a99-bb1d-4ccd-bac8-12c3a2ca48ba</guid>
+      <description>The award-winning novelist of ‘The Power’ returns with a curious mix of memoir, supernatural meditation and ecological conspiracy</description>
+      <pubDate>Mon, 21 Sep 2026 04:00:11 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -173,13 +180,6 @@
       <link>https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da</link>
       <guid isPermaLink="true">https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da</guid>
       <description>Pirate radio offers solace for a troubled young north London woman in the follow-up to Crooks’s acclaimed debut, ‘Fire Rush’</description>
-      <pubDate>Tue, 11 Aug 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Possession — Jamaica-set thriller confronts the ghosts of the past</title>
-      <link>https://www.ft.com/content/723a99bf-ed68-47d2-a573-f75bb214cd12</link>
-      <guid isPermaLink="true">https://www.ft.com/content/723a99bf-ed68-47d2-a573-f75bb214cd12</guid>
-      <description>Gugu Mbatha-Raw leads this ambitious inheritance-dispute drama which takes on the legacy of colonialism</description>
       <pubDate>Tue, 11 Aug 2026 11:00:10 +0000</pubDate>
     </item>
   </channel>

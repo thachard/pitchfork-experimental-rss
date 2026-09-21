@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:51:44 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Life Without a Paper Trail</title>
+      <link>https://lareviewofbooks.org/article/joan-vollmer-she-was-wild-grass-katie-bennett/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/joan-vollmer-she-was-wild-grass-katie-bennett/</guid>
+      <description>Katie Bennett’s hybrid memoir intertwines her artistic coming-of-age with the story of Joan Vollmer and her murder by Beat author William Burroughs.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Generous Opacities</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lord Knows What I Am</title>
-      <link>https://lareviewofbooks.org/article/harold-bloom-letters-man-who-read-everything-influence/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/harold-bloom-letters-man-who-read-everything-influence/</guid>
-      <description>What we can learn from the published correspondence of literary critic and academic titan Harold Bloom.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lord Knows What I Am</title>
+      <link>https://lareviewofbooks.org/article/harold-bloom-letters-man-who-read-everything-influence/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/harold-bloom-letters-man-who-read-everything-influence/</guid>
+      <description>What we can learn from the published correspondence of literary critic and academic titan Harold Bloom.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Am Not the Same as Another Mother</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/transcendence-for-beginners-biography-philosophy-spinoza-clare-carlisle/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/transcendence-for-beginners-biography-philosophy-spinoza-clare-carlisle/</guid>
       <description>Clare Carlisle asks—what is the relationship between biography and philosophy?</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Such Sights to Show You</title>
-      <link>https://lareviewofbooks.org/article/shintaro-kago-brain-damage-manga-erotic-grotesque-nonsense/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/shintaro-kago-brain-damage-manga-erotic-grotesque-nonsense/</guid>
-      <description>On Shintaro Kago, manga master of the ‘erotic grotesque nonsense’ genre.</description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
