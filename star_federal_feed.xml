@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:29:16 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liberals expected to shake up labour code with new economic bill</title>
+      <link>https://www.thestar.com/politics/federal/liberals-expected-to-shake-up-labour-code-with-new-economic-bill/article_3302751a-45f1-5ac7-b500-0f9da2d43362.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/liberals-expected-to-shake-up-labour-code-with-new-economic-bill/article_3302751a-45f1-5ac7-b500-0f9da2d43362.html</guid>
+      <description>OTTAWA - The Liberal government is expected to unveil new legislation today with major implications for labour relations in Canada.</description>
+      <pubDate>Mon, 21 Sep 2026 12:10:05 +0000</pubDate>
+    </item>
     <item>
       <title>How COVID-era ‘freedom’ politics still shape — and challenge — Pierre Poilievre’s Conservatives</title>
       <link>https://www.thestar.com/politics/federal/how-covid-era-freedom-politics-still-shape-and-challenge-pierre-poilievre-s-conservatives/article_02ff4444-daa6-4f40-889f-d57f9119654a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/how-covid-era-freedom-politics-still-shape-and-challenge-pierre-poilievre-s-conservatives/article_02ff4444-daa6-4f40-889f-d57f9119654a.html</guid>
-      <description>While libertarians and those who favour a smaller government have long had a place in the Conservative party, their influence within it and on…</description>
+      <description></description>
       <pubDate>Mon, 21 Sep 2026 08:49:58 +0000</pubDate>
     </item>
     <item>
@@ -26,7 +33,7 @@
       <link>https://www.thestar.com/politics/federal/carney-welcomes-norwegian-pm-to-ottawa-to-discuss-arctic-security-energy/article_e104c980-ad46-5542-94e1-275cddfd937b.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-welcomes-norwegian-pm-to-ottawa-to-discuss-arctic-security-energy/article_e104c980-ad46-5542-94e1-275cddfd937b.html</guid>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 08:21:04 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 12:05:05 +0000</pubDate>
     </item>
     <item>
       <title>Poilievre says Canada will never be the ‘28th state’ of the European Union</title>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/as-parliament-returns-focus-is-on-the-u-s-trade-war-new-eu-ties-and-cost-of-living/article_8d782e32-6686-53e5-9363-33e961795457.html</guid>
       <description></description>
       <pubDate>Mon, 21 Sep 2026 08:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federalists say Alberta’s Conservative MPs are missing in action as separation referendum looms</title>
-      <link>https://www.thestar.com/politics/federal/federalists-say-alberta-s-conservative-mps-are-missing-in-action-as-separation-referendum-looms/article_1c7ae1a3-9679-41cd-a354-00cabe9f3cf2.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/federalists-say-alberta-s-conservative-mps-are-missing-in-action-as-separation-referendum-looms/article_1c7ae1a3-9679-41cd-a354-00cabe9f3cf2.html</guid>
-      <description></description>
-      <pubDate>Mon, 21 Sep 2026 11:44:07 +0000</pubDate>
     </item>
     <item>
       <title>Mark Carney’s Liberals would win election despite tariff turmoil, polls suggest</title>
@@ -85,10 +85,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Federalists say Alberta’s Conservative MPs are missing in action as separation referendum looms</title>
+      <link>https://www.thestar.com/politics/federal/federalists-say-alberta-s-conservative-mps-are-missing-in-action-as-separation-referendum-looms/article_1c7ae1a3-9679-41cd-a354-00cabe9f3cf2.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/federalists-say-alberta-s-conservative-mps-are-missing-in-action-as-separation-referendum-looms/article_1c7ae1a3-9679-41cd-a354-00cabe9f3cf2.html</guid>
+      <description>Federalist organizers charge many of Alberta&apos;s Conservative MPs have been missing in action in the fight to keep Alberta in Canada.</description>
+      <pubDate>Mon, 21 Sep 2026 11:44:07 +0000</pubDate>
+    </item>
+    <item>
       <title>MPs, senators on intelligence committee scrutinize Canada’s ability to spy overseas</title>
       <link>https://www.thestar.com/politics/federal/mps-senators-on-intelligence-committee-scrutinize-canada-s-ability-to-spy-overseas/article_c738e79e-7350-5c87-a58b-b2f4c38518f6.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/mps-senators-on-intelligence-committee-scrutinize-canada-s-ability-to-spy-overseas/article_c738e79e-7350-5c87-a58b-b2f4c38518f6.html</guid>
-      <description>OTTAWA - Parliamentarians are taking a hard look at Canada&apos;s overseas intelligence gathering capabilities as debate simmers over the need for …</description>
+      <description></description>
       <pubDate>Sun, 20 Sep 2026 06:00:16 +0000</pubDate>
     </item>
     <item>
@@ -109,14 +116,14 @@
       <title>Canada, France pledge to work together on space infrastructure, economy</title>
       <link>https://www.thestar.com/politics/federal/carney-heading-to-saint-pierre-et-miquelon-for-meeting-with-macron/article_a3377edf-c02c-5434-a35d-7a4edcb6bc07.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-heading-to-saint-pierre-et-miquelon-for-meeting-with-macron/article_a3377edf-c02c-5434-a35d-7a4edcb6bc07.html</guid>
-      <description></description>
+      <description>SAINT-PIERRE - Prime Minister Mark Carney and French President Emmanuel Macron pledged to work together in the areas of space infrastructure, …</description>
       <pubDate>Sun, 20 Sep 2026 20:54:54 +0000</pubDate>
     </item>
     <item>
       <title>Paul Theroux just wrote a book about travelling through Canada. He’s got a lot to say about Trump</title>
       <link>https://www.thestar.com/entertainment/books/paul-theroux/article_b91b2ce2-7e83-49a4-a86b-bc2c72582bde.html</link>
       <guid isPermaLink="true">https://www.thestar.com/entertainment/books/paul-theroux/article_b91b2ce2-7e83-49a4-a86b-bc2c72582bde.html</guid>
-      <description>&apos;It will take a long time before the U.S. can be considered a trusted partner,&apos; according to the author of &apos;True North.&apos;</description>
+      <description></description>
       <pubDate>Mon, 21 Sep 2026 08:22:59 +0000</pubDate>
     </item>
     <item>
@@ -139,13 +146,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/bill-will-help-reduce-government-interventions-during-strikes-hajdu/article_1e03d495-dc68-5146-8894-a1f7f878390b.html</guid>
       <description></description>
       <pubDate>Sat, 19 Sep 2026 21:46:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ottawa’s summer spending flurry offset by stronger GDP, oil revenues</title>
-      <link>https://www.thestar.com/politics/federal/ottawa-s-summer-spending-flurry-offset-by-stronger-gdp-oil-revenues/article_90098af4-e66e-5f9e-bf7e-c8c97ad16ac6.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/ottawa-s-summer-spending-flurry-offset-by-stronger-gdp-oil-revenues/article_90098af4-e66e-5f9e-bf7e-c8c97ad16ac6.html</guid>
-      <description></description>
-      <pubDate>Sat, 19 Sep 2026 06:05:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
