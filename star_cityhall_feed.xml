@@ -5,19 +5,19 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:04:00 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Toronto mayoral race tightens as Olivia Chow’s lead over Brad Bradford shrinks in a new poll</title>
-      <link>https://www.thestar.com/news/gta/city-hall/toronto-mayoral-race-tightens-as-olivia-chow-s-lead-over-brad-bradford-shrinks-in-a-new-poll/article_e2670248-f3bd-450d-994d-1d0f4f7406b0.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/toronto-mayoral-race-tightens-as-olivia-chow-s-lead-over-brad-bradford-shrinks-in-a-new-poll/article_e2670248-f3bd-450d-994d-1d0f4f7406b0.html</guid>
-      <description>A new poll by Liaison Strategies found Olivia Chow was seven points ahead of Brad Bradford, down from 11 points two weeks ago.</description>
-      <pubDate>Tue, 22 Sep 2026 07:33:33 +0000</pubDate>
-    </item>
     <item>
       <title>Do Olivia Chow and Brad Bradford have a vision for Toronto before it gets ‘punched in the face’?</title>
       <link>https://www.thestar.com/news/gta/city-hall/do-olivia-chow-and-brad-bradford-have-a-vision-for-toronto-before-it-gets-punched-in-the-face/article_01e8fd4e-13c8-4802-9286-36110be311ca.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/do-olivia-chow-and-brad-bradford-have-a-vision-for-toronto-before-it-gets-punched-in-the-face/article_01e8fd4e-13c8-4802-9286-36110be311ca.html</guid>
+      <description>Do you think our mayoral candidates are showing the leadership character that will guide the city through whatever obstacles come up? Let us k…</description>
+      <pubDate>Tue, 22 Sep 2026 09:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toronto mayoral race tightens as Olivia Chow’s lead over Brad Bradford shrinks in a new poll</title>
+      <link>https://www.thestar.com/news/gta/city-hall/toronto-mayoral-race-tightens-as-olivia-chow-s-lead-over-brad-bradford-shrinks-in-a-new-poll/article_e2670248-f3bd-450d-994d-1d0f4f7406b0.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/toronto-mayoral-race-tightens-as-olivia-chow-s-lead-over-brad-bradford-shrinks-in-a-new-poll/article_e2670248-f3bd-450d-994d-1d0f4f7406b0.html</guid>
       <description></description>
       <pubDate>Tue, 22 Sep 2026 07:33:33 +0000</pubDate>
     </item>
@@ -110,14 +110,7 @@
       <link>https://www.thestar.com/news/gta/police-investigating-two-fatal-car-fires-in-scarborough-and-etobicoke/article_2a11d6d5-f0f2-4e7c-8a95-9a94b6468ecb.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/police-investigating-two-fatal-car-fires-in-scarborough-and-etobicoke/article_2a11d6d5-f0f2-4e7c-8a95-9a94b6468ecb.html</guid>
       <description></description>
-      <pubDate>Tue, 22 Sep 2026 08:23:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judges’ grilling of accused men leads to sex assault and dangerous driving cases being overturned</title>
-      <link>https://www.thestar.com/news/gta/judges-grilling-of-accused-men-leads-to-sex-assault-and-dangerous-driving-cases-being-overturned/article_462604fb-eaf8-4a6f-9234-a22a8c9e9323.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/judges-grilling-of-accused-men-leads-to-sex-assault-and-dangerous-driving-cases-being-overturned/article_462604fb-eaf8-4a6f-9234-a22a8c9e9323.html</guid>
-      <description></description>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 06:38:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Ontario cops can’t catch the big bosses behind the car theft crisis — yet</title>
@@ -125,6 +118,13 @@
       <guid isPermaLink="true">https://www.thestar.com/news/investigations/why-ontario-cops-can-t-catch-the-big-bosses-behind-the-car-theft-crisis-yet/article_945181af-ebcd-44b6-911c-66a9b5a1ef72.html</guid>
       <description></description>
       <pubDate>Tue, 22 Sep 2026 05:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judges’ grilling of accused men leads to sex assault and dangerous driving cases being overturned</title>
+      <link>https://www.thestar.com/news/gta/judges-grilling-of-accused-men-leads-to-sex-assault-and-dangerous-driving-cases-being-overturned/article_462604fb-eaf8-4a6f-9234-a22a8c9e9323.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/judges-grilling-of-accused-men-leads-to-sex-assault-and-dangerous-driving-cases-being-overturned/article_462604fb-eaf8-4a6f-9234-a22a8c9e9323.html</guid>
+      <description></description>
+      <pubDate>Tue, 22 Sep 2026 08:57:42 +0000</pubDate>
     </item>
     <item>
       <title>Two seniors dead after shooting outside Scarborough hospital, police not looking for suspects</title>
