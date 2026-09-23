@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:20:47 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Booker Prize 2026 — former winners Marlon James and Douglas Stuart on shortlist</title>
+      <link>https://www.ft.com/content/57b5ec46-c1c4-4063-a828-017eb60d6572</link>
+      <guid isPermaLink="true">https://www.ft.com/content/57b5ec46-c1c4-4063-a828-017eb60d6572</guid>
+      <description>The six novels span genres from dystopian and historical fiction to contemporary realism and campus satire</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Booker Prize 2026 — the shortlisted titles in the FT</title>
+      <link>https://www.ft.com/content/afee359c-2e84-4071-b6f7-804c089d9a7e?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/afee359c-2e84-4071-b6f7-804c089d9a7e?syn-25a6b1a6=1</guid>
+      <description>From a post-apocalyptic tale on the coast of Kent to a meditation on the power of secrets, here are our critics’ views on four of the six works of fiction in the running for this year’s Booker Prize. The winner will be announced on November 9</description>
+      <pubDate>Tue, 22 Sep 2026 19:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>The Strangers by Naomi Alderman — the monsters in the garden</title>
       <link>https://www.ft.com/content/b1da7a99-bb1d-4ccd-bac8-12c3a2ca48ba</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8752dd4a-be00-483f-a7f1-0e3527eb14d7</guid>
       <description>The ‘Trainspotting’ author’s well-rounded cast tell a story of envy, violence and generational conflict against the backdrop of Trump’s presidency</description>
       <pubDate>Fri, 14 Aug 2026 11:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Etna by Paul Yoon — the horrors of war through a dog’s eyes</title>
-      <link>https://www.ft.com/content/6c15eb0b-0cc2-4657-b0c1-8d628b3865ee</link>
-      <guid isPermaLink="true">https://www.ft.com/content/6c15eb0b-0cc2-4657-b0c1-8d628b3865ee</guid>
-      <description>The brutal world of a battle-weary canine narrator is a piercing classic of survival with the feel of a modern parable</description>
-      <pubDate>Thu, 13 Aug 2026 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sky City by Jacqueline Crooks — tuning into trauma</title>
-      <link>https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da</guid>
-      <description>Pirate radio offers solace for a troubled young north London woman in the follow-up to Crooks’s acclaimed debut, ‘Fire Rush’</description>
-      <pubDate>Tue, 11 Aug 2026 11:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
