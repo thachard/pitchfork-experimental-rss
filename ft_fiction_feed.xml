@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:16:09 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The reading refresh everyone needs</title>
+      <link>https://www.ft.com/content/028ddd22-7cb3-4309-adea-a0762c0fde46</link>
+      <guid isPermaLink="true">https://www.ft.com/content/028ddd22-7cb3-4309-adea-a0762c0fde46</guid>
+      <description>A return to children’s fiction is a restorative, rip-roaring way to remind adult readers of the imaginative delights of books</description>
+      <pubDate>Wed, 23 Sep 2026 14:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Booker Prize 2026 — former winners Marlon James and Douglas Stuart on shortlist</title>
       <link>https://www.ft.com/content/57b5ec46-c1c4-4063-a828-017eb60d6572</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8a23d074-fc1e-4f36-ad30-e9e6531ec520</guid>
       <description>Newly translated, the director’s 1946 story of flirting, swimming and bickering in the French countryside heralds the screen classics to come</description>
       <pubDate>Mon, 17 Aug 2026 04:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Irvine Welsh’s Can Nothing Save Us? — a family at war in Maga America</title>
-      <link>https://www.ft.com/content/8752dd4a-be00-483f-a7f1-0e3527eb14d7</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8752dd4a-be00-483f-a7f1-0e3527eb14d7</guid>
-      <description>The ‘Trainspotting’ author’s well-rounded cast tell a story of envy, violence and generational conflict against the backdrop of Trump’s presidency</description>
-      <pubDate>Fri, 14 Aug 2026 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
