@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:04:02 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Impression of Living in a Ruin</title>
+      <link>https://lareviewofbooks.org/article/elvira-navarro-blood-is-dripping-courtyard-uncanny-stories/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/elvira-navarro-blood-is-dripping-courtyard-uncanny-stories/</guid>
+      <description>Spanish author Elvira Navarro’s newly translated story collection captures the unease, decay, and isolation of our post-pandemic world.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Free Verse, Late Fame</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Discount Heaven</title>
-      <link>https://lareviewofbooks.org/article/amy-fusselman-cloud-six-afterlife-absurd-caring-parenthood/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/amy-fusselman-cloud-six-afterlife-absurd-caring-parenthood/</guid>
-      <description>Amy Fusselman’s new novel is an afterlife comedy about the importance of giving care.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Discount Heaven</title>
+      <link>https://lareviewofbooks.org/article/amy-fusselman-cloud-six-afterlife-absurd-caring-parenthood/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/amy-fusselman-cloud-six-afterlife-absurd-caring-parenthood/</guid>
+      <description>Amy Fusselman’s new novel is an afterlife comedy about the importance of giving care.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Decolonizing the Dead</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/dorothea-lasky-mother-poetry-horror-negligence-protection-birth/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/dorothea-lasky-mother-poetry-horror-negligence-protection-birth/</guid>
       <description>Dorothea Lasky’s new poetry collection explores ‘elemental motherhood’ in all its horror and transformativity.</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wild Kingdom</title>
-      <link>https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</guid>
-      <description>Ryan Huling travels the world to discover how the human and animal kingdoms intersect.</description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
