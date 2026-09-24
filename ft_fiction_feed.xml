@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:09:54 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Female Life on Planet Earth — Laleh Khadivi’s stories of solidarity and resilience</title>
+      <link>https://www.ft.com/content/dabc0d7b-7d38-41e1-b60d-05e9b69a51e2</link>
+      <guid isPermaLink="true">https://www.ft.com/content/dabc0d7b-7d38-41e1-b60d-05e9b69a51e2</guid>
+      <description>The Iranian-American author’s compassionate new novel follows a daughter as she examines her deceased mother’s secret life through encounters with other women</description>
+      <pubDate>Wed, 23 Sep 2026 16:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The reading refresh everyone needs</title>
       <link>https://www.ft.com/content/028ddd22-7cb3-4309-adea-a0762c0fde46</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/7ac19d23-38c8-4e38-8f6a-e21000fac5a0</guid>
       <description>The novelist turns the ethics of literary appropriation into her subject, asking what happens when an author makes art from other people’s lives — and pain</description>
       <pubDate>Tue, 18 Aug 2026 11:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Élisabeth by Éric Rohmer — the novel that foretold the films</title>
-      <link>https://www.ft.com/content/8a23d074-fc1e-4f36-ad30-e9e6531ec520</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8a23d074-fc1e-4f36-ad30-e9e6531ec520</guid>
-      <description>Newly translated, the director’s 1946 story of flirting, swimming and bickering in the French countryside heralds the screen classics to come</description>
-      <pubDate>Mon, 17 Aug 2026 04:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

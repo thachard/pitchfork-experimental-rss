@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:11:49 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Free Verse, Late Fame</title>
+      <link>https://lareviewofbooks.org/article/late-fame-kent-jones-willem-dafoe-poetry-manhattan/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/late-fame-kent-jones-willem-dafoe-poetry-manhattan/</guid>
+      <description>Kent Jones’s film ‘Late Fame’ preaches the necessity of art while also decrying society’s escalating attempts to use it as a means of profit and power.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Snow Globe Palimpsest</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Decolonizing the Dead</title>
-      <link>https://lareviewofbooks.org/article/china-mieville-new-weird-science-fiction-lovecraft-spy/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/china-mieville-new-weird-science-fiction-lovecraft-spy/</guid>
-      <description>China Miéville’s first solo novel in over a decade is part Lovecraft, part le Carré—and quintessentially weird.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decolonizing the Dead</title>
+      <link>https://lareviewofbooks.org/article/china-mieville-new-weird-science-fiction-lovecraft-spy/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/china-mieville-new-weird-science-fiction-lovecraft-spy/</guid>
+      <description>China Miéville’s first solo novel in over a decade is part Lovecraft, part le Carré—and quintessentially weird.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Life Without a Paper Trail</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/hidden-nations-of-animals-ryan-huling-wild-civilizations/</guid>
       <description>Ryan Huling travels the world to discover how the human and animal kingdoms intersect.</description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Granite, Not Gridlock</title>
-      <link>https://lareviewofbooks.org/article/mountains-are-calling-national-parks-history-michael-childers/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/mountains-are-calling-national-parks-history-michael-childers/</guid>
-      <description>Michael W. Childers’s new book explores the devastations wrought by tourism at American national parks.</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
