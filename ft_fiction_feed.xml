@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:14:27 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From the hybrid war targeting undersea cables to the life of JRR Tolkien and Earl Spencer’s incendiary Diana biography. Plus: Big Tech’s grip throttling of democracy, Naomi Alderman’s intriguing new novel, our pick of economics titles — and Nilanjana Roy on the joy of re-reading childhood books</description>
+      <pubDate>Fri, 25 Sep 2026 11:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dodge City — Patrick deWitt’s wild, witty road trip across 1960s America</title>
+      <link>https://www.ft.com/content/d73e0950-825e-4518-9dda-1fb78718c040</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d73e0950-825e-4518-9dda-1fb78718c040</guid>
+      <description>An amphetamine-fuelled, draft-dodging journey becomes a portrait of both a family and a nation in crisis</description>
+      <pubDate>Fri, 25 Sep 2026 04:00:30 +0000</pubDate>
+    </item>
     <item>
       <title>Female Life on Planet Earth — Laleh Khadivi’s stories of solidarity and resilience</title>
       <link>https://www.ft.com/content/dabc0d7b-7d38-41e1-b60d-05e9b69a51e2</link>
@@ -41,13 +55,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/b1da7a99-bb1d-4ccd-bac8-12c3a2ca48ba</guid>
       <description>The award-winning novelist of ‘The Power’ returns with a curious mix of memoir, supernatural meditation and ecological conspiracy</description>
       <pubDate>Mon, 21 Sep 2026 04:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Trump’s enablers to AI’s impact on kids and the last emperor of China. Plus inside the Venice Biennale, new novels by Sebastian Faulks and Rebecca F Kuang, Adam LeBor’s pick of thrillers — and our interview with Hernan Diaz</description>
-      <pubDate>Fri, 18 Sep 2026 12:00:48 +0000</pubDate>
     </item>
     <item>
       <title>Interview.Hernan Diaz on his novel Ply — ‘The gesture of the book is very punkish’</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/0ddf7be5-0879-4265-a092-0b2bc9fae1fb</guid>
       <description>Harris’s follow-up to the Cicero trilogy charts the fractious aftermath of Caesar’s death — and could have done with three volumes too</description>
       <pubDate>Thu, 20 Aug 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Life of M by Rachel Cusk — ‘no cruelty, no book’</title>
-      <link>https://www.ft.com/content/7ac19d23-38c8-4e38-8f6a-e21000fac5a0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7ac19d23-38c8-4e38-8f6a-e21000fac5a0</guid>
-      <description>The novelist turns the ethics of literary appropriation into her subject, asking what happens when an author makes art from other people’s lives — and pain</description>
-      <pubDate>Tue, 18 Aug 2026 11:30:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
