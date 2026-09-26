@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:41:29 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Joy Division – Eternal (Live)</title>
+      <link>https://pitchfork.com/reviews/albums/joy-division-eternal-live/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/joy-division-eternal-live/</guid>
+      <description>A review by Sean T. Collins</description>
+      <author>Sean T. Collins</author>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gilla Band – Pugnello</title>
       <link>https://pitchfork.com/reviews/albums/gilla-band-pugnello/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/picture-uuuuuuuu/</guid>
       <description>A review by H.D. Angel</description>
       <author>H.D. Angel</author>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dux Content – Lifestyle</title>
-      <link>https://pitchfork.com/reviews/albums/dux-content-lifestyle/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dux-content-lifestyle/</guid>
-      <description>A review by illie Bugara</description>
-      <author>illie Bugara</author>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
