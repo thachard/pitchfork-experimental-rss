@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:32:36 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chow holds Scarborough rally, Bradford questions her $788M savings claim</title>
+      <link>https://www.ctvnews.ca/toronto/article/brad-bradford-questions-olivia-chows-788m-savings-claim/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/brad-bradford-questions-olivia-chows-788m-savings-claim/</guid>
+      <description>Video</description>
+      <pubDate>Sun, 27 Sep 2026 10:20:30 +0000</pubDate>
+    </item>
     <item>
       <title>Olivia Chow vows to create ‘bad landlords task force’ if re-elected. Here is how it would work</title>
       <link>https://www.ctvnews.ca/toronto/article/olivia-chow-vows-to-create-bad-landlords-task-force-if-re-elected-here-is-how-it-would-work/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/olivia-chow-vows-to-create-bad-landlords-task-force-if-re-elected-here-is-how-it-would-work/</guid>
-      <description>Video</description>
+      <description>Toronto mayoral candidate Olivia Chow is promising to create a dedicated “bad landlords task force” within RentSafeTO if re-elected, saying the city needs to be more “proactive” in going after landlords who fail to maintain their properties.</description>
       <pubDate>Sat, 26 Sep 2026 11:15:28 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/toronto-councillor-under-opp-investigation-seeking-re-election/</guid>
       <description>A Toronto councillor under police investigation is seeking re-election. Parthi Kandavel, who represents Ward 20 Scarborough Southwest, registered to run on Friday, according to the city’s elections page.</description>
       <pubDate>Sat, 08 Aug 2026 19:25:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New poll suggests Olivia Chow leads Toronto mayoral race ahead of Bradford, Alexander</title>
-      <link>https://www.ctvnews.ca/toronto/article/new-poll-suggests-olivia-chow-leads-toronto-mayoral-race-ahead-of-bradford-alexander/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/new-poll-suggests-olivia-chow-leads-toronto-mayoral-race-ahead-of-bradford-alexander/</guid>
-      <description>Olivia Chow remains firmly in the driver’s seat in the Toronto mayoral race while newcomer Chris Alexander sits in third place with the support of about 10 per cent of decided and leaning voters, a new survey suggests.</description>
-      <pubDate>Fri, 07 Aug 2026 20:22:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

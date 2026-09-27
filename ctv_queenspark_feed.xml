@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:31:55 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario transparency watchdog warns government is dodging its orders</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-transparency-watchdog-warns-government-is-dodging-its-orders/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-transparency-watchdog-warns-government-is-dodging-its-orders/</guid>
+      <description>Video</description>
+      <pubDate>Sat, 26 Sep 2026 15:02:41 +0000</pubDate>
+    </item>
     <item>
       <title>Premier Ford not worried about Volkswagen battery plant delay</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/premier-ford-not-worried-about-volkswagen-battery-plant-delay/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/premier-ford-not-worried-about-volkswagen-battery-plant-delay/</guid>
-      <description></description>
+      <description>Ontario Premier Doug Ford said Friday he is not worried about a two-year delay in the opening of a massive Volkswagen electric vehicle battery plant in southwestern Ontario.</description>
       <pubDate>Fri, 25 Sep 2026 22:24:49 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/premier-doug-ford-set-to-shuffle-his-cabinet-today/</guid>
       <description>Premier Doug Ford has announced several changes to his cabinet, including moving David Piccini into a new portfolio amid an ongoing integrity commissioner investigation into his handling of the Skills Development Fund.</description>
       <pubDate>Thu, 10 Sep 2026 22:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progressive Conservatives, NDP hold on to their seats in Ontario byelections</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/progressive-conservatives-ndp-set-to-hold-on-to-their-seats-in-ontario-byelections/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/progressive-conservatives-ndp-set-to-hold-on-to-their-seats-in-ontario-byelections/</guid>
-      <description>Little has changed at Queen’s Park after Ontario Premier Doug Ford’s Progressive Conservatives and the Opposition New Democrats held on to their seats in three byelections Thursday.</description>
-      <pubDate>Fri, 04 Sep 2026 04:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
