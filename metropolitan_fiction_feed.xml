@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 15:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:27:18 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>Out of School</title>
@@ -55,13 +55,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/you-end-up-right-back-here</guid>
       <description>On Richard Russo&amp;#8217;s &amp;#8216;Under the Falls&amp;#8217;</description>
       <pubDate>Thu, 20 Aug 2026 16:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revolutionary Blues</title>
-      <link>https://www.metropolitanreview.org/p/revolutionary-blues</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/revolutionary-blues</guid>
-      <description>On the Novels of Hari Kunzru</description>
-      <pubDate>Fri, 14 Aug 2026 17:38:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 27 Sep 2026 15:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:26:07 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ian Rankin’s first standalone novel in decades — and other new crime books</title>
+      <link>https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</link>
+      <guid isPermaLink="true">https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</guid>
+      <description>Sara Paretsky and John Grisham move into globe-trotting criminal espionage, Anthony Quinn takes us to 1920s Soho, and we meet a Danish version of Jackson Lamb</description>
+      <pubDate>Mon, 28 Sep 2026 04:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/a3181928-b808-4d8a-8d4f-6ab594da2fee</guid>
       <description>After witnessing a mall shooting, a Haitian-American mother questions her past, her relationships and the fragile safety she has built for her daughter</description>
       <pubDate>Fri, 21 Aug 2026 11:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agrippa by Robert Harris — a triumphant return to Rome?</title>
-      <link>https://www.ft.com/content/0ddf7be5-0879-4265-a092-0b2bc9fae1fb</link>
-      <guid isPermaLink="true">https://www.ft.com/content/0ddf7be5-0879-4265-a092-0b2bc9fae1fb</guid>
-      <description>Harris’s follow-up to the Cicero trilogy charts the fractious aftermath of Caesar’s death — and could have done with three volumes too</description>
-      <pubDate>Thu, 20 Aug 2026 11:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

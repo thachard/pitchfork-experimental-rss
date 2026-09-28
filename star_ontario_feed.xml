@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 27 Sep 2026 15:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:26:58 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Too nice’ Liberal leadership contenders head into second debate</title>
+      <link>https://www.thestar.com/politics/provincial/too-nice-liberal-leadership-contenders-head-into-second-debate/article_a6a3b66c-269f-48b0-ac84-1b56d971a9ca.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/too-nice-liberal-leadership-contenders-head-into-second-debate/article_a6a3b66c-269f-48b0-ac84-1b56d971a9ca.html</guid>
+      <description>The five candidates in the Nov. 21 race to become Ontario&apos;s next Liberal leader have been floating policy ideas, but for the most part without…</description>
+      <pubDate>Mon, 28 Sep 2026 08:38:13 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario’s students’ Grade 6 and 9 math scores are a concern, while they’re testing slightly higher overall</title>
       <link>https://www.thestar.com/politics/provincial/ontario-eqao-test-results-are-up-slightly-but-still-low-in-math/article_1455990f-d0be-4083-9326-9e79c9f3dbd8.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ontario-eqao-test-results-are-up-slightly-but-still-low-in-math/article_1455990f-d0be-4083-9326-9e79c9f3dbd8.html</guid>
-      <description>Toronto District School Board posted some of its strongest EQAO gains in years, with some scores above Ontario average.</description>
+      <description></description>
       <pubDate>Fri, 25 Sep 2026 21:53:51 +0000</pubDate>
     </item>
     <item>
@@ -19,7 +26,7 @@
       <link>https://www.thestar.com/politics/provincial/doug-ford-downplays-vw-battery-plant-delay-as-ev-strategy-takes-another-hit/article_8f238db8-2b6d-4458-bcaa-42e1f676e639.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-downplays-vw-battery-plant-delay-as-ev-strategy-takes-another-hit/article_8f238db8-2b6d-4458-bcaa-42e1f676e639.html</guid>
       <description></description>
-      <pubDate>Fri, 25 Sep 2026 21:54:37 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 05:01:19 +0000</pubDate>
     </item>
     <item>
       <title>Ontario’s public high school teachers set strike vote</title>
@@ -39,7 +46,7 @@
       <title>Ontario’s education funding per student is decreasing after inflation, watchdog finds</title>
       <link>https://www.thestar.com/politics/ontario-s-education-funding-per-student-is-decreasing-after-inflation-watchdog-finds/article_aa8b1bab-cf4a-439a-9b9a-a8d2881e5589.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/ontario-s-education-funding-per-student-is-decreasing-after-inflation-watchdog-finds/article_aa8b1bab-cf4a-439a-9b9a-a8d2881e5589.html</guid>
-      <description></description>
+      <description>The government says Financial Accountability Office of Ontario&apos;s figures don&apos;t provide the full picture.</description>
       <pubDate>Wed, 23 Sep 2026 18:00:04 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/ontario-denied-a-life-saving-drug-to-a-toronto-man-with-months-to-live-now-a-panel-says-the-province-must-reconsider/article_f6bf65a2-04cc-4112-8569-5bc5c5ac8fdc.html</guid>
       <description>Ontario Divisional Court panel directs provincial government to reconsider denial to fund Alex Shved&apos;s treatment.</description>
       <pubDate>Thu, 24 Sep 2026 07:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario raises tire recycling target after a year of industry chaos and stockpiles across the province</title>
-      <link>https://www.thestar.com/business/ontario-hikes-tire-recycling-target-after-a-year-of-industry-chaos-and-stockpiles-across-the-province/article_d698a3b7-25c4-42d7-99bc-63f3fa3c81df.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/business/ontario-hikes-tire-recycling-target-after-a-year-of-industry-chaos-and-stockpiles-across-the-province/article_d698a3b7-25c4-42d7-99bc-63f3fa3c81df.html</guid>
-      <description>The province is also expanding collection sites to 6,500 after a target drop in 2025 left garages and yards unable to get used tires picked up.</description>
-      <pubDate>Wed, 23 Sep 2026 09:38:20 +0000</pubDate>
     </item>
     <item>
       <title>Carney government commits $6 billion to boost skilled trades</title>
@@ -78,6 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 16:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>Ontario raises tire recycling target after a year of industry chaos and stockpiles across the province</title>
+      <link>https://www.thestar.com/business/ontario-hikes-tire-recycling-target-after-a-year-of-industry-chaos-and-stockpiles-across-the-province/article_d698a3b7-25c4-42d7-99bc-63f3fa3c81df.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/business/ontario-hikes-tire-recycling-target-after-a-year-of-industry-chaos-and-stockpiles-across-the-province/article_d698a3b7-25c4-42d7-99bc-63f3fa3c81df.html</guid>
+      <description></description>
+      <pubDate>Wed, 23 Sep 2026 09:38:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Ontario challenges Ottawa’s firearms ban over ‘imprecise’ use of regulations</title>
       <link>https://www.thestar.com/politics/federal/ontario-challenges-ottawa-s-firearms-ban-over-imprecise-use-of-regulations/article_6839cfab-dcf7-4378-9da4-0f36c9264667.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/ontario-challenges-ottawa-s-firearms-ban-over-imprecise-use-of-regulations/article_6839cfab-dcf7-4378-9da4-0f36c9264667.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontario-to-standardize-truck-driver-training-after-scathing-auditor-general-report/article_b72c5304-7b9a-56fd-8f7d-06cda0732850.html</guid>
       <description></description>
       <pubDate>Mon, 21 Sep 2026 21:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario education workers set to vote on strike mandate in November</title>
-      <link>https://www.thestar.com/news/ontario/ontario-education-workers-set-to-vote-on-strike-mandate-in-november/article_78de4334-2cbe-5ee5-8594-dd1704bc4683.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontario-education-workers-set-to-vote-on-strike-mandate-in-november/article_78de4334-2cbe-5ee5-8594-dd1704bc4683.html</guid>
-      <description></description>
-      <pubDate>Mon, 21 Sep 2026 21:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
