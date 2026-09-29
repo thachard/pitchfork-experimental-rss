@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:35:34 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jules Reidy – Clerestory</title>
+      <link>https://pitchfork.com/reviews/albums/jules-reidy-clerestory/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jules-reidy-clerestory/</guid>
+      <description>A review by H.D. Angel</description>
+      <author>H.D. Angel</author>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hakushi Hasegawa – Honest Feeling Album (素直な気持ちアルバム)</title>
       <link>https://pitchfork.com/reviews/albums/hakushi-hasegawa-honest-feeling-album/</link>
@@ -190,14 +198,6 @@
       <description>A review by Andrew Ryce</description>
       <author>Andrew Ryce</author>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prophetic Justice Ministry – Key to World Peace</title>
-      <link>https://pitchfork.com/reviews/albums/prophetic-justice-ministry-key-to-world-peace/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/prophetic-justice-ministry-key-to-world-peace/</guid>
-      <description>A review by Shaad D’Souza</description>
-      <author>Shaad D’Souza</author>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

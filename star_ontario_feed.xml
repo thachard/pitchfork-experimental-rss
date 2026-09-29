@@ -5,14 +5,21 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:37:20 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tension emerges in second Ontario Liberal leadership debate</title>
+      <link>https://www.thestar.com/politics/provincial/tension-emerges-in-second-ontario-liberal-leadership-debate/article_ce0bc60e-e8e9-450b-907b-3c930c52a7c5.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/tension-emerges-in-second-ontario-liberal-leadership-debate/article_ce0bc60e-e8e9-450b-907b-3c930c52a7c5.html</guid>
+      <description>Candidates spar over affordability and campaign credentials as the race to replace Bonnie Crombie heats up.</description>
+      <pubDate>Tue, 29 Sep 2026 09:07:58 +0000</pubDate>
+    </item>
     <item>
       <title>‘Too nice’ Liberal leadership contenders head into second debate</title>
       <link>https://www.thestar.com/politics/provincial/too-nice-liberal-leadership-contenders-head-into-second-debate/article_a6a3b66c-269f-48b0-ac84-1b56d971a9ca.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/too-nice-liberal-leadership-contenders-head-into-second-debate/article_a6a3b66c-269f-48b0-ac84-1b56d971a9ca.html</guid>
-      <description>The five candidates in the Nov. 21 race to become Ontario&apos;s next Liberal leader have been floating policy ideas, but for the most part without…</description>
-      <pubDate>Mon, 28 Sep 2026 08:38:13 +0000</pubDate>
+      <description></description>
+      <pubDate>Mon, 28 Sep 2026 22:03:46 +0000</pubDate>
     </item>
     <item>
       <title>Ontario’s students’ Grade 6 and 9 math scores are a concern, while they’re testing slightly higher overall</title>
@@ -39,7 +46,7 @@
       <title>Ontario Premier Ford not worried about Volkswagen battery plant delay</title>
       <link>https://www.thestar.com/news/ontario/premier-ford-not-worried-about-volkswagen-battery-plant-delay/article_5fa9dd39-1148-541a-9992-289fcb85a8c9.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/premier-ford-not-worried-about-volkswagen-battery-plant-delay/article_5fa9dd39-1148-541a-9992-289fcb85a8c9.html</guid>
-      <description></description>
+      <description>TORONTO - Ontario Premier Doug Ford said Friday he is not worried about a two-year delay in the opening of a massive Volkswagen electric vehic…</description>
       <pubDate>Fri, 25 Sep 2026 18:36:13 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/ontario-s-education-funding-per-student-is-decreasing-after-inflation-watchdog-finds/article_aa8b1bab-cf4a-439a-9b9a-a8d2881e5589.html</guid>
       <description>The government says Financial Accountability Office of Ontario&apos;s figures don&apos;t provide the full picture.</description>
       <pubDate>Wed, 23 Sep 2026 18:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario denied a life-saving drug to a 37-year-old father with months to live. Now the province must reconsider</title>
-      <link>https://www.thestar.com/news/gta/ontario-denied-a-life-saving-drug-to-a-toronto-man-with-months-to-live-now-a-panel-says-the-province-must-reconsider/article_f6bf65a2-04cc-4112-8569-5bc5c5ac8fdc.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/ontario-denied-a-life-saving-drug-to-a-toronto-man-with-months-to-live-now-a-panel-says-the-province-must-reconsider/article_f6bf65a2-04cc-4112-8569-5bc5c5ac8fdc.html</guid>
-      <description>Ontario Divisional Court panel directs provincial government to reconsider denial to fund Alex Shved&apos;s treatment.</description>
-      <pubDate>Thu, 24 Sep 2026 07:42:00 +0000</pubDate>
     </item>
     <item>
       <title>Carney government commits $6 billion to boost skilled trades</title>
@@ -78,6 +78,13 @@
       <pubDate>Tue, 07 Apr 2026 16:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>Ontario denied a life-saving drug to a 37-year-old father with months to live. Now the province must reconsider</title>
+      <link>https://www.thestar.com/news/gta/ontario-denied-a-life-saving-drug-to-a-toronto-man-with-months-to-live-now-a-panel-says-the-province-must-reconsider/article_f6bf65a2-04cc-4112-8569-5bc5c5ac8fdc.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/ontario-denied-a-life-saving-drug-to-a-toronto-man-with-months-to-live-now-a-panel-says-the-province-must-reconsider/article_f6bf65a2-04cc-4112-8569-5bc5c5ac8fdc.html</guid>
+      <description></description>
+      <pubDate>Thu, 24 Sep 2026 07:42:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ontario raises tire recycling target after a year of industry chaos and stockpiles across the province</title>
       <link>https://www.thestar.com/business/ontario-hikes-tire-recycling-target-after-a-year-of-industry-chaos-and-stockpiles-across-the-province/article_d698a3b7-25c4-42d7-99bc-63f3fa3c81df.html</link>
       <guid isPermaLink="true">https://www.thestar.com/business/ontario-hikes-tire-recycling-target-after-a-year-of-industry-chaos-and-stockpiles-across-the-province/article_d698a3b7-25c4-42d7-99bc-63f3fa3c81df.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/ontario-challenges-ottawa-s-firearms-ban-over-imprecise-use-of-regulations/article_6839cfab-dcf7-4378-9da4-0f36c9264667.html</guid>
       <description></description>
       <pubDate>Wed, 23 Sep 2026 11:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario to standardize truck driver training after scathing auditor general report</title>
-      <link>https://www.thestar.com/news/ontario/ontario-to-standardize-truck-driver-training-after-scathing-auditor-general-report/article_b72c5304-7b9a-56fd-8f7d-06cda0732850.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/ontario/ontario-to-standardize-truck-driver-training-after-scathing-auditor-general-report/article_b72c5304-7b9a-56fd-8f7d-06cda0732850.html</guid>
-      <description></description>
-      <pubDate>Mon, 21 Sep 2026 21:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

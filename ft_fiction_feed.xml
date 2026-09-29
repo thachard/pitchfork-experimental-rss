@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:35:56 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stations by Louise Kennedy — love, friendship and the complexities of youth</title>
+      <link>https://www.ft.com/content/3b6a13bb-160c-48c8-881d-482b7debe61d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3b6a13bb-160c-48c8-881d-482b7debe61d</guid>
+      <description>The ‘Trespasses’ author captures with fino dry wit the path of would-be lovers who leave 1980s Ireland for London, and the damaging legacy of conflict and family back home</description>
+      <pubDate>Tue, 29 Sep 2026 04:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>Ian Rankin’s first standalone novel in decades — and other new crime books</title>
       <link>https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</guid>
       <description>The multi-award-winning Italian writer turns memory into drama in this warm, teasing account of an early-1970s adolescence</description>
       <pubDate>Mon, 24 Aug 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dèy by Edwidge Danticat — a family under fire</title>
-      <link>https://www.ft.com/content/a3181928-b808-4d8a-8d4f-6ab594da2fee</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a3181928-b808-4d8a-8d4f-6ab594da2fee</guid>
-      <description>After witnessing a mall shooting, a Haitian-American mother questions her past, her relationships and the fragile safety she has built for her daughter</description>
-      <pubDate>Fri, 21 Aug 2026 11:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
