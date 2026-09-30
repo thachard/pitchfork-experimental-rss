@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:24:14 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Scarborough busway opens today, following years of sluggish commutes for residents</title>
@@ -99,13 +99,6 @@
       <pubDate>Mon, 28 Sep 2026 23:27:43 +0000</pubDate>
     </item>
     <item>
-      <title>5 Toronto-area places that reveal the stories of Indigenous Peoples</title>
-      <link>https://www.thestar.com/news/gta/5-places-that-reveal-the-stories-of-indigenous-peoples-in-the-gta/article_4c216c2c-8e85-497d-8eda-c1358ceba94d.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/5-places-that-reveal-the-stories-of-indigenous-peoples-in-the-gta/article_4c216c2c-8e85-497d-8eda-c1358ceba94d.html</guid>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 10:31:49 +0000</pubDate>
-    </item>
-    <item>
       <title>Family of 19-year-old killed by Toronto police in Mississauga search for answers: ‘Why did Kaleym not make it home?’</title>
       <link>https://www.thestar.com/news/gta/family-of-19-year-old-killed-by-toronto-police-in-mississauga-search-for-answers-why-did-kaleym-not-make-it-home/article_9d88602f-f811-42bd-8219-a94139ed0f48.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/family-of-19-year-old-killed-by-toronto-police-in-mississauga-search-for-answers-why-did-kaleym-not-make-it-home/article_9d88602f-f811-42bd-8219-a94139ed0f48.html</guid>
@@ -120,18 +113,25 @@
       <pubDate>Wed, 30 Sep 2026 10:55:31 +0000</pubDate>
     </item>
     <item>
-      <title>Boy admits role in hammer killing of Toronto homeless man. Court sees video of 12-year-old’s ‘spree of violence’</title>
-      <link>https://www.thestar.com/news/gta/boy-admits-role-in-hammer-killing-of-toronto-homeless-man-court-sees-video-of-12-year-old-s-spree-of-violence/article_e7a7abdf-075b-44b8-b623-304c0d4af449.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/boy-admits-role-in-hammer-killing-of-toronto-homeless-man-court-sees-video-of-12-year-old-s-spree-of-violence/article_e7a7abdf-075b-44b8-b623-304c0d4af449.html</guid>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 11:41:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Two charged with first-degree murder in 2025 Vaughan homicide</title>
       <link>https://www.thestar.com/news/gta/two-charged-with-first-degree-murder-in-2025-vaughan-homicide/article_d3261d6e-f731-4e44-8156-084f9d625f92.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/two-charged-with-first-degree-murder-in-2025-vaughan-homicide/article_d3261d6e-f731-4e44-8156-084f9d625f92.html</guid>
       <description></description>
       <pubDate>Wed, 30 Sep 2026 11:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boy admits role in hammer killing of Toronto homeless man. Court sees video of 12-year-old’s ‘spree of violence’</title>
+      <link>https://www.thestar.com/news/gta/boy-admits-role-in-hammer-killing-of-toronto-homeless-man-court-sees-video-of-12-year-old-s-spree-of-violence/article_e7a7abdf-075b-44b8-b623-304c0d4af449.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/boy-admits-role-in-hammer-killing-of-toronto-homeless-man-court-sees-video-of-12-year-old-s-spree-of-violence/article_e7a7abdf-075b-44b8-b623-304c0d4af449.html</guid>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 11:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Toronto-area places that reveal the stories of Indigenous Peoples</title>
+      <link>https://www.thestar.com/news/gta/5-places-that-reveal-the-stories-of-indigenous-peoples-in-the-gta/article_4c216c2c-8e85-497d-8eda-c1358ceba94d.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/5-places-that-reveal-the-stories-of-indigenous-peoples-in-the-gta/article_4c216c2c-8e85-497d-8eda-c1358ceba94d.html</guid>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 12:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
