@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:37:59 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Flamboyant, Impatient Rebel</title>
+      <link>https://lareviewofbooks.org/article/john-berger-from-life-tom-overton-biography-art/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/john-berger-from-life-tom-overton-biography-art/</guid>
+      <description>Tom Overton’s biography of John Berger blends the meticulous archival research we expect from a professional historian with the subjective and intimate familiarity of the memoirist.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Was a Child, and They Ate My Heart</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Another Means to Torment</title>
-      <link>https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</guid>
-      <description>Alma Katsu crafts beauty horror for the age of influencers.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another Means to Torment</title>
+      <link>https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</guid>
+      <description>Alma Katsu crafts beauty horror for the age of influencers.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Tell Ourselves Dinosaur Stories in Order to Live</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/china-mieville-new-weird-science-fiction-lovecraft-spy/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/china-mieville-new-weird-science-fiction-lovecraft-spy/</guid>
       <description>China Miéville’s first solo novel in over a decade is part Lovecraft, part le Carré—and quintessentially weird.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Life Without a Paper Trail</title>
-      <link>https://lareviewofbooks.org/article/joan-vollmer-she-was-wild-grass-katie-bennett/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/joan-vollmer-she-was-wild-grass-katie-bennett/</guid>
-      <description>Katie Bennett’s hybrid memoir intertwines her artistic coming-of-age with the story of Joan Vollmer and her murder by Beat author William Burroughs.</description>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
