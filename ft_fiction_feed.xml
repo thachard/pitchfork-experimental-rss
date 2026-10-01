@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:06:22 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Partita — Barbara Kingsolver’s virtuoso novel of loss, social class and music</title>
+      <link>https://www.ft.com/content/ef3076d1-8aaa-4f1a-8b25-3ba3fe7c4927</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ef3076d1-8aaa-4f1a-8b25-3ba3fe7c4927</guid>
+      <description>A dazzling follow-up to ‘Demon Copperhead’ plunges us into the grief, yearning and disappointments of a once-promising pianist in rural Tennessee</description>
+      <pubDate>Thu, 01 Oct 2026 12:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Stations by Louise Kennedy — love, friendship and the complexities of youth</title>
       <link>https://www.ft.com/content/3b6a13bb-160c-48c8-881d-482b7debe61d</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/f1727461-4923-4893-a625-8c63a0714d2a</guid>
       <description>The third instalment in the Gabriel Dax series combines psychological tension and paranoia with irony and humour</description>
       <pubDate>Mon, 24 Aug 2026 11:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black September by Sandro Veronesi — a boy’s own story</title>
-      <link>https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f</guid>
-      <description>The multi-award-winning Italian writer turns memory into drama in this warm, teasing account of an early-1970s adolescence</description>
-      <pubDate>Mon, 24 Aug 2026 04:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:07:20 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘We’re saving lives’: Chris Alexander unveils plan to move Toronto’s unhoused into apartments</title>
+      <link>https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</guid>
+      <description>Video</description>
+      <pubDate>Thu, 01 Oct 2026 12:17:47 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto mayoral candidate promises to waive municipal land transfer tax on first $1.1M of purchase price</title>
       <link>https://www.ctvnews.ca/toronto/gta-elections-2026/article/toronto-mayoral-candidate-promises-to-waive-municipal-land-transfer-tax-on-first-11m-of-purchase-price/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/toronto-mayoral-candidate-promises-to-waive-municipal-land-transfer-tax-on-first-11m-of-purchase-price/</guid>
-      <description>Video</description>
+      <description>Brad Bradford has announced that he will waive the municipal land transfer tax on the first $1.1 million of the value of homes purchased in Toronto if elected mayor but Olivia Chow is warning that doing so would inevitably result in service cuts.</description>
       <pubDate>Wed, 30 Sep 2026 04:01:12 +0000</pubDate>
     </item>
     <item>
@@ -33,7 +40,7 @@
       <link>https://www.ctvnews.ca/toronto/article/bradford-promises-tax-freeze-as-chow-defends-inflation-based-increases-heres-what-you-need-to-know/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/bradford-promises-tax-freeze-as-chow-defends-inflation-based-increases-heres-what-you-need-to-know/</guid>
       <description>Toronto mayoral candidate Brad Bradford is promising to freeze property taxes for a year if he becomes mayor, while Olivia Chow worries the move could bring cuts and send the city &apos;back to the bad old days.&apos;</description>
-      <pubDate>Wed, 23 Sep 2026 21:47:22 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 12:27:20 +0000</pubDate>
     </item>
     <item>
       <title>‘The system isn’t working:’ Mayoral candidate wants to hike TTC fares to bring in millions in new revenue</title>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/erskine-smith-to-run-for-toronto-city-council/</guid>
       <description>Former Liberal MP and cabinet minister Nate Erskine-Smith is throwing his hat in the ring to become a member of Toronto city council.</description>
       <pubDate>Wed, 19 Aug 2026 16:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Layton eyes return to Toronto city council</title>
-      <link>https://www.ctvnews.ca/toronto/article/mike-layton-eyes-return-to-toronto-city-council-in-october-election/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/mike-layton-eyes-return-to-toronto-city-council-in-october-election/</guid>
-      <description>Mike Layton has announced he’s planning a return to Toronto city council in this fall’s municipal election.</description>
-      <pubDate>Mon, 17 Aug 2026 13:52:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
