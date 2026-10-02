@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:26:09 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Napoleon to Barbara Cartland; from a Hollywood mogul to Clara Schumann to the not-so-swinging Sixties. Plus: must-read new novels from Barbara Kingsolver and Ian Rankin — and Simon Kuper on the ups and downs of the Nobel Prize</description>
+      <pubDate>Fri, 02 Oct 2026 11:46:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perfecting the Shot — an immersive view of the act of killing</title>
+      <link>https://www.ft.com/content/c2281917-7601-4656-bdba-425fe0fdadcd</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c2281917-7601-4656-bdba-425fe0fdadcd</guid>
+      <description>Mathias Énard’s dive into the psyche of a teenage sniper verges on the claustrophobic — but therein lies the power of this expertly translated French novel</description>
+      <pubDate>Fri, 02 Oct 2026 11:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Partita — Barbara Kingsolver’s virtuoso novel of loss, social class and music</title>
       <link>https://www.ft.com/content/ef3076d1-8aaa-4f1a-8b25-3ba3fe7c4927</link>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</guid>
       <description>Sara Paretsky and John Grisham move into globe-trotting criminal espionage, Anthony Quinn takes us to 1920s Soho, and we meet a Danish version of Jackson Lamb</description>
       <pubDate>Mon, 28 Sep 2026 04:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From the hybrid war targeting undersea cables to the life of JRR Tolkien and Earl Spencer’s incendiary Diana biography. Plus: Big Tech’s throttling of democracy, Naomi Alderman’s intriguing new novel, our pick of economics titles — and Nilanjana Roy on the joy of our childhood books</description>
-      <pubDate>Fri, 25 Sep 2026 11:05:34 +0000</pubDate>
     </item>
     <item>
       <title>Dodge City — Patrick deWitt’s wild, witty road trip across 1960s America</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/5faad16a-0ac2-4310-9e39-4f66c5375bdd</guid>
       <description>The Nobel Prize-winner’s kaleidoscopic novel, newly reissued, charts the stories of a Polish village — its people, plants, animals and angels — through the upheavals of the 20th century</description>
       <pubDate>Wed, 26 Aug 2026 04:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cold Sunset — the entertaining return of William Boyd’s reluctant spy</title>
-      <link>https://www.ft.com/content/f1727461-4923-4893-a625-8c63a0714d2a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/f1727461-4923-4893-a625-8c63a0714d2a</guid>
-      <description>The third instalment in the Gabriel Dax series combines psychological tension and paranoia with irony and humour</description>
-      <pubDate>Mon, 24 Aug 2026 11:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
