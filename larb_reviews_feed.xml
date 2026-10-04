@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 14:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:41:54 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Constellations of Information</title>
+      <link>https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</guid>
+      <description>Tom McCarthy’s new novel is a summation of his writing process, an inventive, possibly parodic auto-metafiction.</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Queen of Hearts</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Who Is Supreme, the People or the Court?</title>
-      <link>https://lareviewofbooks.org/article/supremacy-court-replaced-goverment-bowie-renan-judicial-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/supremacy-court-replaced-goverment-bowie-renan-judicial-review/</guid>
-      <description>Nikolas Bowie and Daphna Renan’s new book challenges the supremacy of judicial review over democracy itself.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who Is Supreme, the People or the Court?</title>
+      <link>https://lareviewofbooks.org/article/supremacy-court-replaced-goverment-bowie-renan-judicial-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/supremacy-court-replaced-goverment-bowie-renan-judicial-review/</guid>
+      <description>Nikolas Bowie and Daphna Renan’s new book challenges the supremacy of judicial review over democracy itself.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Flamboyant, Impatient Rebel</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/elvira-navarro-blood-is-dripping-courtyard-uncanny-stories/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/elvira-navarro-blood-is-dripping-courtyard-uncanny-stories/</guid>
       <description>Spanish author Elvira Navarro’s newly translated story collection captures the unease, decay, and isolation of our post-pandemic world.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Verse, Late Fame</title>
-      <link>https://lareviewofbooks.org/article/late-fame-kent-jones-willem-dafoe-poetry-manhattan/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/late-fame-kent-jones-willem-dafoe-poetry-manhattan/</guid>
-      <description>Kent Jones’s film ‘Late Fame’ preaches the necessity of art while also decrying society’s escalating attempts to use it as a means of profit and power.</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
