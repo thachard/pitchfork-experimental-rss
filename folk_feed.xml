@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:46:23 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jake Xerxes Fussell – The Old Beloved Path</title>
+      <link>https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/</guid>
+      <description>A review by Habib Sabet</description>
+      <author>Habib Sabet</author>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miranda Lambert – Crisco</title>
       <link>https://pitchfork.com/reviews/albums/miranda-lambert-crisco/</link>
@@ -144,6 +152,14 @@
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Shania Twain – Little Miss Twain</title>
+      <link>https://pitchfork.com/reviews/albums/shania-twain-little-miss-twain/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shania-twain-little-miss-twain/</guid>
+      <description>A review by Amanda Wicks</description>
+      <author>Amanda Wicks</author>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Luluc – Sweet Thief</title>
       <link>https://pitchfork.com/reviews/albums/luluc-sweet-thief/</link>
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/luluc-sweet-thief/</guid>
@@ -182,14 +198,6 @@
       <description>A review by rad Sanders</description>
       <author>rad Sanders</author>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tucker Zimmerman – Dream Me a Dream</title>
-      <link>https://pitchfork.com/reviews/albums/tucker-zimmerman-dream-me-a-dream/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tucker-zimmerman-dream-me-a-dream/</guid>
-      <description>A review by Stephen Thomas Erlewine</description>
-      <author>Stephen Thomas Erlewine</author>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

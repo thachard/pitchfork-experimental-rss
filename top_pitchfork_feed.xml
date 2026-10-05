@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:48:11 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Emily A. Sprague – Cyano</title>
+      <link>https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bowery Electric – Beat</title>
       <link>https://pitchfork.com/reviews/albums/bowery-electric-beat/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/</guid>
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>James Ellis Ford – Lost in Another World</title>
-      <link>https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</guid>
-      <description>A review by Alastair Shuttleworth</description>
-      <author>Alastair Shuttleworth</author>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

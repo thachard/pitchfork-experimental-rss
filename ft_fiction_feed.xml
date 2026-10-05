@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:46:38 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A History of the Novel in Britain — an epic journey through the good, the bad and the unreadable</title>
+      <link>https://www.ft.com/content/daea9dbf-2f06-40fa-84c3-97022debf1aa</link>
+      <guid isPermaLink="true">https://www.ft.com/content/daea9dbf-2f06-40fa-84c3-97022debf1aa</guid>
+      <description>Philip Hensher’s vast survey of fiction from Dickens to Ishiguro is invigorating, obsessively well researched and amusingly nitpicky</description>
+      <pubDate>Mon, 05 Oct 2026 16:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trouble on Paradise and the perils of escapism — the best new sci-fi books</title>
+      <link>https://www.ft.com/content/c9380af1-cb9e-45f6-b54c-49229349851f</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c9380af1-cb9e-45f6-b54c-49229349851f</guid>
+      <description>Conflict and sickness spell danger in other worlds, the undead spread unrest in Massachusetts, a drug-induced multiversal breach, and critters bear weapons and a grudge</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</guid>
       <description>The poet and essayist emerged from the 1960s counterculture movement to become a prominent voice in environmental activism and an outspoken critic of intensive agriculture</description>
       <pubDate>Tue, 01 Sep 2026 17:12:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Disappearers — Marlon James’s novel of righteous anger</title>
-      <link>https://www.ft.com/content/c4290257-4f76-4c1b-8c5a-dd7e49f9c197</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c4290257-4f76-4c1b-8c5a-dd7e49f9c197</guid>
-      <description>The Booker Prize-winning author turns a planned theatre production in Jamaica into a compelling examination of homophobia, erasure and survival</description>
-      <pubDate>Thu, 27 Aug 2026 14:28:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Primeval and Other Times — Olga Tokarczuk’s exhilarating, genre-defying fairy tale</title>
-      <link>https://www.ft.com/content/5faad16a-0ac2-4310-9e39-4f66c5375bdd</link>
-      <guid isPermaLink="true">https://www.ft.com/content/5faad16a-0ac2-4310-9e39-4f66c5375bdd</guid>
-      <description>The Nobel Prize-winner’s kaleidoscopic novel, newly reissued, charts the stories of a Polish village — its people, plants, animals and angels — through the upheavals of the 20th century</description>
-      <pubDate>Wed, 26 Aug 2026 04:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

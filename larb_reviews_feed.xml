@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:48:31 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facing a Postliterate Future</title>
+      <link>https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</guid>
+      <description>James Marriott’s new book seems well timed to restoke the ‘crisis of reading’ debate just as its fire threatens to burn out.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pleasures of Delayed Gratification</title>
+      <link>https://lareviewofbooks.org/article/richie-hofmann-bronze-arms-poetry-restraint-gluck-guibert/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/richie-hofmann-bronze-arms-poetry-restraint-gluck-guibert/</guid>
+      <description>Poet Richie Hofmann appreciates the desire that undergirds waiting, impermanence, and mourning the beloved dead.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Constellations of Information</title>
@@ -29,6 +43,13 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Scatological Graffiti and Other Arts</title>
       <link>https://lareviewofbooks.org/article/mary-beard-talking-classics-shock-old-greek-roman/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/mary-beard-talking-classics-shock-old-greek-roman/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/dtf-st-louis-hbo-steven-conrad-auteur-emmys/</guid>
       <description>Exploring ‘DTF St. Louis’ and the anti-algorithmic worlds of Steven Conrad.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who Is Supreme, the People or the Court?</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</guid>
       <description>Alma Katsu crafts beauty horror for the age of influencers.</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Tell Ourselves Dinosaur Stories in Order to Live</title>
-      <link>https://lareviewofbooks.org/article/end-oak-street-social-dinosaur-popular-imagination-prehistoric/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/end-oak-street-social-dinosaur-popular-imagination-prehistoric/</guid>
-      <description>We live within a library of antediluvian narratives, with more accessioned every day.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Impression of Living in a Ruin</title>
-      <link>https://lareviewofbooks.org/article/elvira-navarro-blood-is-dripping-courtyard-uncanny-stories/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/elvira-navarro-blood-is-dripping-courtyard-uncanny-stories/</guid>
-      <description>Spanish author Elvira Navarro’s newly translated story collection captures the unease, decay, and isolation of our post-pandemic world.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
