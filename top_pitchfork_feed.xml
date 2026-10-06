@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 19:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:45:16 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Greg Freeman – All Set the Bone</title>
+      <link>https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Emily A. Sprague – Cyano</title>
       <link>https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/</link>
@@ -238,14 +246,6 @@
       <description>A review by Stephen Kearse</description>
       <author>Stephen Kearse</author>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phoebe Bridgers – Lost Weekend</title>
-      <link>https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/phoebe-bridgers-lost-weekend/</guid>
-      <description>A review by Sam Sodomsky</description>
-      <author>Sam Sodomsky</author>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

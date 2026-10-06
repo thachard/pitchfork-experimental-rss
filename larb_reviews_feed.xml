@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 19:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:45:37 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cheap Substitutes of an Auteur</title>
+      <link>https://lareviewofbooks.org/article/elisabeth-eric-rohmer-novel-director-film-summertime-art/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/elisabeth-eric-rohmer-novel-director-film-summertime-art/</guid>
+      <description>Filmmaker Éric Rohmer’s newly translated novel ‘Élisabeth’ makes one wonder what fiction does that a film cannot, and vice versa.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Facing a Postliterate Future</title>
@@ -36,18 +43,18 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Queen of Hearts</title>
-      <link>https://lareviewofbooks.org/article/virginia-oldoini-countess-castiglione-contessa-biography-benedetta-craveri/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/virginia-oldoini-countess-castiglione-contessa-biography-benedetta-craveri/</guid>
-      <description>A newly translated biography of Virginia Oldoini, Countess of Castiglione, aims to reveal the real woman behind the subject of everyone’s gaze.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Queen of Hearts</title>
+      <link>https://lareviewofbooks.org/article/virginia-oldoini-countess-castiglione-contessa-biography-benedetta-craveri/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/virginia-oldoini-countess-castiglione-contessa-biography-benedetta-craveri/</guid>
+      <description>A newly translated biography of Virginia Oldoini, Countess of Castiglione, aims to reveal the real woman behind the subject of everyone’s gaze.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Scatological Graffiti and Other Arts</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/joan-of-arc-jake-rose-gender-voices-devotion/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/joan-of-arc-jake-rose-gender-voices-devotion/</guid>
       <description>Jake Rose’s new poetry collection transports Joan of Arc from the 15th century to today.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another Means to Torment</title>
-      <link>https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/alma-katsu-incarnate-beauty-horror-social-media-image/</guid>
-      <description>Alma Katsu crafts beauty horror for the age of influencers.</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
