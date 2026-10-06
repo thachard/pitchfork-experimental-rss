@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/opinion/contributors/</link>
     <description>Opinion contributor articles from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:48:18 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/opinion/contributors/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Éric Blais: Why fear won’t contain the Parti Québécois — and how federalists should respond to Quebec separation</title>
@@ -29,16 +29,16 @@
       <pubDate>Tue, 06 Oct 2026 05:16:03 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Elliott: Olivia Chow’s campaign is playing it safe. Why now is the time to be bold</title>
-      <link>https://www.thestar.com/opinion/contributors/olivia-chow-s-campaign-is-playing-it-safe-why-now-is-the-time-to-be-bold/article_1ab97da7-ce54-4e06-82c8-30005a50cafd.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/olivia-chow-s-campaign-is-playing-it-safe-why-now-is-the-time-to-be-bold/article_1ab97da7-ce54-4e06-82c8-30005a50cafd.html</guid>
-      <description>Despite a solid lead in polls, writes Matt Elliott, mayor shows little sign of seeking a mandate to advance an ambitious agenda.</description>
-      <pubDate>Tue, 06 Oct 2026 10:10:41 +0000</pubDate>
-    </item>
-    <item>
       <title>I was Ontario’s housing minister. This is why I’m impressed with Olivia Chow</title>
       <link>https://www.thestar.com/opinion/contributors/i-was-ontario-s-housing-minister-this-is-why-i-m-impressed-with-olivia-chow/article_7d7ec975-e83b-4e51-bfb4-51b5ac890462.html</link>
       <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/i-was-ontario-s-housing-minister-this-is-why-i-m-impressed-with-olivia-chow/article_7d7ec975-e83b-4e51-bfb4-51b5ac890462.html</guid>
+      <description>Landlords have too much power under our current system.</description>
+      <pubDate>Tue, 06 Oct 2026 10:10:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Elliott: Olivia Chow’s campaign is playing it safe. Why now is the time to be bold</title>
+      <link>https://www.thestar.com/opinion/contributors/olivia-chow-s-campaign-is-playing-it-safe-why-now-is-the-time-to-be-bold/article_1ab97da7-ce54-4e06-82c8-30005a50cafd.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/olivia-chow-s-campaign-is-playing-it-safe-why-now-is-the-time-to-be-bold/article_1ab97da7-ce54-4e06-82c8-30005a50cafd.html</guid>
       <description></description>
       <pubDate>Tue, 06 Oct 2026 10:10:41 +0000</pubDate>
     </item>
@@ -162,13 +162,6 @@
       <pubDate>Wed, 30 Sep 2026 11:31:35 +0000</pubDate>
     </item>
     <item>
-      <title>My advice to Mark Carney? Beware of Europeans bearing gifts. It doesn’t always end well</title>
-      <link>https://www.thestar.com/opinion/contributors/my-advice-to-mark-carney-beware-of-europeans-bearing-gifts-it-doesn-t-always-end-well/article_bb8250e5-041a-4011-a576-07119a8419ed.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/my-advice-to-mark-carney-beware-of-europeans-bearing-gifts-it-doesn-t-always-end-well/article_bb8250e5-041a-4011-a576-07119a8419ed.html</guid>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 10:25:24 +0000</pubDate>
-    </item>
-    <item>
       <title>This Doug Ford decision might be costing you $72 every paycheque</title>
       <link>https://www.thestar.com/opinion/contributors/essentials-are-expensive-trump-s-tariffs-loom-a-small-raise-for-thousands-of-torontonians-isn-t-going-to-cut-it/article_79c2f892-dab6-485e-bd35-94705dc5ba6d.html</link>
       <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/essentials-are-expensive-trump-s-tariffs-loom-a-small-raise-for-thousands-of-torontonians-isn-t-going-to-cut-it/article_79c2f892-dab6-485e-bd35-94705dc5ba6d.html</guid>
@@ -188,6 +181,13 @@
       <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/if-mark-carney-s-government-is-serious-about-build-canada-it-has-to-deal-with-this-reality-first/article_c2dbdab5-974c-4b7e-8e86-98c70f2c3e0b.html</guid>
       <description></description>
       <pubDate>Sun, 04 Oct 2026 08:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>My advice to Mark Carney? Beware of Europeans bearing gifts. It doesn’t always end well</title>
+      <link>https://www.thestar.com/opinion/contributors/my-advice-to-mark-carney-beware-of-europeans-bearing-gifts-it-doesn-t-always-end-well/article_bb8250e5-041a-4011-a576-07119a8419ed.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/my-advice-to-mark-carney-beware-of-europeans-bearing-gifts-it-doesn-t-always-end-well/article_bb8250e5-041a-4011-a576-07119a8419ed.html</guid>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 10:25:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
