@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 07 Oct 2026 15:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:34:12 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Comets — condensed, bitingly efficient short fiction by Eoin McNamee</title>
+      <link>https://www.ft.com/content/865242bf-35dd-40b4-b412-8345a14d7472</link>
+      <guid isPermaLink="true">https://www.ft.com/content/865242bf-35dd-40b4-b412-8345a14d7472</guid>
+      <description>In a collection of two novellas and 15 tightly pared-down tales, the Northern Irish writer plunges the reader into a world of danger, seediness and alienation</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>A History of the Novel in Britain — an epic journey through the good, the bad and the unreadable</title>
       <link>https://www.ft.com/content/daea9dbf-2f06-40fa-84c3-97022debf1aa</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/a44220ed-f93a-47a6-8a06-9d8eb667c6aa</guid>
       <description>Set in the mid-1800s, the Irish author’s narrative blazes with an authenticity and poignancy that mitigates any risk of ‘cultural appropriation’</description>
       <pubDate>Thu, 03 Sep 2026 04:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obituary.Wendell Berry, writer and farmer, 1934-2026</title>
-      <link>https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d6a05f3e-b5d9-4493-8da3-30855f4eb431?syn-25a6b1a6=1</guid>
-      <description>The poet and essayist emerged from the 1960s counterculture movement to become a prominent voice in environmental activism and an outspoken critic of intensive agriculture</description>
-      <pubDate>Tue, 01 Sep 2026 17:12:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
