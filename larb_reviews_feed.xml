@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:04:42 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -15,7 +15,14 @@
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cheap Substitutes of an Auteur</title>
+      <title>Boomer Music</title>
+      <link>https://lareviewofbooks.org/article/new-age-music-album-oriented-rock-rees-smith/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/new-age-music-album-oriented-rock-rees-smith/</guid>
+      <description>New Age music and album-oriented rock have more in common than might initially appear.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Man Who Would Become Éric Rohmer</title>
       <link>https://lareviewofbooks.org/article/elisabeth-eric-rohmer-novel-director-film-summertime-art/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/elisabeth-eric-rohmer-novel-director-film-summertime-art/</guid>
       <description>Filmmaker Éric Rohmer’s newly translated novel ‘Élisabeth’ makes one wonder what fiction does that a film cannot, and vice versa.</description>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Constellations of Information</title>
-      <link>https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</guid>
-      <description>Tom McCarthy’s new novel is a summation of his writing process, an inventive, possibly parodic auto-metafiction.</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Constellations of Information</title>
+      <link>https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</guid>
+      <description>Tom McCarthy’s new novel is a summation of his writing process, an inventive, possibly parodic auto-metafiction.</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Queen of Hearts</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/hernan-diaz-ply-postapocalypse-capitalism-trilogy-utopia-novel/</guid>
       <description>Hernan Diaz completes his hopeful trilogy following the rise and fall of American capitalism.</description>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Locked in the Drawer of Devotion</title>
-      <link>https://lareviewofbooks.org/article/joan-of-arc-jake-rose-gender-voices-devotion/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/joan-of-arc-jake-rose-gender-voices-devotion/</guid>
-      <description>Jake Rose’s new poetry collection transports Joan of Arc from the 15th century to today.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:03:01 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Klein – my own fairytale</title>
+      <link>https://pitchfork.com/reviews/albums/klein-my-own-fairytale/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/klein-my-own-fairytale/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>300SkullsAndCounting / Jenny Sparks – THIS IS SPA TOWN!</title>
       <link>https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/</link>
@@ -190,14 +198,6 @@
       <description>A review by Dash Lewis</description>
       <author>Dash Lewis</author>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tran Uy Duc – ByyShh</title>
-      <link>https://pitchfork.com/reviews/albums/tran-uy-duc-byyshh/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/tran-uy-duc-byyshh/</guid>
-      <description>A review by H.D. Angel</description>
-      <author>H.D. Angel</author>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
