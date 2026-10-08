@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:13:32 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idyll Worship</title>
+      <link>https://lareviewofbooks.org/article/hamlet-called-america-khrystia-vengryniuk-ukraine-pastoral-village/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/hamlet-called-america-khrystia-vengryniuk-ukraine-pastoral-village/</guid>
+      <description>Ukrainian author Khrystia Vengryniuk’s newly translated novel is a sly and disarming anti-pastoral about a province called America.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bimbo Poetics</title>
+      <link>https://lareviewofbooks.org/article/ellie-black-revelator-poetry-digital-internet-culture-femininity/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/ellie-black-revelator-poetry-digital-internet-culture-femininity/</guid>
+      <description>Ellie Black’s debut collection examines selfhood, persona, and sex on the internet.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Boomer Music</title>
@@ -29,6 +43,13 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Facing a Postliterate Future</title>
       <link>https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/richie-hofmann-bronze-arms-poetry-restraint-gluck-guibert/</guid>
       <description>Poet Richie Hofmann appreciates the desire that undergirds waiting, impermanence, and mourning the beloved dead.</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Constellations of Information</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/john-berger-from-life-tom-overton-biography-art/</guid>
       <description>Tom Overton’s biography of John Berger blends the meticulous archival research we expect from a professional historian with the subjective and intimate familiarity of the memoirist.</description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Was a Child, and They Ate My Heart</title>
-      <link>https://lareviewofbooks.org/article/fady-joudah-exhibit-g-poems-essays-photographs-gaza/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/fady-joudah-exhibit-g-poems-essays-photographs-gaza/</guid>
-      <description>Fady Joudah’s newest poetry collection resists the idiomatic “unspeakable” when faced with evidence of the ongoing genocide in Gaza.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Slow Apocalypse of Capitalist Decay</title>
-      <link>https://lareviewofbooks.org/article/hernan-diaz-ply-postapocalypse-capitalism-trilogy-utopia-novel/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/hernan-diaz-ply-postapocalypse-capitalism-trilogy-utopia-novel/</guid>
-      <description>Hernan Diaz completes his hopeful trilogy following the rise and fall of American capitalism.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,14 +5,21 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:12:22 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘It’s a mess’: Northern Ont. career college students anxious and stressed following OSAP freeze</title>
+      <link>https://www.ctvnews.ca/northern-ontario/article/its-a-mess-northern-ont-career-college-students-anxious-and-stressed-following-osap-freeze/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/northern-ontario/article/its-a-mess-northern-ont-career-college-students-anxious-and-stressed-following-osap-freeze/</guid>
+      <description>Video</description>
+      <pubDate>Thu, 08 Oct 2026 10:43:44 +0000</pubDate>
+    </item>
     <item>
       <title>Don&apos;t target all students for possible OSAP misuse at a few schools, association says</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/dont-target-all-students-for-possible-osap-misuse-at-a-few-schools-association-says/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/dont-target-all-students-for-possible-osap-misuse-at-a-few-schools-association-says/</guid>
-      <description></description>
-      <pubDate>Wed, 07 Oct 2026 15:50:08 +0000</pubDate>
+      <description>Career Colleges Ontario is urging the provincial government to reinstate student financial aid for career college students who were already approved for funds and are actively attending in-person classes.</description>
+      <pubDate>Wed, 07 Oct 2026 20:22:49 +0000</pubDate>
     </item>
     <item>
       <title>Ontario refers concerns about OSAP payments at private career colleges to OPP</title>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-deficit-in-2025-26-better-than-projected-at-13-billion-province-says/</guid>
       <description>Ontario says its deficit is slightly better than initially projected.</description>
       <pubDate>Thu, 24 Sep 2026 19:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario to standardize truck driver training after scathing auditor general report</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-standardize-truck-driver-training-after-scathing-auditor-general-report/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-standardize-truck-driver-training-after-scathing-auditor-general-report/</guid>
-      <description>Ontario is introducing standardized entry-level training for commercial truck drivers.</description>
-      <pubDate>Mon, 21 Sep 2026 15:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
