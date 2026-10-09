@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:58:27 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cameron Winter – Live at Carnegie Hall</title>
+      <link>https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/</guid>
+      <description>A review by Walden Green</description>
+      <author>Walden Green</author>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Greg Freeman – All Set the Bone</title>
       <link>https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/</link>
@@ -238,14 +246,6 @@
       <description>A review by Olivier Lafontant</description>
       <author>Olivier Lafontant</author>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Rain – fata morgana</title>
-      <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lrain-fata-morgana/</guid>
-      <description>A review by Stephen Kearse</description>
-      <author>Stephen Kearse</author>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:57:09 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From quantum science to Elif Shafak’s story of Flaubert’s women, Michael Lewis on Doge to German militarisation. Plus: Sherry Turkle’s warning on AI companions, Philip Hensher’s survey of the novel — and James Lovegrove’s pick of sci-fi</description>
+      <pubDate>Fri, 09 Oct 2026 11:50:33 +0000</pubDate>
+    </item>
     <item>
       <title>In One Brief Moment All Eternity — Elif Shafak gives voice to Flaubert’s women</title>
       <link>https://www.ft.com/content/78468105-14d6-4729-9919-4ce12778f43c</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c9380af1-cb9e-45f6-b54c-49229349851f</guid>
       <description>Conflict and sickness spell danger in other worlds, the undead spread unrest in Massachusetts, a drug-induced multiversal breach, and critters bear weapons and a grudge</description>
       <pubDate>Mon, 05 Oct 2026 04:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Napoleon to Barbara Cartland; from a Hollywood mogul to Clara Schumann to the not-so-swinging Sixties. Plus: must-read new novels from Barbara Kingsolver and Ian Rankin — and Simon Kuper on the ups and downs of the Nobel Prize</description>
-      <pubDate>Fri, 02 Oct 2026 11:46:25 +0000</pubDate>
     </item>
     <item>
       <title>Perfecting the Shot — an immersive view of the act of killing</title>
