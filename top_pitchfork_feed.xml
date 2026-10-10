@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:14:20 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stevie Wonder – Songs in the Key of Life - The EP</title>
+      <link>https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/</guid>
+      <description>A review by Stephen Thomas Erlewine</description>
+      <author>Stephen Thomas Erlewine</author>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cameron Winter – Live at Carnegie Hall</title>
       <link>https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/</link>
@@ -238,14 +246,6 @@
       <description>A review by Andrew Ryce</description>
       <author>Andrew Ryce</author>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Future – Monster</title>
-      <link>https://pitchfork.com/reviews/albums/future-monster/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/future-monster/</guid>
-      <description>A review by Olivier Lafontant</description>
-      <author>Olivier Lafontant</author>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
