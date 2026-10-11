@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:38:33 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Celebration of JahVai Roy’s life doubles as call for action against Toronto’s gun violence</title>
+      <link>https://www.thestar.com/news/gta/celebration-of-jahvai-roy-s-life-doubles-as-call-for-action-against-toronto-s-gun-violence/article_a08b6d58-0b5b-4b8f-9491-78104dff8f4e.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/celebration-of-jahvai-roy-s-life-doubles-as-call-for-action-against-toronto-s-gun-violence/article_a08b6d58-0b5b-4b8f-9491-78104dff8f4e.html</guid>
+      <description>Holly Roy organized Saturday’s event to honour her eight-year-old killed by a stray bullet and turn her experience &quot;into purpose.&quot;</description>
+      <pubDate>Sat, 10 Oct 2026 20:45:05 +0000</pubDate>
+    </item>
     <item>
       <title>Doug Ford fires Paul Godfrey from Order of Ontario council</title>
       <link>https://www.thestar.com/politics/provincial/doug-ford-fires-paul-godfrey-from-order-of-ontario-council/article_ceb66940-ca38-4239-8f1f-744d78795bee.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-fires-paul-godfrey-from-order-of-ontario-council/article_ceb66940-ca38-4239-8f1f-744d78795bee.html</guid>
-      <description>Move follows Godfrey’s claim Ford’s office used son’s firm, unsigned contract as political leverage.</description>
+      <description></description>
       <pubDate>Fri, 09 Oct 2026 21:12:16 +0000</pubDate>
     </item>
     <item>
@@ -36,13 +43,6 @@
       <pubDate>Thu, 08 Oct 2026 13:50:49 +0000</pubDate>
     </item>
     <item>
-      <title>The Ford government quietly changed its building code, clearing the way for more triple-bunking in Ontario’s overcrowded jails</title>
-      <link>https://www.thestar.com/news/investigations/the-ford-government-quietly-changed-its-building-code-clearing-the-way-for-more-triple-bunking-in-ontario-s-overcrowded-jails/article_02160272-d826-47fa-ad22-a87be9152b51.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/investigations/the-ford-government-quietly-changed-its-building-code-clearing-the-way-for-more-triple-bunking-in-ontario-s-overcrowded-jails/article_02160272-d826-47fa-ad22-a87be9152b51.html</guid>
-      <description></description>
-      <pubDate>Thu, 08 Oct 2026 13:58:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Ontario makes a surprise move to freeze OSAP for private colleges. This operator says it’s unfair</title>
       <link>https://www.thestar.com/politics/provincial/ontario-makes-a-surprise-move-to-freeze-osap-for-private-colleges-this-operator-says-it-s-unfair/article_0a0855c4-97f8-454f-8d6f-4609b70e9a03.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ontario-makes-a-surprise-move-to-freeze-osap-for-private-colleges-this-operator-says-it-s-unfair/article_0a0855c4-97f8-454f-8d6f-4609b70e9a03.html</guid>
@@ -50,11 +50,11 @@
       <pubDate>Wed, 07 Oct 2026 13:31:16 +0000</pubDate>
     </item>
     <item>
-      <title>Doug Ford reminds new Quebec premier of threat posed by Donald Trump</title>
-      <link>https://www.thestar.com/politics/provincial/doug-ford-reminds-new-quebec-premier-of-threat-posed-by-donald-trump/article_72cc1581-d27d-47b7-89fe-0bab92ffa362.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-reminds-new-quebec-premier-of-threat-posed-by-donald-trump/article_72cc1581-d27d-47b7-89fe-0bab92ffa362.html</guid>
-      <description>The Ontario premier congratulated Paul St-Pierre Plamondon on his victory in a phone call Tuesday.</description>
-      <pubDate>Tue, 06 Oct 2026 18:24:57 +0000</pubDate>
+      <title>The Ford government quietly changed its building code, clearing the way for more triple-bunking in Ontario’s overcrowded jails</title>
+      <link>https://www.thestar.com/news/investigations/the-ford-government-quietly-changed-its-building-code-clearing-the-way-for-more-triple-bunking-in-ontario-s-overcrowded-jails/article_02160272-d826-47fa-ad22-a87be9152b51.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/investigations/the-ford-government-quietly-changed-its-building-code-clearing-the-way-for-more-triple-bunking-in-ontario-s-overcrowded-jails/article_02160272-d826-47fa-ad22-a87be9152b51.html</guid>
+      <description>The practice is decried by judges as inhumane and has led to reduced sentences as compensation.</description>
+      <pubDate>Thu, 08 Oct 2026 13:58:26 +0000</pubDate>
     </item>
     <item>
       <title>Ford government says it’s tightened rules for next round of skills development funding</title>
@@ -76,6 +76,13 @@
       <guid isPermaLink="true">https://www.thestar.com/opinion/star-columnists/premier-ford-your-hypocrisy-is-showing/article_10881645-ab5b-460d-baac-2f68db36f2c5.html</guid>
       <description></description>
       <pubDate>Mon, 05 Oct 2026 07:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doug Ford reminds new Quebec premier of threat posed by Donald Trump</title>
+      <link>https://www.thestar.com/politics/provincial/doug-ford-reminds-new-quebec-premier-of-threat-posed-by-donald-trump/article_72cc1581-d27d-47b7-89fe-0bab92ffa362.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-reminds-new-quebec-premier-of-threat-posed-by-donald-trump/article_72cc1581-d27d-47b7-89fe-0bab92ffa362.html</guid>
+      <description></description>
+      <pubDate>Tue, 06 Oct 2026 18:24:57 +0000</pubDate>
     </item>
     <item>
       <title>Ontario refers concerns about OSAP payments at private career colleges to OPP</title>

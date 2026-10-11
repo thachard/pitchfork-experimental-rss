@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:38:43 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Chicks – Taking the Long Way</title>
+      <link>https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/</guid>
+      <description>A review by Shaad D’Souza</description>
+      <author>Shaad D’Souza</author>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stevie Wonder – Songs in the Key of Life - The EP</title>
       <link>https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/</link>
@@ -238,14 +246,6 @@
       <description>A review by Mano Sundaresan</description>
       <author>Mano Sundaresan</author>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Djrum – I WanderEP</title>
-      <link>https://pitchfork.com/reviews/albums/djrum-i-wander/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/djrum-i-wander/</guid>
-      <description>A review by Andrew Ryce</description>
-      <author>Andrew Ryce</author>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
