@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:20:05 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A classic English school story and a memoir by BoJack’s cartoonist — the best new graphic novels</title>
+      <link>https://www.ft.com/content/9ff2f4cf-9956-449b-aebf-ce8cd86d7ae6</link>
+      <guid isPermaLink="true">https://www.ft.com/content/9ff2f4cf-9956-449b-aebf-ce8cd86d7ae6</guid>
+      <description>Paul B Rainey’s Murder School reads like Lindsay Anderson’s If . . . via Adrian Mole, while Lisa Hanawalt offers charming weirdness in I Can’t Stop Thinking About Horses and Sex</description>
+      <pubDate>Mon, 12 Oct 2026 04:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8a5aaf24-00aa-4677-ade0-592fa9fce771</guid>
       <description>The American novelist’s Booker-longlisted new novel follows a man with Alzheimer’s on his final journey to an assisted-dying clinic in Zurich</description>
       <pubDate>Fri, 04 Sep 2026 04:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making mischief with du Maurier: Rose Tremain reimagines the roots of Rebecca</title>
-      <link>https://www.ft.com/content/d5cd8625-bf6f-4872-8383-c4968fac7ffa</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d5cd8625-bf6f-4872-8383-c4968fac7ffa</guid>
-      <description>‘The Housekeeper’ fictionalises the story behind Daphne du Maurier’s gothic masterpiece — while a memoir by her grandson tells the unique family history that shaped her work</description>
-      <pubDate>Thu, 03 Sep 2026 12:10:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

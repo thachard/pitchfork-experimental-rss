@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:21:20 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marina Herlop – Dja Dja</title>
+      <link>https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</guid>
+      <description>A review by Matthew Blackwell</description>
+      <author>Matthew Blackwell</author>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Chicks – Taking the Long Way</title>
       <link>https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/</link>
@@ -238,14 +246,6 @@
       <description>A review by Stephen M. Deusner</description>
       <author>Stephen M. Deusner</author>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>730turk – Trapculinary vol.2 (the recipe)</title>
-      <link>https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/</guid>
-      <description>A review by Mano Sundaresan</description>
-      <author>Mano Sundaresan</author>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
