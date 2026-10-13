@@ -5,13 +5,20 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:33:20 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Floating World by Ben Eastham — tale of a failed utopia</title>
+      <link>https://www.ft.com/content/e3269e6b-1e01-494a-bcf8-7309ca0e4fda?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e3269e6b-1e01-494a-bcf8-7309ca0e4fda?syn-25a6b1a6=1</guid>
+      <description>The art critic’s debut novel is a fantastically funny, satirical take on a doomsday city for the ultra-wealthy</description>
+      <pubDate>Tue, 13 Oct 2026 11:20:46 +0000</pubDate>
+    </item>
     <item>
       <title>A classic English school story and a memoir by BoJack’s cartoonist — the best new graphic novels</title>
       <link>https://www.ft.com/content/9ff2f4cf-9956-449b-aebf-ce8cd86d7ae6</link>
       <guid isPermaLink="true">https://www.ft.com/content/9ff2f4cf-9956-449b-aebf-ce8cd86d7ae6</guid>
-      <description>Paul B Rainey’s Murder School reads like Lindsay Anderson’s If . . . via Adrian Mole, while Lisa Hanawalt offers charming weirdness in I Can’t Stop Thinking About Horses and Sex</description>
+      <description>Paul B Rainey’s ‘Murder School’ reads like Lindsay Anderson’s ‘If . . .’ via Adrian Mole, while Lisa Hanawalt offers charming weirdness in ‘I Can’t Stop Thinking About Horses and Sex’</description>
       <pubDate>Mon, 12 Oct 2026 04:00:16 +0000</pubDate>
     </item>
     <item>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/75e48a9a-32e2-4c08-a8d0-9226af46c6c5</guid>
       <description>New novels about families warped by grief, history, violence and silence</description>
       <pubDate>Mon, 07 Sep 2026 04:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interview.Emma Cline on Switzy — ‘How would you survive those days, knowing what’s coming?’</title>
-      <link>https://www.ft.com/content/8a5aaf24-00aa-4677-ade0-592fa9fce771</link>
-      <guid isPermaLink="true">https://www.ft.com/content/8a5aaf24-00aa-4677-ade0-592fa9fce771</guid>
-      <description>The American novelist’s Booker-longlisted new novel follows a man with Alzheimer’s on his final journey to an assisted-dying clinic in Zurich</description>
-      <pubDate>Fri, 04 Sep 2026 04:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

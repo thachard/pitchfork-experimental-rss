@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:49:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:34:53 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jess Williamson – A Mile South of Heaven</title>
+      <link>https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/</guid>
+      <description>A review by Sadie Sartini Garner</description>
+      <author>Sadie Sartini Garner</author>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deafheaven – At Work in the Fields of the BombEP</title>
+      <link>https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/</guid>
+      <description>A review by Patrick Lyons</description>
+      <author>Patrick Lyons</author>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Marina Herlop – Dja Dja</title>
       <link>https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</link>
@@ -230,22 +246,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paradis – Recto Verso</title>
-      <link>https://pitchfork.com/reviews/albums/paradis-recto-verso/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/paradis-recto-verso/</guid>
-      <description>A review by Jesse Dorris</description>
-      <author>Jesse Dorris</author>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Cramps – Gravest Gravy</title>
-      <link>https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/</guid>
-      <description>A review by Stephen M. Deusner</description>
-      <author>Stephen M. Deusner</author>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
