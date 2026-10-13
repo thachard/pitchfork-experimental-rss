@@ -5,13 +5,27 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:36:06 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dominion Dynamics to jointly produce Ukrainian drones in Canada</title>
+      <link>https://www.thestar.com/politics/federal/dominion-dynamics-to-jointly-produce-ukrainian-drones-in-canada/article_9910a158-c6d6-5229-a25f-ad374b75940a.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/dominion-dynamics-to-jointly-produce-ukrainian-drones-in-canada/article_9910a158-c6d6-5229-a25f-ad374b75940a.html</guid>
+      <description>OTTAWA - The Ottawa-based defence company Dominion Dynamics is partnering with Ukrainian robotics company Tencore to start building its ground…</description>
+      <pubDate>Tue, 13 Oct 2026 13:05:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada joins allies in expressing regret over postponed Palestinian elections</title>
+      <link>https://www.thestar.com/politics/federal/canada-joins-allies-in-expressing-regret-over-postponed-palestinian-elections/article_3e8a00ee-9f1c-5ede-9a91-bcbd6a506845.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/canada-joins-allies-in-expressing-regret-over-postponed-palestinian-elections/article_3e8a00ee-9f1c-5ede-9a91-bcbd6a506845.html</guid>
+      <description></description>
+      <pubDate>Tue, 13 Oct 2026 13:01:32 +0000</pubDate>
+    </item>
     <item>
       <title>Carney says Canada is ‘worth fighting for’ one week from Alberta independence vote</title>
       <link>https://www.thestar.com/politics/federal/carney-says-canada-is-worth-fighting-for-one-week-from-alberta-independence-vote/article_89c1cc68-b94b-46de-818f-2fc61384e5b9.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-says-canada-is-worth-fighting-for-one-week-from-alberta-independence-vote/article_89c1cc68-b94b-46de-818f-2fc61384e5b9.html</guid>
-      <description>The Prime Minister said &apos;you can&apos;t build big things on fault lines&apos; in his Thanksgiving video.</description>
+      <description></description>
       <pubDate>Mon, 12 Oct 2026 16:41:50 +0000</pubDate>
     </item>
     <item>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/france-open-to-defence-deals-with-canada-despite-its-push-for-arms-autonomy-envoy/article_cd783177-7d06-5295-bb0b-ff982b5c5222.html</guid>
       <description></description>
       <pubDate>Mon, 12 Oct 2026 18:45:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Union says Stelco layoffs have begun, setting up possible court battle with Ottawa</title>
-      <link>https://www.thestar.com/business/union-says-stelco-layoffs-have-begun-setting-up-possible-court-battle-with-ottawa/article_950f7949-bb51-4065-aacf-2f472126ed1c.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/business/union-says-stelco-layoffs-have-begun-setting-up-possible-court-battle-with-ottawa/article_950f7949-bb51-4065-aacf-2f472126ed1c.html</guid>
-      <description></description>
-      <pubDate>Mon, 12 Oct 2026 11:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carney: Trump’s ‘energy ceasefire’ could ‘de-escalate’ war in Ukraine</title>
-      <link>https://www.thestar.com/politics/federal/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/article_69a4a002-d0f1-596d-9a55-6813886f48dd.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/article_69a4a002-d0f1-596d-9a55-6813886f48dd.html</guid>
-      <description></description>
-      <pubDate>Sun, 11 Oct 2026 18:20:05 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,24 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Union says Stelco layoffs have begun, setting up possible court battle with Ottawa</title>
+      <link>https://www.thestar.com/business/union-says-stelco-layoffs-have-begun-setting-up-possible-court-battle-with-ottawa/article_950f7949-bb51-4065-aacf-2f472126ed1c.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/business/union-says-stelco-layoffs-have-begun-setting-up-possible-court-battle-with-ottawa/article_950f7949-bb51-4065-aacf-2f472126ed1c.html</guid>
+      <description>Union official says about 90 employees are out and 80 more are expected this week, as Ottawa demands a plan within five days.</description>
+      <pubDate>Mon, 12 Oct 2026 11:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carney: Trump’s ‘energy ceasefire’ could ‘de-escalate’ war in Ukraine</title>
+      <link>https://www.thestar.com/politics/federal/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/article_69a4a002-d0f1-596d-9a55-6813886f48dd.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/article_69a4a002-d0f1-596d-9a55-6813886f48dd.html</guid>
+      <description></description>
+      <pubDate>Sun, 11 Oct 2026 18:20:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Canada advises no travel to Riyadh airport after Houthi attacks, embassy remains open</title>
       <link>https://www.thestar.com/politics/federal/canada-advises-no-travel-to-riyadh-airport-after-houthi-attacks-embassy-remains-open/article_3f579429-f67c-526b-b02c-9bc3440a55ec.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/canada-advises-no-travel-to-riyadh-airport-after-houthi-attacks-embassy-remains-open/article_3f579429-f67c-526b-b02c-9bc3440a55ec.html</guid>
-      <description>Canada&apos;s ambassador to Saudi Arabia says the embassy in Riyadh remains open for Canadians who are in need of consular assistance.</description>
+      <description></description>
       <pubDate>Sun, 11 Oct 2026 18:27:27 +0000</pubDate>
     </item>
     <item>
@@ -109,7 +123,7 @@
       <title>Alberta separatists are expected to lose. They’re not preparing to quit</title>
       <link>https://www.thestar.com/politics/federal/alberta-separatists-are-expected-to-lose-they-re-not-preparing-to-quit/article_bdb52770-9427-4b2a-a6b8-2f05d300ebe7.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/alberta-separatists-are-expected-to-lose-they-re-not-preparing-to-quit/article_bdb52770-9427-4b2a-a6b8-2f05d300ebe7.html</guid>
-      <description></description>
+      <description>Eight days remain in the campaign in which Albertans will decide whether to set their province on the path to secession.</description>
       <pubDate>Mon, 12 Oct 2026 12:56:09 +0000</pubDate>
     </item>
     <item>
@@ -123,7 +137,7 @@
       <title>France’s envoy says Carney admired for response to ‘extremely radical’ U.S.</title>
       <link>https://www.thestar.com/politics/federal/france-s-envoy-says-carney-admired-for-response-to-extremely-radical-u-s/article_ed9f0c20-6e53-5d6c-883e-c41c65f71106.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/france-s-envoy-says-carney-admired-for-response-to-extremely-radical-u-s/article_ed9f0c20-6e53-5d6c-883e-c41c65f71106.html</guid>
-      <description>OTTAWA - France&apos;s new ambassador to Canada says her country admires the Carney government&apos;s response to &quot;extremely radical&quot; American demands a…</description>
+      <description></description>
       <pubDate>Sun, 11 Oct 2026 16:55:25 +0000</pubDate>
     </item>
     <item>
@@ -139,20 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/complaint-filed-to-medical-regulator-over-mp-saying-fentanyl-readily-available-in-maid-report/article_38e1d7c0-80b4-5119-af5c-0c345719cb45.html</guid>
       <description></description>
       <pubDate>Sat, 10 Oct 2026 19:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Carney broke pledge to visit, discuss Pacific Link pipeline before announcement, First Nations chief says</title>
-      <link>https://www.thestar.com/politics/federal/carney-broke-pledge-to-visit-discuss-pacific-link-pipeline-before-announcement-first-nations-chief-says/article_a72869bb-3d4a-4b1f-b9a0-ab4b676d33c5.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-broke-pledge-to-visit-discuss-pacific-link-pipeline-before-announcement-first-nations-chief-says/article_a72869bb-3d4a-4b1f-b9a0-ab4b676d33c5.html</guid>
-      <description></description>
-      <pubDate>Mon, 12 Oct 2026 13:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI arrests Canadian in ShinyHunters hack of the bureau’s jobs portal</title>
-      <link>https://www.thestar.com/politics/federal/fbi-arrests-canadian-in-shinyhunters-hack-of-the-bureau-s-jobs-portal/article_469b5ff9-d90f-5cf4-966a-b6442c28259f.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/fbi-arrests-canadian-in-shinyhunters-hack-of-the-bureau-s-jobs-portal/article_469b5ff9-d90f-5cf4-966a-b6442c28259f.html</guid>
-      <description></description>
-      <pubDate>Fri, 09 Oct 2026 16:53:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
