@@ -5,35 +5,14 @@
     <link>https://www.thestar.com/opinion/contributors/</link>
     <description>Opinion contributor articles from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:00:54 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/opinion/contributors/" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>David Miller: Brad Bradford promises to fix a problem that doesn’t exist. His ‘solution’ is bad news for all Torontonians</title>
-      <link>https://www.thestar.com/opinion/contributors/david-miller-brad-bradford-promises-to-fix-a-problem-that-doesn-t-exist-his-solution-is-bad-news-for-all-torontonians/article_bacbf036-237e-4958-94a3-1359a7896d2f.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/david-miller-brad-bradford-promises-to-fix-a-problem-that-doesn-t-exist-his-solution-is-bad-news-for-all-torontonians/article_bacbf036-237e-4958-94a3-1359a7896d2f.html</guid>
-      <description>The mayoral candidate is promising lower water bills. But at what cost?</description>
-      <pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scott Aitchison: Why I’m resigning as MP — and what our country needs now</title>
-      <link>https://www.thestar.com/opinion/contributors/scott-aitchison-after-seven-years-in-parliament-i-ve-met-a-lot-of-people-there-s-one-i-ll-never-forget/article_745fc0a1-3195-4ed9-a4ae-da948d9ecbe0.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/scott-aitchison-after-seven-years-in-parliament-i-ve-met-a-lot-of-people-there-s-one-i-ll-never-forget/article_745fc0a1-3195-4ed9-a4ae-da948d9ecbe0.html</guid>
-      <description></description>
-      <pubDate>Tue, 13 Oct 2026 11:27:17 +0000</pubDate>
-    </item>
     <item>
       <title>Matt Elliott: Olivia Chow has a strong pro-police record — why isn’t she running on it?</title>
       <link>https://www.thestar.com/opinion/olivia-chow-has-a-strong-pro-police-record-why-isn-t-she-running-on-it/article_e379a6bf-e9b4-47f6-a8e7-427656dab777.html</link>
       <guid isPermaLink="true">https://www.thestar.com/opinion/olivia-chow-has-a-strong-pro-police-record-why-isn-t-she-running-on-it/article_e379a6bf-e9b4-47f6-a8e7-427656dab777.html</guid>
-      <description>The mayor seems reluctant to take credit for her work funding the police, possibly to avoid rubbing her left-wing base the wrong way, but for …</description>
-      <pubDate>Tue, 13 Oct 2026 08:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Semley: In Trump’s America, watch a man die by firing squad from the comfort of your living room</title>
-      <link>https://www.thestar.com/opinion/contributors/in-trump-s-america-watch-a-man-die-by-firing-squad-from-the-comfort-of-your-living-room/article_bcc312ac-0f51-42eb-acdc-ef349ecd3f02.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/in-trump-s-america-watch-a-man-die-by-firing-squad-from-the-comfort-of-your-living-room/article_bcc312ac-0f51-42eb-acdc-ef349ecd3f02.html</guid>
-      <description>Even judged against the USA’s free-falling civic standards, live-streaming an execution is insane and debased.</description>
-      <pubDate>Tue, 13 Oct 2026 08:51:52 +0000</pubDate>
+      <description>For better or worse, Chow has given police officers nearly everything they&apos;ve asked for during her tenure as mayor.</description>
+      <pubDate>Tue, 13 Oct 2026 11:35:48 +0000</pubDate>
     </item>
     <item>
       <title>Olivia Chow and Brad Bradford aren’t saying it. But even homeowners know their homes are too expensive</title>
@@ -41,6 +20,27 @@
       <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/olivia-chow-and-brad-bradford-aren-t-saying-it-but-even-homeowners-know-their-homes-are-too-expensive/article_bc02be81-7a84-4845-a7fe-37ef2e907b3b.html</guid>
       <description></description>
       <pubDate>Tue, 13 Oct 2026 08:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scott Aitchison: Why I’m resigning as MP — and what our country needs now</title>
+      <link>https://www.thestar.com/opinion/contributors/scott-aitchison-after-seven-years-in-parliament-i-ve-met-a-lot-of-people-there-s-one-i-ll-never-forget/article_745fc0a1-3195-4ed9-a4ae-da948d9ecbe0.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/scott-aitchison-after-seven-years-in-parliament-i-ve-met-a-lot-of-people-there-s-one-i-ll-never-forget/article_745fc0a1-3195-4ed9-a4ae-da948d9ecbe0.html</guid>
+      <description>The lessons I learned in the small town of Huntsville, Ont., could be applied to the entire country.</description>
+      <pubDate>Tue, 13 Oct 2026 11:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>David Miller: Brad Bradford’s ‘solution’ to a problem that doesn’t exist is bad news for all Torontonians</title>
+      <link>https://www.thestar.com/opinion/contributors/david-miller-brad-bradford-promises-to-fix-a-problem-that-doesn-t-exist-his-solution-is-bad-news-for-all-torontonians/article_bacbf036-237e-4958-94a3-1359a7896d2f.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/david-miller-brad-bradford-promises-to-fix-a-problem-that-doesn-t-exist-his-solution-is-bad-news-for-all-torontonians/article_bacbf036-237e-4958-94a3-1359a7896d2f.html</guid>
+      <description>The mayoral candidate is promising lower water bills. But at what cost?</description>
+      <pubDate>Tue, 13 Oct 2026 12:25:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Semley: In Trump’s America, watch a man die by firing squad from the comfort of your living room</title>
+      <link>https://www.thestar.com/opinion/contributors/in-trump-s-america-watch-a-man-die-by-firing-squad-from-the-comfort-of-your-living-room/article_bcc312ac-0f51-42eb-acdc-ef349ecd3f02.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/opinion/contributors/in-trump-s-america-watch-a-man-die-by-firing-squad-from-the-comfort-of-your-living-room/article_bcc312ac-0f51-42eb-acdc-ef349ecd3f02.html</guid>
+      <description></description>
+      <pubDate>Tue, 13 Oct 2026 12:19:11 +0000</pubDate>
     </item>
     <item>
       <title>I experienced the most dreaded four-letter word for anyone over 60 but I was lucky</title>
