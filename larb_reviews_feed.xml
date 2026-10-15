@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:00:34 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Murderous, Man-Hating, and Baby-Killing</title>
+      <link>https://lareviewofbooks.org/article/monstrous-bitch-history-terrifying-women-eleanor-johnson-feminism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/monstrous-bitch-history-terrifying-women-eleanor-johnson-feminism/</guid>
+      <description>Eleanor Johnson’s new book traces the lineage of the demonic women trope to its Mesopotamian origins.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Arcana Made Easy</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>When Speaking Fails</title>
-      <link>https://lareviewofbooks.org/article/douglas-stuart-john-of-john-novel-scotland-gaelic/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/douglas-stuart-john-of-john-novel-scotland-gaelic/</guid>
-      <description>Douglas Stuart’s new novel shows how unspoken secrets can ravage a family and a community.</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Speaking Fails</title>
+      <link>https://lareviewofbooks.org/article/douglas-stuart-john-of-john-novel-scotland-gaelic/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/douglas-stuart-john-of-john-novel-scotland-gaelic/</guid>
+      <description>Douglas Stuart’s new novel shows how unspoken secrets can ravage a family and a community.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Idyll Worship</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/rhyl-poster-tom-mccarthy-gravitys-rainbow-pynchon-metafiction/</guid>
       <description>Tom McCarthy’s new novel is a summation of his writing process, an inventive, possibly parodic auto-metafiction.</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Queen of Hearts</title>
-      <link>https://lareviewofbooks.org/article/virginia-oldoini-countess-castiglione-contessa-biography-benedetta-craveri/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/virginia-oldoini-countess-castiglione-contessa-biography-benedetta-craveri/</guid>
-      <description>A newly translated biography of Virginia Oldoini, Countess of Castiglione, aims to reveal the real woman behind the subject of everyone’s gaze.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
