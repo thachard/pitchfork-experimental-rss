@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:03:05 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oren Ambarchi – Cooked</title>
+      <link>https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kaitlyn Aurelia Smith – RUIN: It’s Not Just Music</title>
       <link>https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/</link>
@@ -190,14 +198,6 @@
       <description>A review by Colin Joyce</description>
       <author>Colin Joyce</author>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Standing on the Corner – Standing on the Corner II</title>
-      <link>https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</guid>
-      <description>A review by Matthew Ritchie</description>
-      <author>Matthew Ritchie</author>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

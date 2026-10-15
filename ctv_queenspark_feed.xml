@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:03:58 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arrests made at Toronto bike lane removal protest</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/arrests-made-at-toronto-bike-lane-removal-protest/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/arrests-made-at-toronto-bike-lane-removal-protest/</guid>
+      <description>Video</description>
+      <pubDate>Thu, 15 Oct 2026 00:48:29 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto cyclists ask Canada&apos;s top court to weigh in on Ford&apos;s bike lane removal plan</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/toronto-cyclists-ask-canadas-top-court-to-weigh-in-on-fords-bike-lane-removal-plan/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/toronto-cyclists-ask-canadas-top-court-to-weigh-in-on-fords-bike-lane-removal-plan/</guid>
-      <description>Video</description>
+      <description>Cyclists challenging Ontario’s plan to tear up Toronto bike lanes will ask the Supreme Court of Canada to weigh in, the groups backing the case said Tuesday, as more removal work was slated to begin.</description>
       <pubDate>Tue, 13 Oct 2026 18:55:28 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/health-ministers-to-hold-emergency-meeting-to-discuss-federal-funding-ahead-of-budget/</guid>
       <description>Ontario’s health minister says she and her colleagues from across the country are set to hold an emergency meeting to talk about federal funding.</description>
       <pubDate>Mon, 28 Sep 2026 16:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Queen’s Park officer dies in weekend collision</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/deeply-saddened-queens-park-officer-dies-in-collision/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/deeply-saddened-queens-park-officer-dies-in-collision/</guid>
-      <description>A Queen’s Park peace officer died in a motor vehicle collision over the weekend.</description>
-      <pubDate>Mon, 28 Sep 2026 18:47:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
