@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:58:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:59:47 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jeremiah Chiu – Edge Conditions</title>
+      <link>https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/</guid>
+      <description>A review by Jude Noel</description>
+      <author>Jude Noel</author>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jon Hassell – Music Is Invisible (Pentimento Volume Three)</title>
+      <link>https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/</guid>
+      <description>A review by Mark Richardson</description>
+      <author>Mark Richardson</author>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oren Ambarchi – Cooked</title>
       <link>https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/</link>
@@ -182,22 +198,6 @@
       <description>A review by Sam Goldner</description>
       <author>Sam Goldner</author>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sofie Birch – Bivabippabualukka</title>
-      <link>https://pitchfork.com/reviews/albums/sofie-birch-bivabippabualukka/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sofie-birch-bivabippabualukka/</guid>
-      <description>A review by Shaad D’Souza</description>
-      <author>Shaad D’Souza</author>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eartheater – Heavenly Body: If I’m the Bottle You’re the Message</title>
-      <link>https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/eartheater-heavenly-body-if-im-the-bottle-youre-the-message/</guid>
-      <description>A review by Colin Joyce</description>
-      <author>Colin Joyce</author>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

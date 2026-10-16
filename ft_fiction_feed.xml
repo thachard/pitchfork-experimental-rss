@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:00:16 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From Britain’s dysfunctional energy sector to novels on TV, from English German-bashing to cold war defection and how Canada should handle Trump. Plus: a family saga by Min Jin Lee, David McCloskey’s new thriller and our pick of graphic novels</description>
+      <pubDate>Fri, 16 Oct 2026 11:41:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>London Station by David McCloskey — the Special Relationship turns dirty</title>
+      <link>https://www.ft.com/content/3e84d2c0-2606-4833-bd73-6e715add27a1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/3e84d2c0-2606-4833-bd73-6e715add27a1</guid>
+      <description>A story of the CIA and MI6 spying on each other sounds very of our time, but this new thriller is marred by too much graphic detail</description>
+      <pubDate>Fri, 16 Oct 2026 04:00:17 +0000</pubDate>
+    </item>
     <item>
       <title>American Hagwon — lessons in the immigrant experience</title>
       <link>https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd</link>
@@ -27,13 +41,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/9ff2f4cf-9956-449b-aebf-ce8cd86d7ae6</guid>
       <description>Paul B Rainey’s ‘Murder School’ reads like Lindsay Anderson’s ‘If . . .’ via Adrian Mole, while Lisa Hanawalt offers charming weirdness in ‘I Can’t Stop Thinking About Horses and Sex’</description>
       <pubDate>Mon, 12 Oct 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From quantum science to Evan Gershkovich’s prison memoir, from Michael Lewis on Doge to Elif Shafak’s story of Flaubert’s women. Plus: Sherry Turkle’s warning on AI companions, Philip Hensher’s survey of the novel — and James Lovegrove’s pick of sci-fi</description>
-      <pubDate>Fri, 09 Oct 2026 11:50:33 +0000</pubDate>
     </item>
     <item>
       <title>In One Brief Moment All Eternity — Elif Shafak gives voice to Flaubert’s women</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/bfb9323d-2555-41b6-ba2c-a26335f94f95?syn-25a6b1a6=1</guid>
       <description>This beautifully written novel portrays two equally terrifying views of the world in 2031 — total anarchy or safety under a repressive state</description>
       <pubDate>Thu, 10 Sep 2026 11:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Denmark’s women on the edge: new fiction from Dorthe Nors and Helle Helle</title>
-      <link>https://www.ft.com/content/305b8f26-8413-486c-8c61-a0749bad8c5c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/305b8f26-8413-486c-8c61-a0749bad8c5c</guid>
-      <description>Two newly translated novels exploring solitude, regret and lives not led are part of a compelling current wave of work from Danish female writers</description>
-      <pubDate>Thu, 10 Sep 2026 04:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
