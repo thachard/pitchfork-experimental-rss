@@ -5,8 +5,15 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:59:23 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marlon James, Dwight Garner, and the Non-Maximalist Maximalist Novel</title>
+      <link>https://www.metropolitanreview.org/p/marlon-james-dwight-garner-and-the</link>
+      <guid isPermaLink="true">https://www.metropolitanreview.org/p/marlon-james-dwight-garner-and-the</guid>
+      <description>On Marlon James&amp;#8217; &amp;#8216;The Disappearers&amp;#8217;</description>
+      <pubDate>Fri, 16 Oct 2026 20:19:50 +0000</pubDate>
+    </item>
     <item>
       <title>A Solitary Life in History</title>
       <link>https://www.metropolitanreview.org/p/a-solitary-life-in-history</link>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/the-oppressors-jokes-punch-up</guid>
       <description>On Jordy Rosenberg&amp;#8217;s &amp;#8216;Night Night Fawn&amp;#8217;</description>
       <pubDate>Wed, 09 Sep 2026 15:30:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fly Me to the Sun</title>
-      <link>https://www.metropolitanreview.org/p/fly-me-to-the-sun</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/fly-me-to-the-sun</guid>
-      <description>On A. Natasha Joukovsky&amp;#8217;s &amp;#8216;Medium Rare&amp;#8217;</description>
-      <pubDate>Fri, 04 Sep 2026 17:17:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
