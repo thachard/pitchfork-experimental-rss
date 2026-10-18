@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:22:33 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Love, Sickness</title>
+      <link>https://lareviewofbooks.org/article/close-writing-kathy-acker-cookie-mueller-love-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/close-writing-kathy-acker-cookie-mueller-love-review/</guid>
+      <description>An intimate experiment in writing beside two departed authors.</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Art’s Generations</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Revenge of a Church Lady</title>
-      <link>https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</guid>
-      <description>Deesha Philyaw’s debut novel is a high-stakes tale of morality, shame, and vulnerability.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revenge of a Church Lady</title>
+      <link>https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</guid>
+      <description>Deesha Philyaw’s debut novel is a high-stakes tale of morality, shame, and vulnerability.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Make Room in the Mouth</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</guid>
       <description>James Marriott’s new book seems well timed to restoke the ‘crisis of reading’ debate just as its fire threatens to burn out.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pleasures of Delayed Gratification</title>
-      <link>https://lareviewofbooks.org/article/richie-hofmann-bronze-arms-poetry-restraint-gluck-guibert/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/richie-hofmann-bronze-arms-poetry-restraint-gluck-guibert/</guid>
-      <description>Poet Richie Hofmann appreciates the desire that undergirds waiting, impermanence, and mourning the beloved dead.</description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
