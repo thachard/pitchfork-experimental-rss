@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:29:59 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Waymo has expanded to Toronto. Here’s what Star readers think</title>
@@ -120,11 +120,25 @@
       <pubDate>Thu, 01 Oct 2026 13:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>Peel police to announce results of probe into ‘violent’ network linked to Toronto-area carjackings</title>
+      <title>Regis-Korchinski Paquet inquest hears from Toronto officer who arrived before her deadly fall</title>
+      <link>https://www.thestar.com/news/gta/regis-korchinski-paquet-inquest-hears-from-toronto-officer-who-arrived-before-her-deadly-fall/article_b62ab04f-a2e4-4819-aa15-4b2b9b9635a7.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/regis-korchinski-paquet-inquest-hears-from-toronto-officer-who-arrived-before-her-deadly-fall/article_b62ab04f-a2e4-4819-aa15-4b2b9b9635a7.html</guid>
+      <description></description>
+      <pubDate>Mon, 19 Oct 2026 12:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man arrested in Vaughan hit-and-run that left 60-year-old woman’s body undiscovered for days</title>
+      <link>https://www.thestar.com/news/gta/man-arrested-in-vaughan-hit-and-run-that-left-60-year-old-woman-s-body-undiscovered-for-days/article_abe7a75f-17ea-4ae6-99f0-511e1cb11c03.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/man-arrested-in-vaughan-hit-and-run-that-left-60-year-old-woman-s-body-undiscovered-for-days/article_abe7a75f-17ea-4ae6-99f0-511e1cb11c03.html</guid>
+      <description></description>
+      <pubDate>Mon, 19 Oct 2026 11:29:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peel police arrest 10 after months-long investigation into ‘violent’ Toronto-area carjackings</title>
       <link>https://www.thestar.com/news/gta/peel-police-to-announce-results-of-probe-into-violent-network-linked-to-toronto-area-carjackings/article_0f8f5bfe-569c-4903-99b3-1294c5ecffda.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/peel-police-to-announce-results-of-probe-into-violent-network-linked-to-toronto-area-carjackings/article_0f8f5bfe-569c-4903-99b3-1294c5ecffda.html</guid>
       <description></description>
-      <pubDate>Mon, 19 Oct 2026 10:09:40 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 12:03:28 +0000</pubDate>
     </item>
     <item>
       <title>They have no power and their pay was slashed. So why do these Ontarians still want to be school trustees?</title>
@@ -139,20 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/record-90-million-lotto-max-jackpot-up-for-grabs-again-tuesday/article_8a44bc29-5fdf-488c-83d8-95657453c531.html</guid>
       <description></description>
       <pubDate>Sat, 17 Oct 2026 19:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto’s second fall frost expected with another yellow advisory from Environment Canada</title>
-      <link>https://www.thestar.com/news/gta/first-fall-frost-forecast-but-warm-temperatures-to-return-next-week-environment-canada/article_d0dd1fb1-1e71-4ac7-b1dd-d5983570807e.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/first-fall-frost-forecast-but-warm-temperatures-to-return-next-week-environment-canada/article_d0dd1fb1-1e71-4ac7-b1dd-d5983570807e.html</guid>
-      <description></description>
-      <pubDate>Sat, 17 Oct 2026 18:54:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doug Ford’s bike lane battle sparked behind-the-scenes commotion, records reveal</title>
-      <link>https://www.thestar.com/news/gta/doug-ford-s-bike-lane-battle-sparked-behind-the-scenes-commotion-records-reveal/article_cb1cf04d-6d8c-4bc2-88de-54d9a1f40ba2.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/doug-ford-s-bike-lane-battle-sparked-behind-the-scenes-commotion-records-reveal/article_cb1cf04d-6d8c-4bc2-88de-54d9a1f40ba2.html</guid>
-      <description></description>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
