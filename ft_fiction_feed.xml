@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2026 13:59:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:15:50 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>John McGahern: A Writing Life — banned, lauded and a late success</title>
+      <link>https://www.ft.com/content/cb070443-a9dc-46fa-8531-71e7167cdbfc</link>
+      <guid isPermaLink="true">https://www.ft.com/content/cb070443-a9dc-46fa-8531-71e7167cdbfc</guid>
+      <description>Frank Shovlin writes a commanding biography of the Irish writer whose work won praise and condemnation for telling the truth about life and his country</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/a2266ebe-4bc4-4594-a1d6-deb1fa49113a</guid>
       <description>Simon Conway, Alan Parks and Alex Gerlis draw on war zone heft while Mark Ezra and MJ Robotham have a welcome softer take on spy fiction</description>
       <pubDate>Mon, 14 Sep 2026 04:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exit Party by Emily St John Mandel — parallel visions of dystopia</title>
-      <link>https://www.ft.com/content/bfb9323d-2555-41b6-ba2c-a26335f94f95?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/bfb9323d-2555-41b6-ba2c-a26335f94f95?syn-25a6b1a6=1</guid>
-      <description>This beautifully written novel portrays two equally terrifying views of the world in 2031 — total anarchy or safety under a repressive state</description>
-      <pubDate>Thu, 10 Sep 2026 11:15:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:16:53 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Worldpeace DMT – Stick Around for Tea</title>
+      <link>https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/</guid>
+      <description>A review by Samuel Hyland</description>
+      <author>Samuel Hyland</author>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teller Bank$ – NOAH</title>
+      <link>https://pitchfork.com/reviews/albums/teller-banks-noah/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/teller-banks-noah/</guid>
+      <description>A review by Olivier Lafontant</description>
+      <author>Olivier Lafontant</author>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spacemen 3 – The Perfect Prescription</title>
       <link>https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/</link>
@@ -230,22 +246,6 @@
       <description>A review by Hannah Jocelyn</description>
       <author>Hannah Jocelyn</author>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nina Winder-Lind – Wild Love</title>
-      <link>https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nina-winder-lind-wild-love/</guid>
-      <description>A review by Grace Robins-Somerville</description>
-      <author>Grace Robins-Somerville</author>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asher White – Love Aggregates</title>
-      <link>https://pitchfork.com/reviews/albums/asher-white-love-aggregates/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/asher-white-love-aggregates/</guid>
-      <description>A review by Mitch Therieau</description>
-      <author>Mitch Therieau</author>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

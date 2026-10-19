@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:17:13 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning How to Travel from the Ancients</title>
+      <link>https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</guid>
+      <description>M. D. Usher assembles an anthology of ancient travel writing refitted for our age of global tourism.</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Love, Sickness</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Arcana Made Easy</title>
-      <link>https://lareviewofbooks.org/article/queer-arcana-art-magic-spirit-steven-arnold-cocktails/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/queer-arcana-art-magic-spirit-steven-arnold-cocktails/</guid>
-      <description>Exploding notions of heteronormative occultist practice through reflections on two gallery exhibitions that celebrate queer arcana.</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arcana Made Easy</title>
+      <link>https://lareviewofbooks.org/article/queer-arcana-art-magic-spirit-steven-arnold-cocktails/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/queer-arcana-art-magic-spirit-steven-arnold-cocktails/</guid>
+      <description>Exploding notions of heteronormative occultist practice through reflections on two gallery exhibitions that celebrate queer arcana.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Revenge of a Church Lady</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/elisabeth-eric-rohmer-novel-director-film-summertime-art/</guid>
       <description>Filmmaker Éric Rohmer’s newly translated novel ‘Élisabeth’ makes one wonder what fiction does that a film cannot, and vice versa.</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Facing a Postliterate Future</title>
-      <link>https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/new-dark-ages-post-literate-society-james-marriott/</guid>
-      <description>James Marriott’s new book seems well timed to restoke the ‘crisis of reading’ debate just as its fire threatens to burn out.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
