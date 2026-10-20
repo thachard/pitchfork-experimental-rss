@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:18:42 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doppelgänger — a singularly clever swipe at American campus culture</title>
+      <link>https://www.ft.com/content/7f3c2fff-934d-43c8-8497-8f5fa2821ec3</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7f3c2fff-934d-43c8-8497-8f5fa2821ec3</guid>
+      <description>Sam Riviere’s absurdist, unruly satire charts an outbreak of ‘twinning’ and artistic imitation on a creative writing course</description>
+      <pubDate>Tue, 20 Oct 2026 12:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>John McGahern: A Writing Life — banned, lauded and a late success</title>
       <link>https://www.ft.com/content/cb070443-a9dc-46fa-8531-71e7167cdbfc</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/ab992d40-96b4-4f6f-a56a-43a1701e3927</guid>
       <description>The French author draws a fascinating portrait of his mother, from the Russian Revolution to the heart of the Paris establishment</description>
       <pubDate>Tue, 15 Sep 2026 04:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Battlefield realism and cosy espionage — our pick of the latest thrillers</title>
-      <link>https://www.ft.com/content/a2266ebe-4bc4-4594-a1d6-deb1fa49113a</link>
-      <guid isPermaLink="true">https://www.ft.com/content/a2266ebe-4bc4-4594-a1d6-deb1fa49113a</guid>
-      <description>Simon Conway, Alan Parks and Alex Gerlis draw on war zone heft while Mark Ezra and MJ Robotham have a welcome softer take on spy fiction</description>
-      <pubDate>Mon, 14 Sep 2026 04:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
