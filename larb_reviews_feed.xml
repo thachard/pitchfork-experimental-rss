@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:03:11 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Endlessly Reproducible Originality</title>
+      <link>https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</guid>
+      <description>Sam Riviere’s new novel suggests that, in a literary culture already organized around copying, the machines may prove better at being writers than we are.</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>No Woman, No Cry</title>
@@ -36,18 +43,18 @@
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Art’s Generations</title>
-      <link>https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</guid>
-      <description>Inventing and reinventing the celebrated Dutch painter.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Art’s Generations</title>
+      <link>https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</guid>
+      <description>Inventing and reinventing the celebrated Dutch painter.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Murderous, Man-Hating, and Baby-Killing</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/ellie-black-revelator-poetry-digital-internet-culture-femininity/</guid>
       <description>Ellie Black’s debut collection examines selfhood, persona, and sex on the internet.</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boomer Music</title>
-      <link>https://lareviewofbooks.org/article/new-age-music-album-oriented-rock-rees-smith/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/new-age-music-album-oriented-rock-rees-smith/</guid>
-      <description>New Age music and album-oriented rock have more in common than might initially appear.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

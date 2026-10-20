@@ -5,13 +5,27 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:02:45 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CP NewsAlert: 33 military members injured in fire remain in hospital</title>
+      <link>https://www.thestar.com/politics/federal/cp-newsalert-33-military-members-injured-in-fire-remain-in-hospital/article_638e0784-afd2-508a-8d8a-a24a1179aefd.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/cp-newsalert-33-military-members-injured-in-fire-remain-in-hospital/article_638e0784-afd2-508a-8d8a-a24a1179aefd.html</guid>
+      <description>OTTAWA - Defence Minister David McGuinty says 33 members of the Canadian Armed Forces remain in hospital after a deadly fire swept through a t…</description>
+      <pubDate>Tue, 20 Oct 2026 10:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CP NewsAlert: Carney says Alberta’s choice of unity is ‘a great result’ for Canada</title>
+      <link>https://www.thestar.com/politics/federal/cp-newsalert-carney-says-alberta-s-choice-of-unity-is-a-great-result-for-canada/article_3053a0b5-842e-5aaf-bda4-d43238255fe3.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/cp-newsalert-carney-says-alberta-s-choice-of-unity-is-a-great-result-for-canada/article_3053a0b5-842e-5aaf-bda4-d43238255fe3.html</guid>
+      <description></description>
+      <pubDate>Tue, 20 Oct 2026 10:30:05 +0000</pubDate>
+    </item>
     <item>
       <title>PBO trims economic forecast for 2026 and 2027 amid new U.S. tariffs</title>
       <link>https://www.thestar.com/politics/federal/pbo-trims-economic-forecast-for-2026-and-2027-amid-new-u-s-tariffs/article_9efabad3-96f8-5db7-9476-469fe0fdfc79.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/pbo-trims-economic-forecast-for-2026-and-2027-amid-new-u-s-tariffs/article_9efabad3-96f8-5db7-9476-469fe0fdfc79.html</guid>
-      <description>OTTAWA - The Parliamentary Budget Office is trimming its outlook for economic growth for this year and next amid new U.S. tariffs and Canadian…</description>
+      <description></description>
       <pubDate>Tue, 20 Oct 2026 10:00:05 +0000</pubDate>
     </item>
     <item>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/cp-newsalert-former-broadcaster-pamela-wallin-resigns-from-senate/article_f40da468-14f6-523c-b62c-3f69c12b7b57.html</guid>
       <description></description>
       <pubDate>Mon, 19 Oct 2026 16:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four soldiers dead, 39 in hospital after fast-moving fire at CFB Wainwright in Alberta</title>
-      <link>https://www.thestar.com/news/canada/alberta/it-hits-you-four-soldiers-dead-39-in-hospital-after-fast-moving-fire-at-cfb-wainwright-in-alberta/article_c41f3aa3-df04-45c4-a13b-0d248fc2cb4b.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/canada/alberta/it-hits-you-four-soldiers-dead-39-in-hospital-after-fast-moving-fire-at-cfb-wainwright-in-alberta/article_c41f3aa3-df04-45c4-a13b-0d248fc2cb4b.html</guid>
-      <description></description>
-      <pubDate>Mon, 19 Oct 2026 23:29:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Carney opens door to constitutional change as Alberta heads to referendum</title>
-      <link>https://www.thestar.com/politics/federal/carney-opens-door-to-constitutional-change-as-alberta-heads-to-referendum/article_e3ccc475-b4d6-441c-9cc1-08de58e420c5.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-opens-door-to-constitutional-change-as-alberta-heads-to-referendum/article_e3ccc475-b4d6-441c-9cc1-08de58e420c5.html</guid>
-      <description></description>
-      <pubDate>Tue, 20 Oct 2026 06:42:56 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,24 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Four soldiers dead, 39 in hospital after fast-moving fire at CFB Wainwright in Alberta</title>
+      <link>https://www.thestar.com/news/canada/alberta/it-hits-you-four-soldiers-dead-39-in-hospital-after-fast-moving-fire-at-cfb-wainwright-in-alberta/article_c41f3aa3-df04-45c4-a13b-0d248fc2cb4b.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/canada/alberta/it-hits-you-four-soldiers-dead-39-in-hospital-after-fast-moving-fire-at-cfb-wainwright-in-alberta/article_c41f3aa3-df04-45c4-a13b-0d248fc2cb4b.html</guid>
+      <description>Maj.-Gen. Wade Rutland says flames travelled roughly a kilometre within about a minute, striking troops during an exercise.</description>
+      <pubDate>Mon, 19 Oct 2026 23:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Carney opens door to constitutional change as Alberta heads to referendum</title>
+      <link>https://www.thestar.com/politics/federal/carney-opens-door-to-constitutional-change-as-alberta-heads-to-referendum/article_e3ccc475-b4d6-441c-9cc1-08de58e420c5.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-opens-door-to-constitutional-change-as-alberta-heads-to-referendum/article_e3ccc475-b4d6-441c-9cc1-08de58e420c5.html</guid>
+      <description></description>
+      <pubDate>Tue, 20 Oct 2026 06:42:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Carney says Canada in mourning following military base deaths in Alberta</title>
       <link>https://www.thestar.com/politics/federal/carney-says-canada-in-mourning-following-military-base-deaths-in-alberta/article_cc7b0a32-22c4-5feb-9ca5-6b6acf8bf15d.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-says-canada-in-mourning-following-military-base-deaths-in-alberta/article_cc7b0a32-22c4-5feb-9ca5-6b6acf8bf15d.html</guid>
-      <description>OTTAWA - Prime Minister Mark Carney delivered a statement in Ottawa on Sunday about a deadly, fast-moving fire at CFB Wainwright in Alberta. T…</description>
+      <description></description>
       <pubDate>Sun, 18 Oct 2026 19:06:09 +0000</pubDate>
     </item>
     <item>
@@ -109,7 +123,7 @@
       <title>Alberta separatists urged to stay the course despite outcome of Monday’s referendum</title>
       <link>https://www.thestar.com/politics/alberta-separatists-urged-to-stay-the-course-despite-outcome-of-monday-s-referendum/article_81cf0acd-3a75-4604-bdce-816dcd599657.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/alberta-separatists-urged-to-stay-the-course-despite-outcome-of-monday-s-referendum/article_81cf0acd-3a75-4604-bdce-816dcd599657.html</guid>
-      <description></description>
+      <description>A crowd of about 1,000 independence supporters turned out Saturday at the provincial legislature for their last rally before the vote.</description>
       <pubDate>Mon, 19 Oct 2026 07:47:11 +0000</pubDate>
     </item>
     <item>
@@ -123,7 +137,7 @@
       <title>How Canada’s fractured immigration consensus is starting to show up at ballot boxes</title>
       <link>https://www.thestar.com/politics/federal/how-canada-s-fractured-immigration-consensus-is-starting-to-show-up-at-ballot-boxes/article_07018eb3-ee35-5506-9eff-fe8a7a7c0ada.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/how-canada-s-fractured-immigration-consensus-is-starting-to-show-up-at-ballot-boxes/article_07018eb3-ee35-5506-9eff-fe8a7a7c0ada.html</guid>
-      <description>Alberta voters will answer five separate questions on immigration in Monday&apos;s referendum.</description>
+      <description></description>
       <pubDate>Tue, 20 Oct 2026 06:39:39 +0000</pubDate>
     </item>
     <item>
@@ -139,20 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/canada/nova-scotia/anthropic-revealed-as-client-of-10b-canadian-ai-data-centre-project/article_76702f86-a465-40fa-a355-8d0449d232b6.html</guid>
       <description></description>
       <pubDate>Sat, 17 Oct 2026 18:41:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joly warns Stelco owner to protect jobs or face forced sale of Canadian assets</title>
-      <link>https://www.thestar.com/business/joly-warns-stelco-owner-to-protect-jobs-or-face-forced-sale-of-canadian-assets/article_cf817d44-a3cd-508b-a5a8-72593e5115e7.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/business/joly-warns-stelco-owner-to-protect-jobs-or-face-forced-sale-of-canadian-assets/article_cf817d44-a3cd-508b-a5a8-72593e5115e7.html</guid>
-      <description></description>
-      <pubDate>Fri, 16 Oct 2026 17:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ottawa adding new express entry points for immigrants in ‘high-wage’ jobs</title>
-      <link>https://www.thestar.com/politics/federal/ottawa-adding-new-express-entry-points-for-immigrants-in-high-wage-jobs/article_9b1fc828-e7fb-5d17-acc4-1247af9d4f6b.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/ottawa-adding-new-express-entry-points-for-immigrants-in-high-wage-jobs/article_9b1fc828-e7fb-5d17-acc4-1247af9d4f6b.html</guid>
-      <description></description>
-      <pubDate>Fri, 16 Oct 2026 20:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
