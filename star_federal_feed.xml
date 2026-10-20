@@ -5,14 +5,21 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:21:57 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Albertans vote to remain in Canada, rejecting push for separation</title>
+      <title>PBO trims economic forecast for 2026 and 2027 amid new U.S. tariffs</title>
+      <link>https://www.thestar.com/politics/federal/pbo-trims-economic-forecast-for-2026-and-2027-amid-new-u-s-tariffs/article_9efabad3-96f8-5db7-9476-469fe0fdfc79.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/pbo-trims-economic-forecast-for-2026-and-2027-amid-new-u-s-tariffs/article_9efabad3-96f8-5db7-9476-469fe0fdfc79.html</guid>
+      <description>OTTAWA - The Parliamentary Budget Office is trimming its outlook for economic growth for this year and next amid new U.S. tariffs and Canadian…</description>
+      <pubDate>Tue, 20 Oct 2026 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than three in four Albertans reject separation</title>
       <link>https://www.thestar.com/news/canada/alberta/alberta-braces-for-delayed-referendum-results-marking-end-of-wild-campaign/article_33b15cd7-f413-4e3d-84b9-01080c1f3652.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/canada/alberta/alberta-braces-for-delayed-referendum-results-marking-end-of-wild-campaign/article_33b15cd7-f413-4e3d-84b9-01080c1f3652.html</guid>
-      <description>The deadly fire at CFB Wainwright on Saturday cast a shadow over Monday&apos;s vote, and a bitter federalist-separatist split leaves lingering ques…</description>
-      <pubDate>Tue, 20 Oct 2026 08:56:02 +0000</pubDate>
+      <description></description>
+      <pubDate>Tue, 20 Oct 2026 09:59:04 +0000</pubDate>
     </item>
     <item>
       <title>Federal ministers defend major projects bill at House committee meeting</title>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-opens-door-to-constitutional-change-as-alberta-heads-to-referendum/article_e3ccc475-b4d6-441c-9cc1-08de58e420c5.html</guid>
       <description></description>
       <pubDate>Tue, 20 Oct 2026 06:42:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carney says Canada in mourning following military base deaths in Alberta</title>
-      <link>https://www.thestar.com/politics/federal/carney-says-canada-in-mourning-following-military-base-deaths-in-alberta/article_cc7b0a32-22c4-5feb-9ca5-6b6acf8bf15d.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-says-canada-in-mourning-following-military-base-deaths-in-alberta/article_cc7b0a32-22c4-5feb-9ca5-6b6acf8bf15d.html</guid>
-      <description></description>
-      <pubDate>Sun, 18 Oct 2026 19:06:09 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Carney says Canada in mourning following military base deaths in Alberta</title>
+      <link>https://www.thestar.com/politics/federal/carney-says-canada-in-mourning-following-military-base-deaths-in-alberta/article_cc7b0a32-22c4-5feb-9ca5-6b6acf8bf15d.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-says-canada-in-mourning-following-military-base-deaths-in-alberta/article_cc7b0a32-22c4-5feb-9ca5-6b6acf8bf15d.html</guid>
+      <description>OTTAWA - Prime Minister Mark Carney delivered a statement in Ottawa on Sunday about a deadly, fast-moving fire at CFB Wainwright in Alberta. T…</description>
+      <pubDate>Sun, 18 Oct 2026 19:06:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Carney government says Canada’s immigration is under control. But those in the know highlight what’s going wrong</title>
       <link>https://www.thestar.com/news/canada/carney-government-says-canada-s-immigration-is-under-control-but-those-in-the-know-highlight-what-s-going-wrong/article_5f2c6481-d70b-4987-9fbe-05855589f470.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/canada/carney-government-says-canada-s-immigration-is-under-control-but-those-in-the-know-highlight-what-s-going-wrong/article_5f2c6481-d70b-4987-9fbe-05855589f470.html</guid>
-      <description>Some see a system still plagued by backlogs, changing rules and a lack of data on temporary residents already here.</description>
+      <description></description>
       <pubDate>Sun, 18 Oct 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
@@ -116,14 +123,14 @@
       <title>How Canada’s fractured immigration consensus is starting to show up at ballot boxes</title>
       <link>https://www.thestar.com/politics/federal/how-canada-s-fractured-immigration-consensus-is-starting-to-show-up-at-ballot-boxes/article_07018eb3-ee35-5506-9eff-fe8a7a7c0ada.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/how-canada-s-fractured-immigration-consensus-is-starting-to-show-up-at-ballot-boxes/article_07018eb3-ee35-5506-9eff-fe8a7a7c0ada.html</guid>
-      <description></description>
+      <description>Alberta voters will answer five separate questions on immigration in Monday&apos;s referendum.</description>
       <pubDate>Tue, 20 Oct 2026 06:39:39 +0000</pubDate>
     </item>
     <item>
       <title>Carney wraps up pro-Canada barnstorming tour in hometown of Edmonton</title>
       <link>https://www.thestar.com/news/canada/alberta/carney-to-bring-his-pro-canada-campaign-to-edmonton-with-referendum-just-days-away/article_a69e56d4-640b-517a-adea-e18eabfd48e3.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/canada/alberta/carney-to-bring-his-pro-canada-campaign-to-edmonton-with-referendum-just-days-away/article_a69e56d4-640b-517a-adea-e18eabfd48e3.html</guid>
-      <description>EDMONTON - Prime Minister Mark Carney wrapped up his two-day, pro-Canada barnstorming tour of Alberta by rallying with thousands of supporters…</description>
+      <description></description>
       <pubDate>Fri, 16 Oct 2026 23:19:41 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/ottawa-adding-new-express-entry-points-for-immigrants-in-high-wage-jobs/article_9b1fc828-e7fb-5d17-acc4-1247af9d4f6b.html</guid>
       <description></description>
       <pubDate>Fri, 16 Oct 2026 20:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Vote like Canada depends on it’: Carney tells Alberta referendum rally</title>
-      <link>https://www.thestar.com/news/canada/alberta/carney-to-attend-pro-canada-rally-in-calgary-as-alberta-races-toward-referendum-vote/article_aca74b12-505c-51c5-a390-14171ff101d2.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/canada/alberta/carney-to-attend-pro-canada-rally-in-calgary-as-alberta-races-toward-referendum-vote/article_aca74b12-505c-51c5-a390-14171ff101d2.html</guid>
-      <description></description>
-      <pubDate>Fri, 16 Oct 2026 17:24:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
