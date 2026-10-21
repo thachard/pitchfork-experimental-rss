@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:25:35 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto tenants are facing a wave of rental building demolitions. What advocates say councillors can do</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-tenants-are-facing-a-wave-of-rental-building-demolitions-what-advocates-say-councillors-can-do/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-tenants-are-facing-a-wave-of-rental-building-demolitions-what-advocates-say-councillors-can-do/</guid>
+      <description>Video</description>
+      <pubDate>Tue, 20 Oct 2026 23:47:45 +0000</pubDate>
+    </item>
     <item>
       <title>‘We’re saving lives’: Chris Alexander unveils plan to move Toronto’s unhoused into apartments</title>
       <link>https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</guid>
-      <description>Video</description>
+      <description>Toronto mayoral candidate Chris Alexander is promising to move thousands of people experiencing homelessness out of shelters and into permanent housing, aiming for 1,000 placements by summer 2027 as part of a four-year plan to relieve pressure on the city’s over-burdened shelter system.</description>
       <pubDate>Thu, 01 Oct 2026 12:17:47 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/paula-fletcher-says-she-wont-seek-re-election-2-days-after-registering-as-a-candidate/</guid>
       <description>Coun. Paula Fletcher has changed her mind about running for re-election, just two days after announcing that she was seeking another term.</description>
       <pubDate>Wed, 19 Aug 2026 22:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Erskine-Smith to run for Toronto city council</title>
-      <link>https://www.ctvnews.ca/toronto/article/erskine-smith-to-run-for-toronto-city-council/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/erskine-smith-to-run-for-toronto-city-council/</guid>
-      <description>Former Liberal MP and cabinet minister Nate Erskine-Smith is throwing his hat in the ring to become a member of Toronto city council.</description>
-      <pubDate>Wed, 19 Aug 2026 16:54:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
