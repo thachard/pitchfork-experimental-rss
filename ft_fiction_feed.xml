@@ -5,8 +5,29 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:28:04 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Sarah J Maas’s ‘sexy faeries’ helped publishing win over TikTok</title>
+      <link>https://www.ft.com/content/921548ae-44ad-4313-92f9-a8633950b144</link>
+      <guid isPermaLink="true">https://www.ft.com/content/921548ae-44ad-4313-92f9-a8633950b144</guid>
+      <description>As fans await next week’s release of the new ‘Court of Thorns and Roses’ story, there is no sign that romantasy’s escapism is losing its million-selling magic</description>
+      <pubDate>Thu, 22 Oct 2026 11:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doom Painting — AK Blakemore vividly charts the Peasants’ Revolt</title>
+      <link>https://www.ft.com/content/4e692530-0f5d-4e99-960e-810eeb81200b</link>
+      <guid isPermaLink="true">https://www.ft.com/content/4e692530-0f5d-4e99-960e-810eeb81200b</guid>
+      <description>An intense, blow-by-blow reimagining of England’s 14th-century uprising thrills with its rich language and palpably realistic detail</description>
+      <pubDate>Thu, 22 Oct 2026 04:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>May We Feed the King — a feast for the senses in a medieval court</title>
+      <link>https://www.ft.com/content/15571a39-a8ca-4e06-82b9-075f4018a974</link>
+      <guid isPermaLink="true">https://www.ft.com/content/15571a39-a8ca-4e06-82b9-075f4018a974</guid>
+      <description>Rebecca Perry’s Booker-shortlisted novel plays thrillingly with fact and historical fiction in this artful re-creation of the Middle Ages</description>
+      <pubDate>Wed, 21 Oct 2026 16:37:13 +0000</pubDate>
+    </item>
     <item>
       <title>Doppelgänger — a singularly clever swipe at American campus culture</title>
       <link>https://www.ft.com/content/7f3c2fff-934d-43c8-8497-8f5fa2821ec3</link>
@@ -160,27 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/eb43eaa4-5eef-425e-8b93-7c69a05e7944</guid>
       <description>The Pulitzer winner’s third novel continues his exploration of the character of America, from geographical space to capital and now technology and human connection</description>
       <pubDate>Thu, 17 Sep 2026 11:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Farewell to Eden by Sebastian Faulks — a plea for peace</title>
-      <link>https://www.ft.com/content/53839b23-b3dc-46b5-856f-22f5396fa5d0</link>
-      <guid isPermaLink="true">https://www.ft.com/content/53839b23-b3dc-46b5-856f-22f5396fa5d0</guid>
-      <description>Tracing a life of trauma and war, this involving novel is a characteristic hybrid, mixing moral questions and a murder mystery</description>
-      <pubDate>Wed, 16 Sep 2026 11:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taipei Story — Rebecca F Kuang’s search for authenticity</title>
-      <link>https://www.ft.com/content/15a6fee6-f1bc-497b-b309-0e83d72478fb</link>
-      <guid isPermaLink="true">https://www.ft.com/content/15a6fee6-f1bc-497b-b309-0e83d72478fb</guid>
-      <description>The novelist’s exploration of Chinese-American identity sadly lacks the dynamism of her smash-hit ‘Yellowface’</description>
-      <pubDate>Tue, 15 Sep 2026 11:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kolkhoz by Emmanuel Carrère — the remarkable life of a literary grande dame</title>
-      <link>https://www.ft.com/content/ab992d40-96b4-4f6f-a56a-43a1701e3927</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ab992d40-96b4-4f6f-a56a-43a1701e3927</guid>
-      <description>The French author draws a fascinating portrait of his mother, from the Russian Revolution to the heart of the Paris establishment</description>
-      <pubDate>Tue, 15 Sep 2026 04:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
