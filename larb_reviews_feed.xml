@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:39:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:15:42 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Said Phenomenon</title>
+      <link>https://lareviewofbooks.org/article/edward-said-jonathan-swift-lionel-trilling-cultural-criticism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/edward-said-jonathan-swift-lionel-trilling-cultural-criticism/</guid>
+      <description>Two new books on Edward Said read his criticism alongside the work of Jonathan Swift and Lionel Trilling.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mourning, Melancholy—or Ta’zieh</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Learning How to Travel from the Ancients</title>
-      <link>https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</guid>
-      <description>M. D. Usher assembles an anthology of ancient travel writing refitted for our age of global tourism.</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning How to Travel from the Ancients</title>
+      <link>https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</guid>
+      <description>M. D. Usher assembles an anthology of ancient travel writing refitted for our age of global tourism.</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Love, Sickness</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/douglas-stuart-john-of-john-novel-scotland-gaelic/</guid>
       <description>Douglas Stuart’s new novel shows how unspoken secrets can ravage a family and a community.</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Idyll Worship</title>
-      <link>https://lareviewofbooks.org/article/hamlet-called-america-khrystia-vengryniuk-ukraine-pastoral-village/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/hamlet-called-america-khrystia-vengryniuk-ukraine-pastoral-village/</guid>
-      <description>Ukrainian author Khrystia Vengryniuk’s newly translated novel is a sly and disarming anti-pastoral about a province called America.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
