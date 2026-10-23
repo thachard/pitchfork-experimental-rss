@@ -5,8 +5,29 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:03:42 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From romantasy’s spell over TikTok to the sonic skulduggery that mystified the CIA and thrilling reimaginings of the Peasants’ Revolt and medieval kitchens. Plus: a surreal swipe at campus culture, the history of property seizing, a commanding biography of John McGahern and more</description>
+      <pubDate>Fri, 23 Oct 2026 11:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Man with Many Names by Georgi Gospodinov — the ghosts of Bulgaria</title>
+      <link>https://www.ft.com/content/2274b9d9-b7dd-49ed-8c4a-8f54cd405e6d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/2274b9d9-b7dd-49ed-8c4a-8f54cd405e6d</guid>
+      <description>From communist absurdities to villages emptied by emigration, this collection of stories  finds wit and tenderness in the country’s turbulent past</description>
+      <pubDate>Fri, 23 Oct 2026 11:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Bag — a funny, heartfelt story of academia and hapless humanity</title>
+      <link>https://www.ft.com/content/277c55b0-cddf-4b19-a388-403008053289</link>
+      <guid isPermaLink="true">https://www.ft.com/content/277c55b0-cddf-4b19-a388-403008053289</guid>
+      <description>Inspired by a bizarre 1960s experiment at a US university, Luke Kennard’s Booker-shortlisted novel takes a surreal and touching look at campus absurdities</description>
+      <pubDate>Thu, 22 Oct 2026 16:00:04 +0000</pubDate>
+    </item>
     <item>
       <title>How Sarah J Maas’s ‘sexy faeries’ helped publishing win over TikTok</title>
       <link>https://www.ft.com/content/921548ae-44ad-4313-92f9-a8633950b144</link>
@@ -25,7 +46,7 @@
       <title>May We Feed the King — a feast for the senses in a medieval court</title>
       <link>https://www.ft.com/content/15571a39-a8ca-4e06-82b9-075f4018a974</link>
       <guid isPermaLink="true">https://www.ft.com/content/15571a39-a8ca-4e06-82b9-075f4018a974</guid>
-      <description>Rebecca Perry’s Booker-shortlisted novel plays thrillingly with fact and historical fiction in this artful re-creation of the Middle Ages</description>
+      <description>Rebecca Perry’s Booker-shortlisted novel plays thrillingly with fact and historical fiction in an artful re-creation of the Middle Ages</description>
       <pubDate>Wed, 21 Oct 2026 16:37:13 +0000</pubDate>
     </item>
     <item>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/cb070443-a9dc-46fa-8531-71e7167cdbfc</guid>
       <description>Frank Shovlin writes a commanding biography of the Irish writer whose work won praise and condemnation for telling the truth about life and his country</description>
       <pubDate>Mon, 19 Oct 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Britain’s dysfunctional energy sector to novels on TV, from English German-bashing to cold war defection and how Canada should handle Trump. Plus: a family saga by Min Jin Lee, David McCloskey’s new thriller and our pick of graphic novels</description>
-      <pubDate>Fri, 16 Oct 2026 11:41:40 +0000</pubDate>
     </item>
     <item>
       <title>London Station by David McCloskey — the Special Relationship turns dirty</title>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/afee359c-2e84-4071-b6f7-804c089d9a7e?syn-25a6b1a6=1</guid>
       <description>From a post-apocalyptic tale on the coast of Kent to a meditation on the power of secrets, here are our critics’ views on four of the six works of fiction in the running for this year’s Booker Prize. The winner will be announced on November 9</description>
       <pubDate>Tue, 22 Sep 2026 19:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Strangers by Naomi Alderman — the monsters in the garden</title>
-      <link>https://www.ft.com/content/b1da7a99-bb1d-4ccd-bac8-12c3a2ca48ba</link>
-      <guid isPermaLink="true">https://www.ft.com/content/b1da7a99-bb1d-4ccd-bac8-12c3a2ca48ba</guid>
-      <description>The award-winning novelist of ‘The Power’ returns with a curious mix of memoir, supernatural meditation and ecological conspiracy</description>
-      <pubDate>Mon, 21 Sep 2026 04:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interview.Hernan Diaz on his novel Ply — ‘The gesture of the book is very punkish’</title>
-      <link>https://www.ft.com/content/eb43eaa4-5eef-425e-8b93-7c69a05e7944</link>
-      <guid isPermaLink="true">https://www.ft.com/content/eb43eaa4-5eef-425e-8b93-7c69a05e7944</guid>
-      <description>The Pulitzer winner’s third novel continues his exploration of the character of America, from geographical space to capital and now technology and human connection</description>
-      <pubDate>Thu, 17 Sep 2026 11:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
