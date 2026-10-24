@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:27:01 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario is planning to launch digital IDs. Here’s what you need to know.</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-plans-to-launch-digital-ids-including-drivers-licences-and-health-cards/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-plans-to-launch-digital-ids-including-drivers-licences-and-health-cards/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 23 Oct 2026 23:48:54 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario to table fall fiscal update next week with &apos;disciplined&apos; spending approach</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-table-fall-fiscal-update-next-week-with-disciplined-spending-approach/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-table-fall-fiscal-update-next-week-with-disciplined-spending-approach/</guid>
-      <description></description>
+      <description>Ontario’s finance minister says he will table his government’s fall economic statement next week, on Oct. 29.</description>
       <pubDate>Thu, 22 Oct 2026 12:37:08 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontarios-police-watchdog-seeks-new-director-as-current-leaders-term-set-to-expire/</guid>
       <description>The province’s police watchdog is looking for a new director as the current head of the Special Investigations Unit is set to step down at the end of the year.</description>
       <pubDate>Fri, 09 Oct 2026 19:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Work to remove Bloor Street West bike lanes to begin next week: province</title>
-      <link>https://www.ctvnews.ca/toronto/article/work-to-remove-bloor-street-west-bike-lanes-to-begin-next-week-province/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/work-to-remove-bloor-street-west-bike-lanes-to-begin-next-week-province/</guid>
-      <description>Work to remove the bike lanes on Bloor Street West is set to begin next week.</description>
-      <pubDate>Thu, 08 Oct 2026 23:18:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
