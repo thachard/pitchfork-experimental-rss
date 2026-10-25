@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:57:37 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ne-Yo – In My Own Words</title>
+      <link>https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/</guid>
+      <description>A review by Clover Hope</description>
+      <author>Clover Hope</author>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Amy Winehouse – Back to Black(20th Anniversary Edition)</title>
       <link>https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/</link>
@@ -238,14 +246,6 @@
       <description>A review by en Cardew</description>
       <author>en Cardew</author>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Easy Rider (Music From the Soundtrack)</title>
-      <link>https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/</guid>
-      <description>A review by Elizabeth Nelson</description>
-      <author>Elizabeth Nelson</author>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
