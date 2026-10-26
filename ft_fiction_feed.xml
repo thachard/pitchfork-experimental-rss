@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:49:46 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Music Against the Night by Yiyun Li — life in a minor key</title>
+      <link>https://www.ft.com/content/c8d2cf31-6ab5-47be-b369-e48dfe09a7f9</link>
+      <guid isPermaLink="true">https://www.ft.com/content/c8d2cf31-6ab5-47be-b369-e48dfe09a7f9</guid>
+      <description>Two largely forgotten pianists of the early 19th century — John Field and Adelaide Percheron — are brought vividly to life in a novel of ambition, memory and music</description>
+      <pubDate>Mon, 26 Oct 2026 05:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -173,13 +180,6 @@
       <link>https://www.ft.com/content/57b5ec46-c1c4-4063-a828-017eb60d6572</link>
       <guid isPermaLink="true">https://www.ft.com/content/57b5ec46-c1c4-4063-a828-017eb60d6572</guid>
       <description>The six novels span genres from dystopian and historical fiction to contemporary realism and campus satire</description>
-      <pubDate>Tue, 22 Sep 2026 19:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Booker Prize 2026 — the shortlisted titles in the FT</title>
-      <link>https://www.ft.com/content/afee359c-2e84-4071-b6f7-804c089d9a7e?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/afee359c-2e84-4071-b6f7-804c089d9a7e?syn-25a6b1a6=1</guid>
-      <description>From a post-apocalyptic tale on the coast of Kent to a meditation on the power of secrets, here are our critics’ views on four of the six works of fiction in the running for this year’s Booker Prize. The winner will be announced on November 9</description>
       <pubDate>Tue, 22 Sep 2026 19:00:05 +0000</pubDate>
     </item>
   </channel>

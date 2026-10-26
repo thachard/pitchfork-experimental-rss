@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:51:04 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>heavensouls – cantu of the sower</title>
+      <link>https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</guid>
+      <description>A review by Kieran Press-Reynolds</description>
+      <author>Kieran Press-Reynolds</author>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ne-Yo – In My Own Words</title>
       <link>https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/</link>
@@ -238,14 +246,6 @@
       <description>A review by Madison Bloom</description>
       <author>Madison Bloom</author>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agnes Obel – The Meaning of Flowers</title>
-      <link>https://pitchfork.com/reviews/albums/agnes-obel-the-meaning-of-flowers/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/agnes-obel-the-meaning-of-flowers/</guid>
-      <description>A review by en Cardew</description>
-      <author>en Cardew</author>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

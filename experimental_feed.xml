@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:49:25 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>heavensouls – cantu of the sower</title>
+      <link>https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</guid>
+      <description>A review by Kieran Press-Reynolds</description>
+      <author>Kieran Press-Reynolds</author>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spacemen 3 – The Perfect Prescription</title>
       <link>https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/</link>
@@ -190,14 +198,6 @@
       <description>A review by Jazz Monroe</description>
       <author>Jazz Monroe</author>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foodman – HIKARIGASASHIKOMU</title>
-      <link>https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/</guid>
-      <description>A review by Daniel Bromfield</description>
-      <author>Daniel Bromfield</author>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
