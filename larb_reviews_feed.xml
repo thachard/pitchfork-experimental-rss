@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:11:47 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intangible Juju Magic</title>
+      <link>https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</guid>
+      <description>Any company billing itself as morally or otherwise exceptional is selling a myth.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Midlife Review</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Endlessly Reproducible Originality</title>
-      <link>https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</guid>
-      <description>Sam Riviere’s new novel suggests that, in a literary culture already organized around copying, the machines may prove better at being writers than we are.</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Endlessly Reproducible Originality</title>
+      <link>https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</guid>
+      <description>Sam Riviere’s new novel suggests that, in a literary culture already organized around copying, the machines may prove better at being writers than we are.</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>No Woman, No Cry</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</guid>
       <description>Deesha Philyaw’s debut novel is a high-stakes tale of morality, shame, and vulnerability.</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Make Room in the Mouth</title>
-      <link>https://lareviewofbooks.org/article/layli-long-soldier-we-beth-piatote-distant-water/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/layli-long-soldier-we-beth-piatote-distant-water/</guid>
-      <description>Two new collections of poetry look backward and forward at Indigenous history.</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
