@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:04:08 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I Require a You</title>
+      <link>https://lareviewofbooks.org/article/sherry-turkle-artificial-intimacy-talk-machines-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/sherry-turkle-artificial-intimacy-talk-machines-artificial-intelligence/</guid>
+      <description>AI ‘relationships’ won’t help us become ourselves.</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Intangible Juju Magic</title>
@@ -36,18 +43,18 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mourning, Melancholy—or Ta’zieh</title>
-      <link>https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</guid>
-      <description>Visiting Azadeh Akhlaghi at the Peabody Museum.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mourning, Melancholy—or Ta’zieh</title>
+      <link>https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</guid>
+      <description>Visiting Azadeh Akhlaghi at the Peabody Museum.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Endlessly Reproducible Originality</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/queer-arcana-art-magic-spirit-steven-arnold-cocktails/</guid>
       <description>Exploding notions of heteronormative occultist practice through reflections on two gallery exhibitions that celebrate queer arcana.</description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revenge of a Church Lady</title>
-      <link>https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/confessions-first-lady-freeman-deesha-philyaw-black-church/</guid>
-      <description>Deesha Philyaw’s debut novel is a high-stakes tale of morality, shame, and vulnerability.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
