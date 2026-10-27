@@ -5,21 +5,21 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:51:49 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>The biggest winners, losers and surprises from the Toronto and Mississauga elections</title>
-      <link>https://www.thestar.com/news/winners-and-losers-of-toronto-s-municipal-election/article_21120e63-be5c-4f47-be30-338628eaa75d.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/winners-and-losers-of-toronto-s-municipal-election/article_21120e63-be5c-4f47-be30-338628eaa75d.html</guid>
-      <description>From ousted incumbents to wide-open races sparked by retirements, Monday’s municipal election was full of surprising twists.</description>
-      <pubDate>Tue, 27 Oct 2026 11:07:52 +0000</pubDate>
-    </item>
     <item>
       <title>Election results and reaction live: Chow holds Toronto; Tedjo to hold press conference after stunning Mississauga win</title>
       <link>https://www.thestar.com/news/gta/toronto-election-results-live/article_3ec1c84c-3d92-4440-b764-ac02c6602fb0.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-election-results-live/article_3ec1c84c-3d92-4440-b764-ac02c6602fb0.html</guid>
-      <description></description>
+      <description>High turnout and tight races marked a dramatic voting night across the region.</description>
       <pubDate>Tue, 27 Oct 2026 11:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>The biggest winners, losers and surprises from the Toronto and Mississauga elections</title>
+      <link>https://www.thestar.com/news/winners-and-losers-of-toronto-s-municipal-election/article_21120e63-be5c-4f47-be30-338628eaa75d.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/winners-and-losers-of-toronto-s-municipal-election/article_21120e63-be5c-4f47-be30-338628eaa75d.html</guid>
+      <description></description>
+      <pubDate>Tue, 27 Oct 2026 11:07:52 +0000</pubDate>
     </item>
     <item>
       <title>These eight wards were crucial Toronto election battlegrounds: Who won and who lost?</title>
