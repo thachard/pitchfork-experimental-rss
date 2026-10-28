@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:49:56 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Susanne Sundfør – Revelations of Divine Love</title>
+      <link>https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zach Bryan – Young Manhood and Other Donatable OrgansEP</title>
       <link>https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/</link>
@@ -190,14 +198,6 @@
       <description>A review by rian Howe</description>
       <author>rian Howe</author>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evil Graham Lee – I Think I’m Alone Now</title>
-      <link>https://pitchfork.com/reviews/albums/evil-graham-lee-i-think-im-alone-now/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/evil-graham-lee-i-think-im-alone-now/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

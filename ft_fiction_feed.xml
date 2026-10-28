@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:50:12 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Alphaville.We read Liz Truss’s book so you don’t have to</title>
+      <link>https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945</guid>
+      <description>Alternative histories aren’t always written by the victors</description>
+      <pubDate>Wed, 28 Oct 2026 12:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virtue and Rosalind — Anne Serre’s reflections in a hall-of-mirrors</title>
+      <link>https://www.ft.com/content/07b1e5e2-a071-4f88-8773-1ccc311409ac</link>
+      <guid isPermaLink="true">https://www.ft.com/content/07b1e5e2-a071-4f88-8773-1ccc311409ac</guid>
+      <description>An innovative, multi-faceted novel suffused with mystery and strange beauty</description>
+      <pubDate>Wed, 28 Oct 2026 05:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Vaim Hotel — Jon Fosse checks back into his world of dislocation and strangeness</title>
       <link>https://www.ft.com/content/8f2ff601-4f6f-4664-a879-1421b5128cd1</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/d73e0950-825e-4518-9dda-1fb78718c040</guid>
       <description>An amphetamine-fuelled, draft-dodging journey becomes a portrait of both a family and a nation in crisis</description>
       <pubDate>Fri, 25 Sep 2026 04:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Female Life on Planet Earth — Laleh Khadivi’s stories of solidarity and resilience</title>
-      <link>https://www.ft.com/content/dabc0d7b-7d38-41e1-b60d-05e9b69a51e2</link>
-      <guid isPermaLink="true">https://www.ft.com/content/dabc0d7b-7d38-41e1-b60d-05e9b69a51e2</guid>
-      <description>The Iranian-American author’s compassionate new novel follows a daughter as she examines her deceased mother’s secret life through encounters with other women</description>
-      <pubDate>Wed, 23 Sep 2026 16:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The reading refresh everyone needs</title>
-      <link>https://www.ft.com/content/028ddd22-7cb3-4309-adea-a0762c0fde46</link>
-      <guid isPermaLink="true">https://www.ft.com/content/028ddd22-7cb3-4309-adea-a0762c0fde46</guid>
-      <description>A return to children’s fiction is a restorative, rip-roaring way to remind adult readers of the imaginative delights of books</description>
-      <pubDate>Wed, 23 Sep 2026 14:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

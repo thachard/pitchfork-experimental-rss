@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:49:50 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Susanne Sundfør – Revelations of Divine Love</title>
+      <link>https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>heavensouls – cantu of the sower</title>
       <link>https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</link>
@@ -190,14 +198,6 @@
       <description>A review by Arman Khan</description>
       <author>Arman Khan</author>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Durutti Column – Renascent</title>
-      <link>https://pitchfork.com/reviews/albums/the-durutti-column-renascent/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-durutti-column-renascent/</guid>
-      <description>A review by Jazz Monroe</description>
-      <author>Jazz Monroe</author>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
