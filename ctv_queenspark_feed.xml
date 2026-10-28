@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:07:03 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario matches feds&apos; tax perk for businesses on capital investments</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-matches-feds-tax-perk-for-businesses-on-capital-investments/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-matches-feds-tax-perk-for-businesses-on-capital-investments/</guid>
+      <description></description>
+      <pubDate>Wed, 28 Oct 2026 15:20:34 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario pauses some skills training funding for unemployed people: career colleges</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-pauses-some-skills-training-funding-for-unemployed-people-career-colleges/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-pauses-some-skills-training-funding-for-unemployed-people-career-colleges/</guid>
-      <description>Video</description>
+      <description>In addition to freezing Ontario Student Assistance Program payments to all private post-secondary institutions, the province has paused at least some funding through Better Jobs Ontario. But the government won’t explicitly say so.</description>
       <pubDate>Wed, 28 Oct 2026 11:01:38 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/kitchener/article/psychotherapist-calls-for-ohip-coverage-for-mental-health-services/</guid>
       <description>A Guelph, Ont. psychotherapist is calling on the Ontario government to expand public health insurance coverage for mental health services.</description>
       <pubDate>Sun, 18 Oct 2026 21:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>National Ballet School, divinity college students among those affected by OSAP pause</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/national-ballet-school-divinity-college-students-among-those-affected-by-osap-pause/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/national-ballet-school-divinity-college-students-among-those-affected-by-osap-pause/</guid>
-      <description>A recent pause on financial assistance payments to private post-secondary institutions in Ontario is affecting divinity schools, Canada’s National Ballet School and many others, with students feeling unfairly swept up in what they describe as a trawling net-like policy.</description>
-      <pubDate>Fri, 16 Oct 2026 17:57:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
