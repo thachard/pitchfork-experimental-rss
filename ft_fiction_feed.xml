@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:55:57 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Rhyl Poster — inside a traitor’s mind</title>
+      <link>https://www.ft.com/content/ecd04346-ab3c-4698-98fb-2e5ec01d4bca</link>
+      <guid isPermaLink="true">https://www.ft.com/content/ecd04346-ab3c-4698-98fb-2e5ec01d4bca</guid>
+      <description>Tom McCarthy’s slow-burn, hallucinatory thriller is a plausible portrait of the traumatised psyche of a legal expert turned spy</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:11 +0000</pubDate>
+    </item>
     <item>
       <title>Alphaville.We read Liz Truss’s book so you don’t have to</title>
       <link>https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</guid>
       <description>Sara Paretsky and John Grisham move into globe-trotting criminal espionage, Anthony Quinn takes us to 1920s Soho, and we meet a Danish version of Jackson Lamb</description>
       <pubDate>Mon, 28 Sep 2026 04:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dodge City — Patrick deWitt’s wild, witty road trip across 1960s America</title>
-      <link>https://www.ft.com/content/d73e0950-825e-4518-9dda-1fb78718c040</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d73e0950-825e-4518-9dda-1fb78718c040</guid>
-      <description>An amphetamine-fuelled, draft-dodging journey becomes a portrait of both a family and a nation in crisis</description>
-      <pubDate>Fri, 25 Sep 2026 04:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

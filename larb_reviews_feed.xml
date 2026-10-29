@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:57:27 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Late-Arriving Pictures</title>
+      <link>https://lareviewofbooks.org/article/roy-decarava-sound-i-saw-david-zwirner-jazz/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/roy-decarava-sound-i-saw-david-zwirner-jazz/</guid>
+      <description>On Roy DeCarava at David Zwirner, Los Angeles.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>She’s a Full-On Monet</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A Midlife Review</title>
-      <link>https://lareviewofbooks.org/article/callie-garnett-shit-hike-poetry-observational-gertrude-stein/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/callie-garnett-shit-hike-poetry-observational-gertrude-stein/</guid>
-      <description>Callie Garnett turns seemingly banal observations into grist for philosophical rumination while stuck on a run-of-the-mill shit hike.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Midlife Review</title>
+      <link>https://lareviewofbooks.org/article/callie-garnett-shit-hike-poetry-observational-gertrude-stein/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/callie-garnett-shit-hike-poetry-observational-gertrude-stein/</guid>
+      <description>Callie Garnett turns seemingly banal observations into grist for philosophical rumination while stuck on a run-of-the-mill shit hike.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Said Phenomenon</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</guid>
       <description>Inventing and reinventing the celebrated Dutch painter.</description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Murderous, Man-Hating, and Baby-Killing</title>
-      <link>https://lareviewofbooks.org/article/monstrous-bitch-history-terrifying-women-eleanor-johnson-feminism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/monstrous-bitch-history-terrifying-women-eleanor-johnson-feminism/</guid>
-      <description>Eleanor Johnson’s new book traces the lineage of the demonic women trope to its Mesopotamian origins.</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

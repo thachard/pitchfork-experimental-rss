@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:57:05 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Olivia Tremor Control – The Same Place</title>
+      <link>https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/</guid>
+      <description>A review by Patrick Lyons</description>
+      <author>Patrick Lyons</author>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Loidis – From the Toolkit of Lovers</title>
       <link>https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/</link>
@@ -16,7 +24,7 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>heavensouls – cantu of the sower</title>
+      <title>heavensouls – cantu of the sowerEP</title>
       <link>https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</link>
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/</guid>
       <description>A review by Kieran Press-Reynolds</description>
@@ -238,14 +246,6 @@
       <description>A review by Philip Sherburne</description>
       <author>Philip Sherburne</author>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joy Division – Eternal (Live)</title>
-      <link>https://pitchfork.com/reviews/albums/joy-division-eternal-live/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/joy-division-eternal-live/</guid>
-      <description>A review by Sean T. Collins</description>
-      <author>Sean T. Collins</author>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
