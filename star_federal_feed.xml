@@ -5,14 +5,14 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:12:38 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
     <item>
       <title>EU chief von der Leyen pushes Canada as ‘associate member’</title>
       <link>https://www.thestar.com/politics/federal/eu-chief-von-der-leyen-pushes-canada-as-associate-member/article_6081acb6-1567-4ea2-8dff-d7fdf04ddce8.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/eu-chief-von-der-leyen-pushes-canada-as-associate-member/article_6081acb6-1567-4ea2-8dff-d7fdf04ddce8.html</guid>
       <description>Von der Leyen arrived in Canada ahead of the two-day summit.</description>
-      <pubDate>Thu, 29 Oct 2026 10:26:23 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 11:12:08 +0000</pubDate>
     </item>
     <item>
       <title>Canada’s updated national security strategy considers new spy, intelligence gathering measures</title>
@@ -29,6 +29,13 @@
       <pubDate>Thu, 29 Oct 2026 10:30:05 +0000</pubDate>
     </item>
     <item>
+      <title>Auditor general slams federal failures on anti-money laundering oversight, military and climate promises</title>
+      <link>https://www.thestar.com/politics/federal/auditor-general-finds-failures-in-anti-money-laundering-military-stockpiles-and-climate-promises/article_401c7ebd-80de-4394-b36d-724bc0df3b68.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/auditor-general-finds-failures-in-anti-money-laundering-military-stockpiles-and-climate-promises/article_401c7ebd-80de-4394-b36d-724bc0df3b68.html</guid>
+      <description></description>
+      <pubDate>Thu, 29 Oct 2026 11:11:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Auditor general to release reports on greenhouse gases, coal exports, pesticides</title>
       <link>https://www.thestar.com/politics/federal/auditor-general-to-release-reports-on-greenhouse-gases-coal-exports-pesticides/article_a67e0ade-dee6-5894-83ec-67e5f43b6bed.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/auditor-general-to-release-reports-on-greenhouse-gases-coal-exports-pesticides/article_a67e0ade-dee6-5894-83ec-67e5f43b6bed.html</guid>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/national-security-strategy-coming-today-will-include-focus-on-safeguarding-economy/article_ede0e60e-72a9-548a-a081-5e0a92a3a52a.html</guid>
       <description></description>
       <pubDate>Thu, 29 Oct 2026 10:50:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada won’t get associate membership of the EU. Here’s what we might get instead</title>
-      <link>https://www.thestar.com/politics/canada-won-t-get-associate-membership-of-the-eu-here-s-what-we-might-get-instead/article_eea6a2cb-5fe6-4ba9-aaac-8c2a4f724279.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/canada-won-t-get-associate-membership-of-the-eu-here-s-what-we-might-get-instead/article_eea6a2cb-5fe6-4ba9-aaac-8c2a4f724279.html</guid>
-      <description></description>
-      <pubDate>Thu, 29 Oct 2026 06:48:18 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Canada won’t get associate membership of the EU. Here’s what we might get instead</title>
+      <link>https://www.thestar.com/politics/canada-won-t-get-associate-membership-of-the-eu-here-s-what-we-might-get-instead/article_eea6a2cb-5fe6-4ba9-aaac-8c2a4f724279.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/canada-won-t-get-associate-membership-of-the-eu-here-s-what-we-might-get-instead/article_eea6a2cb-5fe6-4ba9-aaac-8c2a4f724279.html</guid>
+      <description>Mark Carney and EU leaders are moving forward with a new &apos;alliance for the future&apos; to boost trade. The Europeans have offered a few details.</description>
+      <pubDate>Thu, 29 Oct 2026 06:48:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Liberals vote to keep B.C. tanker ban in place</title>
       <link>https://www.thestar.com/politics/federal/liberals-vote-to-keep-b-c-tanker-ban-in-place/article_224f9225-f419-5118-bca9-60b7e4f20fd8.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/liberals-vote-to-keep-b-c-tanker-ban-in-place/article_224f9225-f419-5118-bca9-60b7e4f20fd8.html</guid>
-      <description>OTTAWA - The Liberal government voted to keep the B.C. coastal oil tanker ban in place Wednesday, defeating a Conservative bill that would hav…</description>
+      <description></description>
       <pubDate>Wed, 28 Oct 2026 17:35:05 +0000</pubDate>
     </item>
     <item>
@@ -116,14 +123,14 @@
       <title>Fate of private member’s bill to amend Divorce Act still not clear</title>
       <link>https://www.thestar.com/politics/federal/fate-of-private-member-s-bill-to-amend-divorce-act-still-not-clear/article_7f2ff8d1-89fc-5534-9b05-78d19536e926.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/fate-of-private-member-s-bill-to-amend-divorce-act-still-not-clear/article_7f2ff8d1-89fc-5534-9b05-78d19536e926.html</guid>
-      <description></description>
+      <description>OTTAWA - Justice Minister Sean Fraser indicated Wednesday the government is open to supporting elements of a private member’s bill to amend th…</description>
       <pubDate>Wed, 28 Oct 2026 17:40:05 +0000</pubDate>
     </item>
     <item>
       <title>Carney to attend Commonwealth meeting in Antigua and Barbuda</title>
       <link>https://www.thestar.com/politics/federal/carney-to-attend-commonwealth-meeting-in-antigua-and-barbuda/article_5ece1aaf-d1af-5d25-9d06-56ba5ad5e974.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-to-attend-commonwealth-meeting-in-antigua-and-barbuda/article_5ece1aaf-d1af-5d25-9d06-56ba5ad5e974.html</guid>
-      <description>OTTAWA - Prime Minister Mark Carney will attend the Commonwealth Heads of Government meeting in Antigua and Barbuda next week.</description>
+      <description></description>
       <pubDate>Wed, 28 Oct 2026 09:45:05 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-government-tables-legislation-on-maid-advance-requests-blocks-expansion-for-mental-illness-alone/article_f08238f2-5b61-4642-b6a7-db53524fdcdf.html</guid>
       <description></description>
       <pubDate>Wed, 28 Oct 2026 07:28:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Liberals table bill to bar access to MAID for mental illness, allow advance requests</title>
-      <link>https://www.thestar.com/politics/federal/liberals-set-to-table-bill-restricting-access-to-maid-in-cases-of-mental-illness/article_5e4ca12c-d55d-568b-829e-4a423f172876.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/liberals-set-to-table-bill-restricting-access-to-maid-in-cases-of-mental-illness/article_5e4ca12c-d55d-568b-829e-4a423f172876.html</guid>
-      <description></description>
-      <pubDate>Tue, 27 Oct 2026 19:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
