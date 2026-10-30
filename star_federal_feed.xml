@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:59:39 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ottawa posts $5.36B deficit for first five months of 2026-27 fiscal year</title>
+      <link>https://www.thestar.com/politics/federal/ottawa-posts-5-36b-deficit-for-first-five-months-of-2026-27-fiscal-year/article_077fed48-741c-57da-b066-1902702beed8.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/ottawa-posts-5-36b-deficit-for-first-five-months-of-2026-27-fiscal-year/article_077fed48-741c-57da-b066-1902702beed8.html</guid>
+      <description>OTTAWA - The federal government posted a deficit of $5.36 billion for the first five months of its 2026-27 fiscal year.</description>
+      <pubDate>Fri, 30 Oct 2026 11:20:05 +0000</pubDate>
+    </item>
     <item>
       <title>The federal Liberals secretly halted a promised ban on thermal coal exports</title>
       <link>https://www.thestar.com/politics/federal/the-federal-liberals-secretly-halted-a-promised-ban-on-thermal-coal-exports/article_513aae2e-5837-4963-a6a3-17d50a39334a.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/the-federal-liberals-secretly-halted-a-promised-ban-on-thermal-coal-exports/article_513aae2e-5837-4963-a6a3-17d50a39334a.html</guid>
-      <description>Cabinet ministers didn&apos;t say Thursday what happened with the ban.</description>
+      <description></description>
       <pubDate>Thu, 29 Oct 2026 16:20:23 +0000</pubDate>
     </item>
     <item>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/canada-s-updated-national-security-strategy-considers-new-spy-intelligence-gathering-measures/article_a4bcfea9-c8c9-4f94-af66-5dc8a8b626ee.html</guid>
       <description></description>
       <pubDate>Thu, 29 Oct 2026 22:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ottawa quietly abandoned promise to end thermal coal exports, audit says</title>
-      <link>https://www.thestar.com/politics/federal/ottawa-quietly-abandoned-promise-to-end-coal-exports-without-saying-why-auditor/article_1cfd8fa0-0a65-5f70-8c64-aaa6b67777b8.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/ottawa-quietly-abandoned-promise-to-end-coal-exports-without-saying-why-auditor/article_1cfd8fa0-0a65-5f70-8c64-aaa6b67777b8.html</guid>
-      <description></description>
-      <pubDate>Thu, 29 Oct 2026 19:10:20 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Ottawa quietly abandoned promise to end thermal coal exports, audit says</title>
+      <link>https://www.thestar.com/politics/federal/ottawa-quietly-abandoned-promise-to-end-coal-exports-without-saying-why-auditor/article_1cfd8fa0-0a65-5f70-8c64-aaa6b67777b8.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/ottawa-quietly-abandoned-promise-to-end-coal-exports-without-saying-why-auditor/article_1cfd8fa0-0a65-5f70-8c64-aaa6b67777b8.html</guid>
+      <description>OTTAWA - Environment and Climate Change Canada abandoned its work to end thermal coal exports, without any record of being directed to do so —…</description>
+      <pubDate>Thu, 29 Oct 2026 19:10:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Auditor general slams federal failures on ammunition, health-care stockpiles and more</title>
       <link>https://www.thestar.com/politics/federal/auditor-general-finds-failures-in-anti-money-laundering-military-stockpiles-and-climate-promises/article_401c7ebd-80de-4394-b36d-724bc0df3b68.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/auditor-general-finds-failures-in-anti-money-laundering-military-stockpiles-and-climate-promises/article_401c7ebd-80de-4394-b36d-724bc0df3b68.html</guid>
-      <description>Also, the federal government&apos;s dental program was found to have blown past its budget for the first two years by about $1.1 billion.</description>
+      <description></description>
       <pubDate>Thu, 29 Oct 2026 21:10:05 +0000</pubDate>
     </item>
     <item>
@@ -116,14 +123,14 @@
       <title>Canada won’t get associate membership of the EU. Here’s what we might get instead</title>
       <link>https://www.thestar.com/politics/canada-won-t-get-associate-membership-of-the-eu-here-s-what-we-might-get-instead/article_eea6a2cb-5fe6-4ba9-aaac-8c2a4f724279.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/canada-won-t-get-associate-membership-of-the-eu-here-s-what-we-might-get-instead/article_eea6a2cb-5fe6-4ba9-aaac-8c2a4f724279.html</guid>
-      <description></description>
+      <description>Mark Carney and EU leaders are moving forward with a new &apos;alliance for the future&apos; to boost trade. The Europeans have offered a few details.</description>
       <pubDate>Thu, 29 Oct 2026 18:36:36 +0000</pubDate>
     </item>
     <item>
       <title>Liberals vote to keep B.C. tanker ban in place</title>
       <link>https://www.thestar.com/politics/federal/liberals-vote-to-keep-b-c-tanker-ban-in-place/article_224f9225-f419-5118-bca9-60b7e4f20fd8.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/liberals-vote-to-keep-b-c-tanker-ban-in-place/article_224f9225-f419-5118-bca9-60b7e4f20fd8.html</guid>
-      <description>OTTAWA - The Liberal government voted to keep the B.C. coastal oil tanker ban in place Wednesday, defeating a Conservative bill that would hav…</description>
+      <description></description>
       <pubDate>Wed, 28 Oct 2026 17:35:05 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/fate-of-private-member-s-bill-to-amend-divorce-act-still-not-clear/article_7f2ff8d1-89fc-5534-9b05-78d19536e926.html</guid>
       <description></description>
       <pubDate>Wed, 28 Oct 2026 17:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carney to attend Commonwealth meeting in Antigua and Barbuda</title>
-      <link>https://www.thestar.com/politics/federal/carney-to-attend-commonwealth-meeting-in-antigua-and-barbuda/article_5ece1aaf-d1af-5d25-9d06-56ba5ad5e974.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/carney-to-attend-commonwealth-meeting-in-antigua-and-barbuda/article_5ece1aaf-d1af-5d25-9d06-56ba5ad5e974.html</guid>
-      <description></description>
-      <pubDate>Wed, 28 Oct 2026 09:45:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
