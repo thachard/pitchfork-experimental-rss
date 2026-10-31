@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:22:07 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>What neighbourhood voting results tell us about Olivia Chow’s big mayoral win</title>
@@ -127,6 +127,13 @@
       <pubDate>Thu, 01 Oct 2026 13:54:36 +0000</pubDate>
     </item>
     <item>
+      <title>Bridle Path home invasion suspect identified by Toronto police</title>
+      <link>https://www.thestar.com/news/gta/bridle-path-home-invasion-suspect-identified-by-toronto-police/article_9e3b3c67-925f-4073-95d8-b072662f55dc.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/bridle-path-home-invasion-suspect-identified-by-toronto-police/article_9e3b3c67-925f-4073-95d8-b072662f55dc.html</guid>
+      <description></description>
+      <pubDate>Sat, 31 Oct 2026 10:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Toronto ranks 5th in Canadian party cities</title>
       <link>https://www.thestar.com/news/gta/toronto-ranks-5th-in-canadian-party-cities/article_4e0c7016-281d-4516-b8d2-eecd3b8b33d6.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-ranks-5th-in-canadian-party-cities/article_4e0c7016-281d-4516-b8d2-eecd3b8b33d6.html</guid>
@@ -153,13 +160,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/dump-truck-driver-charged-after-collision-in-thorncliffe-kills-city-traffic-agent/article_6c86265f-b1ef-42fd-af46-7f9ac6963799.html</guid>
       <description></description>
       <pubDate>Fri, 30 Oct 2026 17:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto CEO speaks out after he and daughters shot in ‘horrific and violent’ Bridle Path home invasion</title>
-      <link>https://www.thestar.com/news/gta/police-still-searching-for-suspects-in-violent-bridle-path-home-invasion-that-left-4-family-members-injured/article_dd829678-fa6f-4c6a-a70e-1306f9948086.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/police-still-searching-for-suspects-in-violent-bridle-path-home-invasion-that-left-4-family-members-injured/article_dd829678-fa6f-4c6a-a70e-1306f9948086.html</guid>
-      <description></description>
-      <pubDate>Fri, 30 Oct 2026 18:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
