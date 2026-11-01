@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:44:02 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Toronto&apos;s municipal election turnout beat the provincial average</title>
+      <link>https://www.ctvnews.ca/toronto/article/why-torontos-municipal-election-turnout-beat-the-provincial-average/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/why-torontos-municipal-election-turnout-beat-the-provincial-average/</guid>
+      <description></description>
+      <pubDate>Sun, 01 Nov 2026 01:38:56 +0000</pubDate>
+    </item>
     <item>
       <title>After election victory, Chow to face budget pressure and new deal with Ontario</title>
       <link>https://www.ctvnews.ca/toronto/gta-elections-2026/article/after-election-victory-chow-to-face-budget-pressure-and-new-deal-with-ontario/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/after-election-victory-chow-to-face-budget-pressure-and-new-deal-with-ontario/</guid>
-      <description></description>
+      <description>Negotiations with the province to help relieve Toronto’s budget pressures loomed over Olivia Chow’s election victory, as she vowed to be the “mayor for everyone.”</description>
       <pubDate>Wed, 28 Oct 2026 18:15:13 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/olivia-chow-wants-to-make-the-ttc-free-after-10-paid-rides-a-week/</guid>
       <description>Mayoral candidate Olivia Chow is promising to make the TTC free after 10 paid rides in a week, arguing that &apos;families shouldn’t have to choose between rent, food and getting around.&apos;</description>
       <pubDate>Fri, 11 Sep 2026 20:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brad Bradford vows to make Scarborough East Rapid Transit Line ‘top priority’ if elected</title>
-      <link>https://www.ctvnews.ca/toronto/article/brad-bradford-vows-to-make-scarborough-east-rapid-transit-line-top-priority-if-elected/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/brad-bradford-vows-to-make-scarborough-east-rapid-transit-line-top-priority-if-elected/</guid>
-      <description>Toronto mayoral candidate Brad Bradford is promising to have shovels in the ground on the largely unfunded Scarborough East LRT by 2030.</description>
-      <pubDate>Fri, 11 Sep 2026 22:22:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

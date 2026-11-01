@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:44:39 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Female Malady</title>
+      <link>https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</guid>
+      <description>As Freud himself put it, ‘What does a woman want?’</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Late-Arriving Pictures</title>
@@ -36,18 +43,18 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Intangible Juju Magic</title>
-      <link>https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</guid>
-      <description>Any company billing itself as morally or otherwise exceptional is selling a myth.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intangible Juju Magic</title>
+      <link>https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</guid>
+      <description>Any company billing itself as morally or otherwise exceptional is selling a myth.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Midlife Review</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/close-writing-kathy-acker-cookie-mueller-love-review/</guid>
       <description>An intimate experiment in writing beside two departed authors.</description>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Art’s Generations</title>
-      <link>https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/johannes-vermeer-afterlives-ruth-bernard-yeazell-painting-dutch/</guid>
-      <description>Inventing and reinventing the celebrated Dutch painter.</description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

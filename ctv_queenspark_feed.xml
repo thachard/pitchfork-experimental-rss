@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:43:47 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto cyclists protest Ontario&apos;s bike lane removals at Queen&apos;s Park</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/toronto-cyclists-protest-ontarios-bike-lane-removals-at-queens-park/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/toronto-cyclists-protest-ontarios-bike-lane-removals-at-queens-park/</guid>
+      <description>Video</description>
+      <pubDate>Sun, 01 Nov 2026 12:08:56 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario deficit grows to $16.9 billion as trade war with U.S. drags on</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-deficit-grows-to-169-billion-as-trade-war-with-us-drags-on/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-deficit-grows-to-169-billion-as-trade-war-with-us-drags-on/</guid>
-      <description>Video</description>
+      <description>Ontario’s deficit has grown by more than $3 billion in the past few months as the province continues to face economic headwinds blowing up from the U.S.</description>
       <pubDate>Fri, 30 Oct 2026 12:28:57 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/pause-on-osap-at-private-post-secondary-institutions-to-stay-in-effect-until-new-year/</guid>
       <description>A pause on student financial assistance payments across all private post-secondary institutions in Ontario will stay in effect until at least the new year, the province’s colleges and universities minister announced Tuesday.</description>
       <pubDate>Wed, 21 Oct 2026 12:32:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario to allow over-the-counter hearing aids for sale in the province</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-allow-over-the-counter-hearing-aids-for-sale-in-the-province/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-to-allow-over-the-counter-hearing-aids-for-sale-in-the-province/</guid>
-      <description>Ontario is planning to make over-the-counter hearing aids available in the province for people with mild hearing loss.</description>
-      <pubDate>Tue, 20 Oct 2026 16:01:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
