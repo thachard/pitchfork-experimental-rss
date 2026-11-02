@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:48:30 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s a Mad, Bad, Misogynistic World</title>
+      <link>https://lareviewofbooks.org/article/need-megan-mostyn-brown-cannibal-horror-femgore-consumption/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/need-megan-mostyn-brown-cannibal-horror-femgore-consumption/</guid>
+      <description>We get the femgore we deserve.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Back to the Kitchen Table</title>
+      <link>https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</guid>
+      <description>How ‘disciplined learning’ was crowded out of the modern university.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Female Malady</title>
@@ -29,6 +43,13 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>She’s a Full-On Monet</title>
       <link>https://lareviewofbooks.org/article/citizen-kim-kardashian-jonathan-van-meter-biography-jenner/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/citizen-kim-kardashian-jonathan-van-meter-biography-jenner/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sherry-turkle-artificial-intimacy-talk-machines-artificial-intelligence/</guid>
       <description>AI ‘relationships’ won’t help us become ourselves.</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Intangible Juju Magic</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/bread-uncle-milads-table-mohammed-alnaas-libya-patriarchy/</guid>
       <description>Libyan author Mohammed Alnaas’s ‘Bread on Uncle Milad’s Table’ is a tale of masculinity and vulnerability.</description>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning How to Travel from the Ancients</title>
-      <link>https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/md-usher-ancient-guide-modern-tourist-herodotus-lucian/</guid>
-      <description>M. D. Usher assembles an anthology of ancient travel writing refitted for our age of global tourism.</description>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Love, Sickness</title>
-      <link>https://lareviewofbooks.org/article/close-writing-kathy-acker-cookie-mueller-love-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/close-writing-kathy-acker-cookie-mueller-love-review/</guid>
-      <description>An intimate experiment in writing beside two departed authors.</description>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

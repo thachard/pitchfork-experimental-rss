@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:46:42 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peck &amp; Peck by Bonnie Garmus — poetry and posturing in ’80s New York</title>
+      <link>https://www.ft.com/content/1a38f77e-395e-4ac6-ac92-52f32385ec8b?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1a38f77e-395e-4ac6-ac92-52f32385ec8b?syn-25a6b1a6=1</guid>
+      <description>The author follows up ‘Lessons in Chemistry’ with an absurdist coming-of-age tale of publishing, Trumpian editors and trampled dreams</description>
+      <pubDate>Mon, 02 Nov 2026 05:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/3b6a13bb-160c-48c8-881d-482b7debe61d</guid>
       <description>The ‘Trespasses’ author captures with fino dry wit the path of would-be lovers who leave 1980s Ireland for London, and the damaging legacy of conflict and family back home</description>
       <pubDate>Tue, 29 Sep 2026 04:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ian Rankin’s first standalone novel in decades — and other new crime books</title>
-      <link>https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</link>
-      <guid isPermaLink="true">https://www.ft.com/content/092584c6-597e-4dfb-8678-7ced62335724</guid>
-      <description>Sara Paretsky and John Grisham move into globe-trotting criminal espionage, Anthony Quinn takes us to 1920s Soho, and we meet a Danish version of Jackson Lamb</description>
-      <pubDate>Mon, 28 Sep 2026 04:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

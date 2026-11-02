@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:47:17 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thousands of OSAP applications came from a single IP address, ministry alleges</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/</guid>
+      <description></description>
+      <pubDate>Mon, 02 Nov 2026 11:40:23 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto cyclists protest Ontario&apos;s bike lane removals at Queen&apos;s Park</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/toronto-cyclists-protest-ontarios-bike-lane-removals-at-queens-park/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/toronto-cyclists-protest-ontarios-bike-lane-removals-at-queens-park/</guid>
-      <description>Video</description>
+      <description>Dozens of cycling advocates and protesters spent their Halloween decrying Ontario’s contentious decision to continue removing bike lanes across Toronto.</description>
       <pubDate>Sun, 01 Nov 2026 12:08:56 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-career-college-students-worry-about-impact-of-osap-pause-extended-to-2027/</guid>
       <description>Now that the Ontario government has confirmed that a provincewide pause on student financial assistance payments to career colleges will last for months, some students say they’re worried it will prevent them from graduating.</description>
       <pubDate>Wed, 21 Oct 2026 20:55:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario minister provides update on OSAP pause</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/pause-on-osap-at-private-post-secondary-institutions-to-stay-in-effect-until-new-year/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/pause-on-osap-at-private-post-secondary-institutions-to-stay-in-effect-until-new-year/</guid>
-      <description>A pause on student financial assistance payments across all private post-secondary institutions in Ontario will stay in effect until at least the new year, the province’s colleges and universities minister announced Tuesday.</description>
-      <pubDate>Wed, 21 Oct 2026 12:32:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
