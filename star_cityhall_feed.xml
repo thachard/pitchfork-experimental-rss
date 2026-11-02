@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:31:49 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Half of Toronto rents. Most councillors own homes. A new crop will change city hall’s makeup</title>
@@ -127,11 +127,18 @@
       <pubDate>Thu, 01 Oct 2026 13:54:36 +0000</pubDate>
     </item>
     <item>
-      <title>Toronto, Durham police investigate reports of needles found in Halloween candy</title>
+      <title>Bridle Path home invasion: Toronto police face pointed questions about disappearance of suspect</title>
+      <link>https://www.thestar.com/news/gta/toronto-police-face-pointed-questions-about-disappearance-of-suspect-in-violent-bridle-path-home-invasion/article_c4005746-37a8-46e9-904b-0d82e2b1feb6.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-police-face-pointed-questions-about-disappearance-of-suspect-in-violent-bridle-path-home-invasion/article_c4005746-37a8-46e9-904b-0d82e2b1feb6.html</guid>
+      <description></description>
+      <pubDate>Mon, 02 Nov 2026 13:34:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sewing needles, nail reportedly found in Toronto-area Halloween candy, prompting police probes</title>
       <link>https://www.thestar.com/news/gta/sewing-needles-found-in-halloween-candy-in-oshawa-police-say/article_8f0ec68e-773f-45ac-906c-c7a0767d73b3.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/sewing-needles-found-in-halloween-candy-in-oshawa-police-say/article_8f0ec68e-773f-45ac-906c-c7a0767d73b3.html</guid>
       <description></description>
-      <pubDate>Mon, 02 Nov 2026 12:31:44 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 09:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Caregiver killed in Vaughan hit-and-run lay undiscovered for days. Loved ones say a sidewalk could have saved her</title>
@@ -153,13 +160,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/woman-dies-in-hospital-after-stabbing-in-north-york/article_de101d0a-4b89-4cd5-92a7-73e9a7e36561.html</guid>
       <description></description>
       <pubDate>Sun, 01 Nov 2026 11:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s new immigration rule is helping this Toronto woman. But insiders say others are resorting to fraud</title>
-      <link>https://www.thestar.com/news/canada/canada-s-new-immigration-rule-is-helping-this-toronto-woman-but-insiders-say-others-are-resorting-to-fraud/article_31ebb3f9-ecef-48ed-ac80-4fe383e8e289.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/canada/canada-s-new-immigration-rule-is-helping-this-toronto-woman-but-insiders-say-others-are-resorting-to-fraud/article_31ebb3f9-ecef-48ed-ac80-4fe383e8e289.html</guid>
-      <description></description>
-      <pubDate>Sun, 01 Nov 2026 08:05:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
