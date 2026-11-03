@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:47:26 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kali Malone – Burning Song</title>
+      <link>https://pitchfork.com/reviews/albums/kali-malone-burning-song/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kali-malone-burning-song/</guid>
+      <description>A review by Sasha Geffen</description>
+      <author>Sasha Geffen</author>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>William Basinski – Passing the Cup of Sorrows</title>
       <link>https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/</link>
@@ -190,14 +198,6 @@
       <description>A review by Elise Soutar</description>
       <author>Elise Soutar</author>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sir Richard Bishop – Hillbilly Erotica</title>
-      <link>https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
