@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:58:44 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>No new deal for Toronto, Doug Ford says after Olivia Chow’s reelection</title>
+      <link>https://www.thestar.com/news/gta/no-new-deal-for-toronto-after-olivia-chow-s-reelection-doug-ford-says/article_77c12f60-8936-41dc-9cf5-d7e68d9e73c2.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/no-new-deal-for-toronto-after-olivia-chow-s-reelection-doug-ford-says/article_77c12f60-8936-41dc-9cf5-d7e68d9e73c2.html</guid>
+      <description>&apos;We&apos;ve given Toronto $9 billion,&apos; Ford said. &apos;They have to be responsible for their own budget.&apos;</description>
+      <pubDate>Wed, 04 Nov 2026 12:37:15 +0000</pubDate>
+    </item>
     <item>
       <title>Half of Toronto rents. Most councillors own homes. A new crop will change city hall’s makeup</title>
       <link>https://www.thestar.com/news/gta/city-hall/half-of-toronto-rents-meet-the-new-councillors-bringing-their-renter-s-perspective-to-city-hall/article_9d8265d6-64f3-4e3d-82cd-4cbedfb65587.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/half-of-toronto-rents-meet-the-new-councillors-bringing-their-renter-s-perspective-to-city-hall/article_9d8265d6-64f3-4e3d-82cd-4cbedfb65587.html</guid>
-      <description></description>
+      <description>New renter-councillors want to make housing more secure, even as many of the rules governing tenants remain in provincial hands.</description>
       <pubDate>Sun, 01 Nov 2026 07:10:38 +0000</pubDate>
     </item>
     <item>
@@ -25,7 +32,7 @@
       <title>What neighbourhood voting results tell us about Olivia Chow’s big mayoral win</title>
       <link>https://www.thestar.com/news/gta/city-hall/what-neighbourhood-voting-results-tell-us-about-olivia-chow-s-big-mayoral-win/article_d85e72a4-9ccc-4a70-afde-277d2ff88824.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/city-hall/what-neighbourhood-voting-results-tell-us-about-olivia-chow-s-big-mayoral-win/article_d85e72a4-9ccc-4a70-afde-277d2ff88824.html</guid>
-      <description>Where Olivia Chow won — and who put her over the top.</description>
+      <description></description>
       <pubDate>Tue, 03 Nov 2026 17:46:23 +0000</pubDate>
     </item>
     <item>
@@ -76,13 +83,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/olivia-chow-won-toronto-s-election-here-are-five-turning-points-that-shaped-the-race/article_9fa59023-fa91-4bd7-9b2d-e95f0ffddccb.html</guid>
       <description></description>
       <pubDate>Wed, 28 Oct 2026 14:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>The biggest winners, losers and surprises from the Toronto and Mississauga elections</title>
-      <link>https://www.thestar.com/news/winners-and-losers-of-toronto-s-municipal-election/article_21120e63-be5c-4f47-be30-338628eaa75d.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/winners-and-losers-of-toronto-s-municipal-election/article_21120e63-be5c-4f47-be30-338628eaa75d.html</guid>
-      <description></description>
-      <pubDate>Tue, 27 Oct 2026 22:56:15 +0000</pubDate>
     </item>
     <item>
       <title>Chow and Bradford each faced Star questions for an hour straight. Here’s how they answered the tough ones</title>
@@ -145,7 +145,7 @@
       <link>https://www.thestar.com/news/gta/national-campaign-fighting-migrant-worker-exploitation-wins-50-000-prize/article_5aa7c053-cdfb-4519-bb69-3b3e4c429ad2.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/national-campaign-fighting-migrant-worker-exploitation-wins-50-000-prize/article_5aa7c053-cdfb-4519-bb69-3b3e4c429ad2.html</guid>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 12:06:03 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 12:36:46 +0000</pubDate>
     </item>
     <item>
       <title>He works 9-hour days on delivery apps and can’t make ends meet. Why 900 Toronto-area couriers are now fighting back</title>
