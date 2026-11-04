@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:18:22 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doug Ford says there’s ‘no 2.0’ New Deal for Toronto</title>
+      <link>https://www.ctvnews.ca/toronto/article/doug-ford-says-theres-no-20-new-deal-for-toronto/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/doug-ford-says-theres-no-20-new-deal-for-toronto/</guid>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 17:00:53 +0000</pubDate>
+    </item>
     <item>
       <title>What elected trustees at supervised school boards can and can’t do, according to this memo</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/what-elected-trustees-at-supervised-school-boards-can-and-cant-do-according-to-a-leaked-memo/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/what-elected-trustees-at-supervised-school-boards-can-and-cant-do-according-to-a-leaked-memo/</guid>
-      <description></description>
+      <description>A leaked memo obtained by CTV News details the very limited roles and responsibilities of school trustees for the Toronto District School Board, the Toronto Catholic District School Board, and six other boards under supervision.</description>
       <pubDate>Wed, 04 Nov 2026 02:40:23 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/osap-affordability-questions-likely-to-dominate-as-queens-park-resumes-sitting/</guid>
       <description>Provincial politicians are returning to the Ontario legislature Tuesday for the first time in 21 weeks with some new faces thanks to three byelections, a rejigged cabinet and a new cloud of scandal hanging over the government’s head.</description>
       <pubDate>Mon, 26 Oct 2026 10:47:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario is planning to launch digital IDs. Here’s what you need to know.</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-plans-to-launch-digital-ids-including-drivers-licences-and-health-cards/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-plans-to-launch-digital-ids-including-drivers-licences-and-health-cards/</guid>
-      <description>The Ford government says it plans to launch digital credentials, starting with the Ontario Photo Card and then later expanding to driver’s licences and health cards.</description>
-      <pubDate>Fri, 23 Oct 2026 23:48:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
