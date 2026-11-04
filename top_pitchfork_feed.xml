@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:58:38 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Baby Osamaa – On Tha Run</title>
+      <link>https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/</guid>
+      <description>A review by Alphonse Pierre</description>
+      <author>Alphonse Pierre</author>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June McDoom – Follow the Light</title>
+      <link>https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kali Malone – Burning Song</title>
       <link>https://pitchfork.com/reviews/albums/kali-malone-burning-song/</link>
@@ -230,22 +246,6 @@
       <description>A review by Sadie Sartini Garner</description>
       <author>Sadie Sartini Garner</author>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elvis Costello – My Aim Is True(49th Anniversary Edition)</title>
-      <link>https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/</guid>
-      <description>A review by Elizabeth Nelson</description>
-      <author>Elizabeth Nelson</author>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Beatles – Rubber Soul (Super Deluxe)</title>
-      <link>https://pitchfork.com/reviews/albums/the-beatles-rubber-soul-super-deluxe/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-beatles-rubber-soul-super-deluxe/</guid>
-      <description>A review by Andy Cush</description>
-      <author>Andy Cush</author>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

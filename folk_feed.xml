@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:56:55 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>June McDoom – Follow the Light</title>
+      <link>https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lydia Loveless – AccoladesEP</title>
       <link>https://pitchfork.com/reviews/albums/lydia-loveless-accolades-ep/</link>
@@ -190,14 +198,6 @@
       <description>A review by W. Reed Putnam</description>
       <author>W. Reed Putnam</author>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shannon Lay – Past the Veil</title>
-      <link>https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/</guid>
-      <description>A review by Linnie Greene</description>
-      <author>Linnie Greene</author>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

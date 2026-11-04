@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:58:59 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The One That Remembers Also Sings</title>
+      <link>https://lareviewofbooks.org/article/arrows-of-desire-peter-wollen-film-criticism-director/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/arrows-of-desire-peter-wollen-film-criticism-director/</guid>
+      <description>Who was Peter Wollen?</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Went Right for Beijing?</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Female Malady</title>
-      <link>https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</guid>
-      <description>As Freud himself put it, ‘What does a woman want?’</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Female Malady</title>
+      <link>https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</guid>
+      <description>As Freud himself put it, ‘What does a woman want?’</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Late-Arriving Pictures</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</guid>
       <description>Visiting Azadeh Akhlaghi at the Peabody Museum.</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Endlessly Reproducible Originality</title>
-      <link>https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/doppelganger-sam-riviere-mfa-writing-programs-generative-ai/</guid>
-      <description>Sam Riviere’s new novel suggests that, in a literary culture already organized around copying, the machines may prove better at being writers than we are.</description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
