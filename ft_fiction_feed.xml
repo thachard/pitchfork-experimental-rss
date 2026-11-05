@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:05:06 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lessons in Harmony by Jonathan Coe — notes between nations</title>
+      <link>https://www.ft.com/content/109ece27-5b98-4cea-8b11-c95e29267d53</link>
+      <guid isPermaLink="true">https://www.ft.com/content/109ece27-5b98-4cea-8b11-c95e29267d53</guid>
+      <description>A witty historical novel turns the real-life relationship between Ralph Vaughan Williams and Maurice Ravel into a meditation on art, nationhood and love</description>
+      <pubDate>Thu, 05 Nov 2026 05:00:07 +0000</pubDate>
+    </item>
     <item>
       <title>Peck &amp; Peck by Bonnie Garmus — poetry and posturing in ’80s New York</title>
       <link>https://www.ft.com/content/1a38f77e-395e-4ac6-ac92-52f32385ec8b?syn-25a6b1a6=1</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/ef3076d1-8aaa-4f1a-8b25-3ba3fe7c4927</guid>
       <description>A dazzling follow-up to ‘Demon Copperhead’ plunges us into the grief, yearning and disappointments of a once-promising pianist in rural Tennessee</description>
       <pubDate>Thu, 01 Oct 2026 12:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stations by Louise Kennedy — love, friendship and the complexities of youth</title>
-      <link>https://www.ft.com/content/3b6a13bb-160c-48c8-881d-482b7debe61d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3b6a13bb-160c-48c8-881d-482b7debe61d</guid>
-      <description>The ‘Trespasses’ author captures with fino dry wit the path of would-be lovers who leave 1980s Ireland for London, and the damaging legacy of conflict and family back home</description>
-      <pubDate>Tue, 29 Sep 2026 04:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

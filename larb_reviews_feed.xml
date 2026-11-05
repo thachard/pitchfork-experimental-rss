@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:06:50 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Defense of Progress</title>
+      <link>https://lareviewofbooks.org/article/george-scialabba-sealed-envelope-toward-intelligent-utopia-morality/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/george-scialabba-sealed-envelope-toward-intelligent-utopia-morality/</guid>
+      <description>A collection of nearly five decades of writing showcases George Scialabba’s faith in the moral imagination and his dismay with the ascent of the hypocritical New Right.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The One That Remembers Also Sings</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Back to the Kitchen Table</title>
-      <link>https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</guid>
-      <description>How ‘disciplined learning’ was crowded out of the modern university.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Back to the Kitchen Table</title>
+      <link>https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</guid>
+      <description>How ‘disciplined learning’ was crowded out of the modern university.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Female Malady</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/edward-said-jonathan-swift-lionel-trilling-cultural-criticism/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/edward-said-jonathan-swift-lionel-trilling-cultural-criticism/</guid>
       <description>Two new books on Edward Said read his criticism alongside the work of Jonathan Swift and Lionel Trilling.</description>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mourning, Melancholy—or Ta’zieh</title>
-      <link>https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/azadeh-akhlaghi-from-iran-visual-testimony-peabody-museum/</guid>
-      <description>Visiting Azadeh Akhlaghi at the Peabody Museum.</description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
