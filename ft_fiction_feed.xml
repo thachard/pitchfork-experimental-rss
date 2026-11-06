@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:39:14 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books of the week</title>
+      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
+      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
+      <description>From how oil fuels war to a lament for Gaza and ancient Rome’s lessons for democracy. Plus: Helen Garner’s ‘footy’ memoir, Jonathan Coe’s new novel, a biography of Cormac McCarthy, life in the former West Berlin — and our pick of environment titles</description>
+      <pubDate>Fri, 06 Nov 2026 13:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cormac McCarthy: A Legacy Revisited — the making of a myth</title>
+      <link>https://www.ft.com/content/5e49f0f3-f66e-44fd-989a-c1fdeec9b433</link>
+      <guid isPermaLink="true">https://www.ft.com/content/5e49f0f3-f66e-44fd-989a-c1fdeec9b433</guid>
+      <description>Tracy Daugherty’s biography dismantles the legend of the solitary, blood-soaked gunslinger and finds a writer shaped by privilege, patronage and literary connections</description>
+      <pubDate>Fri, 06 Nov 2026 13:02:07 +0000</pubDate>
+    </item>
     <item>
       <title>Lessons in Harmony by Jonathan Coe — notes between nations</title>
       <link>https://www.ft.com/content/109ece27-5b98-4cea-8b11-c95e29267d53</link>
@@ -20,13 +34,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/1a38f77e-395e-4ac6-ac92-52f32385ec8b?syn-25a6b1a6=1</guid>
       <description>The author follows up ‘Lessons in Chemistry’ with an absurdist coming-of-age tale of publishing, Trumpian editors and trampled dreams</description>
       <pubDate>Mon, 02 Nov 2026 05:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best books of the week</title>
-      <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
-      <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Europe in crisis to the Russian tech billionaire behind Telegram and a son’s memoir of Edna O’Brien. Plus: Tom McCarthy’s slow-burn psychological thriller, novels by Jon Fosse, Yiyun Li and Anne Serre — and the felling of the Sycamore Gap tree</description>
-      <pubDate>Fri, 30 Oct 2026 13:06:34 +0000</pubDate>
     </item>
     <item>
       <title>The Rhyl Poster — inside a traitor’s mind</title>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c2281917-7601-4656-bdba-425fe0fdadcd</guid>
       <description>Mathias Énard’s dive into the psyche of a teenage sniper verges on the claustrophobic — but therein lies the power of this expertly translated French novel</description>
       <pubDate>Fri, 02 Oct 2026 11:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partita — Barbara Kingsolver’s virtuoso novel of loss, social class and music</title>
-      <link>https://www.ft.com/content/ef3076d1-8aaa-4f1a-8b25-3ba3fe7c4927</link>
-      <guid isPermaLink="true">https://www.ft.com/content/ef3076d1-8aaa-4f1a-8b25-3ba3fe7c4927</guid>
-      <description>A dazzling follow-up to ‘Demon Copperhead’ plunges us into the grief, yearning and disappointments of a once-promising pianist in rural Tennessee</description>
-      <pubDate>Thu, 01 Oct 2026 12:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
