@@ -5,14 +5,21 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:29:01 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget offers little new relief for middle-income Canadians struggling with costs</title>
+      <link>https://www.thestar.com/politics/federal/budget-offers-little-new-relief-for-middle-income-canadians-struggling-with-costs/article_6740ef6e-c59e-5c2d-b1ed-ea35f66f5d9c.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/budget-offers-little-new-relief-for-middle-income-canadians-struggling-with-costs/article_6740ef6e-c59e-5c2d-b1ed-ea35f66f5d9c.html</guid>
+      <description>OTTAWA - The latest federal budget promises billions of dollars in affordability relief, but middle-income Canadians struggling with the cost …</description>
+      <pubDate>Fri, 06 Nov 2026 12:05:06 +0000</pubDate>
+    </item>
     <item>
       <title>Champagne, Carney travelling across country to sell federal budget to Canadians</title>
       <link>https://www.thestar.com/politics/federal/champagne-carney-travelling-across-country-to-sell-federal-budget-to-canadians/article_3cb5ef67-99d8-5db3-bd8a-d3c29dd19c46.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/champagne-carney-travelling-across-country-to-sell-federal-budget-to-canadians/article_3cb5ef67-99d8-5db3-bd8a-d3c29dd19c46.html</guid>
-      <description>OTTAWA - Canada&apos;s leaders are fanning out today to sell communities on this year&apos;s federal budget.</description>
-      <pubDate>Fri, 06 Nov 2026 04:00:09 +0000</pubDate>
+      <description></description>
+      <pubDate>Fri, 06 Nov 2026 11:55:08 +0000</pubDate>
     </item>
     <item>
       <title>Carney government holds immigration targets steady, allows 200,000 temporary residents to apply for permanent status</title>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/budget-raises-questions-about-defence-spending-targets-after-2030/article_1f18e296-1157-53e6-8914-7ff492247b25.html</guid>
       <description></description>
       <pubDate>Thu, 05 Nov 2026 20:08:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal budget pumps billions into Canadian culture amid trade war</title>
-      <link>https://www.thestar.com/politics/federal/federal-budget-pumps-billions-into-canadian-culture-amid-trade-war/article_a3b3c5e5-fa3b-4ffc-b919-49a639355be5.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/federal-budget-pumps-billions-into-canadian-culture-amid-trade-war/article_a3b3c5e5-fa3b-4ffc-b919-49a639355be5.html</guid>
-      <description></description>
-      <pubDate>Fri, 06 Nov 2026 10:00:31 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Federal budget pumps billions into Canadian culture amid trade war</title>
+      <link>https://www.thestar.com/politics/federal/federal-budget-pumps-billions-into-canadian-culture-amid-trade-war/article_a3b3c5e5-fa3b-4ffc-b919-49a639355be5.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/federal-budget-pumps-billions-into-canadian-culture-amid-trade-war/article_a3b3c5e5-fa3b-4ffc-b919-49a639355be5.html</guid>
+      <description>Finance Minister François-Philippe Champagne is pumping an “unprecedented” level of support into promoting Canadian culture, unveiling a feder…</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:31 +0000</pubDate>
+    </item>
+    <item>
       <title>11 major highlights from the 2026 federal budget — including one price tag still missing</title>
       <link>https://www.thestar.com/politics/federal/highlights-of-today-s-federal-budget/article_61df005c-2897-487c-9fd2-ca5b72dc39c3.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/highlights-of-today-s-federal-budget/article_61df005c-2897-487c-9fd2-ca5b72dc39c3.html</guid>
-      <description>From affordability measures to more cash for spies, here&apos;s your cheat sheet to Carney government’s second federal budget.</description>
+      <description></description>
       <pubDate>Fri, 06 Nov 2026 09:23:42 +0000</pubDate>
     </item>
     <item>
@@ -116,14 +123,14 @@
       <title>CanCon, espionage and Trudeau’s archives: Highlights from the 2026 federal budget</title>
       <link>https://www.thestar.com/business/cancon-espionage-and-trudeau-s-archives-highlights-from-the-2026-federal-budget/article_840c5543-a50f-5e47-87bf-15647911de56.html</link>
       <guid isPermaLink="true">https://www.thestar.com/business/cancon-espionage-and-trudeau-s-archives-highlights-from-the-2026-federal-budget/article_840c5543-a50f-5e47-87bf-15647911de56.html</guid>
-      <description></description>
+      <description>OTTAWA - The federal government has tabled the 2026 budget proposing $142.1 billion in new spending and projecting a steady decline in the deficit.</description>
       <pubDate>Thu, 05 Nov 2026 19:20:05 +0000</pubDate>
     </item>
     <item>
       <title>Feds commit $32B to close First Nations infrastructure gap, $3B for health services</title>
       <link>https://www.thestar.com/politics/federal/feds-commit-32b-to-close-first-nations-infrastructure-gap-3b-for-health-services/article_ec8f4cc9-c359-5d24-932e-215df753d46c.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/feds-commit-32b-to-close-first-nations-infrastructure-gap-3b-for-health-services/article_ec8f4cc9-c359-5d24-932e-215df753d46c.html</guid>
-      <description>OTTAWA - The new federal budget commits $32 billion over 10 years to repair, replace and build First Nations infrastructure — though the Assem…</description>
+      <description></description>
       <pubDate>Thu, 05 Nov 2026 20:20:05 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/federal-budget-outlines-plan-to-end-homelessness-within-10-years/article_12fb6070-23a0-554d-a235-16cc03ffaa72.html</guid>
       <description></description>
       <pubDate>Thu, 05 Nov 2026 18:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Budget 2026: Liberals pin tax changes, billions in spending on ‘economic sovereignty’</title>
-      <link>https://www.thestar.com/politics/federal/budget-2026-liberals-pin-tax-changes-billions-in-spending-on-economic-sovereignty/article_55837795-d5d9-5d95-a749-95a3c780c06f.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/budget-2026-liberals-pin-tax-changes-billions-in-spending-on-economic-sovereignty/article_55837795-d5d9-5d95-a749-95a3c780c06f.html</guid>
-      <description></description>
-      <pubDate>Fri, 06 Nov 2026 00:45:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
