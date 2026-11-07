@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:40:49 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bob Dylan – The Rolling Thunder Revue: The 1976 Live Recordings</title>
+      <link>https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Twisted Teens – The Holy Cross Tigers</title>
       <link>https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/</link>
@@ -238,14 +246,6 @@
       <description>A review by Jayson Greene</description>
       <author>Jayson Greene</author>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emily A. Sprague – Cyano</title>
-      <link>https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/</guid>
-      <description>A review by Emma Madden</description>
-      <author>Emma Madden</author>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

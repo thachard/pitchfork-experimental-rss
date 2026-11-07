@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:40:34 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto introduces hiring freeze amid $1.1B shortfall</title>
+      <link>https://www.ctvnews.ca/toronto/article/toronto-introduces-hiring-freeze-amid-11b-shortfall/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-introduces-hiring-freeze-amid-11b-shortfall/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 06 Nov 2026 23:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto wants a new deal with the province. Doug Ford says the answer is ‘no’</title>
       <link>https://www.ctvnews.ca/toronto/article/doug-ford-says-theres-no-20-new-deal-for-toronto/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/doug-ford-says-theres-no-20-new-deal-for-toronto/</guid>
-      <description>Video</description>
+      <description>Ontario Premier Doug Ford says the province will not be hammering out a so-called “New Deal 2.0” to solve Toronto’s finances.</description>
       <pubDate>Thu, 05 Nov 2026 02:20:14 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-mayoral-candidate-wants-to-hike-ttc-fares-to-fix-broken-system/</guid>
       <description>Mayoral candidate Chris Alexander is promising to hike TTC fares and crack down on fare enforcement in an effort to generate an estimated $100 million in new revenue that he says could be put towards “fixing” the system.</description>
       <pubDate>Fri, 18 Sep 2026 21:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Read between the lines’: Doug Ford offers support for Olivia Chow but stops short of endorsement</title>
-      <link>https://www.ctvnews.ca/toronto/article/premier-ford-stops-short-of-full-endorsement-but-says-chow-has-his-support/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/premier-ford-stops-short-of-full-endorsement-but-says-chow-has-his-support/</guid>
-      <description>Ontario Premier Doug Ford may have stopped short of pinning an “Olivia Chow for Mayor” button on his suit lapel, but he made clear Wednesday he is backing her in the midst of her bid for re-election.</description>
-      <pubDate>Wed, 16 Sep 2026 20:47:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
