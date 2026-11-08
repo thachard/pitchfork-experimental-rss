@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:46:20 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Donald Fagen – The Nightfly</title>
+      <link>https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/</guid>
+      <description>A review by Mark Richardson</description>
+      <author>Mark Richardson</author>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bob Dylan – The Rolling Thunder Revue: The 1976 Live Recordings</title>
       <link>https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/</link>
@@ -238,14 +246,6 @@
       <description>A review by Walden Green</description>
       <author>Walden Green</author>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Greg Freeman – All Set the Bone</title>
-      <link>https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/</guid>
-      <description>A review by Jayson Greene</description>
-      <author>Jayson Greene</author>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
