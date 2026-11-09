@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 19:53:56 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What It Means to Be a Historian</title>
+      <link>https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</guid>
+      <description>A new biography of Eric Hobsbawm emphasizes his visceral commitment to the communist tradition as well as his increasing ability to think outside of it.</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Life in Lockdown</title>
+      <link>https://lareviewofbooks.org/article/jean-philippe-toussaint-chessboard-pandemic-memoir-father-solipsism/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jean-philippe-toussaint-chessboard-pandemic-memoir-father-solipsism/</guid>
+      <description>A celebrated Belgian author’s first memoir explores the roots of his vocation and his love for the game of kings.</description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Incredible Monster</title>
@@ -29,6 +43,13 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The One That Remembers Also Sings</title>
       <link>https://lareviewofbooks.org/article/arrows-of-desire-peter-wollen-film-criticism-director/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/arrows-of-desire-peter-wollen-film-criticism-director/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/china-authoritarian-resilience-history-modernization-moore-lind-pei/</guid>
       <description>Three new books reconsider China’s authoritarian resurgence.</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>It’s a Mad, Bad, Misogynistic World</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sherry-turkle-artificial-intimacy-talk-machines-artificial-intelligence/</guid>
       <description>AI ‘relationships’ won’t help us become ourselves.</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intangible Juju Magic</title>
-      <link>https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dont-be-evil-claire-stapleton-google-silicon-valley/</guid>
-      <description>Any company billing itself as morally or otherwise exceptional is selling a myth.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Midlife Review</title>
-      <link>https://lareviewofbooks.org/article/callie-garnett-shit-hike-poetry-observational-gertrude-stein/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/callie-garnett-shit-hike-poetry-observational-gertrude-stein/</guid>
-      <description>Callie Garnett turns seemingly banal observations into grist for philosophical rumination while stuck on a run-of-the-mill shit hike.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
