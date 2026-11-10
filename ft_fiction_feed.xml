@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:05:33 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>M John Harrison’s ‘The End of Everything’ wins the 2026 Booker Prize for fiction</title>
+      <link>https://www.ft.com/content/b72d6b46-4f8c-4149-8b20-f758d9c82d23?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/b72d6b46-4f8c-4149-8b20-f758d9c82d23?syn-25a6b1a6=1</guid>
+      <description>The 81-year-old science fiction author who has won acclaim as a genre-busting prose stylist is the oldest winner of the award, for a post-apocalyptic novel that ‘leaves you with a twinge of optimism’</description>
+      <pubDate>Mon, 09 Nov 2026 21:57:16 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c9380af1-cb9e-45f6-b54c-49229349851f</guid>
       <description>Conflict and sickness spell danger in other worlds, the undead spread unrest in Massachusetts, a drug-induced multiversal breach, and critters bear weapons and a grudge</description>
       <pubDate>Mon, 05 Oct 2026 04:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perfecting the Shot — an immersive view of the act of killing</title>
-      <link>https://www.ft.com/content/c2281917-7601-4656-bdba-425fe0fdadcd</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c2281917-7601-4656-bdba-425fe0fdadcd</guid>
-      <description>Mathias Énard’s dive into the psyche of a teenage sniper verges on the claustrophobic — but therein lies the power of this expertly translated French novel</description>
-      <pubDate>Fri, 02 Oct 2026 11:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

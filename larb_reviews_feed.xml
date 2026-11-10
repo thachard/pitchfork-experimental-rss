@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:06:50 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Writing Is a Prolonged Suicide</title>
+      <link>https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</guid>
+      <description>Dora Šustić’s 2022 debut novel demonstrates that the idea of Prague as the Second Chance City still endures in some circles.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Politics of (In)Visibility</title>
+      <link>https://lareviewofbooks.org/article/sleep-thief-ibtisam-azem-palestine-apartheid-visibility-identity/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/sleep-thief-ibtisam-azem-palestine-apartheid-visibility-identity/</guid>
+      <description>Palestinian author Ibtisam Azem’s newly translated novel is a resonant allegory of life under surveillance.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What It Means to Be a Historian</title>
@@ -29,6 +43,13 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Incredible Monster</title>
       <link>https://lareviewofbooks.org/article/this-dark-night-emily-bronte-life-deborah-lutz/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/this-dark-night-emily-bronte-life-deborah-lutz/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/george-scialabba-sealed-envelope-toward-intelligent-utopia-morality/</guid>
       <description>A collection of nearly five decades of writing showcases George Scialabba’s faith in the moral imagination and his dismay with the ascent of the hypocritical New Right.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The One That Remembers Also Sings</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/roy-decarava-sound-i-saw-david-zwirner-jazz/</guid>
       <description>On Roy DeCarava at David Zwirner, Los Angeles.</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>She’s a Full-On Monet</title>
-      <link>https://lareviewofbooks.org/article/citizen-kim-kardashian-jonathan-van-meter-biography-jenner/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/citizen-kim-kardashian-jonathan-van-meter-biography-jenner/</guid>
-      <description>A sympathetic new biography is engineered to make us take Kim Kardashian more seriously.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Require a You</title>
-      <link>https://lareviewofbooks.org/article/sherry-turkle-artificial-intimacy-talk-machines-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/sherry-turkle-artificial-intimacy-talk-machines-artificial-intelligence/</guid>
-      <description>AI ‘relationships’ won’t help us become ourselves.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
