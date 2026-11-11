@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:11:59 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sufjan Stevens – Worst Christmas Ever!</title>
+      <link>https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/</guid>
+      <description>A review by Jayson Greene</description>
+      <author>Jayson Greene</author>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>June McDoom – Follow the Light</title>
       <link>https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/</link>
@@ -190,14 +198,6 @@
       <description>A review by Sam Goldner</description>
       <author>Sam Goldner</author>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam and Louise Sullivan – Love &amp; Devotion</title>
-      <link>https://pitchfork.com/reviews/albums/sam-and-louise-sullivan-love-and-devotion/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sam-and-louise-sullivan-love-and-devotion/</guid>
-      <description>A review by W. Reed Putnam</description>
-      <author>W. Reed Putnam</author>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
