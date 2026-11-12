@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/provincial/</link>
     <description>Ontario politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:33:55 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/provincial/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ford government announces sweeping changes to prevent OSAP misuse</title>
+      <link>https://www.thestar.com/politics/provincial/ford-government-announces-sweeping-changes-to-prevent-osap-misuse/article_d8a1ec43-f2e5-4917-a2f0-1e5759dd44d1.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/ford-government-announces-sweeping-changes-to-prevent-osap-misuse/article_d8a1ec43-f2e5-4917-a2f0-1e5759dd44d1.html</guid>
+      <description>Private career colleges will be held financially liable for OSAP misuse under the Ontario government&apos;s new legislation to address fraud concerns.</description>
+      <pubDate>Thu, 12 Nov 2026 11:28:31 +0000</pubDate>
+    </item>
     <item>
       <title>This school’s students are caught in the OSAP freeze. It responded with financial aid, and a free pantry</title>
       <link>https://www.thestar.com/politics/this-school-s-students-are-caught-in-the-osap-freeze-it-responded-with-financial-aid-and-a-free-pantry/article_745488f5-668b-4311-80bb-95d5621854e3.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/this-school-s-students-are-caught-in-the-osap-freeze-it-responded-with-financial-aid-and-a-free-pantry/article_745488f5-668b-4311-80bb-95d5621854e3.html</guid>
-      <description>At Redeemer University, students can defer tuition and on-campus housing payments. &apos;In the long run, it&apos;s not sustainable.&apos;</description>
+      <description></description>
       <pubDate>Wed, 11 Nov 2026 15:50:03 +0000</pubDate>
     </item>
     <item>
@@ -26,7 +33,7 @@
       <link>https://www.thestar.com/politics/provincial/osap-changes-will-be-revealed-soon-premier-doug-ford-says/article_eef1c55d-5a28-495c-be63-3d8ae0414efd.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/osap-changes-will-be-revealed-soon-premier-doug-ford-says/article_eef1c55d-5a28-495c-be63-3d8ae0414efd.html</guid>
       <description></description>
-      <pubDate>Wed, 11 Nov 2026 13:25:34 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 11:19:59 +0000</pubDate>
     </item>
     <item>
       <title>Doug Ford blames tariffs for Republican losses in U.S. midterm elections</title>
@@ -39,7 +46,7 @@
       <title>Ontario’s education workers are taking strike votes. Here’s what to expect after that</title>
       <link>https://www.thestar.com/politics/provincial/as-strike-votes-begin-education-workers-say-schools-are-understaffed/article_b21e3018-7aa6-49e5-822c-be52c89ad126.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/as-strike-votes-begin-education-workers-say-schools-are-understaffed/article_b21e3018-7aa6-49e5-822c-be52c89ad126.html</guid>
-      <description></description>
+      <description>Strike votes begin across the education sector as unions set bargaining dates and wait for a labour board ruling on what will be discussed in talks.</description>
       <pubDate>Wed, 11 Nov 2026 22:32:14 +0000</pubDate>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/ontario/osap-pause-may-force-dental-college-to-close-school-says/article_a4ee907e-e574-5fab-9b8c-97ea9c5203f2.html</guid>
       <description>Administrators at the Southern Ontario Dental College say the school will have to close if the provincewide pause on student financial aid isn…</description>
       <pubDate>Mon, 09 Nov 2026 18:08:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Liberal leadership hopefuls touch on taxes in last debate before voting begins</title>
-      <link>https://www.thestar.com/politics/provincial/liberal-leadership-hopefuls-touch-on-taxes-in-last-debate-before-voting-begins/article_cff2fe07-c03e-49f3-b0cf-cae1f1291609.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/liberal-leadership-hopefuls-touch-on-taxes-in-last-debate-before-voting-begins/article_cff2fe07-c03e-49f3-b0cf-cae1f1291609.html</guid>
-      <description>Stephanie Bowman and Navdeep Bains pledged a tax freeze while Lee Fairclough and Dylan Marando talked tax reform at Wednesday night’s debate.</description>
-      <pubDate>Wed, 04 Nov 2026 22:30:03 +0000</pubDate>
     </item>
     <item>
       <title>Ford government says it’s tightened rules for next round of skills development funding</title>
@@ -78,6 +78,13 @@
       <pubDate>Mon, 05 Oct 2026 07:38:09 +0000</pubDate>
     </item>
     <item>
+      <title>Liberal leadership hopefuls touch on taxes in last debate before voting begins</title>
+      <link>https://www.thestar.com/politics/provincial/liberal-leadership-hopefuls-touch-on-taxes-in-last-debate-before-voting-begins/article_cff2fe07-c03e-49f3-b0cf-cae1f1291609.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/liberal-leadership-hopefuls-touch-on-taxes-in-last-debate-before-voting-begins/article_cff2fe07-c03e-49f3-b0cf-cae1f1291609.html</guid>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 22:30:03 +0000</pubDate>
+    </item>
+    <item>
       <title>With Toronto facing a $1.12-billion budget shortfall, Doug Ford rules out a ‘new deal’ 2.0</title>
       <link>https://www.thestar.com/news/gta/no-new-deal-for-toronto-after-olivia-chow-s-reelection-doug-ford-says/article_77c12f60-8936-41dc-9cf5-d7e68d9e73c2.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/no-new-deal-for-toronto-after-olivia-chow-s-reelection-doug-ford-says/article_77c12f60-8936-41dc-9cf5-d7e68d9e73c2.html</guid>
@@ -90,13 +97,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/provincial/doug-ford-says-status-quo-is-unacceptable-for-niagara-falls-as-a-tourist-destination/article_d2d74778-f432-43ed-beb5-df5c7d572225.html</guid>
       <description></description>
       <pubDate>Wed, 04 Nov 2026 19:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. voters ‘showed what they thought about President Trump,’ Doug Ford says</title>
-      <link>https://www.thestar.com/politics/provincial/u-s-voters-showed-what-they-thought-about-president-trump-doug-ford-says/article_0a1e58de-9b01-4cf4-ac76-052503ab8d76.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/provincial/u-s-voters-showed-what-they-thought-about-president-trump-doug-ford-says/article_0a1e58de-9b01-4cf4-ac76-052503ab8d76.html</guid>
-      <description></description>
-      <pubDate>Wed, 04 Nov 2026 21:04:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

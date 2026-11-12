@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:34:26 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hanging on the Telephone</title>
+      <link>https://lareviewofbooks.org/article/telephone-new-history-james-gleick-telegraph-pop-culture/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/telephone-new-history-james-gleick-telegraph-pop-culture/</guid>
+      <description>James Gleick’s history of the ‘telephone’ evokes an antique device most of us now barely recognize.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Unlikely Contemplative</title>
+      <link>https://lareviewofbooks.org/article/will-attention-memoir-meghan-ogieblyn-christianity-alcoholism-spirituality/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/will-attention-memoir-meghan-ogieblyn-christianity-alcoholism-spirituality/</guid>
+      <description>After a decade of sobriety, and years after leaving Christianity, Meghan O’Gieblyn finds herself relapsing into the pew and the bottle.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pretend It’s Not Janet</title>
@@ -29,6 +43,13 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Politics of (In)Visibility</title>
       <link>https://lareviewofbooks.org/article/sleep-thief-ibtisam-azem-palestine-apartheid-visibility-identity/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/sleep-thief-ibtisam-azem-palestine-apartheid-visibility-identity/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</guid>
       <description>A new biography of Eric Hobsbawm emphasizes his visceral commitment to the communist tradition as well as his increasing ability to think outside of it.</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Life in Lockdown</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/need-megan-mostyn-brown-cannibal-horror-femgore-consumption/</guid>
       <description>We get the femgore we deserve.</description>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Back to the Kitchen Table</title>
-      <link>https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/after-university-higher-education-future-chad-wellmon-review/</guid>
-      <description>How ‘disciplined learning’ was crowded out of the modern university.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Female Malady</title>
-      <link>https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/only-cure-mark-solms-women-sigmund-freud-psychoanalysis/</guid>
-      <description>As Freud himself put it, ‘What does a woman want?’</description>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
