@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:56:22 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dawuna – Love’s Arp</title>
+      <link>https://pitchfork.com/reviews/albums/dawuna-loves-arp/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dawuna-loves-arp/</guid>
+      <description>A review by Alex Robert Ross</description>
+      <author>Alex Robert Ross</author>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sun Araw – Rapid ResponseEP</title>
+      <link>https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chuck Roth – Texture Songs</title>
       <link>https://pitchfork.com/reviews/albums/chuck-roth-texture-songs/</link>
@@ -182,22 +198,6 @@
       <description>A review by Stephen Kearse</description>
       <author>Stephen Kearse</author>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>James Ellis Ford – Lost in Another World</title>
-      <link>https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</guid>
-      <description>A review by Alastair Shuttleworth</description>
-      <author>Alastair Shuttleworth</author>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kevin Drumm – The Mild Temper</title>
-      <link>https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/</guid>
-      <description>A review by Levi Dayan</description>
-      <author>Levi Dayan</author>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
