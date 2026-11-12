@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:37:46 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arendal — a super-strength shot of Karl Ove Knausgaard</title>
+      <link>https://www.ft.com/content/e9e4d259-aaa3-4b64-bc65-1046a1f68ec0</link>
+      <guid isPermaLink="true">https://www.ft.com/content/e9e4d259-aaa3-4b64-bc65-1046a1f68ec0</guid>
+      <description>A car breakdown on a frozen road brings a mid-life marital crisis to the fore in the riveting fifth novel of the ‘Morning Star’ series</description>
+      <pubDate>Thu, 12 Nov 2026 17:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Rose Byrne and Meghann Fahy star in heady southern gothic thriller The Good Daughter</title>
       <link>https://www.ft.com/content/4087a3d6-5697-4179-a2ee-d86395425144</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/9ff2f4cf-9956-449b-aebf-ce8cd86d7ae6</guid>
       <description>Paul B Rainey’s ‘Murder School’ reads like Lindsay Anderson’s ‘If . . .’ via Adrian Mole, while Lisa Hanawalt offers charming weirdness in ‘I Can’t Stop Thinking About Horses and Sex’</description>
       <pubDate>Mon, 12 Oct 2026 04:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>In One Brief Moment All Eternity — Elif Shafak gives voice to Flaubert’s women</title>
-      <link>https://www.ft.com/content/78468105-14d6-4729-9919-4ce12778f43c</link>
-      <guid isPermaLink="true">https://www.ft.com/content/78468105-14d6-4729-9919-4ce12778f43c</guid>
-      <description>The oft-overlooked women from the French author’s life and novels converge to weave an inventive narrative of multiple viewpoints</description>
-      <pubDate>Thu, 08 Oct 2026 13:12:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
