@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:55:52 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Armand Hammer – Snakes &amp; Ladders</title>
+      <link>https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/</guid>
+      <description>A review by Andre Gee</description>
+      <author>Andre Gee</author>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Donald Fagen – The Nightfly</title>
       <link>https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/</link>
@@ -238,14 +246,6 @@
       <description>A review by Stephen Thomas Erlewine</description>
       <author>Stephen Thomas Erlewine</author>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cameron Winter – Live at Carnegie Hall</title>
-      <link>https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/</guid>
-      <description>A review by Walden Green</description>
-      <author>Walden Green</author>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

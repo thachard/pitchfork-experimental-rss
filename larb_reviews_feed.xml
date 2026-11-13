@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:56:14 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watching Artists Argue in Bars</title>
+      <link>https://lareviewofbooks.org/article/jessica-craig-martin-regret-i-am-able-attend/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/jessica-craig-martin-regret-i-am-able-attend/</guid>
+      <description>Jessica Craig-Martin’s memoir is a coming-of-age send-up of 1970s and ’80s blue-chip bohemia.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hanging on the Telephone</title>
@@ -36,18 +43,18 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Writing Is a Prolonged Suicide</title>
-      <link>https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</guid>
-      <description>Dora Šustić’s 2022 debut novel demonstrates that the idea of Prague as the Second Chance City still endures in some circles.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Writing Is a Prolonged Suicide</title>
+      <link>https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</guid>
+      <description>Dora Šustić’s 2022 debut novel demonstrates that the idea of Prague as the Second Chance City still endures in some circles.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Politics of (In)Visibility</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/china-authoritarian-resilience-history-modernization-moore-lind-pei/</guid>
       <description>Three new books reconsider China’s authoritarian resurgence.</description>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s a Mad, Bad, Misogynistic World</title>
-      <link>https://lareviewofbooks.org/article/need-megan-mostyn-brown-cannibal-horror-femgore-consumption/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/need-megan-mostyn-brown-cannibal-horror-femgore-consumption/</guid>
-      <description>We get the femgore we deserve.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
