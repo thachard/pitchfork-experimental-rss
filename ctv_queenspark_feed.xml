@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:42:26 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can sale of Stellantis plant in Brampton be stopped? Ontario cabinet minister hopes meeting with CEO could ‘buy some time’</title>
+      <link>https://www.ctvnews.ca/toronto/local/peel/article/can-sale-of-stellantis-plant-in-brampton-be-stopped-ontario-cabinet-minister-hopes-meeting-with-ceo-could-buy-some-time/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/local/peel/article/can-sale-of-stellantis-plant-in-brampton-be-stopped-ontario-cabinet-minister-hopes-meeting-with-ceo-could-buy-some-time/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 13 Nov 2026 17:31:18 +0000</pubDate>
+    </item>
     <item>
       <title>Career college saw OSAP usage rise 6,000 per cent, but wasn&apos;t cut off this spring</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/</guid>
-      <description></description>
+      <description>An Ontario career college with four campuses saw the amount of students receiving financial aid explode over a few years, including an increase of nearly 6,000 per cent at one campus, but it was not one of the schools the government cut off this spring.</description>
       <pubDate>Fri, 13 Nov 2026 10:49:59 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-wont-make-career-college-osap-audit-public-minister-says/</guid>
       <description>Ontario’s colleges and universities minister said Tuesday he will not be releasing a government-commissioned audit into student financial aid usage at career colleges.</description>
       <pubDate>Wed, 04 Nov 2026 01:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thousands of OSAP applications came from a single IP address, ministry alleges</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/thousands-of-osap-applications-came-from-a-single-ip-address-ministry-alleges/</guid>
-      <description>At two career colleges now under the Ontario government’s microscope, more than half of the thousands of student financial aid applications last year came from a single IP address, officials allege in documents filed in court.</description>
-      <pubDate>Mon, 02 Nov 2026 11:40:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
