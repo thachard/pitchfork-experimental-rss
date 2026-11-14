@@ -5,13 +5,20 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:45:09 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amazons — Don DeLillo’s puckish ice hockey fable</title>
+      <link>https://www.ft.com/content/8d6e605d-d395-4d07-9905-17a8b826fe02</link>
+      <guid isPermaLink="true">https://www.ft.com/content/8d6e605d-d395-4d07-9905-17a8b826fe02</guid>
+      <description>The American novelist’s unlikely sex comedy, written under a pseudonym in 1980, has been reissued after the success of steamy TV hit ‘Heated Rivalry’</description>
+      <pubDate>Sat, 14 Nov 2026 05:00:17 +0000</pubDate>
+    </item>
     <item>
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
       <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Ukraine’s wartime ordeal to 8,000 years of wine and the new novel from Karl Ove Knausgaard. Plus: a fictionalised life of Sergei Eisenstein, a biography of Saki, the love letters of Ingeborg Bachmann — and Miranda Green’s pick of politics titles</description>
+      <description>From Ukraine’s wartime ordeal to 8,000 years of wine and the new novel from Karl Ove Knausgaard. Plus: a fictionalised life of Sergei Eisenstein, a biography of Saki, the love letters of Ingeborg Bachmann — and Don DeLillo’s pseudonymous sex comedy</description>
       <pubDate>Fri, 13 Nov 2026 12:50:35 +0000</pubDate>
     </item>
     <item>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd</guid>
       <description>Min Jin Lee’s new family saga follows a Korean-American clan across continents, exploring education, ambition and their pursuit of belonging</description>
       <pubDate>Thu, 15 Oct 2026 11:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Floating World by Ben Eastham — tale of a failed utopia</title>
-      <link>https://www.ft.com/content/e3269e6b-1e01-494a-bcf8-7309ca0e4fda?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/e3269e6b-1e01-494a-bcf8-7309ca0e4fda?syn-25a6b1a6=1</guid>
-      <description>The art critic’s debut novel is a fantastically funny, satirical take on a doomsday city for the ultra-wealthy</description>
-      <pubDate>Tue, 13 Oct 2026 11:20:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,14 +5,21 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:45:47 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Can sale of Stellantis plant in Brampton be stopped? Ontario cabinet minister hopes meeting with CEO could ‘buy some time’</title>
+      <title>‘We’re proud these products are from Ontario;’ Doug Ford tours Alliston, Ont. Honda plant</title>
+      <link>https://www.ctvnews.ca/barrie/article/ford-visits-honda-plant-in-alliston-ont-days-afters-160m-investment/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/barrie/article/ford-visits-honda-plant-in-alliston-ont-days-afters-160m-investment/</guid>
+      <description>Video</description>
+      <pubDate>Fri, 13 Nov 2026 21:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ontario minister suggests purpose behind meeting with Stellantis CEO is to ‘buy some time’ amid sale of Brampton plant</title>
       <link>https://www.ctvnews.ca/toronto/local/peel/article/can-sale-of-stellantis-plant-in-brampton-be-stopped-ontario-cabinet-minister-hopes-meeting-with-ceo-could-buy-some-time/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/local/peel/article/can-sale-of-stellantis-plant-in-brampton-be-stopped-ontario-cabinet-minister-hopes-meeting-with-ceo-could-buy-some-time/</guid>
-      <description>Video</description>
-      <pubDate>Fri, 13 Nov 2026 17:31:18 +0000</pubDate>
+      <description>Officials in Ontario are hoping that an upcoming meeting with the CEO of Stellantis could help buy some time to explore options for keeping auto manufacturing jobs at a Brampton facility slated to be sold off.</description>
+      <pubDate>Fri, 13 Nov 2026 20:27:01 +0000</pubDate>
     </item>
     <item>
       <title>Career college saw OSAP usage rise 6,000 per cent, but wasn&apos;t cut off this spring</title>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/what-elected-trustees-at-supervised-school-boards-can-and-cant-do-according-to-a-leaked-memo/</guid>
       <description>A leaked memo obtained by CTV News details the very limited roles and responsibilities of school trustees for the Toronto District School Board, the Toronto Catholic District School Board, and six other boards under supervision.</description>
       <pubDate>Wed, 04 Nov 2026 02:40:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario won’t make career college OSAP audit public, minister says</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-wont-make-career-college-osap-audit-public-minister-says/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-wont-make-career-college-osap-audit-public-minister-says/</guid>
-      <description>Ontario’s colleges and universities minister said Tuesday he will not be releasing a government-commissioned audit into student financial aid usage at career colleges.</description>
-      <pubDate>Wed, 04 Nov 2026 01:09:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
