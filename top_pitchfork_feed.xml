@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:19:05 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pearl Jam – Yield</title>
+      <link>https://pitchfork.com/reviews/albums/pearl-jam-yield/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/pearl-jam-yield/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hiroshi Yoshimura – Quiet Forest</title>
       <link>https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/</link>
@@ -238,14 +246,6 @@
       <description>A review by Matthew Blackwell</description>
       <author>Matthew Blackwell</author>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Chicks – Taking the Long Way</title>
-      <link>https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/</guid>
-      <description>A review by Shaad D’Souza</description>
-      <author>Shaad D’Souza</author>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
