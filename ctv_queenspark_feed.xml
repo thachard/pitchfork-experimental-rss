@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:55:03 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ontario Catholic teachers vote overwhelmingly in favour of strike mandate</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-catholic-teachers-vote-overwhelmingly-in-favour-of-strike-mandate/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-catholic-teachers-vote-overwhelmingly-in-favour-of-strike-mandate/</guid>
+      <description></description>
+      <pubDate>Mon, 16 Nov 2026 17:52:45 +0000</pubDate>
+    </item>
     <item>
       <title>‘We’re proud these products are from Ontario;’ Doug Ford tours Alliston, Ont. Honda plant</title>
       <link>https://www.ctvnews.ca/barrie/article/ford-visits-honda-plant-in-alliston-ont-days-afters-160m-investment/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/barrie/article/ford-visits-honda-plant-in-alliston-ont-days-afters-160m-investment/</guid>
-      <description>Video</description>
+      <description>Premier Doug Ford is visiting Honda Canada in Alliston, Ont. on Friday.</description>
       <pubDate>Fri, 13 Nov 2026 21:39:15 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/doug-ford-says-theres-no-20-new-deal-for-toronto/</guid>
       <description>Ontario Premier Doug Ford says the province will not be hammering out a so-called “New Deal 2.0” to solve Toronto’s finances.</description>
       <pubDate>Thu, 05 Nov 2026 02:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>What elected trustees at supervised school boards can and can’t do, according to this memo</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/what-elected-trustees-at-supervised-school-boards-can-and-cant-do-according-to-a-leaked-memo/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/what-elected-trustees-at-supervised-school-boards-can-and-cant-do-according-to-a-leaked-memo/</guid>
-      <description>A leaked memo obtained by CTV News details the very limited roles and responsibilities of school trustees for the Toronto District School Board, the Toronto Catholic District School Board, and six other boards under supervision.</description>
-      <pubDate>Wed, 04 Nov 2026 02:40:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

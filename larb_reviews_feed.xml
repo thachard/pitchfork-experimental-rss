@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:56:18 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>God Bless Branson</title>
+      <link>https://lareviewofbooks.org/article/branson-missouri-faith-family-flag-joanna-dee-das/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/branson-missouri-faith-family-flag-joanna-dee-das/</guid>
+      <description>James Steichen braves a trip to Branson, Missouri, to judge for himself the controversial entertainment mecca at the center of Joanna Dee Das’s new book.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US Border Religion</title>
+      <link>https://lareviewofbooks.org/article/heaven-has-wall-elizabeth-shakman-hurd-borders-religion/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/heaven-has-wall-elizabeth-shakman-hurd-borders-religion/</guid>
+      <description>Elizabeth Shakman Hurd examines how borders require acts of faith in something larger than the everyday.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Watching Artists Argue in Bars</title>
@@ -29,6 +43,13 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>An Unlikely Contemplative</title>
       <link>https://lareviewofbooks.org/article/will-attention-memoir-meghan-ogieblyn-christianity-alcoholism-spirituality/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/will-attention-memoir-meghan-ogieblyn-christianity-alcoholism-spirituality/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/janet-malcolm-absent-woman-genius-biography-eve-sneider/</guid>
       <description>In the first-ever biography of Janet Malcolm, the titular ‘absent woman’ is not the person you’d suspect.</description>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Writing Is a Prolonged Suicide</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/george-scialabba-sealed-envelope-toward-intelligent-utopia-morality/</guid>
       <description>A collection of nearly five decades of writing showcases George Scialabba’s faith in the moral imagination and his dismay with the ascent of the hypocritical New Right.</description>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The One That Remembers Also Sings</title>
-      <link>https://lareviewofbooks.org/article/arrows-of-desire-peter-wollen-film-criticism-director/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/arrows-of-desire-peter-wollen-film-criticism-director/</guid>
-      <description>Who was Peter Wollen?</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Went Right for Beijing?</title>
-      <link>https://lareviewofbooks.org/article/china-authoritarian-resilience-history-modernization-moore-lind-pei/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/china-authoritarian-resilience-history-modernization-moore-lind-pei/</guid>
-      <description>Three new books reconsider China’s authoritarian resurgence.</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:54:35 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best crime and thrillers to read this year</title>
+      <link>https://www.ft.com/content/df45b2ce-d36c-407c-acdf-68fb7d34f916</link>
+      <guid isPermaLink="true">https://www.ft.com/content/df45b2ce-d36c-407c-acdf-68fb7d34f916</guid>
+      <description>Barry Forshaw and Adam LeBor select their must-read titles</description>
+      <pubDate>Mon, 16 Nov 2026 05:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>Amazons — Don DeLillo’s puckish ice hockey fable</title>
       <link>https://www.ft.com/content/8d6e605d-d395-4d07-9905-17a8b826fe02</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/3e84d2c0-2606-4833-bd73-6e715add27a1</guid>
       <description>A story of the CIA and MI6 spying on each other sounds very of our time, but this new thriller is marred by too much graphic detail</description>
       <pubDate>Fri, 16 Oct 2026 04:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>American Hagwon — lessons in the immigrant experience</title>
-      <link>https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd</link>
-      <guid isPermaLink="true">https://www.ft.com/content/56eab80b-2d63-4651-9938-52fe22cf0abd</guid>
-      <description>Min Jin Lee’s new family saga follows a Korean-American clan across continents, exploring education, ambition and their pursuit of belonging</description>
-      <pubDate>Thu, 15 Oct 2026 11:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
