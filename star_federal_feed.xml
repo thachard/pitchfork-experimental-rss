@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:40:48 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Surveillance pricing could lead to more expensive groceries for some, MPs hear</title>
+      <link>https://www.thestar.com/politics/federal/surveillance-pricing-could-lead-to-more-expensive-groceries-for-some-mps-hear/article_6831f6d6-2cc8-5c55-bd75-487ac41a00b4.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/surveillance-pricing-could-lead-to-more-expensive-groceries-for-some-mps-hear/article_6831f6d6-2cc8-5c55-bd75-487ac41a00b4.html</guid>
+      <description>OTTAWA - An expert says people with religious or health-based food restrictions could end up paying more for groceries with the use of algorit…</description>
+      <pubDate>Mon, 16 Nov 2026 14:02:31 +0000</pubDate>
+    </item>
     <item>
       <title>Who will be the next Bank of Canada governor? These are some contenders</title>
       <link>https://www.thestar.com/politics/federal/who-will-be-the-next-bank-of-canada-governor-these-are-some-contenders/article_659cd621-a4ef-5921-afb0-1a7b754b8c27.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/who-will-be-the-next-bank-of-canada-governor-these-are-some-contenders/article_659cd621-a4ef-5921-afb0-1a7b754b8c27.html</guid>
-      <description>OTTAWA - The Bank of Canada says governor Tiff Macklem is not seeking another term in the role after his current seven-year stint expires on June 2.</description>
+      <description></description>
       <pubDate>Mon, 16 Nov 2026 12:30:05 +0000</pubDate>
     </item>
     <item>
@@ -19,7 +26,7 @@
       <link>https://www.thestar.com/politics/federal/mark-carney-arrives-in-china-seeking-trade-opportunities-amid-u-s-uncertainty/article_0b3518f8-bf6f-4c76-838e-1325f95f2434.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/mark-carney-arrives-in-china-seeking-trade-opportunities-amid-u-s-uncertainty/article_0b3518f8-bf6f-4c76-838e-1325f95f2434.html</guid>
       <description></description>
-      <pubDate>Mon, 16 Nov 2026 12:49:46 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 12:50:39 +0000</pubDate>
     </item>
     <item>
       <title>Carney says Canada could turn to Chinese automakers if Trump trade talks fail</title>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/un-mission-goes-after-haitian-gangs-with-backing-from-canada/article_5b58017e-7e6b-422a-84a2-5f82daee604d.html</guid>
       <description></description>
       <pubDate>Sun, 15 Nov 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Freshwater supply challenges threaten Canada’s security, internal federal memo says</title>
-      <link>https://www.thestar.com/politics/federal/freshwater-supply-challenges-threaten-canada-s-security-internal-federal-memo-says/article_c88faf80-54c8-5530-b895-955633471ee8.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/freshwater-supply-challenges-threaten-canada-s-security-internal-federal-memo-says/article_c88faf80-54c8-5530-b895-955633471ee8.html</guid>
-      <description></description>
-      <pubDate>Sun, 15 Nov 2026 06:00:09 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Freshwater supply challenges threaten Canada’s security, internal federal memo says</title>
+      <link>https://www.thestar.com/politics/federal/freshwater-supply-challenges-threaten-canada-s-security-internal-federal-memo-says/article_c88faf80-54c8-5530-b895-955633471ee8.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/freshwater-supply-challenges-threaten-canada-s-security-internal-federal-memo-says/article_c88faf80-54c8-5530-b895-955633471ee8.html</guid>
+      <description>OTTAWA - Pressures on the supply of fresh water pose challenges that will affect Canada&apos;s &quot;long-term security and prosperity&quot; if left unaddres…</description>
+      <pubDate>Sun, 15 Nov 2026 06:00:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Carney caps off ASEAN summit with focus on trade deals, heads to Francophonie</title>
       <link>https://www.thestar.com/business/carney-to-cap-off-asean-summit-with-focus-on-trade-deals-ahead-of-francophonie/article_e4e58541-6d4c-55b6-b2a0-b8cdfae12770.html</link>
       <guid isPermaLink="true">https://www.thestar.com/business/carney-to-cap-off-asean-summit-with-focus-on-trade-deals-ahead-of-francophonie/article_e4e58541-6d4c-55b6-b2a0-b8cdfae12770.html</guid>
-      <description>MANILA - Prime Minister Mark Carney has wrapped up a brief visit to the Philippines and is heading to Cambodia, as the government pushes for m…</description>
+      <description></description>
       <pubDate>Mon, 16 Nov 2026 05:09:37 +0000</pubDate>
     </item>
     <item>
@@ -116,14 +123,14 @@
       <title>Lawyers unsure if extra funding can reduce massive caseload at Federal Court</title>
       <link>https://www.thestar.com/politics/federal/lawyers-unsure-if-extra-funding-can-reduce-massive-caseload-at-federal-court/article_ffe54cff-081a-5865-9de3-6912f2f6af14.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/lawyers-unsure-if-extra-funding-can-reduce-massive-caseload-at-federal-court/article_ffe54cff-081a-5865-9de3-6912f2f6af14.html</guid>
-      <description></description>
+      <description>OTTAWA - The recent federal budget included $58 million in additional funding court administration but the Federal Court still doesn&apos;t have a …</description>
       <pubDate>Sun, 15 Nov 2026 14:15:20 +0000</pubDate>
     </item>
     <item>
       <title>Pathways carbon capture agreement faces deadline delay, but talks remain on track</title>
       <link>https://www.thestar.com/politics/federal/pathways-carbon-capture-agreement-faces-deadline-delay-but-talks-remain-on-track/article_97c6160c-c553-495a-b05a-53decae9ffb7.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/pathways-carbon-capture-agreement-faces-deadline-delay-but-talks-remain-on-track/article_97c6160c-c553-495a-b05a-53decae9ffb7.html</guid>
-      <description>Getting the agreement by Nov. 15 &quot;doesn&apos;t really matter,&quot; the federal natural resources minister now says.</description>
+      <description></description>
       <pubDate>Mon, 16 Nov 2026 12:15:23 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/na-carney-trade-nov12-embargoed-until-probably-9-45-pm-est-i-will-advise/article_a47fb7c5-c134-426e-aaaa-721a87c99599.html</guid>
       <description></description>
       <pubDate>Mon, 16 Nov 2026 12:49:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Melanie Joly puts ‘aggressive package’ to Stellantis in bid to stop sale of Brampton plant</title>
-      <link>https://www.thestar.com/politics/federal/joly-puts-aggressive-package-to-stellantis-in-bid-to-stop-sale-of-brampton-plant/article_6fbd2eec-e3ad-44be-b332-94f7644a6b33.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/joly-puts-aggressive-package-to-stellantis-in-bid-to-stop-sale-of-brampton-plant/article_6fbd2eec-e3ad-44be-b332-94f7644a6b33.html</guid>
-      <description></description>
-      <pubDate>Mon, 16 Nov 2026 05:39:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
