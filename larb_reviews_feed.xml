@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:22:52 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Each Time Has Its Own Misfortune</title>
+      <link>https://lareviewofbooks.org/article/no-one-talks-war-ukraine-russia-nina-kossman/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/no-one-talks-war-ukraine-russia-nina-kossman/</guid>
+      <description>Russian American author Nina Kossman offers a complex and thoughtful travelogue through a war-ravaged country.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whimsical, Innovative Relationality</title>
+      <link>https://lareviewofbooks.org/article/yoko-tawada-climate-scattered-over-earth-archipelago-sun/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/yoko-tawada-climate-scattered-over-earth-archipelago-sun/</guid>
+      <description>Yoko Tawada’s absurdist trilogy explores radical new modes of belonging beyond borders and biology.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>God Bless Branson</title>
@@ -29,6 +43,13 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Watching Artists Argue in Bars</title>
       <link>https://lareviewofbooks.org/article/jessica-craig-martin-regret-i-am-able-attend/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jessica-craig-martin-regret-i-am-able-attend/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/telephone-new-history-james-gleick-telegraph-pop-culture/</guid>
       <description>James Gleick’s history of the ‘telephone’ evokes an antique device most of us now barely recognize.</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>An Unlikely Contemplative</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/jean-philippe-toussaint-chessboard-pandemic-memoir-father-solipsism/</guid>
       <description>A celebrated Belgian author’s first memoir explores the roots of his vocation and his love for the game of kings.</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incredible Monster</title>
-      <link>https://lareviewofbooks.org/article/this-dark-night-emily-bronte-life-deborah-lutz/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/this-dark-night-emily-bronte-life-deborah-lutz/</guid>
-      <description>A new biography dissects Emily Brontë, one of literature’s most beguiling apparitions.</description>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Defense of Progress</title>
-      <link>https://lareviewofbooks.org/article/george-scialabba-sealed-envelope-toward-intelligent-utopia-morality/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/george-scialabba-sealed-envelope-toward-intelligent-utopia-morality/</guid>
-      <description>A collection of nearly five decades of writing showcases George Scialabba’s faith in the moral imagination and his dismay with the ascent of the hypocritical New Right.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

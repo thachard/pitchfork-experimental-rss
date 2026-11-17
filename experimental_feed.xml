@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:21:05 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aaron Dilloway – No Skill Comedy Mind Reading</title>
+      <link>https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/</guid>
+      <description>A review by Matthew Blackwell</description>
+      <author>Matthew Blackwell</author>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cute – history is not woven by innocent hands</title>
+      <link>https://pitchfork.com/reviews/albums/cute-history-is-not-woven-by-innocent-hands/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cute-history-is-not-woven-by-innocent-hands/</guid>
+      <description>A review by Stuart Berman</description>
+      <author>Stuart Berman</author>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dawuna – Love’s Arp</title>
       <link>https://pitchfork.com/reviews/albums/dawuna-loves-arp/</link>
@@ -182,22 +198,6 @@
       <description>A review by Andrew Ryce</description>
       <author>Andrew Ryce</author>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Julia Holter – Materia</title>
-      <link>https://pitchfork.com/reviews/albums/julia-holter-materia/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/julia-holter-materia/</guid>
-      <description>A review by Linnie Greene</description>
-      <author>Linnie Greene</author>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’Rain – fata morgana</title>
-      <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lrain-fata-morgana/</guid>
-      <description>A review by Stephen Kearse</description>
-      <author>Stephen Kearse</author>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

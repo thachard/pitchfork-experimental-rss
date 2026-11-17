@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:21:29 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best audio books to listen to this year</title>
+      <link>https://www.ft.com/content/0079d36d-0d37-4751-b16b-f30731f53294</link>
+      <guid isPermaLink="true">https://www.ft.com/content/0079d36d-0d37-4751-b16b-f30731f53294</guid>
+      <description>Magdalena Miecznicka and Alex Clark select their must-listen titles</description>
+      <pubDate>Tue, 17 Nov 2026 15:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The best literary non-fiction and poetry to read this year</title>
+      <link>https://www.ft.com/content/46f8f820-212e-4710-a1cb-731776a94cc9?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/46f8f820-212e-4710-a1cb-731776a94cc9?syn-25a6b1a6=1</guid>
+      <description>Carl Wilkinson and Suzi Feay select their must-read titles</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>The best crime and thrillers to read this year</title>
       <link>https://www.ft.com/content/df45b2ce-d36c-407c-acdf-68fb7d34f916</link>
@@ -25,7 +39,7 @@
       <title>The best books of the week</title>
       <link>https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</link>
       <guid isPermaLink="true">https://www.ft.com/content/19b2cbcf-4db2-4f7c-ba36-94270de66989</guid>
-      <description>From Ukraine’s wartime ordeal to 8,000 years of wine and the new novel from Karl Ove Knausgaard. Plus: a fictionalised life of Sergei Eisenstein, a biography of Saki, the love letters of Ingeborg Bachmann — and Don DeLillo’s pseudonymous sex comedy</description>
+      <description>From Ukraine’s wartime ordeal to 8,000 years of wine and the new novel from Karl Ove Knausgaard. Plus: a fictionalised life of Sergei Eisenstein, a biography of Saki and the collected stories of Ingeborg Bachmann</description>
       <pubDate>Fri, 13 Nov 2026 12:50:35 +0000</pubDate>
     </item>
     <item>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/7f3c2fff-934d-43c8-8497-8f5fa2821ec3</guid>
       <description>Sam Riviere’s absurdist, unruly satire charts an outbreak of ‘twinning’ and artistic imitation on a creative writing course</description>
       <pubDate>Tue, 20 Oct 2026 12:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>John McGahern: A Writing Life — banned, lauded and a late success</title>
-      <link>https://www.ft.com/content/cb070443-a9dc-46fa-8531-71e7167cdbfc</link>
-      <guid isPermaLink="true">https://www.ft.com/content/cb070443-a9dc-46fa-8531-71e7167cdbfc</guid>
-      <description>Frank Shovlin writes a commanding biography of the Irish writer whose work won praise and condemnation for telling the truth about life and his country</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>London Station by David McCloskey — the Special Relationship turns dirty</title>
-      <link>https://www.ft.com/content/3e84d2c0-2606-4833-bd73-6e715add27a1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/3e84d2c0-2606-4833-bd73-6e715add27a1</guid>
-      <description>A story of the CIA and MI6 spying on each other sounds very of our time, but this new thriller is marred by too much graphic detail</description>
-      <pubDate>Fri, 16 Oct 2026 04:00:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
