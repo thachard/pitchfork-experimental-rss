@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:57:27 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Relax. We Take a Breath. We Can Begin to Think.</title>
+      <link>https://lareviewofbooks.org/article/calculation-volume-book-five-solvej-balle-time-loop/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/calculation-volume-book-five-solvej-balle-time-loop/</guid>
+      <description>Solvej Balle’s series is about having the room and the time to really think.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Each Time Has Its Own Misfortune</title>
@@ -36,18 +43,18 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The US Border Religion</title>
-      <link>https://lareviewofbooks.org/article/heaven-has-wall-elizabeth-shakman-hurd-borders-religion/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/heaven-has-wall-elizabeth-shakman-hurd-borders-religion/</guid>
-      <description>Elizabeth Shakman Hurd examines how borders require acts of faith in something larger than the everyday.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US Border Religion</title>
+      <link>https://lareviewofbooks.org/article/heaven-has-wall-elizabeth-shakman-hurd-borders-religion/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/heaven-has-wall-elizabeth-shakman-hurd-borders-religion/</guid>
+      <description>Elizabeth Shakman Hurd examines how borders require acts of faith in something larger than the everyday.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Watching Artists Argue in Bars</title>
@@ -96,13 +103,6 @@
       <link>https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</guid>
       <description>A new biography of Eric Hobsbawm emphasizes his visceral commitment to the communist tradition as well as his increasing ability to think outside of it.</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Life in Lockdown</title>
-      <link>https://lareviewofbooks.org/article/jean-philippe-toussaint-chessboard-pandemic-memoir-father-solipsism/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/jean-philippe-toussaint-chessboard-pandemic-memoir-father-solipsism/</guid>
-      <description>A celebrated Belgian author’s first memoir explores the roots of his vocation and his love for the game of kings.</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

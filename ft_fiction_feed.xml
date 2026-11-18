@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:56:03 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best books for young people to read this year</title>
+      <link>https://www.ft.com/content/705e6329-e3be-4ada-ab5e-d09280a2e048</link>
+      <guid isPermaLink="true">https://www.ft.com/content/705e6329-e3be-4ada-ab5e-d09280a2e048</guid>
+      <description>James Lovegrove and Suzi Feay select their must-read titles</description>
+      <pubDate>Wed, 18 Nov 2026 15:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The best food, drink and travel books to read this year</title>
+      <link>https://www.ft.com/content/7bcd7b19-2b93-4192-baa1-5452aec6cd82?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/7bcd7b19-2b93-4192-baa1-5452aec6cd82?syn-25a6b1a6=1</guid>
+      <description>Sophy Roberts and Niki Blasina select their must-read titles</description>
+      <pubDate>Wed, 18 Nov 2026 12:53:20 +0000</pubDate>
+    </item>
     <item>
       <title>The best audio books to listen to this year</title>
       <link>https://www.ft.com/content/0079d36d-0d37-4751-b16b-f30731f53294</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/4e692530-0f5d-4e99-960e-810eeb81200b</guid>
       <description>An intense, blow-by-blow reimagining of England’s 14th-century uprising thrills with its rich language and palpably realistic detail</description>
       <pubDate>Thu, 22 Oct 2026 04:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>May We Feed the King — a feast for the senses in a medieval court</title>
-      <link>https://www.ft.com/content/15571a39-a8ca-4e06-82b9-075f4018a974</link>
-      <guid isPermaLink="true">https://www.ft.com/content/15571a39-a8ca-4e06-82b9-075f4018a974</guid>
-      <description>Rebecca Perry’s Booker-shortlisted novel plays thrillingly with fact and historical fiction in an artful re-creation of the Middle Ages</description>
-      <pubDate>Wed, 21 Oct 2026 16:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doppelgänger — a singularly clever swipe at American campus culture</title>
-      <link>https://www.ft.com/content/7f3c2fff-934d-43c8-8497-8f5fa2821ec3</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7f3c2fff-934d-43c8-8497-8f5fa2821ec3</guid>
-      <description>Sam Riviere’s absurdist, unruly satire charts an outbreak of ‘twinning’ and artistic imitation on a creative writing course</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
