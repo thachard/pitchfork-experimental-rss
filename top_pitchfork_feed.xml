@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:02:56 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Radie Peat – No Human Tongue Can Tell</title>
+      <link>https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/</guid>
+      <description>A review by rad Sanders</description>
+      <author>rad Sanders</author>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pearl Jam – Yield</title>
       <link>https://pitchfork.com/reviews/albums/pearl-jam-yield/</link>
@@ -238,14 +246,6 @@
       <description>A review by Patrick Lyons</description>
       <author>Patrick Lyons</author>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marina Herlop – Dja Dja</title>
-      <link>https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</guid>
-      <description>A review by Matthew Blackwell</description>
-      <author>Matthew Blackwell</author>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:03:06 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Dungeon of Literature</title>
+      <link>https://www.metropolitanreview.org/p/a-dungeon-of-literature</link>
+      <guid isPermaLink="true">https://www.metropolitanreview.org/p/a-dungeon-of-literature</guid>
+      <description>On Matt Dinniman&amp;#8217;s &amp;#8216;Dungeon Crawler Carl&amp;#8217;</description>
+      <pubDate>Wed, 18 Nov 2026 19:21:55 +0000</pubDate>
+    </item>
     <item>
       <title>Is This How the World Ends?</title>
       <link>https://www.metropolitanreview.org/p/is-this-how-the-world-ends</link>

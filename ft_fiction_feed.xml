@@ -5,8 +5,22 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:02:03 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best science fiction and graphic novels to read this year</title>
+      <link>https://www.ft.com/content/67817226-6842-4f06-b4e8-4aa9e9e8f580</link>
+      <guid isPermaLink="true">https://www.ft.com/content/67817226-6842-4f06-b4e8-4aa9e9e8f580</guid>
+      <description>James Lovegrove and Lucy Scholes select their must-read titles</description>
+      <pubDate>Thu, 19 Nov 2026 15:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The best fiction and fiction in translation to read this year</title>
+      <link>https://www.ft.com/content/2aed7c7a-4ee6-40c9-a8b5-803b88bd1179?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/2aed7c7a-4ee6-40c9-a8b5-803b88bd1179?syn-25a6b1a6=1</guid>
+      <description>Maria Crawford and Ángel Gurría-Quintana select their must-read titles</description>
+      <pubDate>Thu, 19 Nov 2026 05:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>The best books for young people to read this year</title>
       <link>https://www.ft.com/content/705e6329-e3be-4ada-ab5e-d09280a2e048</link>
@@ -167,20 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/277c55b0-cddf-4b19-a388-403008053289</guid>
       <description>Inspired by a bizarre 1960s experiment at a US university, Luke Kennard’s Booker-shortlisted novel takes a surreal and touching look at campus absurdities</description>
       <pubDate>Thu, 22 Oct 2026 16:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Sarah J Maas’s ‘sexy faeries’ helped publishing win over TikTok</title>
-      <link>https://www.ft.com/content/921548ae-44ad-4313-92f9-a8633950b144</link>
-      <guid isPermaLink="true">https://www.ft.com/content/921548ae-44ad-4313-92f9-a8633950b144</guid>
-      <description>As fans await next week’s release of the new ‘Court of Thorns and Roses’ story, there is no sign that romantasy’s escapism is losing its million-selling magic</description>
-      <pubDate>Thu, 22 Oct 2026 11:31:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doom Painting — AK Blakemore vividly charts the Peasants’ Revolt</title>
-      <link>https://www.ft.com/content/4e692530-0f5d-4e99-960e-810eeb81200b</link>
-      <guid isPermaLink="true">https://www.ft.com/content/4e692530-0f5d-4e99-960e-810eeb81200b</guid>
-      <description>An intense, blow-by-blow reimagining of England’s 14th-century uprising thrills with its rich language and palpably realistic detail</description>
-      <pubDate>Thu, 22 Oct 2026 04:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

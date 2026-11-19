@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:51:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:03:17 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Swift Current Taking You Away</title>
+      <link>https://lareviewofbooks.org/article/films-explode-like-grenades-robert-kramer-leftist-cinema/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/films-explode-like-grenades-robert-kramer-leftist-cinema/</guid>
+      <description>Whitney Strub’s new biography traces the complex trajet of leftist filmmaker Robert Kramer.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Psychedelic Carnival of Nightmares</title>
+      <link>https://lareviewofbooks.org/article/paul-tremblay-dead-but-dreaming-electric-sheep-horror/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/paul-tremblay-dead-but-dreaming-electric-sheep-horror/</guid>
+      <description>Paul Tremblay’s delirious new novel considers the ramifications of our technology- and media-saturated lives.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Relax. We Take a Breath. We Can Begin to Think.</title>
@@ -29,6 +43,13 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Whimsical, Innovative Relationality</title>
       <link>https://lareviewofbooks.org/article/yoko-tawada-climate-scattered-over-earth-archipelago-sun/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/yoko-tawada-climate-scattered-over-earth-archipelago-sun/</guid>
@@ -41,13 +62,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/branson-missouri-faith-family-flag-joanna-dee-das/</guid>
       <description>James Steichen braves a trip to Branson, Missouri, to judge for himself the controversial entertainment mecca at the center of Joanna Dee Das’s new book.</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The US Border Religion</title>
@@ -90,20 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</guid>
       <description>Dora Šustić’s 2022 debut novel demonstrates that the idea of Prague as the Second Chance City still endures in some circles.</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Politics of (In)Visibility</title>
-      <link>https://lareviewofbooks.org/article/sleep-thief-ibtisam-azem-palestine-apartheid-visibility-identity/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/sleep-thief-ibtisam-azem-palestine-apartheid-visibility-identity/</guid>
-      <description>Palestinian author Ibtisam Azem’s newly translated novel is a resonant allegory of life under surveillance.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What It Means to Be a Historian</title>
-      <link>https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/eric-hobsbawm-age-revolutionary-historian-biography-emile-chabal/</guid>
-      <description>A new biography of Eric Hobsbawm emphasizes his visceral commitment to the communist tradition as well as his increasing ability to think outside of it.</description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
