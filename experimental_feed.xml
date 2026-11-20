@@ -5,8 +5,24 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:40:57 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RÓIS – MO LÉAN</title>
+      <link>https://pitchfork.com/reviews/albums/rois-mo-lean/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rois-mo-lean/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nickolas Mohanna – Whistler</title>
+      <link>https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/</guid>
+      <description>A review by Grayson Haver Currin</description>
+      <author>Grayson Haver Currin</author>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Aaron Dilloway – No Skill Comedy Mind Reading</title>
       <link>https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/</link>
@@ -120,6 +136,14 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Marina Herlop – Dja Dja</title>
+      <link>https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/</guid>
+      <description>A review by Matthew Blackwell</description>
+      <author>Matthew Blackwell</author>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kaitlyn Aurelia Smith – RUIN: It’s Not Just Music</title>
       <link>https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/</link>
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/</guid>
@@ -174,30 +198,6 @@
       <description>A review by Aly Eleanor</description>
       <author>Aly Eleanor</author>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Art of Noise – In Visible Silence</title>
-      <link>https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/</guid>
-      <description>A review by Andy Cush</description>
-      <author>Andy Cush</author>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitchin Bajas – Isle PeaksEP</title>
-      <link>https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carmen Villain – Memoria</title>
-      <link>https://pitchfork.com/reviews/albums/carmen-villain-memoria/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/carmen-villain-memoria/</guid>
-      <description>A review by Andrew Ryce</description>
-      <author>Andrew Ryce</author>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

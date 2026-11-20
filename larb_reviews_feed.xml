@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:43:08 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Invisible Hand Job</title>
+      <link>https://lareviewofbooks.org/article/guilty-pleasure-pornification-internet-economy-patricia-nilsson-surveillance/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/guilty-pleasure-pornification-internet-economy-patricia-nilsson-surveillance/</guid>
+      <description>Internet porn is the final frontier of surveillance capitalism.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Swift Current Taking You Away</title>
@@ -36,18 +43,18 @@
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Each Time Has Its Own Misfortune</title>
-      <link>https://lareviewofbooks.org/article/no-one-talks-war-ukraine-russia-nina-kossman/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/no-one-talks-war-ukraine-russia-nina-kossman/</guid>
-      <description>Russian American author Nina Kossman offers a complex and thoughtful travelogue through a war-ravaged country.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
       <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
       <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Each Time Has Its Own Misfortune</title>
+      <link>https://lareviewofbooks.org/article/no-one-talks-war-ukraine-russia-nina-kossman/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/no-one-talks-war-ukraine-russia-nina-kossman/</guid>
+      <description>Russian American author Nina Kossman offers a complex and thoughtful travelogue through a war-ravaged country.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Whimsical, Innovative Relationality</title>
@@ -97,13 +104,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/janet-malcolm-absent-woman-genius-biography-eve-sneider/</guid>
       <description>In the first-ever biography of Janet Malcolm, the titular ‘absent woman’ is not the person you’d suspect.</description>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Writing Is a Prolonged Suicide</title>
-      <link>https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/dora-sustic-dogs-prague-novel-croatian-expats-czech/</guid>
-      <description>Dora Šustić’s 2022 debut novel demonstrates that the idea of Prague as the Second Chance City still endures in some circles.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:41:03 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RÓIS – MO LÉAN</title>
+      <link>https://pitchfork.com/reviews/albums/rois-mo-lean/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rois-mo-lean/</guid>
+      <description>A review by Emma Madden</description>
+      <author>Emma Madden</author>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Radie Peat – No Human Tongue Can Tell</title>
       <link>https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shaboozey-the-outlaw-cherie-lee-and-other-western-tales/</guid>
       <description>A review by Madeline Frino</description>
       <author>Madeline Frino</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sir Richard Bishop – Hillbilly Erotica</title>
-      <link>https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</guid>
-      <description>A review by Grayson Haver Currin</description>
-      <author>Grayson Haver Currin</author>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
