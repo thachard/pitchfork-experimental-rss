@@ -5,7 +5,7 @@
     <link>https://www.thestar.com/news/gta/city-hall/</link>
     <description>City Hall coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:34:45 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/news/gta/city-hall/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Scarborough’s Paul Ainslie steps in as TTC chair amid CEO probe and deep budget deficit</title>
@@ -120,6 +120,13 @@
       <pubDate>Thu, 01 Oct 2026 13:54:36 +0000</pubDate>
     </item>
     <item>
+      <title>Child dragged by coyote in North York, Toronto police say</title>
+      <link>https://www.thestar.com/news/gta/child-dragged-by-coyote-in-north-york-toronto-police-say/article_27ae6321-8b29-4f8c-8bf1-db03f0e928cf.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/news/gta/child-dragged-by-coyote-in-north-york-toronto-police-say/article_27ae6321-8b29-4f8c-8bf1-db03f0e928cf.html</guid>
+      <description></description>
+      <pubDate>Fri, 20 Nov 2026 13:19:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside the Toronto murder acquittal of this ‘completely innocent’ man</title>
       <link>https://www.thestar.com/news/gta/inside-the-murder-acquittal-of-this-completely-innocent-toronto-man/article_4adf5480-dd15-46bb-b610-fb9dfea2cb1c.html</link>
       <guid isPermaLink="true">https://www.thestar.com/news/gta/inside-the-murder-acquittal-of-this-completely-innocent-toronto-man/article_4adf5480-dd15-46bb-b610-fb9dfea2cb1c.html</guid>
@@ -139,20 +146,6 @@
       <guid isPermaLink="true">https://www.thestar.com/news/gta/police-still-seeking-17-year-old-wanted-in-two-etobicoke-killings/article_f72d544e-8e83-4963-99aa-f0cd708016cd.html</guid>
       <description></description>
       <pubDate>Thu, 19 Nov 2026 21:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Halton police officer charged in shooting of Burlington man</title>
-      <link>https://www.thestar.com/news/gta/halton-police-officer-charged-in-shooting-of-burlington-man/article_9fd8d6f2-675d-4a16-b19a-37dc07dad126.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/halton-police-officer-charged-in-shooting-of-burlington-man/article_9fd8d6f2-675d-4a16-b19a-37dc07dad126.html</guid>
-      <description></description>
-      <pubDate>Thu, 19 Nov 2026 15:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto trio guilty of murder again. Jury never heard Crown’s gang motive allegation</title>
-      <link>https://www.thestar.com/news/gta/toronto-trio-guilty-of-murder-again-jury-wasn-t-told-they-gunned-down-bystander-at-random-over-gang-conflcit/article_e3048b6c-cdec-4fe6-bb91-6b777df8cf4e.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/news/gta/toronto-trio-guilty-of-murder-again-jury-wasn-t-told-they-gunned-down-bystander-at-random-over-gang-conflcit/article_e3048b6c-cdec-4fe6-bb91-6b777df8cf4e.html</guid>
-      <description></description>
-      <pubDate>Thu, 19 Nov 2026 22:59:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
