@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/reviews/best/high-scoring-albums/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:55:37 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/reviews/best/high-scoring-albums/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>R.E.M. – Reveal (25th Anniversary Edition)</title>
+      <link>https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/</guid>
+      <description>A review by Will Hermes</description>
+      <author>Will Hermes</author>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Radie Peat – No Human Tongue Can Tell</title>
       <link>https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/</guid>
       <description>A review by Sadie Sartini Garner</description>
       <author>Sadie Sartini Garner</author>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deafheaven – At Work in the Fields of the BombEP</title>
-      <link>https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/</guid>
-      <description>A review by Patrick Lyons</description>
-      <author>Patrick Lyons</author>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
