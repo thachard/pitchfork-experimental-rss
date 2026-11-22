@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:55:26 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Navdeep Bains named new Ontario Liberal leader</title>
+      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/navdeep-bains-named-new-ontario-liberal-leader/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/navdeep-bains-named-new-ontario-liberal-leader/</guid>
+      <description>Video</description>
+      <pubDate>Sat, 21 Nov 2026 23:40:24 +0000</pubDate>
+    </item>
     <item>
       <title>Ontario Liberals to select third new leader since 2018</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-liberals-to-select-third-new-leader-since-2018/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-liberals-to-select-third-new-leader-since-2018/</guid>
-      <description>Video</description>
+      <description>Ontario Liberals wrap up a long leadership race Saturday, and, they hope, an even longer stretch without a long-term leader, as the party gets set to name the person they have selected to shepherd them into the next election.</description>
       <pubDate>Fri, 20 Nov 2026 10:47:29 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/local/peel/article/can-sale-of-stellantis-plant-in-brampton-be-stopped-ontario-cabinet-minister-hopes-meeting-with-ceo-could-buy-some-time/</guid>
       <description>Officials in Ontario are hoping that an upcoming meeting with the CEO of Stellantis could help buy some time to explore options for keeping auto manufacturing jobs at a Brampton facility slated to be sold off.</description>
       <pubDate>Tue, 17 Nov 2026 11:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Career college saw OSAP usage rise 6,000 per cent, but wasn&apos;t cut off this spring</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/</guid>
-      <description>An Ontario career college with four campuses saw the amount of students receiving financial aid explode over a few years, including an increase of nearly 6,000 per cent at one campus, but it was not one of the schools the government cut off this spring.</description>
-      <pubDate>Fri, 13 Nov 2026 10:49:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

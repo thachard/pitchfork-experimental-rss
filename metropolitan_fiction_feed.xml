@@ -5,7 +5,7 @@
     <link>https://www.metropolitanreview.org/t/fiction</link>
     <description>Fiction reviews from The Metropolitan Review.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 17:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:56:27 +0000</lastBuildDate>
     <atom:link href="https://www.metropolitanreview.org/feed" rel="self" type="application/rss+xml"/>
     <item>
       <title>A Dungeon of Literature</title>
@@ -34,13 +34,6 @@
       <guid isPermaLink="true">https://www.metropolitanreview.org/p/marlon-james-dwight-garner-and-the</guid>
       <description>On Marlon James&amp;#8217; &amp;#8216;The Disappearers&amp;#8217;</description>
       <pubDate>Fri, 16 Oct 2026 20:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Solitary Life in History</title>
-      <link>https://www.metropolitanreview.org/p/a-solitary-life-in-history</link>
-      <guid isPermaLink="true">https://www.metropolitanreview.org/p/a-solitary-life-in-history</guid>
-      <description>On Kimberley Tait&amp;#8217;s &amp;#8216;Bright Stars&amp;#8217;</description>
-      <pubDate>Fri, 09 Oct 2026 18:33:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
