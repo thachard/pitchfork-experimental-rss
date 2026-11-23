@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:49:30 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toronto’s top bureaucrat out as Olivia Chow seeks to ‘reorganize’ city administration</title>
+      <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/torontos-top-bureaucrat-out-as-olivia-chow-seeks-to-reorganize-city-administration/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/torontos-top-bureaucrat-out-as-olivia-chow-seeks-to-reorganize-city-administration/</guid>
+      <description></description>
+      <pubDate>Mon, 23 Nov 2026 17:31:28 +0000</pubDate>
+    </item>
     <item>
       <title>New TTC Board chair says he’s concerned about allegations surrounding CEO</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/ainslie-says-hes-concerned-with-allegations-around-ttc-leadership-as-he-takes-over-as-new-board-chair/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/ainslie-says-hes-concerned-with-allegations-around-ttc-leadership-as-he-takes-over-as-new-board-chair/</guid>
-      <description>Video</description>
+      <description>Newly appointed TTC Board Chair Paul Ainslie says recent questions around the commission’s leadership and spending are “very concerning” to him and he intends to follow up on them in his new role.</description>
       <pubDate>Fri, 20 Nov 2026 00:48:44 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</guid>
       <description>Toronto mayoral candidate Chris Alexander is promising to move thousands of people experiencing homelessness out of shelters and into permanent housing, aiming for 1,000 placements by summer 2027 as part of a four-year plan to relieve pressure on the city’s over-burdened shelter system.</description>
       <pubDate>Thu, 01 Oct 2026 12:17:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto mayoral candidate promises to waive municipal land transfer tax on first $1.1M of purchase price</title>
-      <link>https://www.ctvnews.ca/toronto/gta-elections-2026/article/toronto-mayoral-candidate-promises-to-waive-municipal-land-transfer-tax-on-first-11m-of-purchase-price/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/toronto-mayoral-candidate-promises-to-waive-municipal-land-transfer-tax-on-first-11m-of-purchase-price/</guid>
-      <description>Brad Bradford has announced that he will waive the municipal land transfer tax on the first $1.1 million of the value of homes purchased in Toronto if elected mayor but Olivia Chow is warning that doing so would inevitably result in service cuts.</description>
-      <pubDate>Wed, 30 Sep 2026 04:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
