@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:19:22 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Non-profits fear housing halt as Ontario bill targets tax exemption</title>
+      <link>https://www.ctvnews.ca/london/article/non-profits-fear-housing-halt-as-ontario-bill-targets-tax-exemption/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/london/article/non-profits-fear-housing-halt-as-ontario-bill-targets-tax-exemption/</guid>
+      <description>Video</description>
+      <pubDate>Tue, 24 Nov 2026 02:10:06 +0000</pubDate>
+    </item>
     <item>
       <title>Doug Ford ‘very confident’ Canada could see trade deal with U.S. soon</title>
       <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/doug-ford-and-danielle-smith-express-optimism-canada-could-see-trade-deal-soon/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/doug-ford-and-danielle-smith-express-optimism-canada-could-see-trade-deal-soon/</guid>
-      <description></description>
+      <description>Ontario Premier Doug Ford and Alberta Premier Danielle Smith expressed optimism Monday that Canada could see a trade deal reached with the U.S. before the end of the year.</description>
       <pubDate>Mon, 23 Nov 2026 21:50:34 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-secondary-teachers-vote-96-per-cent-in-favour-of-strike-mandate/</guid>
       <description>Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.</description>
       <pubDate>Tue, 17 Nov 2026 19:08:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario tables law to more quickly deal with intimate image abuse</title>
-      <link>https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-tables-law-to-more-quickly-deal-with-intimate-image-abuse/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-tables-law-to-more-quickly-deal-with-intimate-image-abuse/</guid>
-      <description>Ontario Premier Doug Ford’s government tabled a bill Monday that would create a new legal pathway for victims of intimate image abuse to have those images deleted.</description>
-      <pubDate>Tue, 17 Nov 2026 02:23:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

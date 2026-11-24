@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/folk/review/</link>
     <description>Latest folk album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:18:36 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/folk/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Emma Ogier – Fly 1111</title>
+      <link>https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/</guid>
+      <description>A review by Lily Goldberg</description>
+      <author>Lily Goldberg</author>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>RÓIS – MO LÉAN</title>
       <link>https://pitchfork.com/reviews/albums/rois-mo-lean/</link>
@@ -190,14 +198,6 @@
       <description>A review by Sam Sodomsky</description>
       <author>Sam Sodomsky</author>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shaboozey – The Outlaw Cherie Lee &amp; Other Western Tales</title>
-      <link>https://pitchfork.com/reviews/albums/shaboozey-the-outlaw-cherie-lee-and-other-western-tales/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/shaboozey-the-outlaw-cherie-lee-and-other-western-tales/</guid>
-      <description>A review by Madeline Frino</description>
-      <author>Madeline Frino</author>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

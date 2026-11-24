@@ -5,14 +5,21 @@
     <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/</link>
     <description>Toronto City Hall coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 23 Nov 2026 22:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:20:00 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/toronto-city-hall/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A 911 fee on cellphone bills and a commercial parking levy among new revenue tools proposed for Toronto</title>
+      <link>https://www.ctvnews.ca/toronto/article/a-911-fee-on-cellphone-bills-and-a-commercial-parking-levy-here-are-some-revenue-tools-city-staff-are-now-pitching-in-toronto/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/a-911-fee-on-cellphone-bills-and-a-commercial-parking-levy-here-are-some-revenue-tools-city-staff-are-now-pitching-in-toronto/</guid>
+      <description></description>
+      <pubDate>Tue, 24 Nov 2026 18:11:35 +0000</pubDate>
+    </item>
     <item>
       <title>Toronto’s top bureaucrat out as Olivia Chow seeks to ‘reorganize’ city administration</title>
       <link>https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/torontos-top-bureaucrat-out-as-olivia-chow-seeks-to-reorganize-city-administration/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/toronto-city-hall/article/torontos-top-bureaucrat-out-as-olivia-chow-seeks-to-reorganize-city-administration/</guid>
-      <description></description>
-      <pubDate>Mon, 23 Nov 2026 17:31:28 +0000</pubDate>
+      <description>Paul Johnson is out as Toronto’s top bureaucrat after Olivia Chow used strong mayor powers to shake up the administration at city hall.</description>
+      <pubDate>Mon, 23 Nov 2026 22:30:52 +0000</pubDate>
     </item>
     <item>
       <title>New TTC Board chair says he’s concerned about allegations surrounding CEO</title>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/toronto-tenants-are-facing-a-wave-of-rental-building-demolitions-what-advocates-say-councillors-can-do/</guid>
       <description>New data shared with CTV News Toronto is revealing the number of rental buildings and units approved for demolition across the city as tenants grapple with being uprooted during an affordability crisis.</description>
       <pubDate>Tue, 20 Oct 2026 23:47:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘We’re saving lives’: Chris Alexander unveils plan to move Toronto’s unhoused into apartments</title>
-      <link>https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/gta-elections-2026/article/were-saving-lives-chris-alexander-unveils-plan-to-move-torontos-unhoused-into-apartments/</guid>
-      <description>Toronto mayoral candidate Chris Alexander is promising to move thousands of people experiencing homelessness out of shelters and into permanent housing, aiming for 1,000 placements by summer 2027 as part of a four-year plan to relieve pressure on the city’s over-burdened shelter system.</description>
-      <pubDate>Thu, 01 Oct 2026 12:17:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
