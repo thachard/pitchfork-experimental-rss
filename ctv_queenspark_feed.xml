@@ -5,13 +5,20 @@
     <link>https://www.ctvnews.ca/toronto/politics/queens-park/</link>
     <description>Queen's Park coverage from CTV News Toronto.</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:39:14 +0000</lastBuildDate>
     <atom:link href="https://www.ctvnews.ca/toronto/politics/queens-park/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ending homelessness will be &apos;very challenging,&apos; Ontario Premier Doug Ford says</title>
+      <link>https://www.ctvnews.ca/toronto/local/article/ending-homelessness-will-be-very-challenging-ontario-premier-doug-ford-says/</link>
+      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/local/article/ending-homelessness-will-be-very-challenging-ontario-premier-doug-ford-says/</guid>
+      <description></description>
+      <pubDate>Tue, 24 Nov 2026 20:04:31 +0000</pubDate>
+    </item>
     <item>
       <title>Non-profits fear housing halt as Ontario bill targets tax exemption</title>
       <link>https://www.ctvnews.ca/london/article/non-profits-fear-housing-halt-as-ontario-bill-targets-tax-exemption/</link>
       <guid isPermaLink="true">https://www.ctvnews.ca/london/article/non-profits-fear-housing-halt-as-ontario-bill-targets-tax-exemption/</guid>
-      <description>Video</description>
+      <description>A legislative proposal introduced by the Ontario government as part of its Fall Economic Update is sparking alarm among non-profit housing agencies across the province.</description>
       <pubDate>Tue, 24 Nov 2026 02:10:06 +0000</pubDate>
     </item>
     <item>
@@ -104,13 +111,6 @@
       <guid isPermaLink="true">https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-premier-doug-ford-touts-partnerships-with-quebec-in-montreal-speech/</guid>
       <description>Ontario Premier Doug Ford says he wants to break barriers to trade between provinces and build a stronger partnership with Quebec.</description>
       <pubDate>Tue, 17 Nov 2026 22:29:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ontario secondary teachers vote 96 per cent in favour of strike mandate</title>
-      <link>https://www.ctvnews.ca/toronto/article/ontario-secondary-teachers-vote-96-per-cent-in-favour-of-strike-mandate/</link>
-      <guid isPermaLink="true">https://www.ctvnews.ca/toronto/article/ontario-secondary-teachers-vote-96-per-cent-in-favour-of-strike-mandate/</guid>
-      <description>Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.</description>
-      <pubDate>Tue, 17 Nov 2026 19:08:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
