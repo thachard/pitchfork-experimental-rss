@@ -5,7 +5,7 @@
     <link>https://lareviewofbooks.org/articles/reviews/</link>
     <description>Book reviews from the Los Angeles Review of Books.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:22:03 +0000</lastBuildDate>
     <atom:link href="https://lareviewofbooks.org/articles/reviews/" rel="self" type="application/rss+xml"/>
     <item>
       <title>Murky Effects</title>
@@ -13,20 +13,6 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/gwendoline-riley-palm-house-friendship-london-novel-review/</guid>
       <description>A novel of desire and domestic disorder amid a disintegrating literary establishment.</description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You Will Just Have to Make Do with the Rest of Your Life</title>
-      <link>https://lareviewofbooks.org/article/anita-brookner-art-life-hermione-lee-novelist-biography/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/anita-brookner-art-life-hermione-lee-novelist-biography/</guid>
-      <description>A new biography of Anita Brookner gives us tantalizing glimpses of the novelist’s resolutely solitary life.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mr. Fielder, I’m Ready for My Close-Up</title>
-      <link>https://lareviewofbooks.org/article/elizabeth-holmes-you-can-see-everything-fielder-seyfriend/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/elizabeth-holmes-you-can-see-everything-fielder-seyfriend/</guid>
-      <description>They’re playing a character Elizabeth Holmes created.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Invisible Hand Job</title>
@@ -43,13 +29,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
-      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
-      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
-      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A Psychedelic Carnival of Nightmares</title>
       <link>https://lareviewofbooks.org/article/paul-tremblay-dead-but-dreaming-electric-sheep-horror/</link>
       <guid isPermaLink="true">https://lareviewofbooks.org/article/paul-tremblay-dead-but-dreaming-electric-sheep-horror/</guid>
@@ -62,6 +41,13 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/calculation-volume-book-five-solvej-balle-time-loop/</guid>
       <description>Solvej Balle’s series is about having the room and the time to really think.</description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>California Sons: Miriam Pawel’s “The Browns of California”</title>
+      <link>https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/california-sons-miriam-pawels-the-browns-of-california/</guid>
+      <description>Jake Wertz reviews “The Browns of California,” a four-generation biography of the Brown family and a portrait of the state they shaped.</description>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Each Time Has Its Own Misfortune</title>
@@ -104,6 +90,20 @@
       <guid isPermaLink="true">https://lareviewofbooks.org/article/telephone-new-history-james-gleick-telegraph-pop-culture/</guid>
       <description>James Gleick’s history of the ‘telephone’ evokes an antique device most of us now barely recognize.</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Unlikely Contemplative</title>
+      <link>https://lareviewofbooks.org/article/will-attention-memoir-meghan-ogieblyn-christianity-alcoholism-spirituality/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/will-attention-memoir-meghan-ogieblyn-christianity-alcoholism-spirituality/</guid>
+      <description>After a decade of sobriety, and years after leaving Christianity, Meghan O’Gieblyn finds herself relapsing into the pew and the bottle.</description>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pretend It’s Not Janet</title>
+      <link>https://lareviewofbooks.org/article/janet-malcolm-absent-woman-genius-biography-eve-sneider/</link>
+      <guid isPermaLink="true">https://lareviewofbooks.org/article/janet-malcolm-absent-woman-genius-biography-eve-sneider/</guid>
+      <description>In the first-ever biography of Janet Malcolm, the titular ‘absent woman’ is not the person you’d suspect.</description>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
