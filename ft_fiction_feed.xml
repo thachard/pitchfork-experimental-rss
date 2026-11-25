@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:24:27 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lords of Serendipity by Randy Boyagoda — the campus novel reconsidered</title>
+      <link>https://www.ft.com/content/093f53e4-2199-4dd3-9db0-79ea951bc628?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/093f53e4-2199-4dd3-9db0-79ea951bc628?syn-25a6b1a6=1</guid>
+      <description>The Canadian writer’s global coming-of-age tale is scathing and funny about university life in the age of the culture wars</description>
+      <pubDate>Wed, 25 Nov 2026 17:07:30 +0000</pubDate>
+    </item>
     <item>
       <title>Body shocks, lust and Shakespeare’s sonnets — five of the best debut novels</title>
       <link>https://www.ft.com/content/878a3082-7a9c-4f3f-a22d-b8df2e1e49b8</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/c8d2cf31-6ab5-47be-b369-e48dfe09a7f9</guid>
       <description>Two largely forgotten pianists of the early 19th century — John Field and Adelaide Percheron — are brought vividly to life in a novel of ambition, memory and music</description>
       <pubDate>Mon, 26 Oct 2026 05:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Man with Many Names by Georgi Gospodinov — the ghosts of Bulgaria</title>
-      <link>https://www.ft.com/content/2274b9d9-b7dd-49ed-8c4a-8f54cd405e6d</link>
-      <guid isPermaLink="true">https://www.ft.com/content/2274b9d9-b7dd-49ed-8c4a-8f54cd405e6d</guid>
-      <description>From communist absurdities to villages emptied by emigration, this collection of stories  finds wit and tenderness in the country’s turbulent past</description>
-      <pubDate>Fri, 23 Oct 2026 11:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
