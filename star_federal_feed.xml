@@ -5,13 +5,20 @@
     <link>https://www.thestar.com/politics/federal/</link>
     <description>Federal politics coverage from the Toronto Star.</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:06:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:05:24 +0000</lastBuildDate>
     <atom:link href="https://www.thestar.com/politics/federal/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Labour group says Bill C-39 changes fail to protect workers’ right to strike</title>
+      <link>https://www.thestar.com/politics/federal/labour-group-says-bill-c-39-changes-fail-to-protect-workers-right-to-strike/article_80b06304-6f9a-5754-91dd-95f20f341f1e.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/labour-group-says-bill-c-39-changes-fail-to-protect-workers-right-to-strike/article_80b06304-6f9a-5754-91dd-95f20f341f1e.html</guid>
+      <description>OTTAWA - The Canadian Labour Congress says the modest amendments made to the Liberals&apos; landmark economic legislation fail to protect the right…</description>
+      <pubDate>Thu, 26 Nov 2026 13:45:05 +0000</pubDate>
+    </item>
     <item>
       <title>Advisory council to issue antisemitism report as Jewish groups call out campus hate</title>
       <link>https://www.thestar.com/politics/federal/advisory-council-to-issue-antisemitism-report-as-jewish-groups-call-out-campus-hate/article_f46e53f4-e53c-5739-bc2f-d930b43f443e.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/advisory-council-to-issue-antisemitism-report-as-jewish-groups-call-out-campus-hate/article_f46e53f4-e53c-5739-bc2f-d930b43f443e.html</guid>
-      <description>OTTAWA - Heritage Minister Marc Miller says the government&apos;s equity council will publish its first report in December with a focus on anti-Jew…</description>
+      <description></description>
       <pubDate>Thu, 26 Nov 2026 12:28:06 +0000</pubDate>
     </item>
     <item>
@@ -41,13 +48,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/poilievre-says-nurse-may-lose-job-after-photo-with-him-at-wainwright/article_a85d33b1-5ce8-502e-9b34-9fb6823b27ca.html</guid>
       <description></description>
       <pubDate>Wed, 25 Nov 2026 19:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toronto home invasion killing sparks calls for tougher laws</title>
-      <link>https://www.thestar.com/politics/federal/toronto-home-invasion-killing-sparks-calls-for-tougher-laws/article_37effb78-1cf3-464d-b43a-6afaeb39c31c.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/toronto-home-invasion-killing-sparks-calls-for-tougher-laws/article_37effb78-1cf3-464d-b43a-6afaeb39c31c.html</guid>
-      <description></description>
-      <pubDate>Thu, 26 Nov 2026 10:51:29 +0000</pubDate>
     </item>
     <item>
       <title>Carney fast-tracks ‘Pacific Link’ pipeline with national-interest designation</title>
@@ -92,10 +92,17 @@
       <pubDate>Mon, 17 Aug 2026 12:29:12 +0000</pubDate>
     </item>
     <item>
+      <title>Toronto home invasion killing sparks calls for tougher laws</title>
+      <link>https://www.thestar.com/politics/federal/toronto-home-invasion-killing-sparks-calls-for-tougher-laws/article_37effb78-1cf3-464d-b43a-6afaeb39c31c.html</link>
+      <guid isPermaLink="true">https://www.thestar.com/politics/federal/toronto-home-invasion-killing-sparks-calls-for-tougher-laws/article_37effb78-1cf3-464d-b43a-6afaeb39c31c.html</guid>
+      <description>A deadly home invasion in Toronto sparked accusations that criminals are committing violent break-ins &apos;with impunity&apos; in Canada&apos;s biggest city.</description>
+      <pubDate>Thu, 26 Nov 2026 10:51:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Senate committee makes amendments to Liberal government’s ‘lawful access’ bill</title>
       <link>https://www.thestar.com/politics/federal/senate-committee-makes-amendments-to-liberal-government-s-lawful-access-bill/article_dc82877f-c66d-5fdf-ac88-d70a632d8302.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/senate-committee-makes-amendments-to-liberal-government-s-lawful-access-bill/article_dc82877f-c66d-5fdf-ac88-d70a632d8302.html</guid>
-      <description>OTTAWA - A Senate committee has made several amendments to the Liberal government&apos;s &quot;lawful access&quot; bill with the aim of reinforcing privacy s…</description>
+      <description></description>
       <pubDate>Wed, 25 Nov 2026 18:25:08 +0000</pubDate>
     </item>
     <item>
@@ -116,14 +123,14 @@
       <title>Liberals, Carney defend ‘brutal’ pace of committee work on major projects bill</title>
       <link>https://www.thestar.com/politics/federal/liberals-carney-defend-brutal-pace-of-committee-work-on-major-projects-bill/article_0ef5b4f0-7c56-51a3-be19-2c121b407aa5.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/liberals-carney-defend-brutal-pace-of-committee-work-on-major-projects-bill/article_0ef5b4f0-7c56-51a3-be19-2c121b407aa5.html</guid>
-      <description></description>
+      <description>OTTAWA - Federal Liberals, including Prime Minister Mark Carney, are defending the speed at which their major projects bill passed through a H…</description>
       <pubDate>Wed, 25 Nov 2026 15:55:05 +0000</pubDate>
     </item>
     <item>
       <title>Gun control advocacy groups say Carney Liberals haven’t fulfilled firearm commitments</title>
       <link>https://www.thestar.com/politics/federal/gun-control-advocacy-groups-say-carney-liberals-haven-t-fulfilled-firearm-commitments/article_5fce62ec-309a-52de-9d27-5d5bdeef0098.html</link>
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/gun-control-advocacy-groups-say-carney-liberals-haven-t-fulfilled-firearm-commitments/article_5fce62ec-309a-52de-9d27-5d5bdeef0098.html</guid>
-      <description>OTTAWA - Several voices for stronger gun control say Prime Minister Mark Carney&apos;s government has failed to live up to its commitments on firea…</description>
+      <description></description>
       <pubDate>Wed, 25 Nov 2026 04:00:05 +0000</pubDate>
     </item>
     <item>
@@ -146,13 +153,6 @@
       <guid isPermaLink="true">https://www.thestar.com/politics/federal/lawsuit-alleges-liberal-volunteer-linked-tory-mp-to-underhanded-campaign-conduct/article_14d6ed06-ecbb-4ff8-a08d-83facd3bee13.html</guid>
       <description></description>
       <pubDate>Tue, 24 Nov 2026 17:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>National chief calls on Ottawa to include human right to clean water in new bill</title>
-      <link>https://www.thestar.com/politics/federal/national-chief-calls-on-ottawa-to-include-human-right-to-clean-water-in-new-bill/article_4bc592c4-68ee-5b4b-846c-cdeb6e292b6c.html</link>
-      <guid isPermaLink="true">https://www.thestar.com/politics/federal/national-chief-calls-on-ottawa-to-include-human-right-to-clean-water-in-new-bill/article_4bc592c4-68ee-5b4b-846c-cdeb6e292b6c.html</guid>
-      <description></description>
-      <pubDate>Tue, 24 Nov 2026 18:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
