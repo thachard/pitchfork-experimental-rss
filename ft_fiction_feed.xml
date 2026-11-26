@@ -5,8 +5,15 @@
     <link>https://www.ft.com/fiction</link>
     <description>Fiction reviews and articles from the Financial Times.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:06:04 +0000</lastBuildDate>
     <atom:link href="https://www.ft.com/fiction" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>On the Calculation of Volume V by Solvej Balle — same day, new world</title>
+      <link>https://www.ft.com/content/d6f12aca-6166-480f-8f5e-a586448a5d03</link>
+      <guid isPermaLink="true">https://www.ft.com/content/d6f12aca-6166-480f-8f5e-a586448a5d03</guid>
+      <description>In the fifth book of her septology about characters living November 18 over and over again, the Danish author asks if falling out of time might be a form of freedom</description>
+      <pubDate>Thu, 26 Nov 2026 12:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>Lords of Serendipity by Randy Boyagoda — the campus novel reconsidered</title>
       <link>https://www.ft.com/content/093f53e4-2199-4dd3-9db0-79ea951bc628?syn-25a6b1a6=1</link>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://www.ft.com/content/8f2ff601-4f6f-4664-a879-1421b5128cd1</guid>
       <description>The second part of the Nobel winner’s trilogy follows an unintentional guest in a fictional Norwegian town full of perplexity and uncertainty</description>
       <pubDate>Tue, 27 Oct 2026 05:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Music Against the Night by Yiyun Li — life in a minor key</title>
-      <link>https://www.ft.com/content/c8d2cf31-6ab5-47be-b369-e48dfe09a7f9</link>
-      <guid isPermaLink="true">https://www.ft.com/content/c8d2cf31-6ab5-47be-b369-e48dfe09a7f9</guid>
-      <description>Two largely forgotten pianists of the early 19th century — John Field and Adelaide Percheron — are brought vividly to life in a novel of ambition, memory and music</description>
-      <pubDate>Mon, 26 Oct 2026 05:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
