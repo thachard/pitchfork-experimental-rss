@@ -5,8 +5,16 @@
     <link>https://pitchfork.com/genre/experimental/review/</link>
     <description>Latest experimental album reviews from Pitchfork.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:49:10 +0000</lastBuildDate>
     <atom:link href="https://pitchfork.com/genre/experimental/review/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liz Harris – Music for Two Films About Water</title>
+      <link>https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/</link>
+      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/</guid>
+      <description>A review by Daniel Bromfield</description>
+      <author>Daniel Bromfield</author>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weird Baile – Collected Rips 2004-2024</title>
       <link>https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/</link>
@@ -189,14 +197,6 @@
       <guid isPermaLink="true">https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/</guid>
       <description>A review by Alphonse Pierre</description>
       <author>Alphonse Pierre</author>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hallucinator – Landlocked</title>
-      <link>https://pitchfork.com/reviews/albums/hallucinator-landlocked/</link>
-      <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hallucinator-landlocked/</guid>
-      <description>A review by Philip Sherburne</description>
-      <author>Philip Sherburne</author>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
